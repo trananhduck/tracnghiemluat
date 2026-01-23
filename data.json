@@ -1,5 +1,791 @@
 [
   {
+    "id": "DE001",
+    "title": "Đề 001: Hiến pháp 2013 (sửa đổi, bổ sung theo Nghị quyết số 203/2025/QH15)",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Theo quy định tại Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), trách nhiệm xây dựng, thi hành và bảo vệ Hiến pháp này vì mục tiêu dân giàu, nước mạnh, dân chủ, công bằng, văn minh thuộc về?",
+        "options": [
+          "A. Công dân Việt Nam",
+          "B. Nhân dân Việt Nam",
+          "C. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+          "D. Đảng Cộng sản Việt Nam"
+        ],
+        "correct": 1,
+        "rationale": "Chọn B vì phù hợp với nội dung của Hiến pháp: “Nhân dân Việt Nam xây dựng, thi hành và bảo vệ Hiến pháp này vì mục tiêu dân giàu, nước mạnh, dân chủ, công bằng, văn minh”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 2,
+        "question": "Đâu không phải là khẳng định đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân",
+          "B. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, vì Nhân dân, do Nhân dân làm chủ.",
+          "C. Nước Cộng hòa xã hội chủ nghĩa Việt Nam do Nhân dân làm chủ; tất cả quyền lực nhà nước thuộc về Nhân dân mà nền tảng là liên minh giữa giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức.",
+          "D. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là quốc gia thống nhất của các dân tộc cùng sinh sống trên đất nước Việt Nam."
+        ],
+        "correct": 1,
+        "rationale": "Chon đáp án b vì không đúng với quy định khoản 1, Điều 2:“Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân”. Đáp án c được quy định tại khoản 2, Điều 2; đáp án d được quy định tại Điều 5.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 3,
+        "question": "Đâu là khẳng định đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, tự do, có chủ quyền, thống nhất và toàn vẹn lãnh thổ, bao gồm đất liền, hải đảo, vùng biển và vùng trời.",
+          "B. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là nước độc lập, thống nhất toàn vẹn lãnh thổ, có chủ quyền, bao gồm đất liền, hải đảo, vùng biển và vùng trời.",
+          "C. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ, bao gồm đất liền, hải đảo, vùng biển và vùng trời.",
+          "D. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là đất nước độc lập, tự do, có chủ quyền, thống nhất và toàn vẹn lãnh thổ, bao gồm đất liền, hải đảo, vùng biển và vùng trời."
+        ],
+        "correct": 2,
+        "rationale": "Đáp án c đúng vì được quy định chính xác tại Điều 1. Các đáp án a, b, d sai vì sử dụng các cụm từ không chính xác so với quy định tại Điều 1.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 4,
+        "question": "Đâu là khẳng định đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Nước Cộng hòa xã hội chủ nghĩa Việt Nam do Nhân dân làm chủ; tất cả quyền lực nhà nước thuộc về Nhân dân mà nền tảng là liên minh giữa giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức.",
+          "B. Nước Cộng hòa xã hội chủ nghĩa Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo, Nhân dân làm chủ; tất cả quyền lực nhà nước thuộc về Nhân dân mà nền tảng là liên minh giữa giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức.",
+          "C. Nước Cộng hòa xã hội chủ nghĩa Việt Nam do Nhà nước bảo đảm; mọi quyền lực nhà nước đều thuộc về Nhân dân mà nền tảng là liên minh giữa giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức.",
+          "D. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân."
+        ],
+        "correct": 0,
+        "rationale": "Đáp án a đúng vì được quy định chính xác tại khoản 2, Điều 2; Các đáp án còn lại không chính xác so với các quy định trong Hiến pháp.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 5,
+        "question": "Đâu là khẳng định đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là quốc gia thống nhất của các dân tộc cùng sinh sống trên đất nước Việt Nam; có sự phân công, phối hợp, kiểm soát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp.",
+          "B. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là quốc gia thống nhất của các dân tộc cùng sinh sống trên đất nước Việt Nam.",
+          "C. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là quốc gia thống nhất của các dân tộc cùng sinh sống trên đất nước Việt Nam; tổ chức và hoạt động theo Hiến Pháp và pháp luật, quản lý xã hội bằng Hiến Pháp và pháp luật, thực hiện nguyên tắc tập trung dân chủ.",
+          "D. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là quốc gia thống nhất của các dân tộc cùng sinh sống trên đất nước Việt Nam; thực hiện mục tiêu dân giàu, nước mạnh, dân chủ, công bằng, văn minh, mọi người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện"
+        ],
+        "correct": 1,
+        "rationale": "Đáp án b đúng vì được quy định chính xác tại khoản 1, Điều 5. Các đáp án còn lại ghép nội dung của các điều thành một câu là không chính xác so với quy định trong Hiến pháp.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 6,
+        "question": "Đâu là khẳng định đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Nhà nước công nhận, tôn trọng, bảo vệ quyền con người, quyền công dân; bảo đảm quyền làm chủ của Nhân dân; hướng tới mục tiêu nước mạnh, dân giàu, dân chủ, công bằng, văn minh và tạo điều kiện cho mọi người có cuộc sống tự do, ấm no, hạnh phúc, phát triển toàn diện.",
+          "B. Nhà nước bảo đảm và phát huy quyền làm chủ của Nhân dân; công nhận, tôn trọng, bảo vệ và bảo đảm quyền con người, quyền công dân; thực hiện mục tiêu dân giàu, nước mạnh, xã hội công bằng, dân chủ, văn minh, mọi người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện.",
+          "C. Nhà nước tôn trọng, bảo đảm và công nhận quyền con người, quyền công dân; bảo vệ và phát huy quyền làm chủ của Nhân dân; thực hiện mục tiêu công bằng, dân chủ, văn minh, dân giàu, nước mạnh; bảo đảm mọi người có cuộc sống hạnh phúc, tự do, phát triển toàn diện và ấm no.",
+          "D. Nhà nước bảo đảm và phát huy quyền làm chủ của Nhân dân; công nhận, tôn trọng, bảo vệ và bảo đảm quyền con người, quyền công dân; thực hiện mục tiêu dân giàu, nước mạnh, dân chủ, công bằng, văn minh, mọi người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện."
+        ],
+        "correct": 3,
+        "rationale": "Đáp án d đúng vì được quy định chính xác tại Điều 3; Các đáp án còn lại không chính xác so với các quy định trong Hiến pháp.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 7,
+        "question": "Đâu là khẳng định đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Quyền lực nhà nước có sự phân công, phối hợp, kiểm soát giữa các cơ quan nhà nước trong việc thực hiện quyền lập pháp, hành pháp và tư pháp trên cơ sở thống nhất.",
+          "B. Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp, kiểm tra, giám sát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp.",
+          "C. Quyền lực nhà nước là thống nhất, có sự phân cấp, phối hợp, kiểm soát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp.",
+          "D. Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp."
+        ],
+        "correct": 3,
+        "rationale": "Đáp án d đúng vì được quy định chính xác tại khoản 3, Điều 2.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 8,
+        "question": "Theo quy định tại Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), các tổ chức của Đảng và đảng viên Đảng Cộng sản Việt Nam hoạt động như thế nào?",
+        "options": [
+          "A. Theo quy định của Ban Chấp hành Trung ương Đảng.",
+          "B. Trong khuôn khổ Điều lệ Đảng.",
+          "C. Theo Điều lệ Đảng và các Chỉ thị của Đảng.",
+          "D. Trong khuôn khổ Hiến pháp và pháp luật."
+        ],
+        "correct": 3,
+        "rationale": "Chọn đáp án d vì đây là quy định chính xác tại khoản 3, Điều 4.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 9,
+        "question": "Theo quy định tại Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Nhân dân thực hiện quyền lực nhà nước bằng dân chủ trực tiếp, bằng dân chủ đại diện thông qua các cơ quan nào?",
+        "options": [
+          "A. Quốc hội, Mặt trận Tổ quốc Việt Nam, Công đoàn Việt Nam",
+          "B. Quốc hội, Hội đồng nhân dân, Công đoàn Việt Nam",
+          "C. Quốc hội, Hội đồng nhân dân, Ủy ban nhân dân",
+          "D. Quốc hội, Hội đồng nhân dân và thông qua các cơ quan khác của Nhà nước"
+        ],
+        "correct": 3,
+        "rationale": "Chọn đáp án d vì được quy định Điều 6: “Nhân dân thực hiện quyền lực nhà nước bằng dân chủ trực tiếp, bằng dân chủ đại diện thông qua Quốc hội, Hội đồng nhân dân và thông qua các cơ quan khác của Nhà nước.”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 10,
+        "question": "Đâu là khẳng định không đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là quốc gia thống nhất của các dân tộc cùng sinh sống trên đất nước Việt Nam.",
+          "B. Các dân tộc bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển; nghiêm cấm mọi hành vi kỳ thị, chia rẽ dân tộc.",
+          "C. Ngôn ngữ quốc gia là tiếng Việt. Các dân tộc có quyền dùng tiếng nói, chữ viết, duy trì bản sắc dân tộc, giữ gìn phong tục, tập quán, truyền thống và văn hóa tốt đẹp của mình.",
+          "D. Nhà nước thực hiện chính sách phát triển toàn diện và tạo điều kiện để các dân tộc thiểu số phát huy nội lực, cùng phát triển với đất nước."
+        ],
+        "correct": 2,
+        "rationale": "Đáp án c đúng (là câu không đúng theo luật) vì sử dụng cụm từ “duy trì” và “giữ gìn” là không đúng với quy định khoản 3, Điều 5: “Ngôn ngữ quốc gia là tiếng Việt. Các dân tộc có quyền dùng tiếng nói, chữ viết, giữ gìn bản sắc dân tộc, phát huy phong tục, tập quán, truyền thống và văn hóa tốt đẹp của mình”.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 11,
+        "question": "Việc bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân được tiến hành theo nguyên tắc nào?",
+        "options": [
+          "A. phổ thông, bình đẳng, trực tiếp và bỏ phiếu công khai",
+          "B. phổ thông, công bằng, dân chủ và bỏ phiếu kín",
+          "C. phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín",
+          "D. phổ thông, bình đẳng, dân chủ và bỏ phiếu kín"
+        ],
+        "correct": 2,
+        "rationale": "Chọn đáp án c vì đây là quy định chính xác tại khoản 1, Điều 7.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 12,
+        "question": "Theo quy định tại Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Ðại biểu Quốc hội bị cử tri hoặc Quốc hội bãi nhiệm khi nào?",
+        "options": [
+          "A. Không còn xứng đáng với sự tín nhiệm của cử tri",
+          "B. Không đạt tỷ lệ phiếu tín nhiệm cao trong hai kỳ họp liên tiếp của Quốc hội",
+          "C. Không còn xứng đáng với sự tin tưởng của Nhân dân",
+          "D. Không còn xứng đáng với sự tín nhiệm của Nhân dân"
+        ],
+        "correct": 3,
+        "rationale": "Chọn đáp án d vì đây là quy định chính xác tại khoản 2, Điều 7.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 13,
+        "question": "Theo quy định tại Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Nhà nước quản lý xã hội bằng:",
+        "options": [
+          "A. Hiến pháp, luật pháp, chủ trương, chính sách của Đảng",
+          "B. Hiến pháp và pháp luật",
+          "C. Cơ chế chính sách và pháp luật",
+          "D. Biện pháp hành chính bắt buộc"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì đây là quy định chính xác tại khoản 1, Điều 7.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 14,
+        "question": "Đâu là khẳng định đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Đảng Cộng sản Việt Nam gắn bó chặt chẽ với Nhân dân, phục vụ Nhân dân, chịu sự giám sát của Nhân dân, chịu trách nhiệm trước Nhân dân về những quyết định của mình.",
+          "B. Đảng Cộng sản Việt Nam là Đội tiên phong của giai cấp công nhân, đội ngũ trí thức, Nhân dân lao động và của dân tộc Việt Nam, đại biểu trung thành lợi ích của giai cấp công nhân, nhân dân lao động và của cả dân tộc, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, là lực lượng lãnh đạo Nhà nước và xã hội.",
+          "C. Đảng Cộng sản Việt Nam gắn bó mật thiết với Nhân dân, phục vụ Nhân dân, chịu sự giám sát của Nhân dân, chịu trách nhiệm trước Nhân dân về những quyết định của mình.",
+          "D. Đảng Cộng sản Việt Nam gắn bó mật thiết với Nhân dân, phục vụ Nhân dân, chịu sự kiểm tra, giám sát của Nhân dân, chịu trách nhiệm trước Nhân dân về những quyết định của mình."
+        ],
+        "correct": 2,
+        "rationale": "Đáp án c đúng vì đây là quy định chính xác tại khoản 2, Điều 4. Đáp án a, d sai vì có cụm từ “chặt chẽ”, “kiểm tra”. Đáp án b sai về định nghĩa Đảng so với khoản 1 Điều 4.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 15,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), có mấy tổ chức chính trị - xã hội?",
+        "options": [
+          "A. 4",
+          "B. 5",
+          "C. 6",
+          "D. 7"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án B vì được quy định tại khoản 1, Điều 9: “Công đoàn Việt Nam, Hội Nông dân Việt Nam, Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Liên hiệp Phụ nữ Việt Nam, Hội Cựu chiến binh Việt Nam là các tổ chức chính trị - xã hội trực thuộc Mặt trận Tổ quốc Việt Nam,…”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 16,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), tổ chức nào là cơ sở chính trị của chính quyền nhân dân?",
+        "options": [
+          "A. Ủy ban nhân dân",
+          "B. Hội đồng nhân dân",
+          "C. Công đoàn Việt Nam",
+          "D. Mặt trận Tổ quốc Việt Nam"
+        ],
+        "correct": 3,
+        "rationale": "Chọn đáp án d vì được quy định tại khoản 1, Điều 9: “Mặt trận Tổ quốc Việt Nam... là cơ sở chính trị của chính quyền nhân dân...”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 17,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), tổ chức nào là tổ chức liên minh chính trị, liên hiệp tự nguyện của tổ chức chính trị, các tổ chức chính trị - xã hội, tổ chức xã hội và các cá nhân tiêu biểu trong các giai cấp, tầng lớp xã hội, dân tộc, tôn giáo, người Việt Nam định cư ở nước ngoài?",
+        "options": [
+          "A. Bộ Ngoại giao",
+          "B. Mặt trận Tổ quốc Việt Nam",
+          "C. Công đoàn Việt Nam",
+          "D. Hội Cựu chiến binh Việt Nam"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì được quy định tại khoản 1, Điều 9.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 18,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), tổ chức nào phản ánh ý kiến, kiến nghị của Nhân dân đến các cơ quan nhà nước; tham gia xây dựng Đảng, Nhà nước, hoạt động đối ngoại nhân dân, góp phần xây dựng và bảo vệ Tổ quốc?",
+        "options": [
+          "A. Ủy ban nhân dân",
+          "B. Hội đồng nhân dân",
+          "C. Đại biểu hội đồng nhân dân",
+          "D. Mặt trận Tổ quốc Việt Nam"
+        ],
+        "correct": 3,
+        "rationale": "Chọn đáp án d vì được quy định tại khoản 1, Điều 9.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 19,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), tổ chức nào sau đây trực thuộc Mặt trận tổ quốc Việt Nam?",
+        "options": [
+          "A. Hội liên hiệp thanh niên Việt Nam",
+          "B. Đội Thiếu niên tiền phong Hồ Chí Minh",
+          "C. Hội Cựu chiến binh Việt Nam",
+          "D. Hội Chữ thập đỏ"
+        ],
+        "correct": 2,
+        "rationale": "Chọn đáp án c vì được quy định tại khoản 1, Điều 9.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 20,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là đặc điểm chung của các tổ chức chính - xã hội?",
+        "options": [
+          "A. được tổ chức và hoạt động thống nhất trong Mặt trận Tổ quốc Việt Nam",
+          "B. hoạt động trong khuôn khổ Hiến pháp và pháp luật",
+          "C. giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội",
+          "D. được thành lập trên cơ sở tự nguyện, đại diện và bảo vệ quyền, lợi ích hợp pháp, chính đáng của thành viên, hội viên tổ chức mình"
+        ],
+        "correct": 2,
+        "rationale": "Chọn đáp án c vì đây là nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội được quy định tại khoản 3, Điều 74, không phải đặc điểm của các tổ chức chính - xã hội. Đáp án a, b, d là đặc điểm chung được quy định tại khoản 2 và 3, Điều 9.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 21,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), chủ thể nào sau đây tạo Điều kiện để Mặt trận Tổ quốc Việt Nam các tổ chức thành viên của Mặt trận và các tổ chức xã hội khác hoạt động?",
+        "options": [
+          "A. Nhà nước",
+          "B. Đảng Cộng sản Việt Nam",
+          "C. Công đoàn Việt Nam",
+          "D. Quốc hội, Ủy ban thường vụ Quốc hội"
+        ],
+        "correct": 0,
+        "rationale": "Chọn đáp án a vì được quy định tại khoản 3, Điều 9: “Nhà nước tạo điều kiện để Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận và các tổ chức xã hội khác hoạt động.”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 22,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), tổ chức nào là tổ chức chính trị - xã hội của giai cấp công nhân và của người lao động?",
+        "options": [
+          "A. Hội liên hiệp thanh niên Việt Nam",
+          "B. Doanh nghiệp Nhà nước",
+          "C. Công đoàn Việt Nam",
+          "D. Mặt trận Tổ quốc Việt Nam"
+        ],
+        "correct": 2,
+        "rationale": "Chọn đáp án c vì được quy định tại Điều 10: “Công đoàn Việt Nam là tổ chức chính trị - xã hội của giai cấp công nhân và của người lao động”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 23,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là đặc điểm của Mặt trận Tổ quốc Việt Nam?",
+        "options": [
+          "A. Mặt trận Tổ quốc Việt Nam là bộ phận của hệ thống chính trị của nước Cộng hòa xã hội chủ nghĩa Việt Nam, do Đảng Cộng sản Việt Nam lãnh đạo",
+          "B. Các tổ chức chính trị - xã hội trực thuộc Mặt trận Tổ quốc Việt Nam",
+          "C. Mặt trận Tổ quốc Việt Nam là tổ chức liên minh chính trị, liên hiệp tự nguyện của tổ chức chính trị, các tổ chức chính trị - xã hội, tổ chức xã hội và các cá nhân tiêu biểu trong các giai cấp, tầng lớp xã hội, dân tộc, tôn giáo, người Việt Nam định cư ở nước ngoài",
+          "D. Mặt trận Tổ quốc Việt Nam chỉ đạo và ban hành chính sách điều hành các tổ chức thành viên"
+        ],
+        "correct": 3,
+        "rationale": "Chọn d vì không được quy định tại Hiến pháp. Đáp án a, b, c được quy định tại Điều 9.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 24,
+        "question": "Đáp án nào sau đây không đúng với vai trò của Công đoàn Việt Nam theo quy định của Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Tham gia quản lý nhà nước, quản lý kinh tế - xã hội",
+          "B. Tham gia kiểm tra, thanh tra, giám sát hoạt động của cơ quan nhà nước, tổ chức, đơn vị, doanh nghiệp về những vấn đề liên quan đến quyền, nghĩa vụ của người lao động",
+          "C. Đại diện, chăm lo và bảo vệ quyền, lợi ích hợp pháp, chính đáng cho đoàn viên công đoàn và người lao động",
+          "D. Trình Quốc hội/Hội đồng nhân dân tỉnh/thành phố thông qua các cơ chế, chính sách liên quan đến người lao động"
+        ],
+        "correct": 3,
+        "rationale": "Chọn d vì không được quy định tại Hiến pháp. Đáp án a, b, c được quy định tại Điều 10.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 25,
+        "question": "Đâu là khẳng định đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Nước Cộng hòa xã hội chủ nghĩa Việt Nam thực hiện nhất quán trong đường lối đối ngoại, giữ vững tinh thần độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển.",
+          "B. Các hành vi nhằm chống lại độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ, chống lại sự nghiệp xây dựng và bảo vệ Tổ quốc đều bị nghiêm trị.",
+          "C. Nhà nước thực hiện chính sách phát triển toàn diện và tạo điều kiện tối đa để các dân tộc thiểu số phát huy nội lực, cùng phát triển với đất nước.",
+          "D. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là bạn, đối tác tin cậy và thành viên có trách nhiệm trong cộng đồng quốc tế vì lợi ích quốc gia, dân tộc, góp phần vào sự nghiệp hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội trên thế giới."
+        ],
+        "correct": 3,
+        "rationale": "Chọn đáp án d vì được quy định tại Điều 12. Đáp án a sai vì thừa từ “trong” và “giữ vững”. Đáp án b sai vì sai từ “các” và thừa từ “nhằm”. Đáp án c sai vì thừa từ “tối đa”.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 26,
+        "question": "Đâu là khẳng định không đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Các cơ quan nhà nước, cán bộ, công chức, viên chức phải tôn trọng Nhân dân, tận tụy phục vụ Nhân dân, liên hệ chặt chẽ với Nhân dân, lắng nghe ý kiến và chịu sự giám sát của Nhân dân; kiên quyết đấu tranh chống tham nhũng, lãng phí và mọi biểu hiện quan liêu, hách dịch, cửa quyền.",
+          "B. Tổ quốc Việt Nam là thiêng liêng, bất khả xâm phạm",
+          "C. Các tổ chức của Đảng và đảng viên Đảng Cộng sản Việt Nam hoạt động phải tuân thủ Hiến pháp và pháp luật.",
+          "D. Các dân tộc bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển; nghiêm cấm mọi hành vi kỳ thị, chia rẽ dân tộc"
+        ],
+        "correct": 2,
+        "rationale": "Chọn đáp án c vì sử dụng cụm từ “phải tuân thủ” không đúng so với quy định tại khoản 3, Điều 4: “Các tổ chức của Đảng và đảng viên Đảng Cộng sản Việt Nam hoạt động trong khuôn khổ Hiến pháp và pháp luật.”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 27,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là đặc điểm Công đoàn Việt Nam?",
+        "options": [
+          "A. là đại diện duy nhất của người lao động ở cấp quốc gia trong quan hệ lao động với người sử dụng lao động và quan hệ quốc tế về công đoàn",
+          "B. là tổ chức chính trị - xã hội của giai cấp công nhân và của người lao động",
+          "C. được thành lập trên cơ sở tự nguyện, đại diện và bảo vệ quyền, lợi ích hợp pháp, chính đáng của thành viên, hội viên tổ chức mình",
+          "D. đại diện, chăm lo và bảo vệ quyền, lợi ích hợp pháp, chính đáng cho đoàn viên công đoàn và người lao động"
+        ],
+        "correct": 0,
+        "rationale": "Chọn đáp án a vì thừa từ “người sử dụng lao động” so với quy định tại Điều 10. Đáp án b, d được quy định tại Điều 10. Đáp án c được quy định tại khoản 2, Điều 9.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 28,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc kỳ nước Cộng hòa xã hội chủ nghĩa Việt Nam được quy định như thế nào?",
+        "options": [
+          "A. Hình chữ nhật, chiều rộng bằng một phần ba chiều dài, nền đỏ, ở giữa có ngôi sao vàng năm cánh",
+          "B. Hình chữ nhật, chiều rộng bằng hai phần ba chiều dài, nền đỏ, ở giữa có ngôi sao vàng năm cánh",
+          "C. Hình chữ nhật, chiều rộng bằng hai phần năm chiều dài, nền đỏ, ở giữa có ngôi sao vàng năm cánh",
+          "D. Hình chữ nhật, chiều rộng bằng ba phần năm chiều dài, nền đỏ, ở giữa có ngôi sao vàng năm cánh"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì được quy định chính xác tại khoản 1, Điều 13: “Quốc kỳ nước Cộng hòa xã hội chủ nghĩa Việt Nam hình chữ nhật, chiều rộng bằng hai phần ba chiều dài, nền đỏ, ở giữa có ngôi sao vàng năm cánh.”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 29,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc huy nước Cộng hòa xã hội chủ nghĩa Việt Nam được quy định như thế nào?",
+        "options": [
+          "A. Hình tròn, nền đỏ, ở giữa có ngôi sao vàng, xung quanh có bông lúa, ở dưới có nửa bánh xe răng và dòng chữ Cộng hòa xã hội chủ nghĩa Việt Nam.",
+          "B. Hình tròn, nền trắng, ở giữa có ngôi sao vàng năm cánh, xung quanh có bông lúa, ở dưới có nửa bánh xe răng và dòng chữ Cộng hòa xã hội chủ nghĩa Việt Nam.",
+          "C. Hình tròn, nền đỏ, ở giữa có ngôi sao vàng năm cánh, xung quanh có bông lúa, ở dưới có nửa bánh xe răng và dòng chữ Cộng hòa xã hội chủ nghĩa Việt Nam.",
+          "D. Hình tròn, nền đỏ, ở giữa có hình ngôi sao vàng năm cánh, xung quanh có hình bông lúa, ở dưới có hình nửa bánh xe răng và dòng chữ Nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+        ],
+        "correct": 2,
+        "rationale": "Chọn đáp án c vì được quy định chính xác tại khoản 2, Điều 13.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 30,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), quyền con người, quyền công dân chỉ có thể bị hạn chế theo quy định của luật trong trường hợp nào?",
+        "options": [
+          "A. Trường hợp cần thiết vì lý do bí mật nhà nước",
+          "B. Trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia",
+          "C. Trường hợp cần thiết vì lý do sức khỏe người dân",
+          "D. Cả a, b và c"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì được quy định chính xác tại khoản 2, Điều 14",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 31,
+        "question": "Khẳng định nào sau đây là đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Không ai bị phân biệt đối xử trong đời sống chính trị, kinh tế, văn hóa, xã hội",
+          "B. Không ai bị phân biệt đối xử trong đời sống chính trị, dân sự, kinh tế, văn hóa, xã hội",
+          "C. Không ai bị phân biệt đối xử trong đời sống chính trị, văn hóa, xã hội",
+          "D. Không ai bị phân biệt đối xử trong đời sống chính trị, kinh tế, văn hóa, giáo dục, xã hội"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì được quy định chính xác tại khoản 2, Điều 16",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 32,
+        "question": "Nội dung nào sau đây không đúng so với quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Quyền công dân không tách rời nghĩa vụ công dân.",
+          "B. Mọi người có trách nhiệm tôn trọng quyền của người khác.",
+          "C. Công dân có trách nhiệm thực hiện nghĩa vụ đối với Nhà nước và xã hội.",
+          "D. Mọi người đều bình đẳng trước pháp luật."
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì sai từ “trách nhiệm” so với quy định tại khoản 2, Điều 15: “Mọi người có nghĩa vụ tôn trọng quyền của người khác.”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 33,
+        "question": "Nội dung nào sau đây không đúng so với quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Quyền công dân không tách rời nghĩa vụ công dân.",
+          "B. Mọi người có nghĩa vụ tôn trọng quyền của người khác.",
+          "C. Công dân có trách nhiệm thực hiện nghĩa vụ đối với Nhà nước và xã hội.",
+          "D. Mọi người đều bình đẳng về quyền và lợi ích trước pháp luật"
+        ],
+        "correct": 3,
+        "rationale": "Chọn đáp án d vì tại khoản 1, Điều 16 quy định: “Mọi người đều bình đẳng trước pháp luật.” (không có cụm 'về quyền và lợi ích')",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 34,
+        "question": "Nội dung nào sau đây đúng so với quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Công dân có quyền tự do đi lại và cư trú ở trong nước, có quyền ra nước ngoài và từ nước ngoài về nước.",
+          "B. Công dân Việt Nam định cư ở nước ngoài là bộ phận không tách rời của cộng đồng dân tộc Việt Nam.",
+          "C. Người Việt Nam ở nước ngoài được Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam bảo hộ.",
+          "D. Mọi người có quyền có nơi ở hợp pháp"
+        ],
+        "correct": 0,
+        "rationale": "Chọn đáp án a vì được quy định chính xác tại Điều 23. Đáp án b sai từ “Công dân” (phải là 'Người Việt Nam'). Đáp án c sai từ “Người” (phải là 'Công dân'). Đáp án d sai từ “Mọi người” (phải là 'Công dân').",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 35,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là quy định không thuộc về quyền của “mọi người”?",
+        "options": [
+          "A. Mọi người có quyền sở hữu về thu nhập hợp pháp, của cải để dành, nhà ở, tư liệu sinh hoạt, tư liệu sản xuất, phần vốn góp trong doanh nghiệp hoặc trong các tổ chức kinh tế khác",
+          "B. Mọi người có quyền được bảo đảm an sinh xã hội",
+          "C. Mọi người có quyền tự do tín ngưỡng, tôn giáo, theo hoặc không theo một tôn giáo nào",
+          "D. Mọi người có quyền bí mật thư tín, điện thoại, điện tín và các hình thức trao đổi thông tin riêng tư khác."
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b, vì đây là quyền của “công dân” được quy định tại Điều 34: “Công dân có quyền được bảo đảm an sinh xã hội”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 36,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là quy định đúng về quyền của “công dân”?",
+        "options": [
+          "A. Công dân có quyền sở hữu về thu nhập hợp pháp, của cải để dành, nhà ở, tư liệu sinh hoạt, tư liệu sản xuất, phần vốn góp trong doanh nghiệp hoặc trong các tổ chức kinh tế khác",
+          "B. Công dân có quyền bất khả xâm phạm về chỗ ở",
+          "C. Công dân có quyền làm việc, lựa chọn nghề nghiệp, việc làm và nơi làm việc",
+          "D. Công dân có quyền hưởng thụ và tiếp cận các giá trị văn hóa, tham gia vào đời sống văn hóa, sử dụng các cơ sở văn hóa"
+        ],
+        "correct": 2,
+        "rationale": "Chọn c vì được quy định chính xác tại khoản 1, Điều 35. Các đáp án a, b, d là quyền của “mọi người”.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 37,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không thuộc về quyền của \"mọi người\"?",
+        "options": [
+          "A. được bảo vệ, chăm sóc sức khỏe, bình đẳng trong việc sử dụng các dịch vụ y tế và có nghĩa vụ thực hiện các quy định về phòng bệnh, khám bệnh, chữa bệnh",
+          "B. tự do đi lại và cư trú ở trong nước, có quyền ra nước ngoài và từ nước ngoài về nước",
+          "C. sở hữu về thu nhập hợp pháp, của cải để dành, nhà ở, tư liệu sinh hoạt, tư liệu sản xuất, phần vốn góp trong doanh nghiệp hoặc trong các tổ chức kinh tế khác",
+          "D. bất khả xâm phạm về đời sống riêng tư, bí mật cá nhân và bí mật gia đình; có quyền bảo vệ danh dự, uy tín của mình"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì đây là quyền của công dân, được quy định tại Điều 23: “Công dân có quyền tự do đi lại và cư trú ở trong nước…”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 38,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), hành vi nào sau đây không bị nghiêm cấm?",
+        "options": [
+          "A. Phân biệt đối xử về giới",
+          "B. Việc thử nghiệm y học, dược học, khoa học hay bất kỳ hình thức thử nghiệm nào khác trên cơ thể người",
+          "C. Phân biệt đối xử, cưỡng bức lao động, sử dụng nhân công dưới độ tuổi lao động tối thiểu",
+          "D. Trả thù người khiếu nại, tố cáo hoặc lợi dụng quyền khiếu nại, tố cáo để vu khống, vu cáo làm hại người khác"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì theo quy định tại khoản 3, Điều 20: “Việc thử nghiệm y học, dược học, khoa học hay bất kỳ hình thức thử nghiệm nào khác trên cơ thể người phải có sự đồng ý của người được thử nghiệm.” => vẫn được phép thử nghiệm trong trường hợp được đồng ý, chứ không cấm.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 39,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), hành vi nào sau đây không bị nghiêm cấm?",
+        "options": [
+          "A. Các hành vi đe dọa cuộc sống, sức khỏe của người khác và cộng đồng.",
+          "B. Hành vi kỳ thị, chia rẽ dân tộc",
+          "C. Xâm phạm tự do tín ngưỡng, tôn giáo hoặc lợi dụng tín ngưỡng, tôn giáo để vi phạm pháp luật",
+          "D. Xâm hại, hành hạ, ngược đãi, bỏ mặc, lạm dụng, bóc lột sức lao động và những hành vi khác vi phạm quyền trẻ em."
+        ],
+        "correct": 2,
+        "rationale": "Chọn đáp án c vì tại khoản 3, Điều 24 quy định: “Không ai được xâm phạm tự do tín ngưỡng, tôn giáo hoặc lợi dụng tín ngưỡng, tôn giáo để vi phạm pháp luật.” => Không sử dụng từ “nghiêm cấm”.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 40,
+        "question": "Đâu là khẳng định đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Công dân có quyền khiếu nại, tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền về những việc làm trái pháp luật của cơ quan, tổ chức, cá nhân",
+          "B. Mọi người có quyền tự do kinh doanh trong những ngành nghề mà pháp luật cho phép.",
+          "C. Mọi người có quyền kết hôn, ly hôn",
+          "D. Mọi người có quyền được bảo vệ, chăm sóc sức khỏe, bình đẳng trong việc sử dụng các dịch vụ y tế và có nghĩa vụ thực hiện các quy định về phòng bệnh, khám bệnh, chữa bệnh."
+        ],
+        "correct": 3,
+        "rationale": "Chọn đáp án d, vì được quy định tại khoản 1, Điều 38. Đáp án a là quyền của “mọi người”. Đáp án b sai cụm “cho phép” (phải là 'không cấm'). Đáp án c sai cụm “mọi người” (phải là 'Nam, nữ').",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 41,
+        "question": "Đâu là khẳng định đúng về quyền của mọi người theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. có quyền và nghĩa vụ học tập",
+          "B. có nghĩa vụ nộp thuế theo luật định",
+          "C. có nghĩa vụ tuân theo Hiến pháp và pháp luật; tham gia bảo vệ an ninh quốc gia, trật tự, an toàn xã hội và chấp hành những quy tắc sinh hoạt công cộng",
+          "D. có nghĩa vụ trung thành với Tổ quốc."
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì đây là nghĩa vụ của “mọi người” được quy định tại Điều 47: “Mọi người có nghĩa vụ nộp thuế theo luật định.” Đáp án a, c, d là quyền, nghĩa vụ của của công dân.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 42,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), hôn nhân được thực hiện theo nguyên tác nào?",
+        "options": [
+          "A. nguyên tắc bình đẳng, tôn trọng lẫn nhau, một vợ một chồng, vợ chồng tự nguyện đến với nhau",
+          "B. nguyên tắc tự nguyện, tiến bộ, một vợ một chồng , vợ chồng bình đẳng, tôn trọng lẫn nhau",
+          "C. nguyên tắc một vợ một chồng, vợ chồng tự nguyện, bình đẳng, tôn trọng lẫn nhau",
+          "D. nguyên tắc tự nguyện, bình đẳng, một vợ một chồng, vợ chồng tôn trọng lẫn nhau"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì được quy định chính xác tại khoản 1, Điều 36: “Nam, nữ có quyền kết hôn, ly hôn. Hôn nhân theo nguyên tắc tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng, tôn trọng lẫn nhau.”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 43,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), mọi người không có quyền gì?",
+        "options": [
+          "A. được bảo vệ, chăm sóc sức khỏe, bình đẳng trong việc sử dụng các dịch vụ y tế và có nghĩa vụ thực hiện các quy định về phòng bệnh, khám bệnh, chữa bệnh",
+          "B. tự do đi lại và cư trú ở trong nước, có quyền ra nước ngoài và từ nước ngoài về nước",
+          "C. sở hữu về thu nhập hợp pháp, của cải để dành, nhà ở, tư liệu sinh hoạt, tư liệu sản xuất, phần vốn góp trong doanh nghiệp hoặc trong các tổ chức kinh tế khác",
+          "D. bất khả xâm phạm về đời sống riêng tư, bí mật cá nhân và bí mật gia đình; có quyền bảo vệ danh dự, uy tín của mình"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì đây là quyền của công dân, được quy định tại Điều 23: “Công dân có quyền tự do đi lại và cư trú ở trong nước…”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 44,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), công dân đủ bao nhiêu tuổi trở lên có quyền bầu cử?",
+        "options": [
+          "A. 16",
+          "B. 18",
+          "C. 20",
+          "D. 21"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì được quy định tại Điều 27: “Công dân đủ mười tám tuổi trở lên có quyền bầu cử”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 45,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), công dân đủ bao nhiêu tuổi trở lên có quyền ứng cử vào Quốc hội, Hội đồng nhân dân?",
+        "options": [
+          "A. 16",
+          "B. 18",
+          "C. 20",
+          "D. 21"
+        ],
+        "correct": 3,
+        "rationale": "Chọn đáp án b vì được quy định tại Điều 27: “Công dân … đủ hai mươi mốt tuổi trở lên có quyền ứng cử vào Quốc hội, Hội đồng nhân dân”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 46,
+        "question": "Đâu là nội dung không đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Mọi người có quyền khiếu nại, tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền về những việc làm trái pháp luật của cơ quan, tổ chức, cá nhân.",
+          "B. Cơ quan, tổ chức, đơn vị có thẩm quyền phải tiếp nhận, giải quyết khiếu nại, tố cáo.",
+          "C. Người bị thiệt hại có quyền được bồi thường về vật chất, tinh thần và phục hồi danh dự theo quy định của pháp luật.",
+          "D. Nghiêm cấm việc trả thù người khiếu nại, tố cáo hoặc lợi dụng quyền khiếu nại, tố cáo để vu khống, vu cáo làm hại người khác."
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì sai từ đơn vị so với quy định tại khoản 2, Điều 30: “Cơ quan, tổ chức, cá nhân có thẩm quyền phải tiếp nhận, giải quyết khiếu nại, tố cáo”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 47,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nghĩa vụ của công dân?",
+        "options": [
+          "A. trung thành với Tổ quốc",
+          "B. tham gia xây dựng nền quốc phòng toàn dân",
+          "C. tham gia bảo vệ an ninh quốc gia, trật tự, an toàn xã hội và chấp hành những quy tắc sinh hoạt công cộng",
+          "D. bảo vệ môi trường"
+        ],
+        "correct": 3,
+        "rationale": "Chọn đáp d vì đây là nghĩa vụ của mọi người, được quy định tại Điều 43: “Mọi người có quyền được sống trong môi trường trong lành và có nghĩa vụ bảo vệ môi trường”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 48,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nghĩa vụ của mọi người?",
+        "options": [
+          "A. nộp thuế theo luật định",
+          "B. tôn trọng quyền của người khác",
+          "C. học tập",
+          "D. thực hiện các quy định về phòng bệnh, khám bệnh, chữa bệnh"
+        ],
+        "correct": 2,
+        "rationale": "Chọn đáp c vì đây là nghĩa vụ của công dân: “Công dân có quyền và nghĩa vụ học tập”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 49,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đối tượng nào được xác định là đi đầu trong công cuộc lao động sáng tạo và bảo vệ Tổ quốc?",
+        "options": [
+          "A. Trẻ em",
+          "B. Thanh niên",
+          "C. Công chức",
+          "D. Người cao tuổi"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp b vì được quy định tại khoản 2, Điều 37: “Thanh niên được Nhà nước, gia đình và xã hội tạo điều kiện học tập, lao động, giải trí, phát triển thể lực, trí tuệ, bồi dưỡng đạo đức, truyền thống dân tộc, ý thức công dân; đi đầu trong công cuộc lao động sáng tạo và bảo vệ Tổ quốc”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 50,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đối tượng nào được Nhà nước, gia đình và xã hội bảo vệ, chăm sóc và giáo dục?",
+        "options": [
+          "A. Trẻ em",
+          "B. Thanh niên",
+          "C. Người cao tuổi",
+          "D. Mọi người"
+        ],
+        "correct": 0,
+        "rationale": "Chọn đáp a vì được quy định tại khoản 1, Điều 37: “Trẻ em được Nhà nước, gia đình và xã hội bảo vệ, chăm sóc và giáo dục”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 51,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đối tượng nào được tạo điều kiện học tập, lao động, giải trí, phát triển thể lực, trí tuệ, bồi dưỡng đạo đức, truyền thống dân tộc, ý thức công dân?",
+        "options": [
+          "A. Mọi người",
+          "B. Thanh niên",
+          "C. Người cao tuổi",
+          "D. Trẻ vị thành niên"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp b vì được quy định tại khoản 2, Điều 37: “Thanh niên được Nhà nước, gia đình và xã hội tạo điều kiện học tập, lao động, giải trí, phát triển thể lực, trí tuệ, bồi dưỡng đạo đức, truyền thống dân tộc, ý thức công dân”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 52,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), gia đình và xã hội có trách nhiệm thế nào đối với người cao tuổi?",
+        "options": [
+          "A. tôn trọng, chăm sóc, ưu tiên tiếp cận các dịch vụ y tế, khám, chữa bệnh",
+          "B. chăm sóc và đảm bảo được tiếp cận chính sách dành cho người cao tuổi",
+          "C. tôn trọng, chăm sóc và phát huy vai trò trong sự nghiệp xây dựng và bảo vệ Tổ quốc",
+          "D. Ưu tiên tiếp cận các dịch vụ y tế, khám, chữa bệnh"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp b vì được quy định tại khoản 3, Điều 37: “Người cao tuổi được Nhà nước, gia đình và xã hội tôn trọng, chăm sóc và phát huy vai trò trong sự nghiệp xây dựng và bảo vệ Tổ quốc”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 53,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Nhà nước Việt Nam có thể xem xét cho cư trú đối với người nước ngoài thuộc trường hợp nào sau đây?",
+        "options": [
+          "A. Có trình độ chuyên môn cao muốn cống hiến và làm việc tại Việt Nam lâu dài",
+          "B. Kết hôn với công dân Việt Nam",
+          "C. Đấu tranh vì tự do và độc lập dân tộc, vì chủ nghĩa xã hội, dân chủ và hòa bình hoặc vì sự nghiệp khoa học mà bị bức hại",
+          "D. Được cử đến làm việc tại các Đại xứ quán tại Việt Nam"
+        ],
+        "correct": 2,
+        "rationale": "Chọn đáp c vì được quy định tại Điều 49: “Người nước ngoài đấu tranh vì tự do và độc lập dân tộc, vì chủ nghĩa xã hội, dân chủ và hòa bình hoặc vì sự nghiệp khoa học mà bị bức hại thì được Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam xem xét cho cư trú.”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 54,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Người nước ngoài cư trú ở Việt Nam phải….?",
+        "options": [
+          "A. tuân theo Hiến pháp và pháp luật Việt Nam",
+          "B. tuân thủ tuyệt đối các quy định pháp luật Việt Nam",
+          "C. tuân theo Hiến pháp, pháp luật Việt Nam và các quy định ngoại giao quốc tế",
+          "D. tuân theo pháp luật Việt Nam và các quy định ngoại giao quốc tế"
+        ],
+        "correct": 0,
+        "rationale": "Chọn đáp a vì được quy định chính xác tại Điều 48: “Người nước ngoài cư trú ở Việt Nam phải tuân theo Hiến pháp và pháp luật Việt Nam”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 55,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Người nước ngoài cư trú ở Việt Nam được bảo hộ…?",
+        "options": [
+          "A. quyền tự do tín ngưỡng, tôn giáo",
+          "B. quyền tự do đi lại và cư trú",
+          "C. tính mạng, tài sản và các quyền, lợi ích chính đáng theo các quy định của pháp luật Việt Nam",
+          "D. tính mạng, tài sản và các quyền, lợi ích chính đáng theo pháp luật Việt Nam"
+        ],
+        "correct": 3,
+        "rationale": "Chọn đáp d vì được quy định chính xác tại Điều 48: “Người nước ngoài cư trú ở Việt Nam… được bảo hộ tính mạng, tài sản và các quyền, lợi ích chính đáng theo pháp luật Việt Nam”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 56,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Tội nặng nhất là:",
+        "options": [
+          "A. Phản bội Tổ quốc",
+          "B. Giết người",
+          "C. Làm lộ bí mật nhà nước",
+          "D. Biểu tình trái pháp luật"
+        ],
+        "correct": 0,
+        "rationale": "Chọn đáp án a vì được quy định tại Điều 44",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 57,
+        "question": "Đâu là khẳng định đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+        "options": [
+          "A. Nước Cộng hòa xã hội chủ nghĩa Việt Nam xây dựng nền kinh tế độc lập, tự chủ, phát huy những tiềm lực sẵn có, hội nhập, hợp tác quốc tế, gắn kết chặt chẽ với phát triển văn hóa, thực hiện tiến bộ và công bằng xã hội, bảo vệ môi trường, thực hiện công nghiệp hóa, hiện đại hóa đất nước",
+          "B. Nền kinh tế Việt Nam là nền kinh tế thị trường định hướng xã hội chủ nghĩa với nhiều hình thức sở hữu, nhiều thành phần kinh tế; kinh tế nhà nước giữ vai trò quan trọng, đi đầu.",
+          "C. Các thành phần kinh tế đều là bộ phận cấu thành quan trọng của nền kinh tế quốc dân.",
+          "D. Tài sản hợp pháp của cá nhân, tổ chức đầu tư, sản xuất, kinh doanh được pháp luật bảo vệ và không bị quốc hữu hóa."
+        ],
+        "correct": 2,
+        "rationale": "Chọn đáp án c, vì được quy định chính xác tại khoản 2, Điều 51. Đáp án a sai cụm từ “những tiềm lực sẵn có”. Đáp án b sai cụm từ “quan trọng, đi đầu”. Đáp án d sai cụm từ “bảo vệ”.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 58,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Nhà nước thu hồi đất do tổ chức, cá nhân đang sử dụng trong trường hợp nào?",
+        "options": [
+          "A. trong trường hợp vi phạm hành chính về đất đai",
+          "B. trong trường hợp thật cần thiết do luật định vì mục đích quốc phòng, an ninh",
+          "C. trong trường hợp cá nhân không có nhu cầu sử dụng đất, tự nguyện giao đất cho Nhà nước",
+          "D. trong trường hợp đất nằm trong quy hoạch đô thị"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b, vì được quy định tại Khoản 3, Điều 54: “Nhà nước thu hồi đất do tổ chức, cá nhân đang sử dụng trong trường hợp thật cần thiết do luật định vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng.”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 59,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), cơ quan nào là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam?",
+        "options": [
+          "A. Chính phủ",
+          "B. Quốc hội",
+          "C. Hội đồng nhân dân tỉnh/thành phố",
+          "D. Ban chấp hành Trung ương Đảng"
+        ],
+        "correct": 1,
+        "rationale": "Chọn đáp án b vì được quy định tại Điều 69: “Quốc hội là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam.”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 60,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Ủy viên Ủy ban thường vụ Quốc hội do chủ thể nào bầu?",
+        "options": [
+          "A. Ủy ban Thường vụ Quốc hội",
+          "B. Chủ tịch nước",
+          "C. Chủ tịch Quốc hội",
+          "D. Quốc hội"
+        ],
+        "correct": 3,
+        "rationale": "Chọn đáp án d vì được quy định tại khoản 7, Điều 70",
+        "topic": "Hiến pháp 2013"
+      }
+    ]
+  },
+  {
     "id": 10,
     "title": "THADS_Đề tổng hợp số 10",
     "questions": [
