@@ -1,0 +1,830 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cailozhuhong</title>
+    <style>
+      :root {
+        --primary: #2563eb;
+        --success: #16a34a;
+        --danger: #dc2626;
+        --warning: #ca8a04;
+        --bg: #f3f4f6;
+        --sidebar-width: 260px;
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        font-family: "Segoe UI", sans-serif;
+      }
+      body {
+        display: flex;
+        height: 100vh;
+        background: var(--bg);
+        overflow: hidden;
+      }
+
+      /* --- SIDEBAR TRÁI: LIST ĐỀ --- */
+      aside.left-sidebar {
+        width: var(--sidebar-width);
+        background: #1e293b;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        border-right: 1px solid #334155;
+      }
+      .sidebar-header {
+        padding: 20px;
+        font-size: 1.2rem;
+        font-weight: bold;
+        border-bottom: 1px solid #334155;
+      }
+      .exam-list {
+        overflow-y: auto;
+        flex: 1;
+      }
+      .exam-item {
+        padding: 15px 20px;
+        cursor: pointer;
+        transition: 0.2s;
+        border-bottom: 1px solid #334155;
+      }
+      .exam-item:hover {
+        background: #334155;
+      }
+      .exam-item.active {
+        background: var(--primary);
+        border-left: 4px solid #60a5fa;
+      }
+
+      /* --- MAIN CONTENT --- */
+      main {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+        overflow-y: auto;
+        position: relative;
+      }
+
+      /* Setup Screen */
+      .setup-screen {
+        background: white;
+        padding: 40px;
+        border-radius: 12px;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        max-width: 600px;
+        margin: auto;
+        text-align: center;
+      }
+
+      /* Quiz Header */
+      .quiz-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background: white;
+        padding: 15px 25px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+      }
+      .timer {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: var(--danger);
+        font-family: monospace;
+      }
+
+      /* Question Card */
+      .question-card {
+        background: white;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+      }
+      .q-text {
+        font-size: 1.25rem;
+        font-weight: 600;
+        margin-bottom: 25px;
+        color: #1f2937;
+      }
+
+      /* Options */
+      .options-grid {
+        display: grid;
+        gap: 15px;
+      }
+      .option-btn {
+        padding: 15px 20px;
+        border: 2px solid #e5e7eb;
+        border-radius: 8px;
+        background: white;
+        text-align: left;
+        cursor: pointer;
+        transition: 0.2s;
+        font-size: 1rem;
+      }
+      .option-btn:hover:not([disabled]) {
+        border-color: var(--primary);
+        background: #eff6ff;
+      }
+
+      /* States */
+      .option-btn.correct {
+        background: #dcfce7;
+        border-color: var(--success);
+        color: #14532d;
+      }
+      .option-btn.wrong {
+        background: #fee2e2;
+        border-color: var(--danger);
+        color: #7f1d1d;
+      }
+      .option-btn.selected {
+        border-color: var(--primary);
+        background: #eff6ff;
+      }
+
+      /* Rationale */
+      .rationale {
+        margin-top: 20px;
+        padding: 15px;
+        background: #f0fdf4;
+        border-left: 4px solid var(--success);
+        display: none;
+        animation: fadeIn 0.3s ease;
+      }
+
+      /* Controls */
+      .controls {
+        margin-top: auto;
+        padding-top: 20px;
+        display: flex;
+        gap: 10px;
+        justify-content: space-between;
+      }
+      .btn {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-weight: 600;
+        color: white;
+      }
+      .btn-nav {
+        background: var(--primary);
+      }
+      .btn-flag {
+        background: var(--warning);
+        color: #fff;
+      }
+      .btn-submit {
+        background: var(--success);
+      }
+      .btn:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+
+      /* --- SIDEBAR PHẢI: PALETTE --- */
+      aside.right-sidebar {
+        width: 280px;
+        background: white;
+        border-left: 1px solid #e5e7eb;
+        display: flex;
+        flex-direction: column;
+        padding: 15px;
+      }
+      .palette-grid {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 8px;
+        margin-top: 15px;
+        overflow-y: auto;
+      }
+      .p-item {
+        aspect-ratio: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid #e5e7eb;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 0.9rem;
+        position: relative;
+      }
+      .p-item.active {
+        border: 2px solid var(--primary);
+        font-weight: bold;
+      }
+      .p-item.is-correct {
+        background: var(--success);
+        color: white;
+        border: none;
+      }
+      .p-item.is-wrong {
+        background: var(--danger);
+        color: white;
+        border: none;
+      }
+      .p-item.is-flagged::after {
+        content: "🚩";
+        position: absolute;
+        top: -5px;
+        right: -5px;
+        font-size: 10px;
+      }
+
+      /* --- MODAL POPUP --- */
+      .modal-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 1000;
+        display: none;
+        align-items: center;
+        justify-content: center;
+      }
+      .modal-box {
+        background: white;
+        padding: 25px;
+        border-radius: 10px;
+        width: 400px;
+        text-align: center;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+      }
+      .modal-buttons {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+      }
+      .btn-cancel {
+        background: #94a3b8;
+      }
+      .btn-confirm {
+        background: var(--danger);
+      }
+
+      .hidden {
+        display: none !important;
+      }
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(5px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      @media (max-width: 900px) {
+        body {
+          flex-direction: column;
+          overflow: auto;
+        }
+        aside.left-sidebar,
+        aside.right-sidebar {
+          width: 100%;
+          height: auto;
+          max-height: 200px;
+        }
+        main {
+          height: auto;
+          min-height: 600px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <aside class="left-sidebar">
+      <div class="sidebar-header">Kho Đề Thi</div>
+      <div class="exam-list" id="exam-list">
+        <p style="padding: 15px; color: #94a3b8; text-align: center">
+          Đang tải dữ liệu...
+        </p>
+      </div>
+    </aside>
+
+    <main>
+      <div id="setup-screen" class="setup-screen hidden">
+        <h2 id="setup-title" style="margin-bottom: 20px; color: var(--primary)">
+          Chọn Đề Thi
+        </h2>
+        <p style="margin-bottom: 20px; color: #64748b">
+          Vui lòng chọn thời gian làm bài:
+        </p>
+        <select
+          id="time-select"
+          style="
+            padding: 10px;
+            width: 200px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+          "
+        >
+          <option value="15">15 Phút</option>
+          <option value="30">30 Phút</option>
+          <option value="45">45 Phút</option>
+          <option value="60" selected>60 Phút</option>
+          <option value="0">Không giới hạn</option>
+        </select>
+        <br />
+        <button class="btn btn-nav" onclick="initQuiz()">
+          Bắt Đầu Làm Bài
+        </button>
+        <div id="resume-btn-container" class="hidden" style="margin-top: 10px">
+          <p style="color: var(--warning); margin-bottom: 5px">
+            Phát hiện bài làm chưa xong!
+          </p>
+          <button class="btn btn-flag" onclick="resumeQuiz()">
+            Tiếp tục làm bài cũ
+          </button>
+        </div>
+      </div>
+
+      <div
+        id="quiz-interface"
+        class="hidden"
+        style="display: flex; flex-direction: column; height: 100%"
+      >
+        <div class="quiz-header">
+          <div>
+            <h3 id="current-exam-title">Đề thi</h3>
+            <small>Tiến độ: <span id="progress-text">0/60</span></small>
+          </div>
+          <div class="timer" id="timer">00:00</div>
+        </div>
+
+        <div class="question-card">
+          <div id="question-content">
+            <p class="q-text" id="q-text">Loading...</p>
+            <div class="options-grid" id="q-options"></div>
+            <div class="rationale" id="q-rationale"></div>
+          </div>
+
+          <div class="controls">
+            <button class="btn btn-nav" id="btn-prev" onclick="navStep(-1)">
+              ❮ Câu trước
+            </button>
+            <div>
+              <button class="btn btn-flag" onclick="toggleFlag()">
+                🚩 Đặt cờ
+              </button>
+            </div>
+            <button class="btn btn-nav" id="btn-next" onclick="navStep(1)">
+              Câu sau ❯
+            </button>
+          </div>
+          <div style="text-align: right; margin-top: 15px">
+            <button class="btn btn-submit" onclick="confirmAction('submit')">
+              Nộp Bài & Xem Kết Quả
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div id="result-screen" class="setup-screen hidden">
+        <h1 style="color: var(--success)">Kết Quả</h1>
+        <h2 id="final-score" style="font-size: 3rem; margin: 20px 0">0/60</h2>
+        <div
+          id="analysis-box"
+          style="
+            text-align: left;
+            background: #f8fafc;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+          "
+        ></div>
+        <button class="btn btn-nav" onclick="confirmAction('reset')">
+          Làm Đề Khác
+        </button>
+      </div>
+    </main>
+
+    <aside class="right-sidebar">
+      <h4>Danh sách câu hỏi</h4>
+      <div style="font-size: 12px; margin: 10px 0; color: #64748b">
+        <span style="color: var(--success)">■</span> Đúng &nbsp;
+        <span style="color: var(--danger)">■</span> Sai &nbsp;
+        <span style="color: var(--warning)">🚩</span> Cờ
+      </div>
+      <div class="palette-grid" id="palette"></div>
+    </aside>
+
+    <div id="modal" class="modal-overlay">
+      <div class="modal-box">
+        <h3 id="modal-title">Xác nhận</h3>
+        <p id="modal-msg" style="margin: 15px 0; color: #475569">
+          Bạn có chắc chắn muốn thực hiện?
+        </p>
+        <div class="modal-buttons">
+          <button class="btn btn-cancel" onclick="closeModal()">Hủy</button>
+          <button class="btn btn-confirm" id="modal-confirm-btn">Đồng ý</button>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      // --- 1. BIẾN DATA TOÀN CỤC ---
+      let DB = [];
+
+      // --- 2. STATE MANAGEMENT ---
+      let state = {
+        examId: null,
+        currentQIdx: 0,
+        answers: {},
+        flags: [],
+        timeLeft: 0,
+        isFinished: false,
+      };
+      let timerInterval;
+
+      // --- 3. LOAD DỮ LIỆU TỪ FILE JSON ---
+      async function loadDataAndInit() {
+        try {
+          // Fetch file json đồng cấp
+          const response = await fetch("data.json");
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          DB = await response.json();
+
+          // Sau khi có dữ liệu mới render list đề
+          renderExamList();
+
+          // Mặc định hiển thị màn hình setup nếu chưa chọn
+          if (state.examId === null) {
+            document.getElementById("setup-screen").classList.add("hidden"); // Ẩn tạm thời, user click vào list mới hiện
+          }
+
+          checkLocalStorage();
+        } catch (error) {
+          console.error("Lỗi tải data.json:", error);
+          document.getElementById("exam-list").innerHTML = `
+                    <div style="padding:15px; color: #ef4444; text-align: center;">
+                        <strong>Không thể tải dữ liệu!</strong><br><br>
+                        Nếu bạn đang mở trực tiếp file HTML (file://), hãy chạy qua Local Server hoặc Live Server.<br>
+                        Nếu đã lên GitHub Pages, hãy kiểm tra tên file 'data.json' có đúng không.
+                    </div>
+                `;
+        }
+      }
+
+      window.onload = loadDataAndInit;
+
+      // Chặn reload/close tab vô tình
+      window.onbeforeunload = (e) => {
+        if (state.examId !== null && !state.isFinished) {
+          return "Bạn đang làm bài, dữ liệu có thể bị mất nếu không lưu?";
+        }
+      };
+
+      function renderExamList() {
+        const list = document.getElementById("exam-list");
+        list.innerHTML = "";
+
+        if (DB.length === 0) {
+          list.innerHTML =
+            '<p style="padding:15px; text-align:center;">Không có đề thi nào.</p>';
+          return;
+        }
+
+        DB.forEach((exam, idx) => {
+          const div = document.createElement("div");
+          div.className = "exam-item";
+          div.innerText = exam.title;
+          div.onclick = () => trySelectExam(idx);
+          div.id = `exam-btn-${idx}`;
+          list.appendChild(div);
+        });
+      }
+
+      // --- 4. CORE FUNCTIONS ---
+
+      function checkLocalStorage() {
+        const saved = localStorage.getItem("quiz_state");
+        if (saved) {
+          const parsed = JSON.parse(saved);
+          if (!parsed.isFinished) {
+            document
+              .getElementById("resume-btn-container")
+              .classList.remove("hidden");
+            // Nếu có save, có thể hiển thị luôn màn hình setup của đề đó
+            document.getElementById("setup-screen").classList.remove("hidden");
+          }
+        }
+      }
+
+      function trySelectExam(idx) {
+        if (
+          state.examId !== null &&
+          !state.isFinished &&
+          state.examId !== idx
+        ) {
+          showModal(
+            "Chuyển đề thi?",
+            "Bạn đang làm dở bài này. Nếu chuyển, tiến độ hiện tại sẽ bị mất.",
+            () => {
+              selectExam(idx);
+            },
+          );
+        } else {
+          selectExam(idx);
+        }
+      }
+
+      function selectExam(idx) {
+        localStorage.removeItem("quiz_state");
+        state = {
+          examId: idx,
+          currentQIdx: 0,
+          answers: {},
+          flags: [],
+          timeLeft: 0,
+          isFinished: false,
+        };
+
+        // Highlight sidebar
+        document
+          .querySelectorAll(".exam-item")
+          .forEach((el) => el.classList.remove("active"));
+        const btn = document.getElementById(`exam-btn-${idx}`);
+        if (btn) btn.classList.add("active");
+
+        // Show setup screen
+        document.getElementById("setup-screen").classList.remove("hidden");
+        document.getElementById("quiz-interface").classList.add("hidden");
+        document.getElementById("result-screen").classList.add("hidden");
+        document.getElementById("setup-title").innerText = DB[idx].title;
+        document.getElementById("resume-btn-container").classList.add("hidden");
+      }
+
+      function initQuiz() {
+        const minutes = parseInt(document.getElementById("time-select").value);
+        state.timeLeft = minutes * 60;
+        startEngine();
+      }
+
+      function resumeQuiz() {
+        const saved = localStorage.getItem("quiz_state");
+        if (saved) {
+          state = JSON.parse(saved);
+
+          // Highlight lại đề cũ
+          document
+            .querySelectorAll(".exam-item")
+            .forEach((el) => el.classList.remove("active"));
+          const btn = document.getElementById(`exam-btn-${state.examId}`);
+          if (btn) btn.classList.add("active");
+
+          startEngine();
+        }
+      }
+
+      function startEngine() {
+        document.getElementById("setup-screen").classList.add("hidden");
+        document.getElementById("result-screen").classList.add("hidden");
+        document.getElementById("quiz-interface").classList.remove("hidden");
+
+        const currentExam = DB[state.examId];
+        document.getElementById("current-exam-title").innerText =
+          currentExam.title;
+
+        renderPalette();
+        loadQuestion(state.currentQIdx);
+        startTimer();
+      }
+
+      // --- 5. LOGIC BÀI THI ---
+
+      function loadQuestion(idx) {
+        if (idx < 0 || idx >= DB[state.examId].questions.length) return;
+        state.currentQIdx = idx;
+
+        const q = DB[state.examId].questions[idx];
+        document.getElementById("q-text").innerText =
+          `Câu ${idx + 1}: ${q.question}`;
+        document.getElementById("progress-text").innerText =
+          `${idx + 1}/${DB[state.examId].questions.length}`;
+
+        // Options
+        const optDiv = document.getElementById("q-options");
+        optDiv.innerHTML = "";
+
+        const userAns = state.answers[idx];
+
+        q.options.forEach((optText, optIdx) => {
+          const btn = document.createElement("button");
+          btn.className = "option-btn";
+          btn.innerText = optText;
+
+          if (userAns !== undefined) {
+            btn.disabled = true;
+            if (optIdx === q.correct) btn.classList.add("correct");
+            if (optIdx === userAns && optIdx !== q.correct)
+              btn.classList.add("wrong");
+          } else {
+            btn.onclick = () => handleAnswer(idx, optIdx);
+          }
+          optDiv.appendChild(btn);
+        });
+
+        // Rationale
+        const ratDiv = document.getElementById("q-rationale");
+        if (userAns !== undefined) {
+          ratDiv.style.display = "block";
+          ratDiv.innerHTML = `<strong>Giải thích:</strong> ${q.rationale}`;
+        } else {
+          ratDiv.style.display = "none";
+        }
+
+        document.getElementById("btn-prev").disabled = idx === 0;
+        document.getElementById("btn-next").disabled =
+          idx === DB[state.examId].questions.length - 1;
+
+        updatePaletteUI();
+        saveState();
+      }
+
+      function handleAnswer(qIdx, ansIdx) {
+        state.answers[qIdx] = ansIdx;
+        loadQuestion(qIdx);
+        updatePaletteUI();
+        saveState();
+      }
+
+      function toggleFlag() {
+        const idx = state.currentQIdx;
+        if (state.flags.includes(idx)) {
+          state.flags = state.flags.filter((i) => i !== idx);
+        } else {
+          state.flags.push(idx);
+        }
+        updatePaletteUI();
+        saveState();
+      }
+
+      function navStep(step) {
+        loadQuestion(state.currentQIdx + step);
+      }
+
+      // --- 6. PALETTE & HELPER ---
+      function renderPalette() {
+        const grid = document.getElementById("palette");
+        grid.innerHTML = "";
+        const total = DB[state.examId].questions.length;
+        for (let i = 0; i < total; i++) {
+          const item = document.createElement("div");
+          item.className = "p-item";
+          item.innerText = i + 1;
+          item.id = `p-${i}`;
+          item.onclick = () => loadQuestion(i);
+          grid.appendChild(item);
+        }
+        updatePaletteUI();
+      }
+
+      function updatePaletteUI() {
+        const questions = DB[state.examId].questions;
+        questions.forEach((q, i) => {
+          const el = document.getElementById(`p-${i}`);
+          if (!el) return;
+
+          el.className = "p-item";
+          if (i === state.currentQIdx) el.classList.add("active");
+          if (state.flags.includes(i)) el.classList.add("is-flagged");
+
+          if (state.answers[i] !== undefined) {
+            const isCorrect = state.answers[i] === q.correct;
+            el.classList.add(isCorrect ? "is-correct" : "is-wrong");
+          }
+        });
+      }
+
+      // --- 7. TIMER & SAVE ---
+      function startTimer() {
+        clearInterval(timerInterval);
+        if (state.timeLeft <= 0) {
+          document.getElementById("timer").innerText = "∞";
+          return;
+        }
+
+        timerInterval = setInterval(() => {
+          state.timeLeft--;
+          const m = Math.floor(state.timeLeft / 60)
+            .toString()
+            .padStart(2, "0");
+          const s = (state.timeLeft % 60).toString().padStart(2, "0");
+          document.getElementById("timer").innerText = `${m}:${s}`;
+
+          saveState();
+
+          if (state.timeLeft <= 0) {
+            clearInterval(timerInterval);
+            alert("Hết giờ làm bài!");
+            finishExam();
+          }
+        }, 1000);
+      }
+
+      function saveState() {
+        localStorage.setItem("quiz_state", JSON.stringify(state));
+      }
+
+      // --- 8. FINISH & ANALYSIS ---
+      function finishExam() {
+        clearInterval(timerInterval);
+        state.isFinished = true;
+        localStorage.removeItem("quiz_state");
+
+        let score = 0;
+        let topicAnalysis = {};
+
+        const questions = DB[state.examId].questions;
+        questions.forEach((q, idx) => {
+          if (!topicAnalysis[q.topic])
+            topicAnalysis[q.topic] = { total: 0, wrong: 0 };
+          topicAnalysis[q.topic].total++;
+
+          if (state.answers[idx] === q.correct) {
+            score++;
+          } else {
+            topicAnalysis[q.topic].wrong++;
+          }
+        });
+
+        document.getElementById("quiz-interface").classList.add("hidden");
+        document.getElementById("result-screen").classList.remove("hidden");
+        document.getElementById("final-score").innerText =
+          `${score}/${questions.length}`;
+
+        let html = `<h3>Phân tích chi tiết:</h3><ul style="margin-top:10px; padding-left:20px;">`;
+        let hasWeakness = false;
+
+        for (const [topic, stat] of Object.entries(topicAnalysis)) {
+          if (stat.wrong > 0) {
+            hasWeakness = true;
+            const percent = Math.round((stat.wrong / stat.total) * 100);
+            html += `<li style="margin-bottom:8px;">
+                        <strong>${topic}</strong>: Sai ${stat.wrong}/${stat.total} câu (${percent}%). 
+                        <span style="color:var(--danger)">Cần ôn tập thêm.</span>
+                    </li>`;
+          }
+        }
+        if (!hasWeakness)
+          html += `<li style="color:var(--success)">Tuyệt vời! Bạn không sai câu nào theo chủ đề.</li>`;
+        html += `</ul>`;
+
+        document.getElementById("analysis-box").innerHTML = html;
+      }
+
+      // --- 9. MODAL & CONFIRMATION ---
+      let confirmCallback = null;
+
+      function showModal(title, msg, callback) {
+        document.getElementById("modal-title").innerText = title;
+        document.getElementById("modal-msg").innerText = msg;
+        document.getElementById("modal").style.display = "flex";
+        confirmCallback = callback;
+      }
+
+      function closeModal() {
+        document.getElementById("modal").style.display = "none";
+        confirmCallback = null;
+      }
+
+      document.getElementById("modal-confirm-btn").onclick = () => {
+        if (confirmCallback) confirmCallback();
+        closeModal();
+      };
+
+      function confirmAction(action) {
+        if (action === "submit") {
+          const unanswered =
+            DB[state.examId].questions.length -
+            Object.keys(state.answers).length;
+          let msg = "Bạn có chắc chắn muốn nộp bài?";
+          if (unanswered > 0) msg += ` Bạn còn ${unanswered} câu chưa làm.`;
+
+          showModal("Nộp bài thi", msg, finishExam);
+        } else if (action === "reset") {
+          location.reload();
+        }
+      }
+    </script>
+  </body>
+</html>
