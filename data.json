@@ -786,6 +786,792 @@
     ]
   },
   {
+    "id": "DE002",
+    "title": "Đề 002: Hiến pháp 2013 (sửa đổi, bổ sung theo Nghị quyết số 203/2025/QH15)",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), sau khi được bầu những ai phải phải tuyên thệ trung thành với Tổ quốc, Nhân dân và Hiến pháp?",
+        "options": [
+          "A. Chủ tịch nước, Phó Chủ tịch nước, Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội, Ủy viên Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao",
+          "B. Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ, Viện trưởng Viện kiểm sát nhân dân tối cao",
+          "C. Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ, Chánh án Tòa án nhân dân tối cao",
+          "D. Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn đáp án c vì được quy định tại khoản 7, Điều 70: “Sau khi được bầu, Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ, Chánh án Tòa án nhân dân tối cao phải tuyên thệ trung thành với Tổ quốc, Nhân dân và Hiến pháp”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 2,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là cơ quan thường trực của Quốc hội?",
+        "options": [
+          "A. Chính phủ",
+          "B. Kiểm toán nhà nước",
+          "C. Ủy ban thường vụ Quốc hội",
+          "D. Ủy ban Công tác đại biểu của Quốc hội"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn đáp án c vì được quy định tại khoản 1, Điều 73: “Ủy ban thường vụ Quốc hội là cơ quan thường trực của Quốc hội”",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 3,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Bãi bỏ văn bản của Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội",
+          "B. Bãi bỏ văn bản của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+          "C. Quyết định trưng cầu ý dân",
+          "D. Tổ chức trưng cầu ý dân"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn đáp án c vì được quy định tại khoản 15, Điều 70. Đáp án a, d thuộc nhiệm vụ quyền hạn của UBTVQH. Đáp án b thuộc nhiệm vụ của Thủ tướng Chính phủ.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 4,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Chỉ đạo, điều hòa, phối hợp hoạt động của Hội đồng dân tộc và các Ủy ban của Quốc hội",
+          "B. Bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+          "C. Quyết định tổng động viên hoặc động viên cục bộ; ban bố, bãi bỏ tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương",
+          "D. Quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn đáp án d vì được quy định tại khoản 4, Điều 70. Các đáp án A, B, C thuộc nhiệm vụ quyền hạn của Ủy ban Thường vụ Quốc hội.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 5,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân",
+          "B. Giải tán Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của Nhân dân",
+          "C. Quyết định mức giới hạn an toàn nợ quốc gia, nợ công, nợ chính phủ",
+          "D. Thực hiện quan hệ đối ngoại của Quốc hội"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn đáp án c vì được quy định tại khoản 4, Điều 70. Các đáp án A, B, D thuộc nhiệm vụ quyền hạn của Ủy ban Thường vụ Quốc hội.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 6,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Bảo vệ quyền và lợi ích của Nhà nước và xã hội, quyền con người, quyền công dân; bảo đảm trật tự, an toàn xã hội",
+          "B. Bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+          "C. Quyết định đặc xá",
+          "D. Quyết định đại xá"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn đáp án d vì được quy định tại khoản 11, Điều 70. Đáp án A thuộc Chính phủ. Đáp án B thuộc UBTVQH. Đáp án C thuộc Chủ tịch nước.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 7,
+        "question": "Theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), việc quyết định mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước thuộc nhiệm vụ, quyền hạn của cơ quan nào?",
+        "options": [
+          "A. Ủy ban Thường vụ Quốc hội",
+          "B. Chính phủ",
+          "C. Hội đồng nhân dân tỉnh/thành phố",
+          "D. Quốc hội"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn đáp án d vì được quy định tại khoản 3, Điều 70",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 8,
+        "question": "Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15) quy định như thế nào về việc thành lập, giải thể Ủy ban của Quốc hội?",
+        "options": [
+          "A. Việc thành lập, giải thể Ủy ban của Quốc hội do Quốc hội quyết định.",
+          "B. Việc thành lập, giải thể Ủy ban của Quốc hội do Chủ tịch Quốc hội quyết định.",
+          "C. Việc thành lập, giải thể Ủy ban của Quốc hội do Ủy ban thường vụ Quốc hội quyết định.",
+          "D. Việc thành lập, giải thể Ủy ban của Quốc hội do Chủ nhiệm Văn phòng Quốc hội quyết định."
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì căn cứ theo khoản 3 Điều 76 Hiến Pháp 2013.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 9,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Chỉ đạo, Điều hòa, phối hợp hoạt động của Hội đồng dân tộc và các Ủy ban của Quốc hội",
+          "B. Bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+          "C. Quyết định tổng động viên hoặc động viên cục bộ; ban bố, bãi bỏ tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương",
+          "D. Quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là quy định về nhiệm vụ và quyền hạn của Quốc hội (căn cứ theo khoản 4 Điều 70). Các đáp án A, B, C thuộc nhiệm vụ của UBTVQH.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 10,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân",
+          "B. Giải tán Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của Nhân dân",
+          "C. Quyết định mức giới hạn an toàn nợ quốc gia, nợ công, nợ chính phủ",
+          "D. Quyết định thành lập, giải thể, nhập, chia, Điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc khoản 4 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, D thuộc nhiệm vụ của UBTVQH (Điều 74).",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 11,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Giám sát hoạt động của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán Nhà nước và cơ quan khác do Quốc hội thành lập",
+          "B. Bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+          "C. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt Nam",
+          "D. Quyết định dự toán ngân sách nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân sách nhà nước"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 4 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, C thuộc nhiệm vụ của UBTVQH.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 12,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Tổ chức việc chuẩn bị, triệu tập và chủ trì kỳ họp Quốc hội",
+          "B. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước;",
+          "C. Ra pháp lệnh về những vấn đề được Quốc hội giao",
+          "D. Giải thích Hiến Pháp, luật, pháp lệnh"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc khoản 5 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, C, D thuộc nhiệm vụ của UBTVQH.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 13,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Quy định tổ chức và hoạt động của Quốc hội, Chủ tịch nước, Chính phủ, Tòa án nhân dân, Viện kiểm sát nhân dân, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước, chính quyền địa phương và cơ quan khác do Quốc hội thành lập;",
+          "B. Chỉ đạo, Điều hòa, phối hợp hoạt động của Hội đồng dân tộc và các Ủy ban của Quốc hội",
+          "C. Bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+          "D. Quyết định tổng động viên hoặc động viên cục bộ; ban bố, bãi bỏ tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc khoản 6 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án B, C, D thuộc nhiệm vụ của UBTVQH.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 14,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân",
+          "B. Giải tán Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của Nhân dân",
+          "C. Bầu, miễn nhiệm, bãi nhiệm Chủ tịch nước, Phó Chủ tịch nước",
+          "D. Quyết định thành lập, giải thể, nhập, chia, Điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc khoản 7 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, D thuộc nhiệm vụ của UBTVQH.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 15,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Giám sát hoạt động của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán Nhà nước và cơ quan khác do Quốc hội thành lập",
+          "B. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn",
+          "C. Bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+          "D. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt Nam"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc khoản 8 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, C, D thuộc nhiệm vụ của UBTVQH.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 16,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Ra pháp lệnh về những vấn đề được Quốc hội giao",
+          "B. Giám sát việc thi hành Hiến Pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội",
+          "C. Quyết định thành lập, giải thể, nhập, chia, Điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương",
+          "D. Quyết định thành lập, bãi bỏ bộ, cơ quan ngang bộ của Chính phủ; thành lập, giải thể, nhập, chia, Điều chỉnh địa giới hành chính tỉnh, thành phố trực thuộc trung ương, đơn vị hành chính - kinh tế đặc biệt; thành lập, bãi bỏ cơ quan khác theo quy định của Hiến Pháp và luật"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 9 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, C thuộc nhiệm vụ của UBTVQH.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 17,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân",
+          "B. Giải tán Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của Nhân dân",
+          "C. Bãi bỏ văn bản của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với Hiến Pháp, luật, nghị quyết của Quốc hội",
+          "D. Quyết định thành lập, giải thể, nhập, chia, Điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C (đáp án Bãi bỏ văn bản...) vì đây là nội dung thuộc khoản 10 Điều 70 về nhiệm vụ của Quốc hội. Lưu ý: Trong phần giải thích ghi 'Chọn B' nhưng nội dung giải thích lại chỉ vào 'khoản 10 Điều 70' (Quyền bãi bỏ văn bản), trong khi đáp án B là 'Giải tán HĐND' (thuộc UBTVQH). Dựa vào logic 'Quốc hội bãi bỏ văn bản', đáp án đúng là C.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 18,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Quyết định đại xá",
+          "B. Chỉ đạo, Điều hòa, phối hợp hoạt động của Hội đồng dân tộc và các Ủy ban của Quốc hội",
+          "C. Bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+          "D. Quyết định tổng động viên hoặc động viên cục bộ; ban bố, bãi bỏ tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A (Quyết định đại xá) vì đây là nội dung thuộc khoản 11 Điều 70. Các đáp án còn lại thuộc nhiệm vụ của UBTVQH.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 19,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Ra pháp lệnh về những vấn đề được Quốc hội giao",
+          "B. Giám sát việc thi hành Hiến Pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội",
+          "C. Quyết định thành lập, giải thể, nhập, chia, Điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương",
+          "D. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác; quy định huân chương, huy chương và danh hiệu vinh dự nhà nước"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 12 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, C thuộc nhiệm vụ của UBTVQH.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 20,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân",
+          "B. Giải tán Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của Nhân dân",
+          "C. Quyết định vấn đề chiến tranh và hòa bình; quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia",
+          "D. Quyết định thành lập, giải thể, nhập, chia, Điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc khoản 13 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, D thuộc nhiệm vụ của UBTVQH.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 21,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Giám sát hoạt động của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán Nhà nước và cơ quan khác do Quốc hội thành lập",
+          "B. Quyết định chính sách cơ bản về đối ngoại",
+          "C. Bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+          "D. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt Nam"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc khoản 14 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, C, D thuộc nhiệm vụ của UBTVQH.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 22,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Quyết định trưng cầu ý dân",
+          "B. Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân",
+          "C. Giải tán Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của Nhân dân",
+          "D. Quyết định thành lập, giải thể, nhập, chia, Điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc khoản 15 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án B, C, D thuộc nhiệm vụ của UBTVQH.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 23,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Thống nhất quản lý nền hành chính quốc gia",
+          "B. Tổ chức đàm phán, ký Điều ước quốc tế nhân danh Nhà nước theo ủy quyền của Chủ tịch nước",
+          "C. Phối hợp với Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức chính trị - xã hội trong việc thực hiện nhiệm vụ, quyền hạn của mình.",
+          "D. Làm luật và sửa đổi luật"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là đáp án thuộc khoản 1 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, C thuộc nhiệm vụ của Chính phủ.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 24,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Thực hiện quyền giám sát tối cao việc tuân theo Hiến Pháp, luật và nghị quyết của Quốc hội; xét báo cáo công tác của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập",
+          "B. Tổ chức công tác thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, phòng, chống quan liêu, tham nhũng trong bộ máy nhà nước",
+          "C. Tạo Điều kiện để Hội đồng nhân dân thực hiện nhiệm vụ, quyền hạn do luật định",
+          "D. Bảo vệ quyền và lợi ích của Nhà nước và xã hội, quyền con người, quyền công dân"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc khoản 2 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án B, C, D thuộc nhiệm vụ của Chính phủ.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 25,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Tổ chức công tác thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, phòng, chống quan liêu, tham nhũng trong bộ máy nhà nước",
+          "B. Bảo vệ lợi ích của Nhà nước, lợi ích chính đáng của tổ chức và công dân Việt Nam ở nước ngoài",
+          "C. Phối hợp với Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức chính trị - xã hội trong việc thực hiện nhiệm vụ, quyền hạn của mình.",
+          "D. Quyết định mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 3 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, C thuộc nhiệm vụ của Chính phủ.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 26,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Lãnh đạo công tác của Ủy ban thường vụ Quốc hội",
+          "B. Tổ chức thực hiện quan hệ đối ngoại của Quốc hội",
+          "C. Giữ quan hệ với các đại biểu Quốc hội.",
+          "D. Quyết định chính sách cơ bản về tài chính, tiền tệ quốc gia; quy định, sửa đổi hoặc bãi bỏ các thứ thuế"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ quyền hạn của Quốc hội (khoản 4 Điều 70). Các đáp án A, B, C thuộc nhiệm vụ của Chủ tịch Quốc hội.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 27,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Thống nhất quản lý về kinh tế, văn hóa, xã hội, giáo dục, y tế, khoa học, công nghệ, môi trường, thông tin, truyền thông, đối ngoại, quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội",
+          "B. Tổ chức công tác thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, phòng, chống quan liêu, tham nhũng trong bộ máy nhà nước",
+          "C. Hướng dẫn, kiểm tra Hội đồng nhân dân trong việc thực hiện văn bản của cơ quan nhà nước cấp trên",
+          "D. Quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 4 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, C thuộc nhiệm vụ của Chính phủ.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 28,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Quyết định tặng thưởng huân chương, huy chương, các giải thưởng nhà nước, danh hiệu vinh dự nhà nước",
+          "B. Quyết định cử, triệu hồi đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt Nam",
+          "C. Phong hàm, cấp đại sứ",
+          "D. Quyết định mức giới hạn an toàn nợ quốc gia, nợ công, nợ chính phủ"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 4 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, C thuộc nhiệm vụ của Chủ tịch nước.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 29,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Lãnh đạo công tác của Ủy ban thường vụ Quốc hội",
+          "B. Tổ chức thực hiện quan hệ đối ngoại của Quốc hội",
+          "C. Giữ quan hệ với các đại biểu Quốc hội.",
+          "D. Quyết định dự toán ngân sách nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân sách nhà nước"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 4 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, C thuộc nhiệm vụ của Chủ tịch Quốc hội.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 30,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Tổ chức công tác thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, phòng, chống quan liêu, tham nhũng trong bộ máy nhà nước",
+          "B. Tạo Điều kiện để Hội đồng nhân dân thực hiện nhiệm vụ, quyền hạn do luật định",
+          "C. Bảo vệ quyền và lợi ích của Nhà nước và xã hội, quyền con người, quyền công dân",
+          "D. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 5 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, C thuộc nhiệm vụ của Chính phủ.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 31,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Thống nhất quản lý về kinh tế, văn hóa, xã hội, giáo dục, y tế, khoa học, công nghệ, môi trường, thông tin, truyền thông, đối ngoại, quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội",
+          "B. Tổ chức công tác thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, phòng, chống quan liêu, tham nhũng trong bộ máy nhà nước",
+          "C. Hướng dẫn, kiểm tra Hội đồng nhân dân trong việc thực hiện văn bản của cơ quan nhà nước cấp trên",
+          "D. Quy định tổ chức và hoạt động của Quốc hội, Chủ tịch nước, Chính phủ, Tòa án nhân dân, Viện kiểm sát nhân dân, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước, chính quyền địa phương và cơ quan khác do Quốc hội thành lập"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội thuộc khoản 6 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, C thuộc nhiệm vụ của Chính phủ.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 32,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Quyết định đặc xá",
+          "B. Quyết định đàm phán, ký Điều ước quốc tế nhân danh Nhà nước",
+          "C. Quyết định phê chuẩn, gia nhập hoặc chấm dứt hiệu lực Điều ước quốc tế khác nhân danh Nhà nước.",
+          "D. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ, Thẩm phán Tòa án nhân dân tối cao"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 7 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, C thuộc nhiệm vụ của Chủ tịch nước.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 33,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Tiếp nhận đại sứ đặc mệnh toàn quyền của nước ngoài",
+          "B. Quyết định cử, triệu hồi đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt Nam",
+          "C. Phong hàm, cấp đại sứ",
+          "D. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia."
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 7 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, C thuộc nhiệm vụ của Chủ tịch nước.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 34,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn",
+          "B. Quyết định tặng thưởng huân chương, huy chương, các giải thưởng nhà nước, danh hiệu vinh dự nhà nước",
+          "C. Quyết định cử, triệu hồi đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt Nam",
+          "D. Phong hàm, cấp đại sứ"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc khoản 8 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án B, C, D thuộc nhiệm vụ của Chủ tịch nước.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 35,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Tổ chức thi hành Hiến Pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước",
+          "B. Thi hành lệnh động viên hoặc động viên cục bộ, lệnh ban bố tình trạng khẩn cấp và các biện pháp cần thiết khác để bảo vệ Tổ quốc, bảo đảm tính mạng, tài sản của Nhân dân",
+          "C. Hướng dẫn, kiểm tra Hội đồng nhân dân trong việc thực hiện văn bản của cơ quan nhà nước cấp trên",
+          "D. Quyết định thành lập, bãi bỏ bộ, cơ quan ngang bộ của Chính phủ; thành lập, giải thể, nhập, chia, Điều chỉnh địa giới hành chính tỉnh, thành phố trực thuộc trung ương, đơn vị hành chính - kinh tế đặc biệt; thành lập, bãi bỏ cơ quan khác theo quy định của Hiến Pháp và luật"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 9 Điều 70 về nhiệm vụ của Quốc hội. Các đáp án A, B, C thuộc nhiệm vụ của Chính phủ.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 36,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Tiếp nhận đại sứ đặc mệnh toàn quyền của nước ngoài; căn cứ vào nghị quyết của Ủy ban thường vụ Quốc hội, bổ nhiệm, miễn nhiệm",
+          "B. Quyết định đàm phán, ký Điều ước quốc tế nhân danh Nhà nước",
+          "C. Quyết định phê chuẩn, gia nhập hoặc chấm dứt hiệu lực Điều ước quốc tế khác nhân danh Nhà nước.",
+          "D. Bãi bỏ văn bản của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với Hiến Pháp, luật, nghị quyết của Quốc hội"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo khoản 11 Điều 70. Các đáp án A, B, C thuộc nhiệm vụ của Chủ tịch nước.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 37,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Quyết định đại xá",
+          "B. Công bố, bãi bỏ quyết định tuyên bố tình trạng chiến tranh",
+          "C. Ra lệnh tổng động viên hoặc động viên cục bộ, công bố, bãi bỏ tình trạng khẩn cấp",
+          "D. Tiếp nhận đại sứ đặc mệnh toàn quyền của nước ngoài"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo khoản 11 Điều 70. Các đáp án B, C, D thuộc nhiệm vụ của Chủ tịch nước.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 38,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Công bố Hiến Pháp, luật, pháp lệnh",
+          "B. Quyết định đặc xá",
+          "C. Quyết định tặng thưởng huân chương, huy chương, các giải thưởng nhà nước, danh hiệu vinh dự nhà nước",
+          "D. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo khoản 12 Điều 70. Các đáp án A, B, C thuộc nhiệm vụ của Chủ tịch nước.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 39,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Tổ chức thi hành Hiến Pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước",
+          "B. Thi hành lệnh động viên hoặc động viên cục bộ, lệnh ban bố tình trạng khẩn cấp và các biện pháp cần thiết khác để bảo vệ Tổ quốc, bảo đảm tính mạng, tài sản của Nhân dân",
+          "C. Hướng dẫn, kiểm tra Hội đồng nhân dân trong việc thực hiện văn bản của cơ quan nhà nước cấp trên",
+          "D. Quyết định vấn đề chiến tranh và hòa bình"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo khoản 13 Điều 70. Các đáp án A, B, C thuộc nhiệm vụ của Chính phủ.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 40,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Giám sát hoạt động của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán Nhà nước và cơ quan khác do Quốc hội thành lập",
+          "B. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt Nam",
+          "C. Công bố Hiến Pháp, luật, pháp lệnh",
+          "D. Phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của Điều ước quốc tế liên quan đến chiến tranh, hòa bình, chủ quyền quốc gia, tư cách thành viên của Cộng hòa xã hội chủ nghĩa Việt Nam tại các tổ chức quốc tế và khu vực quan trọng, các Điều ước quốc tế về quyền con người, quyền và nghĩa vụ cơ bản của công dân và Điều ước quốc tế khác trái với luật, nghị quyết của Quốc hội"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo khoản 14 Điều 70. Các đáp án A, B thuộc UBTVQH; đáp án C thuộc Chủ tịch nước.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 41,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+        "options": [
+          "A. Tổ chức công tác thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, phòng, chống quan liêu, tham nhũng trong bộ máy nhà nước",
+          "B. Quyết định trưng cầu ý dân",
+          "C. Tạo Điều kiện để Hội đồng nhân dân thực hiện nhiệm vụ, quyền hạn do luật định",
+          "D. Bảo vệ quyền và lợi ích của Nhà nước và xã hội, quyền con người, quyền công dân"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo khoản 15 Điều 70. Các đáp án A, C, D thuộc nhiệm vụ của Chính phủ.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 42,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "B. Quyết định vấn đề chiến tranh và hòa bình",
+          "C. Tổ chức việc chuẩn bị, triệu tập và chủ trì kỳ họp Quốc hội",
+          "D. Quyết định trưng cầu ý dân"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 1 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 43,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định đại xá",
+          "B. Ra pháp lệnh về những vấn đề được Quốc hội giao",
+          "C. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác",
+          "D. Quyết định chính sách cơ bản về đối ngoại"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 2 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 44,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước",
+          "B. Giải thích Hiến Pháp, luật, pháp lệnh",
+          "C. Quyết định mức giới hạn an toàn nợ quốc gia, nợ công, nợ chính phủ",
+          "D. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 2 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 45,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Thực hiện quyền giám sát tối cao việc tuân theo Hiến Pháp, luật và nghị quyết của Quốc hội",
+          "B. Quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương",
+          "C. Quyết định dự toán ngân sách nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân sách nhà nước",
+          "D. Giám sát việc thi hành Hiến Pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 3 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 46,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Xét báo cáo công tác của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập",
+          "B. Giám sát hoạt động của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán Nhà nước và cơ quan khác do Quốc hội thành lập",
+          "C. Quyết định mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước",
+          "D. Quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 3 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 47,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "B. Quyết định vấn đề chiến tranh và hòa bình",
+          "C. Quyết định trưng cầu ý dân",
+          "D. Đình chỉ việc thi hành văn bản của Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với Hiến Pháp, luật, nghị quyết của Quốc hội và trình Quốc hội quyết định việc bãi bỏ văn bản đó tại kỳ họp gần nhất"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 4 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 48,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Bãi bỏ văn bản của Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội",
+          "B. Quyết định đại xá",
+          "C. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác",
+          "D. Quyết định chính sách cơ bản về đối ngoại"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 4 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 49,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "B. Chỉ đạo, Điều hòa, phối hợp hoạt động của Hội đồng dân tộc và các Ủy ban của Quốc hội",
+          "C. Quyết định vấn đề chiến tranh và hòa bình",
+          "D. Quyết định trưng cầu ý dân"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 5 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 50,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ, Thẩm phán Tòa án nhân dân tối cao",
+          "B. Quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia",
+          "C. Phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của Điều ước quốc tế liên quan đến chiến tranh, hòa bình, chủ quyền quốc gia, tư cách thành viên của Cộng hòa xã hội chủ nghĩa Việt Nam tại các tổ chức quốc tế và khu vực quan trọng, các Điều ước quốc tế về quyền con người, quyền và nghĩa vụ cơ bản của công dân và Điều ước quốc tế khác trái với luật, nghị quyết của Quốc hội",
+          "D. Hướng dẫn và bảo đảm Điều kiện hoạt động của đại biểu Quốc hội"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 5 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 51,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "B. Quyết định thành lập, bãi bỏ bộ, cơ quan ngang bộ của Chính phủ",
+          "C. Quyết định đại xá",
+          "D. Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Chủ tịch nước, Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội, Ủy viên Ủy ban thường vụ Quốc hội, Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội, Chủ tịch Hội đồng bầu cử quốc gia, Tổng Kiểm toán nhà nước"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 6 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 52,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân",
+          "B. Thực hiện quyền giám sát tối cao việc tuân theo Hiến Pháp, luật và nghị quyết của Quốc hội",
+          "C. Quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương",
+          "D. Quyết định dự toán ngân sách nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân sách nhà nước"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 7 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 53,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Xét báo cáo công tác của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập",
+          "B. Bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+          "C. Quyết định mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước",
+          "D. Quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 7 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 54,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "B. Quyết định vấn đề chiến tranh và hòa bình",
+          "C. Quyết định trưng cầu ý dân",
+          "D. Giải tán Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của Nhân dân"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 7 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 55,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "B. Quyết định thành lập, bãi bỏ bộ, cơ quan ngang bộ của Chính phủ",
+          "C. Quyết định đại xá",
+          "D. Quyết định thành lập, giải thể, nhập, chia, Điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội theo khoản 8 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 56,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định đại xá",
+          "B. Quyết định việc tuyên bố tình trạng chiến tranh trong trường hợp Quốc hội không thể họp được và báo cáo Quốc hội quyết định tại kỳ họp gần nhất",
+          "C. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác",
+          "D. Quyết định chính sách cơ bản về đối ngoại"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nhiệm vụ và quyền hạn của uỷ ban thường vụ Quốc hội theo khoản 9 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 57,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ, Thẩm phán Tòa án nhân dân tối cao",
+          "B. Quyết định tổng động viên hoặc động viên cục bộ; ban bố, bãi bỏ tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương",
+          "C. Quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia",
+          "D. Phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của Điều ước quốc tế liên quan đến chiến tranh, hòa bình, chủ quyền quốc gia, tư cách thành viên của Cộng hòa xã hội chủ nghĩa Việt Nam tại các tổ chức quốc tế và khu vực quan trọng, các Điều ước quốc tế về quyền con người, quyền và nghĩa vụ cơ bản của công dân và Điều ước quốc tế khác trái với luật, nghị quyết của Quốc hội"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội theo khoản 10 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 58,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "B. Quyết định vấn đề chiến tranh và hòa bình",
+          "C. Thực hiện quan hệ đối ngoại của Quốc hội",
+          "D. Quyết định trưng cầu ý dân"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội theo khoản 11 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 59,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Thực hiện quyền giám sát tối cao việc tuân theo Hiến Pháp, luật và nghị quyết của Quốc hội",
+          "B. Quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương",
+          "C. Quyết định dự toán ngân sách nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân sách nhà nước",
+          "D. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt Nam"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội theo khoản 12 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 60,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Tổ chức trưng cầu ý dân theo quyết định của Quốc hội",
+          "B. Quyết định đại xá",
+          "C. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác",
+          "D. Quyết định chính sách cơ bản về đối ngoại"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội theo khoản 13 Điều 74.",
+        "topic": "Hiến pháp 2013"
+      }
+    ]
+  },
+  {
     "id": 10,
     "title": "THADS_Đề tổng hợp số 10",
     "questions": [
