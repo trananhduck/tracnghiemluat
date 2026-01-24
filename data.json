@@ -1572,6 +1572,792 @@
     ]
   },
   {
+    "id": "DE003",
+    "title": "Đề 003: Hiến pháp 2013 (sửa đổi, bổ sung theo Nghị quyết số 203/2025/QH15)",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định vấn đề chiến tranh và hòa bình",
+          "B. Quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia",
+          "C. Công bố Hiến Pháp, luật, pháp lệnh",
+          "D. Quyết định chính sách cơ bản về đối ngoại"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 1 Điều 88. Loại A, B, D vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 2,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ, Thẩm phán Tòa án nhân dân tối cao",
+          "B. Quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia",
+          "C. Đề nghị Ủy ban thường vụ Quốc hội xem xét lại pháp lệnh trong thời hạn mười ngày, kể từ ngày pháp lệnh được thông qua, nếu pháp lệnh đó vẫn được Ủy ban thường vụ Quốc hội biểu quyết tán thành mà Chủ tịch nước vẫn không nhất trí thì Chủ tịch nước trình Quốc hội quyết định tại kỳ họp gần nhất",
+          "D. Phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của Điều ước quốc tế liên quan đến chiến tranh, hòa bình, chủ quyền quốc gia, tư cách thành viên của Cộng hòa xã hội chủ nghĩa Việt Nam tại các tổ chức quốc tế và khu vực quan trọng, các Điều ước quốc tế về quyền con người, quyền và nghĩa vụ cơ bản của công dân và Điều ước quốc tế khác trái với luật, nghị quyết của Quốc hội"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 1 Điều 88. Loại A, B, D vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 3,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định vấn đề chiến tranh và hòa bình",
+          "B. Quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia",
+          "C. Quyết định chính sách cơ bản về đối ngoại",
+          "D. Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Phó Chủ tịch nước, Thủ tướng Chính phủ"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 2 Điều 88. Loại A, B, C vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 4,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Căn cứ vào nghị quyết của Quốc hội, bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ",
+          "B. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "C. Quyết định vấn đề chiến tranh và hòa bình",
+          "D. Quyết định trưng cầu ý dân"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 2 Điều 88. Loại B, C, D vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 5,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định đại xá",
+          "B. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác",
+          "C. Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao",
+          "D. Quyết định chính sách cơ bản về đối ngoại"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 3 Điều 88. Loại A, B, D vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 6,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ, Thẩm phán Tòa án nhân dân tối cao",
+          "B. Quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia",
+          "C. Phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của Điều ước quốc tế liên quan đến chiến tranh, hòa bình, chủ quyền quốc gia, tư cách thành viên của Cộng hòa xã hội chủ nghĩa Việt Nam tại các tổ chức quốc tế và khu vực quan trọng, các Điều ước quốc tế về quyền con người, quyền và nghĩa vụ cơ bản của công dân và Điều ước quốc tế khác trái với luật, nghị quyết của Quốc hội",
+          "D. Căn cứ vào nghị quyết của Quốc hội, bổ nhiệm, miễn nhiệm, cách chức Thẩm phán Tòa án nhân dân tối cao"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 3 Điều 88. Loại A, B, C vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 7,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Thực hiện quyền giám sát tối cao việc tuân theo Hiến Pháp, luật và nghị quyết của Quốc hội",
+          "B. Quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương",
+          "C. Quyết định dự toán ngân sách nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân sách nhà nước",
+          "D. Bổ nhiệm, miễn nhiệm, cách chức Phó Chánh án Tòa án nhân dân tối cao, Thẩm phán các Tòa án khác, Phó Viện trưởng, Kiểm sát viên Viện kiểm sát nhân dân tối cao"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 3 Điều 88. Loại A, B, C vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 8,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác",
+          "B. Quyết định đặc xá",
+          "C. Phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của Điều ước quốc tế liên quan đến chiến tranh, hòa bình, chủ quyền quốc gia, tư cách thành viên của Cộng hòa xã hội chủ nghĩa Việt Nam tại các tổ chức quốc tế và khu vực quan trọng, các Điều ước quốc tế về quyền con người, quyền và nghĩa vụ cơ bản của công dân và Điều ước quốc tế khác trái với luật, nghị quyết của Quốc hội",
+          "D. Quyết định trưng cầu ý dân"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 3 Điều 88. Loại A, C, D vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 9,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Căn cứ vào nghị quyết của Quốc hội, công bố quyết định đại xá",
+          "B. Quyết định đại xá",
+          "C. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác",
+          "D. Quyết định chính sách cơ bản về đối ngoại"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 3 Điều 88. Loại B, C, D vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 10,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ, Thẩm phán Tòa án nhân dân tối cao",
+          "B. Quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia",
+          "C. Phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của Điều ước quốc tế liên quan đến chiến tranh, hòa bình, chủ quyền quốc gia, tư cách thành viên của Cộng hòa xã hội chủ nghĩa Việt Nam tại các tổ chức quốc tế và khu vực quan trọng, các Điều ước quốc tế về quyền con người, quyền và nghĩa vụ cơ bản của công dân và Điều ước quốc tế khác trái với luật, nghị quyết của Quốc hội",
+          "D. Quyết định tặng thưởng huân chương, huy chương, các giải thưởng nhà nước, danh hiệu vinh dự nhà nước"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 4 Điều 88. Loại A, B, C vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 11,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "B. Quyết định cho nhập quốc tịch, thôi quốc tịch, trở lại quốc tịch hoặc tước quốc tịch Việt Nam",
+          "C. Quyết định vấn đề chiến tranh và hòa bình",
+          "D. Quyết định trưng cầu ý dân"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 4 Điều 88. Loại A, C, D vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 12,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác",
+          "B. Phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của Điều ước quốc tế liên quan đến chiến tranh, hòa bình, chủ quyền quốc gia, tư cách thành viên của Cộng hòa xã hội chủ nghĩa Việt Nam tại các tổ chức quốc tế và khu vực quan trọng, các Điều ước quốc tế về quyền con người, quyền và nghĩa vụ cơ bản của công dân và Điều ước quốc tế khác trái với luật, nghị quyết của Quốc hội",
+          "C. Thống lĩnh lực lượng vũ trang nhân dân, giữ chức Chủ tịch Hội đồng quốc phòng và an ninh, quyết định phong, thăng, giáng, tước quân hàm cấp tướng, chuẩn đô đốc, phó đô đốc, đô đốc hải quân; bổ nhiệm, miễn nhiệm, cách chức Tổng tham mưu trưởng, Chủ nhiệm Tổng cục chính trị Quân đội nhân dân Việt Nam",
+          "D. Quyết định trưng cầu ý dân"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 5 Điều 88. Loại A, B, D vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 13,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định đại xá",
+          "B. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác",
+          "C. Quyết định chính sách cơ bản về đối ngoại",
+          "D. Căn cứ vào nghị quyết của Quốc hội hoặc của Ủy ban thường vụ Quốc hội, công bố, bãi bỏ quyết định tuyên bố tình trạng chiến tranh"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 5 Điều 88. Loại A, B, C vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 14,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Xét báo cáo công tác của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập",
+          "B. Căn cứ vào nghị quyết của Ủy ban thường vụ Quốc hội, ra lệnh tổng động viên hoặc động viên cục bộ, công bố, bãi bỏ tình trạng khẩn cấp",
+          "C. Quyết định mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước",
+          "D. Quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 5 Điều 88. Loại A, C, D vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 15,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Thực hiện quyền giám sát tối cao việc tuân theo Hiến Pháp, luật và nghị quyết của Quốc hội",
+          "B. Quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương",
+          "C. Quyết định phê chuẩn, gia nhập hoặc chấm dứt hiệu lực Điều ước quốc tế khác nhân danh Nhà nước.",
+          "D. Quyết định dự toán ngân sách nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân sách nhà nước"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 1 Điều 96. Loại A, B, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 16,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Tổ chức thi hành Hiến Pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước",
+          "B. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước;",
+          "C. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn",
+          "D. Thành lập, giải thể, nhập, chia, Điều chỉnh địa giới hành chính tỉnh, thành phố trực thuộc trung ương, đơn vị hành chính - kinh tế đặc biệt"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 1 Điều 96. Loại B, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 17,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định đại xá",
+          "B. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác",
+          "C. Quyết định chính sách cơ bản về đối ngoại",
+          "D. Đề xuất, xây dựng chính sách trình Quốc hội, Ủy ban thường vụ Quốc hội quyết định hoặc quyết định theo thẩm quyền để thực hiện nhiệm vụ, quyền hạn quy định tại Điều này"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 2 Điều 96. Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 18,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "B. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "C. Trình dự án luật, dự án ngân sách nhà nước và các dự án khác trước Quốc hội; trình dự án pháp lệnh trước Ủy ban thường vụ Quốc hội",
+          "D. Quyết định vấn đề chiến tranh và hòa bình"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 2 Điều 96. Loại A, B, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 19,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định mức giới hạn an toàn nợ quốc gia, nợ công, nợ chính phủ",
+          "B. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước;",
+          "C. Bầu, miễn nhiệm, bãi nhiệm Chủ tịch Quốc hội",
+          "D. Thống nhất quản lý về kinh tế, văn hóa, xã hội, giáo dục, y tế, khoa học, công nghệ, môi trường, thông tin, truyền thông, đối ngoại, quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 3 Điều 96. Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 20,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định đại xá",
+          "B. Thi hành lệnh động viên hoặc động viên cục bộ, lệnh ban bố tình trạng khẩn cấp và các biện pháp cần thiết khác để bảo vệ Tổ quốc, bảo đảm tính mạng, tài sản của Nhân dân",
+          "C. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác",
+          "D. Quyết định chính sách cơ bản về đối ngoại"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chính phủ theo khoản 3 Điều 96. Loại A, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 21,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Bầu, miễn nhiệm, bãi nhiệm Chủ tịch Hội đồng bầu cử quốc gia, Tổng Kiểm toán nhà nước, người đứng đầu cơ quan khác do Quốc hội thành lập",
+          "B. Trình Quốc hội quyết định thành lập, bãi bỏ bộ, cơ quan ngang bộ; thành lập, giải thể, nhập, chia, Điều chỉnh địa giới hành chính tỉnh, thành phố trực thuộc trung ương, đơn vị hành chính - kinh tế đặc biệt",
+          "C. Quyết định chính sách cơ bản về tài chính, tiền tệ quốc gia; quy định, sửa đổi hoặc bãi bỏ các thứ thuế",
+          "D. Quy định tổ chức và hoạt động của Quốc hội, Chủ tịch nước, Chính phủ, Tòa án nhân dân, Viện kiểm sát nhân dân, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước, chính quyền địa phương và cơ quan khác do Quốc hội thành lập"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 4 Điều 96. Loại A, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 22,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước;",
+          "B. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn",
+          "C. Thành lập, giải thể, nhập, chia, Điều chỉnh địa giới hành chính tỉnh, thành phố trực thuộc trung ương, đơn vị hành chính - kinh tế đặc biệt",
+          "D. Trình Ủy ban thường vụ Quốc hội quyết định thành lập, giải thể, nhập, chia, Điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương;"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 4 Điều 96. Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 23,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Thống nhất quản lý nền hành chính quốc gia",
+          "B. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "C. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "D. Quyết định vấn đề chiến tranh và hòa bình"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 5 Điều 96. Loại B, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 24,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước;",
+          "B. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn",
+          "C. Thành lập, giải thể, nhập, chia, Điều chỉnh địa giới hành chính tỉnh, thành phố trực thuộc trung ương, đơn vị hành chính - kinh tế đặc biệt",
+          "D. Thực hiện quản lý về cán bộ, công chức, viên chức và công vụ trong các cơ quan nhà nước"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 5 Điều 96. Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 25,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Bầu, miễn nhiệm, bãi nhiệm Tổng Kiểm toán nhà nước",
+          "B. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "C. Tổ chức công tác thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, phòng, chống quan liêu, tham nhũng trong bộ máy nhà nước",
+          "D. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 5 Điều 96. Loại A, B, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 26,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước;",
+          "B. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ, Thẩm phán Tòa án nhân dân tối cao",
+          "C. Quyết định đại xá",
+          "D. Lãnh đạo công tác của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 5 Điều 96. Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 27,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Bầu, miễn nhiệm, bãi nhiệm Chủ tịch Hội đồng bầu cử quốc gia, Tổng Kiểm toán nhà nước, người đứng đầu cơ quan khác do Quốc hội thành lập",
+          "B. Hướng dẫn, kiểm tra Hội đồng nhân dân trong việc thực hiện văn bản của cơ quan nhà nước cấp trên",
+          "C. Quyết định chính sách cơ bản về đối ngoại",
+          "D. Quyết định trưng cầu ý dân"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 5 Điều 96. Loại A, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 28,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "B. Tạo Điều kiện để Hội đồng nhân dân thực hiện nhiệm vụ, quyền hạn do luật định",
+          "C. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "D. Quyết định vấn đề chiến tranh và hòa bình"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 5 Điều 96. Loại A, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 29,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định chính sách cơ bản về tài chính, tiền tệ quốc gia; quy định, sửa đổi hoặc bãi bỏ các thứ thuế",
+          "B. Quy định tổ chức và hoạt động của Quốc hội, Chủ tịch nước, Chính phủ, Tòa án nhân dân, Viện kiểm sát nhân dân, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước, chính quyền địa phương và cơ quan khác do Quốc hội thành lập",
+          "C. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ, Thẩm phán Tòa án nhân dân tối cao",
+          "D. Bảo vệ quyền và lợi ích của Nhà nước và xã hội, quyền con người, quyền công dân"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 6 Điều 96. Loại A,B,C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 30,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Bầu, miễn nhiệm, bãi nhiệm Tổng Kiểm toán nhà nước",
+          "B. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "C. Bảo đảm trật tự, an toàn xã hội",
+          "D. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 6 Điều 96. Loại A, B, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 31,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "B. Tổ chức đàm phán, ký Điều ước quốc tế nhân danh Nhà nước theo ủy quyền của Chủ tịch nước",
+          "C. Bãi bỏ văn bản của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với Hiến Pháp, luật, nghị quyết của Quốc hội",
+          "D. Phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của Điều ước quốc tế liên quan đến chiến tranh, hòa bình, chủ quyền quốc gia, tư cách thành viên của Cộng hòa xã hội chủ nghĩa Việt Nam tại các tổ chức quốc tế và khu vực quan trọng, các Điều ước quốc tế về quyền con người, quyền và nghĩa vụ cơ bản của công dân và Điều ước quốc tế khác trái với luật, nghị quyết của Quốc hội"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 7 Điều 96. Loại A, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 32,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Làm Hiến Pháp và sửa đổi Hiến Pháp",
+          "B. Quyết định dự toán ngân sách nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân sách nhà nước",
+          "C. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước;",
+          "D. Quyết định việc ký, gia nhập, phê duyệt hoặc chấm dứt hiệu lực Điều ước quốc tế nhân danh Chính phủ, trừ Điều ước quốc tế trình Quốc hội phê chuẩn quy định tại khoản 14 Điều 70"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chính phủ theo khoản 7 Điều 96. Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 33,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Bảo vệ lợi ích của Nhà nước, lợi ích chính đáng của tổ chức và công dân Việt Nam ở nước ngoài",
+          "B. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "C. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "D. Quyết định vấn đề chiến tranh và hòa bình"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chính phủ theo khoản 7 Điều 96. Loại B, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 34,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Bầu, miễn nhiệm, bãi nhiệm Tổng Kiểm toán nhà nước",
+          "B. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "C. Phối hợp với Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức chính trị - xã hội trong việc thực hiện nhiệm vụ, quyền hạn của mình.",
+          "D. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chính phủ theo khoản 8 Điều 96. Loại A, B, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 35,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Xét báo cáo công tác của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập",
+          "B. Quyết định mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước",
+          "C. Bầu, miễn nhiệm, bãi nhiệm Chủ tịch Quốc hội",
+          "D. Lãnh đạo công tác của Chính phủ; lãnh đạo việc xây dựng chính sách và tổ chức thi hành pháp luật"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Thủ tướng Chính phủ theo khoản 1 Điều 98. Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 36,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Lãnh đạo và chịu trách nhiệm về hoạt động của hệ thống hành chính nhà nước từ trung ương đến địa phương, bảo đảm tính thống nhất và thông suốt của nền hành chính quốc gia",
+          "B. Làm Hiến Pháp và sửa đổi Hiến Pháp",
+          "C. Quyết định dự toán ngân sách nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân sách nhà nước",
+          "D. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước;"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Thủ tướng Chính phủ theo khoản 2 Điều 98. Loại B, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 37,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Bầu, miễn nhiệm, bãi nhiệm Chủ tịch Hội đồng bầu cử quốc gia, Tổng Kiểm toán nhà nước, người đứng đầu cơ quan khác do Quốc hội thành lập",
+          "B. Trình Quốc hội phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và Thành viên khác của Chính phủ",
+          "C. Xét báo cáo công tác của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập",
+          "D. Quyết định mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Thủ tướng Chính phủ theo khoản 3 Điều 98. Loại A, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 38,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Bầu, miễn nhiệm, bãi nhiệm Tổng Kiểm toán nhà nước",
+          "B. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "C. Bổ nhiệm, miễn nhiệm, cách chức Thứ trưởng, chức vụ tương đương thuộc bộ, cơ quan ngang bộ",
+          "D. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Thủ tướng Chính phủ theo khoản 3 Điều 98. Loại A, B, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 39,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "B. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "C. Quyết định vấn đề chiến tranh và hòa bình",
+          "D. Phê chuẩn việc bầu, miễn nhiệm và quyết định Điều động, cách chức Chủ tịch, Phó Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Thủ tướng Chính phủ theo khoản 3 Điều 98. Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 40,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Đình chỉ việc thi hành hoặc bãi bỏ văn bản của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+          "B. Xét báo cáo công tác của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập",
+          "C. Quyết định mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước",
+          "D. Bầu, miễn nhiệm, bãi nhiệm Chủ tịch Quốc hội"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Thủ tướng Chính phủ theo khoản 4 Điều 98. Loại B, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 41,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Quyết định đại xá",
+          "B. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác",
+          "C. Quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia",
+          "D. Đình chỉ việc thi hành nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên, đồng thời đề nghị Ủy ban thường vụ Quốc hội bãi bỏ"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Thủ tướng Chính phủ theo khoản 4 Điều 98. Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 42,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Thực hiện quyền giám sát tối cao việc tuân theo Hiến Pháp, luật và nghị quyết của Quốc hội",
+          "B. Xét báo cáo công tác của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước và cơ quan khác do Quốc hội thành lập",
+          "C. Quyết định chính sách cơ bản về tài chính, tiền tệ quốc gia; quy định, sửa đổi hoặc bãi bỏ các thứ thuế",
+          "D. Chủ tọa các phiên họp của Quốc hội"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chủ tịch Quốc hội theo Điều 72. Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 43,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Hiến Pháp và sửa đổi Hiến Pháp",
+          "B. Quyết định dự toán ngân sách nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân sách nhà nước",
+          "C. Ký chứng thực Hiến Pháp, luật, nghị quyết của Quốc hội",
+          "D. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước;"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chủ tịch Quốc hội theo Điều 72. Loại A, B, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 44,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Bầu, miễn nhiệm, bãi nhiệm Tổng Kiểm toán nhà nước",
+          "B. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "C. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn",
+          "D. Lãnh đạo công tác của Ủy ban thường vụ Quốc hội"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chủ tịch Quốc hội theo Điều 72. Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 45,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Bầu, miễn nhiệm, bãi nhiệm Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội, Ủy viên Ủy ban thường vụ Quốc hội",
+          "B. Tổ chức thực hiện quan hệ đối ngoại của Quốc hội",
+          "C. Quyết định mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước",
+          "D. Quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chủ tịch Quốc hội theo Điều 72. Loại A, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 46,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+        "options": [
+          "A. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "B. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "C. Quyết định vấn đề chiến tranh và hòa bình",
+          "D. Giữ quan hệ với các đại biểu Quốc hội."
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chủ tịch Quốc hội theo Điều 72. Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 47,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Chủ tịch Quốc hội?",
+        "options": [
+          "A. Thực hiện quản lý về cán bộ, công chức, viên chức và công vụ trong các cơ quan nhà nước",
+          "B. Lãnh đạo công tác của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp",
+          "C. Hướng dẫn, kiểm tra Hội đồng nhân dân trong việc thực hiện văn bản của cơ quan nhà nước cấp trên",
+          "D. Chủ tọa các phiên họp của Quốc hội"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chủ tịch Quốc hội theo Điều 72. Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chính phủ theo khoản 5 Điều 96.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 48,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Chủ tịch Quốc hội?",
+        "options": [
+          "A. Tổ chức thi hành Hiến Pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước",
+          "B. Ký chứng thực Hiến Pháp, luật, nghị quyết của Quốc hội",
+          "C. Bảo đảm trật tự, an toàn xã hội",
+          "D. Bảo vệ lợi ích của Nhà nước, lợi ích chính đáng của tổ chức và công dân Việt Nam ở nước ngoài"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chủ tịch Quốc hội theo Điều 72. Loại A, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chính phủ theo Điều 96.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 49,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Chủ tịch Quốc hội ?",
+        "options": [
+          "A. Lãnh đạo công tác của Ủy ban thường vụ Quốc hội",
+          "B. Đề xuất, xây dựng chính sách trình Quốc hội, Ủy ban thường vụ Quốc hội quyết định hoặc quyết định theo thẩm quyền để thực hiện nhiệm vụ, quyền hạn quy định tại Điều này",
+          "C. Trình Ủy ban thường vụ Quốc hội quyết định thành lập, giải thể, nhập, chia, Điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương;",
+          "D. Tổ chức đàm phán, ký Điều ước quốc tế nhân danh Nhà nước theo ủy quyền của Chủ tịch nước"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chủ tịch Quốc hội theo Điều 72. Loại B, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chính phủ theo Điều 96.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 50,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Chủ tịch Quốc hội ?",
+        "options": [
+          "A. Lãnh đạo và chịu trách nhiệm về hoạt động của hệ thống hành chính nhà nước từ trung ương đến địa phương, bảo đảm tính thống nhất và thông suốt của nền hành chính quốc gia",
+          "B. Bổ nhiệm, miễn nhiệm, cách chức Thứ trưởng, chức vụ tương đương thuộc bộ, cơ quan ngang bộ",
+          "C. Tổ chức thực hiện quan hệ đối ngoại của Quốc hội",
+          "D. Đình chỉ việc thi hành nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên, đồng thời đề nghị Ủy ban thường vụ Quốc hội bãi bỏ"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chủ tịch Quốc hội theo Điều 72. Loại A, B, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Thủ tướng Chính phủ theo Điều 98",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 51,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Chủ tịch Quốc hội ?",
+        "options": [
+          "A. Lãnh đạo công tác của Ủy ban thường vụ Quốc hội; tổ chức thực hiện quan hệ đối ngoại của Quốc hội",
+          "B. Tạo Điều kiện để Hội đồng nhân dân thực hiện nhiệm vụ, quyền hạn do luật định",
+          "C. Tổ chức thực hiện Điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên",
+          "D. Thực hiện chế độ báo cáo trước Nhân dân thông qua các phương tiện thông tin đại chúng về những vấn đề quan trọng thuộc thẩm quyền giải quyết của Chính phủ và Thủ tướng Chính phủ."
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chủ tịch Quốc hội theo Điều 72. Loại B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chính phủ theo khoản 5 Điều 96. Loại C và D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Thủ tướng Chính phủ theo Điều 98",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 52,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Chủ tịch Quốc hội ?",
+        "options": [
+          "A. Giám sát hoạt động của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán Nhà nước và cơ quan khác do Quốc hội thành lập",
+          "B. Hướng dẫn và bảo đảm Điều kiện hoạt động của đại biểu Quốc hội",
+          "C. Chủ tọa các phiên họp của Quốc hội",
+          "D. Thực hiện quan hệ đối ngoại của Quốc hội"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chủ tịch Quốc hội theo Điều 72. Loại A, B, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội theo Điều 74",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 53,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Chủ tịch Quốc hội ?",
+        "options": [
+          "A. Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân",
+          "B. Ký chứng thực Hiến Pháp, luật, nghị quyết của Quốc hội",
+          "C. Bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+          "D. Quyết định thành lập, giải thể, nhập, chia, Điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chủ tịch Quốc hội theo Điều 72. Loại A, C, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội theo Điều 74",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 54,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Chủ tịch Quốc hội ?",
+        "options": [
+          "A. Thi hành lệnh động viên hoặc động viên cục bộ, lệnh ban bố tình trạng khẩn cấp và các biện pháp cần thiết khác để bảo vệ Tổ quốc, bảo đảm tính mạng, tài sản của Nhân dân",
+          "B. Hướng dẫn, kiểm tra Hội đồng nhân dân trong việc thực hiện văn bản của cơ quan nhà nước cấp trên",
+          "C. Giữ quan hệ với các đại biểu Quốc hội.",
+          "D. Bảo vệ quyền và lợi ích của Nhà nước và xã hội, quyền con người, quyền công dân"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chủ tịch Quốc hội theo Điều 72. Loại A, B, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Chính phủ theo Điều 96",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 55,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội?",
+        "options": [
+          "A. Ký chứng thực Hiến Pháp, luật, nghị quyết của Quốc hội",
+          "B. Lãnh đạo công tác của Ủy ban thường vụ Quốc hội",
+          "C. Tổ chức thực hiện quan hệ đối ngoại của Quốc hội",
+          "D. Tổ chức việc chuẩn bị, triệu tập và chủ trì kỳ họp Quốc hội"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 1 Điều 74 về nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội. Loại A, B, C vì đây là nội dung thuộc Điều 72 về nhiệm vụ và quyền hạn của Chủ tịch Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 56,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội?",
+        "options": [
+          "A. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp nhà nước khác",
+          "B. Ra pháp lệnh về những vấn đề được Quốc hội giao",
+          "C. Quyết định chính sách cơ bản về đối ngoại",
+          "D. Quyết định trưng cầu ý dân"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc khoản 2 Điều 74 về nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội. Loại A, C, D vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 57,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội?",
+        "options": [
+          "A. Quyết định đại xá",
+          "B. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+          "C. Giải thích Hiến Pháp, luật, pháp lệnh",
+          "D. Quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Chọn C vì đây là nội dung thuộc khoản 2 Điều 74 về nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội. Loại A, B, D vì đây là nội dung thuộc khoản 11,12,13 Điều 70 về nhiệm vụ và quyền hạn của Quốc hội..",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 58,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội?",
+        "options": [
+          "A. Bầu, miễn nhiệm, bãi nhiệm Chủ tịch Quốc hội",
+          "B. Bầu, miễn nhiệm, bãi nhiệm Tổng Kiểm toán nhà nước",
+          "C. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+          "D. Giám sát việc thi hành Hiến Pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 3 Điều 74 về nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội. Loại A, B, C vì đây là nội dung thuộc khoản 7 Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 59,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội?",
+        "options": [
+          "A. Giám sát hoạt động của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán Nhà nước và cơ quan khác do Quốc hội thành lập",
+          "B. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ, Thẩm phán Tòa án nhân dân tối cao",
+          "C. Quyết định thành lập, bãi bỏ bộ, cơ quan ngang bộ của Chính phủ",
+          "D. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Chọn A vì đây là nội dung thuộc khoản 3 Điều 74 về nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội. Loại B, C, D vì đây là nội dung thuộc khoản 7, 9 12 Điều 70 về nhiệm vụ và quyền hạn của Quốc hội.",
+        "topic": "Hiến pháp 2013"
+      },
+      {
+        "id": 60,
+        "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Ủy ban thường vụ Quốc hội?",
+        "options": [
+          "A. Ký chứng thực Hiến Pháp, luật, nghị quyết của Quốc hội",
+          "B. Lãnh đạo công tác của Ủy ban thường vụ Quốc hội",
+          "C. Tổ chức thực hiện quan hệ đối ngoại của Quốc hội",
+          "D. Đình chỉ việc thi hành văn bản của Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với Hiến Pháp, luật, nghị quyết của Quốc hội và trình Quốc hội quyết định việc bãi bỏ văn bản đó tại kỳ họp gần nhất"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Chọn D vì đây là nội dung thuộc khoản 4 Điều 74 về nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội. Loại A, B, C vì đây là nội dung thuộc Điều 72 về nhiệm vụ và quyền hạn của Chủ tịch Quốc hội",
+        "topic": "Hiến pháp 2013"
+      }
+    ]
+  },
+  {
     "id": 10,
     "title": "THADS_Đề tổng hợp số 10",
     "questions": [
