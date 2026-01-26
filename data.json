@@ -5500,5 +5500,790 @@
         "topic": "Nghị định 39/2025/NĐ-CP"
       }
     ]
+  },{
+    "id": "DE007",
+    "title": "Đề 001: Luật Cán bộ, công chức 2025",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, khái niệm “cán bộ” được hiểu như thế nào?",
+        "options": [
+          "A. Người làm việc trong đơn vị sự nghiệp công lập, hưởng lương từ ngân sách nhà nước",
+          "B. Người được tuyển dụng vào vị trí việc làm trong cơ quan hành chính nhà nước",
+          "C. Cán bộ là công dân Việt Nam, được bầu cử, phê chuẩn, bổ nhiệm hoặc chỉ định giữ chức vụ, chức danh theo nhiệm kỳ trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam, các tổ chức chính trị‑xã hội ở trung ương, ở cấp tỉnh, ở cấp xã, trong biên chế và hưởng lương từ ngân sách nhà nước.",
+          "D. Người giữ chức vụ lãnh đạo trong tổ chức chính trị xã hội nghề nghiệp"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Căn cứ khoản 1 Điều 1 Luật Cán bộ, công chức 2025 – Luật số 80/2025/QH15.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 2,
+        "question": "Đâu là khái niệm đúng về công chức theo theo quy định tại Luật Cán bộ, công chức năm 2025 ?",
+        "options": [
+          "A. Người được bầu cử theo nhiệm kỳ vào cơ quan hành chính",
+          "B. Người làm việc hợp đồng trong các cơ quan của Đảng và Nhà nước",
+          "C. Người được bổ nhiệm giữ chức vụ lãnh đạo trong đơn vị sự nghiệp công lập",
+          "D. Công chức là công dân Việt Nam, được tuyển dụng vào vị trí việc làm trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam, các tổ chức chính trị xã hội ở trung ương, ở cấp tỉnh, ở cấp xã; trong cơ quan, đơn vị thuộc Quân đội nhân dân... trong biên chế và hưởng lương từ ngân sách nhà nước."
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Trích theo quy định tại khoản 2 Điều 1 Luật Cán bộ, công chức 2025 – Luật số 80/2025/QH15.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 3,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, điểm nào sau đây đúng với cả cán bộ và công chức?",
+        "options": [
+          "A. Đều giữ chức vụ theo nhiệm kỳ",
+          "B. Đều làm việc theo chế độ hợp đồng",
+          "C. Đều trong biên chế và hưởng lương từ ngân sách nhà nước",
+          "D. Đều làm việc trong doanh nghiệp nhà nước"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Theo khoản 1 và khoản 2 Điều 1, cả cán bộ và công chức đều 'trong biên chế và hưởng lương từ ngân sách nhà nước'.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 4,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Bỏ qua quy định pháp luật khi cần thiết",
+          "B. Tuân thủ Hiến pháp và pháp luật",
+          "C. Thực hiện theo ý kiến cá nhân cán bộ",
+          "D. Tập trung quyền lực mà không phối hợp"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Vì nội dung này được quy định tại khoản 1 Điều 2 Luật Cán bộ, công chức 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 5,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Chỉ bảo vệ quyền lợi Nhà nước mà bỏ qua cá nhân",
+          "B. Ưu tiên lợi ích tổ chức hơn quyền công dân",
+          "C. Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức và cá nhân",
+          "D. Thực hiện công vụ không cần minh bạch"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Khoản 2 Điều 2 Luật Cán bộ, công chức 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 6,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát",
+          "B. Giữ bí mật mọi thông tin công vụ",
+          "C. Thi hành công vụ tùy tiện, không cần giám sát",
+          "D. Phân quyền không rõ ràng, lỏng lẻo trong quản lý"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Khoản 3 Điều 2 Luật Cán bộ, công chức 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 7,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Thực hiện công vụ không cần quy trình, không liên tục",
+          "B. Tập trung vào hiệu quả cá nhân hơn là hệ thống",
+          "C. Giảm sự phối hợp giữa các đơn vị để nhanh chóng hơn",
+          "D. Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Khoản 4 Điều 2 Luật Cán bộ, công chức 2025",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 8,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ",
+          "B. Làm việc độc lập không cần phối hợp với các cấp",
+          "C. Bỏ qua cơ cấu thứ bậc hành chính trong thi hành công vụ",
+          "D. Phối hợp theo ý thích của cán bộ công chức"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Khoản 5 Điều 2 Luật Cán bộ, công chức 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 9,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Tuân thủ Hiến pháp và pháp luật",
+          "B. Thực hiện công vụ độc lập không cần phối hợp với các cấp",
+          "C. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát",
+          "D. Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Theo Khoản 5 Điều 2 Luật Cán bộ, công chức 2025, nguyên tắc thi hành công vụ bao gồm “Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ.” Việc làm việc độc lập, không phối hợp với các cấp là vi phạm nguyên tắc này.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 10,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Bỏ qua quy định pháp luật khi thi hành công vụ",
+          "B. Tuân thủ Hiến pháp và pháp luật",
+          "C. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát",
+          "D. Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Khoản 1 Điều 2 Luật Cán bộ, công chức 2025 quy định rõ nguyên tắc “Tuân thủ Hiến pháp và pháp luật.”",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 11,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Thực hiện công vụ tùy tiện, không minh bạch",
+          "B. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát",
+          "C. Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả",
+          "D. Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân và bảo vệ lợi ích hợp pháp của tổ chức, cá nhân"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Khoản 3 Điều 2 Luật Cán bộ, công chức 2025 yêu cầu công khai, minh bạch.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 12,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát",
+          "B. Tuân thủ Hiến pháp và pháp luật",
+          "C. Ưu tiên lợi ích cá nhân hơn lợi ích Nhà nước và công dân",
+          "D. Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Theo Khoản 2 Điều 2 Luật Cán bộ, công chức 2025, thi hành công vụ phải tôn trọng, bảo vệ quyền lợi ích hợp pháp của tổ chức và cá nhân (không ưu tiên lợi ích cá nhân của cán bộ).",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 13,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát",
+          "B. Giữ bí mật toàn bộ thông tin công vụ, không minh bạch",
+          "C. Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả",
+          "D. Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân và bảo vệ lợi ích hợp pháp của tổ chức, cá nhân"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Khoản 3 Điều 2 Luật Cán bộ, công chức 2025 quy định nguyên tắc thi hành công vụ phải “Công khai, minh bạch...\".",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 14,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc quản lý cán bộ, công chức?",
+        "options": [
+          "A. Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước",
+          "B. Bỏ qua tiêu chuẩn chức danh khi tuyển dụng",
+          "C. Chỉ căn cứ vào quan hệ cá nhân để bổ nhiệm",
+          "D. Không áp dụng chế độ trách nhiệm cá nhân trong quản lý"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Khoản 1 Điều 3 Luật Cán bộ, công chức 2025 quy định: 'Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước.'",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 15,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc quản lý cán bộ, công chức?",
+        "options": [
+          "A. Bỏ qua vị trí việc làm khi đánh giá cán bộ",
+          "B. Tuyển dụng không theo tiêu chuẩn chức danh",
+          "C. Bổ nhiệm tùy tiện không căn cứ biên chế",
+          "D. Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Khoản 2 Điều 3 Luật Cán bộ, công chức 2025 quy định: 'Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.'",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 16,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc quản lý cán bộ, công chức?",
+        "options": [
+          "A. Thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng",
+          "B. Tập trung quyền lực tuyệt đối vào một người",
+          "C. Không phân công rõ ràng nhiệm vụ cho cán bộ, công chức",
+          "D. Bỏ qua chế độ trách nhiệm cá nhân"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Khoản 3 Điều 3 Luật Cán bộ, công chức 2025 quy định: 'Thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng.'",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 17,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, việc đánh giá, bố trí, sử dụng cán bộ, công chức phải căn cứ vào yếu tố nào?",
+        "options": [
+          "A. Ý thích cá nhân của người quản lý",
+          "B. Mối quan hệ gia đình và bạn bè",
+          "C. Phẩm chất chính trị, đạo đức, năng lực và kết quả, hiệu quả thực thi nhiệm vụ theo yêu cầu vị trí việc làm",
+          "D. Tuổi tác và giới tính là yếu tố duy nhất"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Khoản 4 Điều 3 Luật Cán bộ, công chức 2025 quy định: 'Việc đánh giá, bố trí, sử dụng cán bộ, công chức phải căn cứ vào phẩm chất chính trị, đạo đức, năng lực và kết quả, hiệu quả thực thi nhiệm vụ theo yêu cầu vị trí việc làm.'",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 18,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc quản lý cán bộ, công chức?",
+        "options": [
+          "A. Bảo đảm thống nhất, đồng bộ, liên thông trong hệ thống chính trị",
+          "B. Quản lý rời rạc, không liên kết giữa các bộ phận",
+          "C. Bỏ qua quy định về hệ thống chính trị",
+          "D. Không đảm bảo sự đồng bộ trong tổ chức"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Khoản 5 Điều 3 Luật Cán bộ, công chức 2025 quy định: 'Bảo đảm thống nhất, đồng bộ, liên thông trong hệ thống chính trị.'",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 19,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc quản lý cán bộ, công chức?",
+        "options": [
+          "A. Ưu tiên trong tuyển dụng, bổ nhiệm và thực hiện chế độ, chính sách đối với người dân tộc thiểu số",
+          "B. Bỏ qua tiêu chuẩn năng lực khi tuyển dụng",
+          "C. Tuyển dụng dựa trên quan hệ cá nhân",
+          "D. Không thực hiện chế độ bình đẳng giới"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Khoản 7 Điều 3 Luật Cán bộ, công chức 2025 quy định nguyên tắc “Ưu tiên trong tuyển dụng, bổ nhiệm và thực hiện chế độ, chính sách đối với người dân tộc thiểu số”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 20,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc quản lý cán bộ, công chức?",
+        "options": [
+          "A. Chỉ tuyển dụng nam giới",
+          "B. Thực hiện bình đẳng giới",
+          "C. Ưu tiên bổ nhiệm theo giới tính",
+          "D. Bỏ qua nguyên tắc bình đẳng trong tuyển dụng"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Khoản 6 Điều 3 Luật Cán bộ, công chức 2025 quy định nguyên tắc thực hiện bình đẳng giới trong quản lý cán bộ, công chức.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 21,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.",
+          "B. Tuân thủ Hiến pháp và pháp luật",
+          "C. Bảo đảm thống nhất, đồng bộ, liên thông trong hệ thống chính trị.",
+          "D. Thực hiện bình đẳng giới."
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Khoản 1 Điều 2 Luật Cán bộ, công chức 2025 quy định nguyên tắc “Tuân thủ Hiến pháp và pháp luật”. (Các đáp án khác là nguyên tắc quản lý).",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 22,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước.",
+          "B. Thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng.",
+          "C. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát",
+          "D. Ưu tiên trong tuyển dụng, bổ nhiệm và thực hiện chế độ, chính sách đối với người dân tộc thiểu số."
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Khoản 3 Điều 2 Luật Cán bộ, công chức 2025 quy định nguyên tắc “Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 23,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.",
+          "B. Thực hiện bình đẳng giới.",
+          "C. Ưu tiên trong tuyển dụng, bổ nhiệm và thực hiện chế độ, chính sách đối với người dân tộc thiểu số.",
+          "D. Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Khoản 5 Điều 2 Luật Cán bộ, công chức 2025 quy định nguyên tắc “Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 24,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.",
+          "B. Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức và cá nhân",
+          "C. Việc đánh giá, bố trí, sử dụng cán bộ, công chức phải căn cứ vào phẩm chất chính trị, đạo đức, năng lực và kết quả, hiệu quả thực thi nhiệm vụ theo yêu cầu vị trí việc làm.",
+          "D. Bảo đảm thống nhất, đồng bộ, liên thông trong hệ thống chính trị."
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Khoản 2 Điều 2 Luật Cán bộ, công chức 2025 quy định nguyên tắc “Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức và cá nhân”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 25,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước.",
+          "B. Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.",
+          "C. Thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng.",
+          "D. Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Khoản 4 Điều 2 Luật Cán bộ, công chức 2025 quy định nguyên tắc “Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả”",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 26,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước.",
+          "B. Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức và cá nhân",
+          "C. Thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng.",
+          "D. Thực hiện bình đẳng giới."
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Khoản 2 Điều 2 Luật Cán bộ, công chức 2025 quy định nguyên tắc “Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức và cá nhân”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 27,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước.",
+          "B. Tuân thủ Hiến pháp và pháp luật.",
+          "C. Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức và cá nhân.",
+          "D. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát."
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Vì đây là nguyên tắc quản lý cán bộ, công chức; quy định tại khoản 1 Điều 3 Luật Cán bộ, công chức 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 28,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát.",
+          "B. Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả.",
+          "C. Thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng.",
+          "D. Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ."
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Vì đây là nguyên tắc quản lý cán bộ, công chức; quy định tại khoản 3 Điều 3 Luật Cán bộ, công chức 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 29,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức và cá nhân.",
+          "B. Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.",
+          "C. Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ.",
+          "D. Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả."
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Vì đây là nguyên tắc quản lý cán bộ, công chức; quy định tại khoản 2 Điều 3 Luật Cán bộ, công chức 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 30,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát.",
+          "B. Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả.",
+          "C. Bảo đảm thống nhất, đồng bộ, liên thông trong hệ thống chính trị.",
+          "D. Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức và cá nhân."
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Vì đây là nguyên tắc quản lý cán bộ, công chức; quy định tại khoản 5 Điều 3 Luật Cán bộ, công chức 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 31,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Tuân thủ Hiến pháp và pháp luật.",
+          "B. Thực hiện bình đẳng giới.",
+          "C. Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức và cá nhân.",
+          "D. Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả."
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Vì đây là nguyên tắc quản lý cán bộ, công chức; quy định tại khoản 6 Điều 3 Luật Cán bộ, công chức 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 32,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát.",
+          "B. Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả.",
+          "C. Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ.",
+          "D. Ưu tiên trong tuyển dụng, bổ nhiệm và thực hiện chế độ, chính sách đối với người dân tộc thiểu số."
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Vì đây là nguyên tắc quản lý cán bộ, công chức; quy định tại khoản 7 Điều 3 Luật Cán bộ, công chức 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 33,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. Tuân thủ Hiến pháp và pháp luật.",
+          "B. Việc đánh giá, bố trí, sử dụng cán bộ, công chức phải căn cứ vào phẩm chất chính trị, đạo đức, năng lực và kết quả, hiệu quả thực thi nhiệm vụ theo yêu cầu vị trí việc làm.",
+          "C. Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ.",
+          "D. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát."
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Vì đây là nguyên tắc quản lý cán bộ, công chức; quy định tại khoản 4 Điều 3 Luật Cán bộ, công chức 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 34,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc quản lý cán bộ, công chức?",
+        "options": [
+          "A. Tuân thủ Hiến pháp và pháp luật.",
+          "B. Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước.",
+          "C. Bảo đảm thống nhất, đồng bộ, liên thông trong hệ thống chính trị.",
+          "D. Thực hiện bình đẳng giới."
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Vì đây là nguyên tắc trong thi hành công vụ; quy định tại khoản 1 Điều 2 Luật Cán bộ, công chức năm 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 35,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc quản lý cán bộ, công chức?",
+        "options": [
+          "A. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát.",
+          "B. Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước.",
+          "C. Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.",
+          "D. Bảo đảm thống nhất, đồng bộ, liên thông trong hệ thống chính trị."
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Vì đây là nguyên tắc trong thi hành công vụ; quy định tại khoản 3 Điều 2 Luật Cán bộ, công chức năm 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 36,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc quản lý cán bộ, công chức?",
+        "options": [
+          "A. Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.",
+          "B. Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức và cá nhân.",
+          "C. Thực hiện bình đẳng giới.",
+          "D. Ưu tiên trong tuyển dụng, bổ nhiệm và thực hiện chế độ, chính sách đối với người dân tộc thiểu số."
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Vì đây là nguyên tắc trong thi hành công vụ; quy định tại khoản 2 Điều 2 Luật Cán bộ, công chức năm 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 37,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc quản lý cán bộ, công chức?",
+        "options": [
+          "A. Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.",
+          "B. Việc đánh giá, bố trí, sử dụng cán bộ, công chức phải căn cứ vào phẩm chất chính trị, đạo đức, năng lực và kết quả, hiệu quả thực thi nhiệm vụ theo yêu cầu vị trí việc làm.",
+          "C. Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả.",
+          "D. Ưu tiên trong tuyển dụng, bổ nhiệm và thực hiện chế độ, chính sách đối với người dân tộc thiểu số."
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Vì đây là nguyên tắc trong thi hành công vụ; quy định tại khoản 4 Điều 2 Luật Cán bộ, công chức năm 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 38,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc quản lý cán bộ, công chức?",
+        "options": [
+          "A. Thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng.",
+          "B. Việc đánh giá, bố trí, sử dụng cán bộ, công chức phải căn cứ vào phẩm chất chính trị, đạo đức, năng lực và kết quả, hiệu quả thực thi nhiệm vụ theo yêu cầu vị trí việc làm.",
+          "C. Bảo đảm thống nhất, đồng bộ, liên thông trong hệ thống chính trị.",
+          "D. Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ."
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Vì đây là nguyên tắc trong thi hành công vụ; quy định tại khoản 5 Điều 2 Luật Cán bộ, công chức năm 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 39,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, quy định mấy nguyên tắc quản lý cán bộ, công chức?",
+        "options": [
+          "A. 5",
+          "B. 6",
+          "C. 7",
+          "D. 8"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Vì 7 nguyên tắc này được quy định tại Điều 3 Luật Cán bộ, công chức năm 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 40,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, quy định mấy nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. 5",
+          "B. 6",
+          "C. 7",
+          "D. 8"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Vì 5 nguyên tắc này được quy định tại Điều 2 Luật Cán bộ, công chức năm 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 41,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, quản lý cán bộ, công chức phải kết hợp giữa những yếu tố nào sau đây?",
+        "options": [
+          "A. Bằng cấp và tuổi đời",
+          "B. Vị trí việc làm, chỉ tiêu biên chế và tiêu chuẩn chức danh",
+          "C. Thâm niên và quan hệ chính trị",
+          "D. Sở thích cá nhân và trình độ học vấn"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Khoản 2 Điều 3 Luật Cán bộ, công chức năm 2025 quy định: “Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 42,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, nội dung nào sau đây không thuộc nguyên tắc quản lý cán bộ, công chức?",
+        "options": [
+          "A. Thực hiện bình đẳng giới",
+          "B. Ưu tiên tuyển dụng người dân tộc thiểu số",
+          "C. Ưu tiên bổ nhiệm theo giới tính",
+          "D. Đánh giá dựa trên năng lực, hiệu quả thực thi nhiệm vụ"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Khoản 6 Điều 3 Luật Cán bộ, công chức năm 2025 quy định “thực hiện bình đẳng giới”, không phải “ưu tiên bổ nhiệm theo giới tính”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 43,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, trong thi hành công vụ phải bảo đảm nguyên tắc nào sau đây?",
+        "options": [
+          "A. Đặt lợi ích tổ chức lên trên pháp luật",
+          "B. Ưu tiên người có quan hệ thân nhân",
+          "C. Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả",
+          "D. Thực hiện theo chỉ đạo cá nhân, không cần phân cấp"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Vì nội dung này thuộc về nguyên tắc trong thi hành công vụ theo quy định tại khoản 4 Điều 2 Luật Cán bộ, công chức năm 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 44,
+        "question": "Theo Luật Cán bộ, công chức 2025, Nhà nước có cơ chế đặc biệt để thu hút chuyên gia, nhà khoa học, luật gia, luật sư giỏi, doanh nhân tiêu biểu, xuất sắc, sinh viên tốt nghiệp xuất sắc và nguồn nhân lực chất lượng cao khác vào làm việc trong các cơ quan nào sau đây?",
+        "options": [
+          "A. Cơ quan của Đảng Cộng sản Việt Nam",
+          "B. Cơ quan của Nhà nước",
+          "C. Cơ quan của Mặt trận Tổ quốc Việt Nam, các tổ chức chính trị - xã hội",
+          "D. Cả 3 đáp án trên đều đúng"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Vì nội dung này quy định tại khoản 1 Điều 4 Luật Cán bộ, công chức năm 2025 “Nhà nước có cơ chế đặc biệt để thu hút chuyên gia, nhà khoa học, luật gia, luật sư giỏi, doanh nhân tiêu biểu, xuất sắc, sinh viên tốt nghiệp xuất sắc và nguồn nhân lực chất lượng cao khác vào làm việc trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam, các tổ chức chính trị - xã hội”",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 45,
+        "question": "Theo Luật Cán bộ, công chức 2025, ai có cơ chế đặc biệt để thu hút chuyên gia, nhà khoa học, luật gia, luật sư giỏi, doanh nhân tiêu biểu, xuất sắc, sinh viên tốt nghiệp xuất sắc và nguồn nhân lực chất lượng cao khác vào làm việc trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam, các tổ chức chính trị - xã hội?",
+        "options": [
+          "A. Nhà nước",
+          "B. Ban Tổ chức Trung ương",
+          "C. Quốc hội",
+          "D. Bộ Nội vụ"
+        ],
+        "correct": 0,
+        "rationale": "Giải thích: Vì nội dung này quy định tại khoản 1 Điều 4 Luật Cán bộ, công chức năm 2025 “Nhà nước có cơ chế đặc biệt để thu hút chuyên gia, nhà khoa học, luật gia, luật sư giỏi, doanh nhân tiêu biểu, xuất sắc, sinh viên tốt nghiệp xuất sắc và nguồn nhân lực chất lượng cao khác vào làm việc trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam, các tổ chức chính trị - xã hội”",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 46,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, đối tượng nào không thuộc diện được thu hút theo cơ chế đặc biệt của Nhà nước?",
+        "options": [
+          "A. Doanh nhân tiêu biểu, xuất sắc",
+          "B. Luật gia, luật sư giỏi",
+          "C. Sinh viên tốt nghiệp xuất sắc",
+          "D. Ca sĩ, Nghệ sĩ"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Khoản 1 Điều 4 Luật Cán bộ, công chức năm 2025 quy định đối tượng thu hút gồm: chuyên gia, nhà khoa học, luật gia, luật sư giỏi, doanh nhân tiêu biểu, sinh viên tốt nghiệp xuất sắc... không đề cập “Ca sĩ, nghệ sĩ”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 47,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, người có tài năng trong hoạt động công vụ phải có đặc điểm nào sau đây?",
+        "options": [
+          "A. Có mối quan hệ thân thiết với lãnh đạo",
+          "B. Được đào tạo ở nước ngoài",
+          "C. Có tư duy đổi mới, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung",
+          "D. Có tuổi đời dưới 35 tuổi"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Khoản 2 Điều 4 nêu rõ người có tài năng phải “có tư duy đổi mới, năng động, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung,….”",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 48,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, người có tài năng trong hoạt động công vụ phải có đặc điểm nào sau đây?",
+        "options": [
+          "A. Có mối quan hệ rộng rãi và từng giữ nhiều chức vụ lãnh đạo",
+          "B. Có khát vọng cống hiến, phụng sự Tổ quốc và Nhân dân",
+          "C. Có trình độ học vấn cao, từng công tác ở nước ngoài",
+          "D. Có thành tích học tập xuất sắc và được giới thiệu bởi tổ chức chính trị - xã hội"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Khoản 2 Điều 4 Luật Cán bộ, công chức 2025 quy định “Người có tài năng trong hoạt động công vụ là cán bộ, công chức ………, có khát vọng cống hiến, phụng sự Tổ quốc và Nhân dân,…”",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 49,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, ai là người quy định khung cơ chế, chính sách thu hút chuyên gia, nhà khoa học, luật gia, luật sư giỏi, doanh nhân tiêu biểu, xuất sắc, sinh viên tốt nghiệp xuất sắc và nguồn nhân lực chất lượng cao khác vào làm việc trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam, các tổ chức chính trị - xã hội ?",
+        "options": [
+          "A. Quốc hội",
+          "B. Chính phủ",
+          "C. Chủ tịch nước",
+          "D. Hội đồng nhân dân cấp tỉnh"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Khoản 3 Điều 4 quy định: “Chính phủ quy định khung cơ chế, chính sách thu hút, trọng dụng và đãi ngộ……...”",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 50,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, căn cứ vào đâu mà người đứng đầu Bộ, ngành, cơ quan trung ương hoặc Hội đồng nhân dân cấp tỉnh xác định ngành, lĩnh vực cần ưu tiên sử dụng nguồn nhân lực chất lượng cao trong từng giai đoạn và quyết định chính sách đối với các đối tượng này ?",
+        "options": [
+          "A. Nghị quyết của Đảng ủy cơ sở và nhu cầu thực tế của địa phương",
+          "B. Đề xuất từ các đơn vị trực thuộc và ý kiến chuyên gia độc lập",
+          "C. Quy định của Chính phủ và định hướng phát triển ngành, lĩnh vực chiến lược, trọng tâm của quốc gia, địa phương",
+          "D. Chỉ tiêu biên chế do Bộ Nội vụ phân bổ hàng năm"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Khoản 4 Điều 4 quy định: \"Căn cứ vào quy định của Chính phủ và định hướng phát triển ngành, lĩnh vực chiến lược, trọng tâm của quốc gia, địa phương...\" để xác định lĩnh vực ưu tiên và quyết định chính sách đối với người có tài năng",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 51,
+        "question": "Theo Luật Cán bộ, công chức 2025, nguồn kinh phí thực hiện chính sách đối với người có tài năng trong hoạt động công vụ được bảo đảm từ đâu?",
+        "options": [
+          "A. Quỹ phúc lợi của công đoàn",
+          "B. Ngân sách địa phương cấp xã",
+          "C. Ngân sách nhà nước và các nguồn hợp pháp khác",
+          "D. Tài trợ cá nhân từ doanh nghiệp nước ngoài"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Khoản 5 Điều 4 quy định: “Ngân sách nhà nước bảo đảm kinh phí để thực hiện chính sách đối với đối tượng quy định tại khoản 1 và khoản 2 Điều này; Bộ, ngành, cơ quan trung ương và địa phương được huy động các nguồn hợp pháp khác để thực hiện chính sách.”",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 52,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, \"vị trí việc làm\" được hiểu như thế nào?",
+        "options": [
+          "A. Công việc phù hợp với nguyện vọng cá nhân và năng lực thực tiễn của công chức",
+          "B. Chức danh công việc được phân bổ theo thâm niên và năng lực",
+          "C. Công việc gắn với chức vụ, chức danh, ngạch công chức trên cơ sở chức năng, nhiệm vụ cụ thể của cơ quan, tổ chức, đơn vị",
+          "D. Chức vụ quản lý, lãnh đạo trong bộ máy hành chính nhà nước"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Khoản 4 Điều 5 Luật Cán bộ, công chức năm 2025 quy định:“Vị trí việc làm là công việc gắn với chức vụ, chức danh, ngạch công chức trên cơ sở chức năng, nhiệm vụ cụ thể của cơ quan, tổ chức, đơn vị”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 53,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, \"chỉ định\" là gì?",
+        "options": [
+          "A. Việc bổ nhiệm công chức theo quy trình thi tuyển",
+          "B. Việc đề xuất cán bộ giữ chức vụ theo thỏa thuận",
+          "C. Việc cử người tham gia ứng cử vào vị trí lãnh đạo",
+          "D. Việc cơ quan, tổ chức có thẩm quyền quyết định giao cán bộ giữ chức vụ, chức danh lãnh đạo, quản lý không qua bầu cử"
+        ],
+        "correct": 3,
+        "rationale": "Giải thích: Khoản 6 Điều 5 Luật Cán bộ, công chức năm 2025 quy định: “Chỉ định là việc cơ quan, tổ chức có thẩm quyền quyết định giao cán bộ giữ chức vụ, chức danh lãnh đạo, quản lý không qua bầu cử”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 54,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, cơ quan sử dụng cán bộ, công chức là gì?",
+        "options": [
+          "A. Là cơ quan, tổ chức, đơn vị được giao thẩm quyền xây dựng chính sách quản lý cán bộ cấp chiến lược",
+          "B. Là cơ quan, tổ chức, đơn vị được giao thẩm quyền tuyển dụng công chức theo thỏa thuận trực tiếp",
+          "C. Là cơ quan, tổ chức, đơn vị được giao thẩm quyền sử dụng, phân công, bố trí, kiểm tra, đánh giá việc thực hiện nhiệm vụ, quyền hạn của cán bộ, công chức và các thẩm quyền khác theo phân cấp, ủy quyền.",
+          "D. Là cơ quan, tổ chức, đơn vị được giao thẩm quyền Phân bổ ngân sách cho hoạt động đào tạo"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Khoản 3 Điều 5 định nghĩa \"Cơ quan sử dụng cán bộ, công chức\" là nơi được giao thẩm quyền sử dụng, phân công, bố trí, kiểm tra, đánh giá...",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 55,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, \"ngạch\" được định nghĩa là?",
+        "options": [
+          "A. Là nhóm công chức được phân theo chức vụ",
+          "B. Là tên gọi thể hiện thứ bậc về chuyên môn, nghiệp vụ của công chức",
+          "C. Là bậc lương dành cho công chức được đề bạt",
+          "D. Là cấp hành chính trong bộ máy quản lý"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Khoản 5 Điều 5 Luật Cán bộ, công chức năm 2025 quy định “Ngạch là tên gọi thể hiện thứ bậc về chuyên môn, nghiệp vụ của công chức”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 56,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, “công vụ” là gì?",
+        "options": [
+          "A. Mọi hoạt động phục vụ trong cơ quan nhà nước",
+          "B. Hoạt động của cán bộ, công chức nhằm thực hiện quản lý nhà nước và đáp ứng nhu cầu xã hội",
+          "C. Nhiệm vụ chính trị được giao cho lãnh đạo các cơ quan trung ương",
+          "D. Các công việc hành chính nội bộ không liên quan đến người dân"
+        ],
+        "correct": 1,
+        "rationale": "Giải thích: Khoản 1 Điều 5 quy định rõ “Công vụ là hoạt động do cán bộ, công chức thực hiện nghĩa vụ, quyền hạn được giao theo quy định của cấp có thẩm quyền và của pháp luật nhằm thực hiện quản lý nhà nước và đáp ứng nhu cầu chung của xã hội.”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 57,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, “cơ quan quản lý cán bộ, công chức” là gì?",
+        "options": [
+          "A. Cơ quan giám sát hành vi, đạo đức công vụ của cán bộ, công chức",
+          "B. Cơ quan có trách nhiệm đào tạo và bổ nhiệm cán bộ, công chức",
+          "C. Cơ quan, tổ chức có thẩm quyền thực hiện các nội dung quản lý cán bộ, công chức",
+          "D. Cơ quan chuyên trách về tổ chức bộ máy và hành chính sự vụ"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Vì nội dung này được quy định tại khoản 2 Điều 5 Luật Cán bộ, công chức năm 2025.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 58,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, “điều động” là gì?",
+        "options": [
+          "A. Cử cán bộ, công chức ra nước ngoài để học tập, công tác",
+          "B. Chuyển công chức từ cấp xã lên cấp huyện",
+          "C. Việc cơ quan, tổ chức có thẩm quyền quyết định chuyển cán bộ, công chức từ cơ quan, tổ chức, đơn vị này đến làm việc ở cơ quan, tổ chức, đơn vị khác.",
+          "D. Bổ nhiệm vào vị trí quản lý cấp trên"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Vì theo Khoản 7 Điều 5 Luật Cán bộ, công chức năm 2025 “Điều động là việc cơ quan, tổ chức có thẩm quyền quyết định chuyển cán bộ, công chức từ cơ quan, tổ chức, đơn vị này đến làm việc ở cơ quan, tổ chức, đơn vị khác”",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 59,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, “bổ nhiệm” là gì?",
+        "options": [
+          "A. Giao công việc chuyên môn theo hợp đồng",
+          "B. Cử công chức đi đào tạo ở nước ngoài",
+          "C. Việc cơ quan, tổ chức có thẩm quyền quyết định giao cán bộ, công chức giữ một chức vụ, chức danh trong cơ quan, tổ chức, đơn vị.",
+          "D. Đề cử công chức vào danh sách quy hoạch"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Theo Khoản 8 Điều 5 Luật Cán bộ, công chức năm 2025 quy định: “bổ nhiệm là việc cơ quan, tổ chức có thẩm quyền quyết định giao cán bộ, công chức giữ một chức vụ, chức danh trong cơ quan, tổ chức, đơn vị”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      },
+      {
+        "id": 60,
+        "question": "Theo Luật Cán bộ, công chức năm 2025, “luân chuyển” là gì?",
+        "options": [
+          "A. Điều động để xử lý sai phạm",
+          "B. Cử công chức về cơ sở để công tác lâu dài",
+          "C. Việc cơ quan, tổ chức có thẩm quyền phân công hoặc bổ nhiệm cán bộ, công chức lãnh đạo, quản lý giữ một chức vụ, chức danh lãnh đạo, quản lý tại cơ quan, tổ chức, đơn vị khác trong một thời hạn nhất định để tiếp tục đào tạo, bồi dưỡng và rèn luyện theo yêu cầu nhiệm vụ hoặc theo yêu cầu của chức danh được quy hoạch.",
+          "D. Bố trí tạm thời do thiếu nhân lực"
+        ],
+        "correct": 2,
+        "rationale": "Giải thích: Theo Khoản 9 Điều 5 Luật Cán bộ, công chức năm 2025 quy định: “Luân chuyển là việc cơ quan, tổ chức có thẩm quyền phân công hoặc bổ nhiệm cán bộ, công chức lãnh đạo, quản lý giữ một chức vụ, chức danh lãnh đạo, quản lý tại cơ quan, tổ chức, đơn vị khác trong một thời hạn nhất định để tiếp tục đào tạo, bồi dưỡng và rèn luyện theo yêu cầu nhiệm vụ hoặc theo yêu cầu của chức danh được quy hoạch”.",
+        "topic": "Luật Cán bộ, công chức 2025"
+      }
+    ]
   }
 ]
