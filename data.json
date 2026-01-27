@@ -10215,5 +10215,791 @@
       "topic": "Quyết định số 89/QĐ-BTP"
     }
   ]
+},
+{
+  "id": "THADS_06",
+  "title": "THADS_Đề tổng hợp số 06",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+      "options": [
+        "A. Giám sát hoạt động của Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán Nhà nước và cơ quan khác do Quốc hội thành lập",
+        "B. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn",
+        "C. Bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+        "D. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt Nam"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: - Các đáp án A, C, D đều là các nội dung thuộc khoản 3, khoản 7 và khoản 12 Điều 74 quy định về nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội => Loại. - Chọn B vì đây là nội dung thuộc khoản 8 Điều 70 về nhiệm vụ và quyền hạn của Quốc hội.",
+      "topic": "Hiến pháp 2013"
+    },
+    {
+      "id": 2,
+      "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu là nhiệm vụ và quyền hạn của Chủ tịch nước?",
+      "options": [
+        "A. Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao",
+        "B. Bãi bỏ văn bản của Chính phủ, Thủ tướng Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội",
+        "C. Bãi bỏ nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến Pháp, luật và văn bản của cơ quan nhà nước cấp trên",
+        "D. Quyết định thành lập, giải thể, nhập, chia, Điều chỉnh địa giới đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: - Chọn A vì đây là nội dung thuộc khoản 3 Điều 88 về nhiệm vụ và quyền hạn của Chủ tịch nước. - Loại B, C, D vì đây là nội dung thuộc Điều 74 về nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội.",
+      "topic": "Hiến pháp 2013"
+    },
+    {
+      "id": 3,
+      "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+      "options": [
+        "A. Phê chuẩn danh sách thành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.",
+        "B. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+        "C. Trình dự án luật, dự án ngân sách nhà nước và các dự án khác trước Quốc hội; trình dự án pháp lệnh trước Ủy ban thường vụ Quốc hội",
+        "D. Quyết định vấn đề chiến tranh và hòa bình"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: - Chọn C vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 2 Điều 96. - Loại A, B, D vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+      "topic": "Hiến pháp 2013"
+    },
+    {
+      "id": 4,
+      "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Thủ tướng Chính phủ?",
+      "options": [
+        "A. Quyết định và chỉ đạo việc đàm phán, chỉ đạo việc ký, gia nhập Điều ước quốc tế thuộc nhiệm vụ, quyền hạn của Chính phủ",
+        "B. Hướng dẫn, kiểm tra Hội đồng nhân dân trong việc thực hiện văn bản của cơ quan nhà nước cấp trên",
+        "C. Tổ chức thực hiện Điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên",
+        "D. Thực hiện chế độ báo cáo trước Nhân dân thông qua các phương tiện thông tin đại chúng về những vấn đề quan trọng thuộc thẩm quyền giải quyết của Chính phủ và Thủ tướng Chính phủ."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn B vì đây là nội dung thuộc khoản 5 Điều 96 về nhiệm vụ và quyền hạn của Chính phủ. - Loại A, C vì đây là nội dung thuộc khoản 5 Điều 98 về nhiệm vụ và quyền hạn của Thủ tướng Chính phủ. - Loại D vì đây là nội dung thuộc khoản 6 Điều 98 về nhiệm vụ và quyền hạn của Thủ tướng Chính phủ",
+      "topic": "Hiến pháp 2013"
+    },
+    {
+      "id": 5,
+      "question": "Đâu là khẳng định đúng theo quy định tại Hiến Pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15)?",
+      "options": [
+        "A. Nước Cộng hòa xã hội chủ nghĩa Việt Nam do Nhân dân làm chủ; tất cả quyền lực nhà nước thuộc về Nhân dân mà nền tảng là liên minh giữa giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức.",
+        "B. Nước Cộng hòa xã hội chủ nghĩa Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo, Nhân dân làm chủ; tất cả quyền lực nhà nước thuộc về Nhân dân mà nền tảng là liên minh giữa giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức.",
+        "C. Nước Cộng hòa xã hội chủ nghĩa Việt Nam do Nhà nước bảo đảm; mọi quyền lực nhà nước đều thuộc về Nhân dân mà nền tảng là liên minh giữa giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức.",
+        "D. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Đáp án a đúng vì được quy định chính xác tại khoản 2, Điều 2; Các đáp án còn lại không chính xác so với các quy định trong Hiến pháp.",
+      "topic": "Hiến pháp 2013"
+    },
+    {
+      "id": 6,
+      "question": "Theo Hiến Pháp năm 2013, “Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân” là nhiệm vụ và quyền hạn của chủ thể nào sau đây?",
+      "options": [
+        "A. Quốc hội",
+        "B. Ủy ban thường vụ Quốc hội",
+        "C. Chủ tịch Quốc hội",
+        "D. Chủ tịch nước"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn B vì theo khoản 7 Điều 74 Hiến pháp 2013 đây là nhiệm vụ và quyền hạn của Uỷ ban thường vụ Quốc hội",
+      "topic": "Hiến pháp 2013"
+    },
+    {
+      "id": 7,
+      "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+      "options": [
+        "A. Căn cứ vào nghị quyết của Quốc hội, bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ",
+        "B. Quy định huân chương, huy chương và danh hiệu vinh dự nhà nước",
+        "C. Quyết định vấn đề chiến tranh và hòa bình",
+        "D. Quyết định trưng cầu ý dân"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: - Chọn A vì đây là nội dung thuộc nhiệm vụ và quyền hạn của chủ tịch nước theo khoản 2 Điều 88. - Loại B, C, D vì đây là nội dung thuộc Điều 70 về nhiệm vụ và quyền hạn của Quốc hội",
+      "topic": "Hiến pháp 2013"
+    },
+    {
+      "id": 8,
+      "question": "Theo Hiến Pháp năm 2013, “Quyết định phê chuẩn, gia nhập hoặc chấm dứt hiệu lực Điều ước quốc tế khác nhân danh Nhà nước” là nhiệm vụ và quyền hạn của chủ thể nào sau đây?",
+      "options": [
+        "A. Quốc hội",
+        "B. Chủ tịch nước",
+        "C. Chủ tịch Quốc hội",
+        "D. Ủy ban thường vụ Quốc hội"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn B vì theo khoản 6 Điều 88 Hiến pháp 2013 đây là nhiệm vụ và quyền hạn của Chủ tịch nước",
+      "topic": "Hiến pháp 2013"
+    },
+    {
+      "id": 9,
+      "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+      "options": [
+        "A. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn",
+        "B. Quyết định tặng thưởng huân chương, huy chương, các giải thưởng nhà nước, danh hiệu vinh dự nhà nước",
+        "C. Quyết định cử, triệu hồi đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "D. Phong hàm, cấp đại sứ"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: - Chọn A vì đây là nội dung thuộc khoản 8 Điều 70 về nhiệm vụ và quyền hạn của Quốc hội. - Loại B, C và D vì đây là nội dung thuộc Điều 88 về nhiệm vụ và quyền hạn của Chủ tịch nước.",
+      "topic": "Hiến pháp 2013"
+    },
+    {
+      "id": 10,
+      "question": "Theo Hiến pháp năm 2013 (được sửa đổi bổ sung bởi Nghị quyết số 203/2025/QH15), đâu không phải là nhiệm vụ và quyền hạn của Quốc hội?",
+      "options": [
+        "A. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước;",
+        "B. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ, Thẩm phán Tòa án nhân dân tối cao",
+        "C. Quyết định đại xá",
+        "D. Lãnh đạo công tác của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: - Chọn D vì đây là nhiệm vụ và quyền hạn của Chính phủ theo khoản 5 Điều 96. - Loại A, B, C vì đây là nội dung thuộc nhiệm vụ và quyền hạn của Quốc hội theo Điều 70.",
+      "topic": "Hiến pháp 2013"
+    },
+    {
+      "id": 11,
+      "question": "Theo Luật Tổ chức Chính phủ năm 2025, nội dung nào sau đây thuộc trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ với tư cách là người đứng đầu Bộ, cơ quan ngang Bộ?",
+      "options": [
+        "A. Chịu trách nhiệm cá nhân trước Thủ tướng Chính phủ, Chính phủ về kết quả, hiệu lực, hiệu quả hoạt động của Bộ, cơ quan ngang Bộ; về các quyết định và kết quả thực hiện các quyết định của mình trong phạm vi nhiệm vụ, quyền hạn được giao.",
+        "B. Lãnh đạo, chỉ đạo và chịu trách nhiệm cá nhân về mọi mặt công tác của Bộ, cơ quan ngang Bộ theo quy định của pháp luật; chỉ đạo đơn vị thuộc phạm vi quản lý tổ khai triển thực hiện chiến lược, quy hoạch, kế hoạch, chương trình, dự án đã được phê duyệt.",
+        "C. Chịu trách nhiệm cá nhân trước Thủ tướng Chính phủ, Chính phủ và Quốc hội về ngành, lĩnh vực được phân công quản lý; cùng các thành viên khác của Chính phủ chịu trách nhiệm tập thể về hoạt động của Chính phủ.",
+        "D. Chủ động phối hợp chặt chẽ với các cơ quan của Đảng, Quốc hội, Chủ tịch nước, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước..."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Vì nội dung này được quy định tại Điều 20 Luật Tổ chức Chính phủ năm 2025: “….Chịu trách nhiệm cá nhân trước Thủ tướng Chính phủ, Chính phủ về kết quả, hiệu lực, hiệu quả hoạt động của Bộ, cơ quan ngang Bộ; về các quyết định và kết quả thực hiện các quyết định của mình trong phạm vi nhiệm vụ, quyền hạn được giao”.",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 12,
+      "question": "Theo quy định tại Luật Tổ chức Chính phủ năm 2025, Bộ, cơ quan ngang Bộ là ?",
+      "options": [
+        "A. Cơ quan của Đảng thực hiện chức năng giám sát, phản biện xã hội",
+        "B. Cơ quan của Quốc hội thực hiện chức năng lập pháp",
+        "C. Cơ quan của Chính phủ thực hiện chức năng quản lý nhà nước về một hoặc một số ngành, lĩnh vực và dịch vụ công thuộc ngành, lĩnh vực được phân công trong phạm vi toàn quốc",
+        "D. Cơ quan tư pháp thực hiện chức năng xét xử, kiểm sát"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Vì nội dung này được quy định tại khoản 1 Điều 22 Luật Tổ chức Chính phủ năm 2025: “Bộ, cơ quan ngang Bộ là cơ quan của Chính phủ thực hiện chức năng quản lý nhà nước về một hoặc một số ngành, lĩnh vực và dịch vụ công thuộc ngành, lĩnh vực được phân công trong phạm vi toàn quốc.”",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 13,
+      "question": "Theo quy định tại Luật Tổ chức Chính phủ năm 2025, số lượng Thứ trưởng, Phó Thủ trưởng cơ quan ngang Bộ không quá bao nhiêu người?",
+      "options": [
+        "A. Không quá 03, trừ Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao",
+        "B. Không quá 05, Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao không quá 06, trừ trường hợp do yêu cầu điều động, luân chuyển cán bộ của cấp có thẩm quyền",
+        "C. Không quá 04, mọi Bộ và cơ quan ngang Bộ",
+        "D. Không quá 06 ở tất cả các Bộ, không có ngoại lệ"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Vì nội dung này được quy định tại Điều 21 Luật Tổ chức Chính phủ năm 2025: “Số lượng Thứ trưởng, Phó Thủ trưởng cơ quan ngang Bộ không quá 05, Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao không quá 06, trừ trường hợp do yêu cầu điều động, luân chuyển cán bộ của cấp có thẩm quyền.”",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 14,
+      "question": "Theo Luật Tổ chức Chính phủ năm 2025, sau khi Quốc hội hết nhiệm kỳ, Chính phủ sẽ:",
+      "options": [
+        "A. Tự động giải tán ngay",
+        "B. Tiếp tục làm nhiệm vụ cho đến khi có Thủ tướng mới",
+        "C. Chấm dứt mọi hoạt động hành chính",
+        "D. Tiếp tục làm nhiệm vụ cho đến khi Quốc hội khóa mới thành lập Chính phủ."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 3 Luật Tổ chức Chính phủ số 63/2025/QH15 quy định: “Khi Quốc hội hết nhiệm kỳ, Chính phủ tiếp tục làm nhiệm vụ cho đến khi Quốc hội khóa mới thành lập Chính phủ”.",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 15,
+      "question": "Theo Luật Tổ chức Chính phủ năm 2025, “Trình Chủ tịch nước quyết định tặng thưởng huân chương, huy chương, các giải thưởng nhà nước, danh hiệu vinh dự nhà nước; quyết định cho nhập quốc tịch, thôi quốc tịch, trở lại quốc tịch hoặc tước quốc tịch Việt Nam” thuộc nhiệm vụ, quyền hạn của?",
+      "options": [
+        "A. Quốc hội",
+        "B. Chính phủ",
+        "C. Hội đồng nhân dân các cấp",
+        "D. Thủ tướng Chính phủ"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Vì nội dung này được quy định tại khoản 3 Điều 13 Luật Tổ chức Chính phủ năm 2025: “….Tặng thưởng huân chương, huy chương, các giải thưởng nhà nước, danh hiệu vinh dự nhà nước; quyết định cho nhập quốc tịch, thôi quốc tịch, trở lại quốc tịch hoặc tước quốc tịch Việt Nam”",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 16,
+      "question": "Theo Luật Tổ chức Chính phủ năm 2025, nội dung nào sau đây thể hiện quan hệ của Chính phủ với Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức chính trị - xã hội ?",
+      "options": [
+        "A. Chính phủ phối hợp với Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức chính trị - xã hội trong việc thực hiện nhiệm vụ và quyền hạn của mình.",
+        "B. Chính phủ và Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, cơ quan trung ương của tổ chức chính trị - xã hội đẩy mạnh việc phối hợp công tác.",
+        "C. Chính phủ có trách nhiệm cung cấp thông tin cho Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức chính trị - xã hội về tình hình kinh tế - xã hội.",
+        "D. Chính phủ chủ trì giải quyết và trả lời các kiến nghị của Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức chính trị - xã hội."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Vì nội dung này được quy định tại Điều 12 Luật Tổ chức Chính phủ năm 2025: “Chính phủ phối hợp với Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức chính trị - xã hội trong việc thực hiện nhiệm vụ và quyền hạn của mình…..”.",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 17,
+      "question": "Theo Luật Tổ chức Chính phủ năm 2025, Thủ tướng Chính phủ trình Chủ tịch nước quyết định nội dung nào sau đây?",
+      "options": [
+        "A. Tạo điều kiện thuận lợi để Ủy ban trung ương Mặt trận Tổ quốc Việt Nam tham gia xây dựng chính quyền.",
+        "B. Thông báo cho Ủy ban trung ương Mặt trận Tổ quốc Việt Nam về tình hình kinh tế - xã hội.",
+        "C. Tặng thưởng huân chương, huy chương, các giải thưởng nhà nước, danh hiệu vinh dự nhà nước; quyết định cho nhập quốc tịch, thôi quốc tịch, trở lại quốc tịch hoặc tước quốc tịch Việt Nam",
+        "D. Nghiên cứu, giải quyết và trả lời các kiến nghị của Ủy ban trung ương Mặt trận Tổ quốc Việt Nam."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Vì nội dung này được quy định tại khoản 3 Điều 13 Luật Tổ chức Chính phủ năm 2025: “Tặng thưởng huân chương, huy chương, các giải thưởng nhà nước, danh hiệu vinh dự nhà nước; quyết định cho nhập quốc tịch, thôi quốc tịch, trở lại quốc tịch hoặc tước quốc tịch Việt Nam”.",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 18,
+      "question": "Theo Luật Tổ chức Chính phủ năm 2025, Thủ tướng Chính phủ lãnh đạo, chỉ đạo, kiểm tra hoạt động của những chủ thể nào sau đây?",
+      "options": [
+        "A. Quốc hội và Hội đồng nhân dân các cấp",
+        "B. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, chính quyền địa phương và người đứng đầu cơ quan, đơn vị trong hệ thống hành chính nhà nước từ trung ương đến địa phương",
+        "C. Chủ tịch nước và Tòa án nhân dân tối cao",
+        "D. Các tổ chức chính trị - xã hội"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Vì nội dung này được quy định tại khoản 5 Điều 13 Luật Tổ chức Chính phủ năm 2025: “Lãnh đạo, chỉ đạo, kiểm tra hoạt động của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, chính quyền địa phương và người đứng đầu cơ quan, đơn vị trong hệ thống hành chính nhà nước từ trung ương đến địa phương.”",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 19,
+      "question": "Theo quy định tại Luật Tổ chức Chính phủ năm 2025, việc ủy quyền phải bảo đảm điều kiện nào sau đây?",
+      "options": [
+        "A. Văn bản ủy quyền phải quy định cụ thể nội dung, phạm vi và thời hạn ủy quyền; cách thức thực hiện ủy quyền và các điều kiện cần thiết khác để thực hiện nhiệm vụ, quyền hạn ủy quyền",
+        "B. Chỉ nội dung và thời hạn ủy quyền",
+        "C. Chỉ phạm vi ủy quyền",
+        "D. Không bắt buộc phải có văn bản ủy quyền"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 3 Điều 9 Luật Tổ chức Chính phủ năm 2025 quy định: “Văn bản ủy quyền phải quy định cụ thể nội dung, phạm vi và thời hạn ủy quyền; cách thức thực hiện ủy quyền và các điều kiện cần thiết khác để thực hiện nhiệm vụ, quyền hạn ủy quyền”.",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 20,
+      "question": "Nội dung nào sau đây không thuộc nhiệm vụ, quyền hạn của Chính phủ theo Luật Tổ chức Chính phủ năm 2025?",
+      "options": [
+        "A. Trình Hội đồng quốc phòng và an ninh quyết định việc lực lượng vũ trang nhân dân tham gia hoạt động góp phần bảo vệ hòa bình ở khu vực và trên thế giới",
+        "B. Chính phủ báo cáo công tác đột xuất theo yêu cầu của Quốc hội, Ủy ban Thường vụ Quốc hội, Chủ tịch nước.",
+        "C. Quy định khung số lượng, tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân; tiêu chí thành lập, số lượng cấp phó tối đa.",
+        "D. Thực hiện chức năng đại diện chủ sở hữu đối với các tài sản công thuộc sở hữu toàn dân, thực hiện chức năng chủ sở hữu phần vốn của Nhà nước tại doanh nghiệp."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Vì nội dung này được quy định tại Điều 11 Luật Tổ chức Chính phủ năm 2025 (thuộc trách nhiệm của Chính phủ).",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 21,
+      "question": "Theo Luật Tổ chức Chính phủ năm 2025, “Thực hiện chế độ báo cáo trước Nhân dân thông qua các phương tiện thông tin đại chúng về những vấn đề quan trọng thuộc thẩm quyền giải quyết của Chính phủ và Thủ tướng Chính phủ” thuộc trách nhiệm của ai?",
+      "options": [
+        "A. Quốc hội",
+        "B. Thủ tướng Chính phủ",
+        "C. Chính phủ",
+        "D. Ban Tuyên giáo Trung ương"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Vì theo quy định tại khoản 3 Điều 14 Luật Tổ chức Chính phủ năm 2025: “...Thực hiện chế độ báo cáo trước Nhân dân thông qua các phương tiện thông tin đại chúng về những vấn đề quan trọng thuộc thẩm quyền giải quyết của Chính phủ và Thủ tướng Chính phủ….”.",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 22,
+      "question": "Theo Luật Tổ chức Chính phủ năm 2025, cơ cấu tổ chức của Chính phủ gồm?",
+      "options": [
+        "A. Thủ tướng Chính phủ, các Phó Thủ tướng Chính phủ",
+        "B. Các Bộ, cơ quan ngang Bộ",
+        "C. Ủy ban Thường vụ Quốc hội",
+        "D. Thủ tướng Chính phủ, các Phó Thủ tướng Chính phủ, các Bộ trưởng và Thủ trưởng cơ quan ngang Bộ"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Theo khoản 2 Điều 2 Luật Tổ chức Chính phủ số 63/2025/QH15: “Cơ cấu tổ chức của Chính phủ gồm các Bộ, cơ quan ngang Bộ”.",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 23,
+      "question": "Theo quy định tại Luật Tổ chức Chính phủ năm 2025, cơ quan thuộc Chính phủ được thành lập để thực hiện chức năng nào sau đây?",
+      "options": [
+        "A. Lập pháp và tư pháp",
+        "B. Kiểm toán và kiểm sát",
+        "C. Thực thi chính sách, phục vụ quản lý nhà nước, cung ứng dịch vụ công",
+        "D. Lập quy hoạch, đầu tư công"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 1 Điều 24 Luật Tổ chức Chính phủ năm 2025 quy định: “Cơ quan thuộc Chính phủ là cơ quan do Chính phủ thành lập, thực hiện chức năng thực thi chính sách, phục vụ quản lý nhà nước, cung ứng dịch vụ công”.",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 24,
+      "question": "Theo Luật Tổ chức Chính phủ năm 2025, việc ký các văn bản của Chính phủ được thực hiện theo quy định nào sau đây?",
+      "options": [
+        "A. Do Bộ trưởng Bộ Tư pháp đề xuất",
+        "B. Thủ tướng Chính phủ thay mặt Chính phủ hoặc ủy quyền cho thành viên Chính phủ thay mặt Chính phủ ký các văn bản của Chính phủ",
+        "C. Do Thủ tướng Chính phủ ủy quyền cho một đồng chí Phó Thủ tướng Chính phủ",
+        "D. Khi có văn bản từ các địa phương gửi lên"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Vì theo quy định tại khoản 4 Điều 14 Luật Tổ chức Chính phủ năm 2025: “...Thủ tướng Chính phủ thay mặt Chính phủ hoặc ủy quyền cho thành viên Chính phủ thay mặt Chính phủ ký các văn bản của Chính phủ..”",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 25,
+      "question": "Trong trường hợp Chính phủ không họp, hình thức lấy ý kiến các thành viên Chính phủ được thực hiện như thế nào?",
+      "options": [
+        "A. Thủ tướng Chính phủ tổ chức họp trực tuyến",
+        "B. Thủ tướng Chính phủ quyết định gửi lấy ý kiến các thành viên Chính phủ bằng văn bản",
+        "C. Chủ tịch nước lấy ý kiến bằng văn bản",
+        "D. Văn phòng Chính phủ tổ chức hội nghị toàn thể"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 1 Điều 26 Luật Tổ chức Chính phủ năm 2025 quy định: “Chính phủ họp thường kỳ mỗi tháng một phiên….”.",
+      "topic": "Luật Tổ chức Chính phủ 2025"
+    },
+    {
+      "id": 26,
+      "question": "Theo Luật Tổ chức chính quyền địa phương 2025, Ủy ban nhân dân ở cấp chính quyền địa phương do cơ quan nào bầu?",
+      "options": [
+        "A. Hội đồng nhân dân cùng cấp",
+        "B. Hội đồng nhân dân cấp trên",
+        "C. Ủy ban nhân dân cấp trên",
+        "D. Cơ quan hành chính nhà nước cấp trên"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích : Chọn đáp án A vì căn cứ theo Điều 6 quy định về Hội đồng nhân dân: “ Ủy ban nhân dân ở cấp chính quyền địa phương do Hội đồng nhân dân cùng cấp bầu ra...”",
+      "topic": "Luật Tổ chức chính quyền địa phương 2025"
+    },
+    {
+      "id": 27,
+      "question": "Theo Luật Tổ chức chính quyền địa phương 2025, thẩm quyền quyết định thành lập, giải thể, nhập, chia đơn vị hành chính, điều chỉnh địa giới và đổi tên đơn vị hành chính cấp tỉnh do cơ quan nào quyết định?",
+      "options": [
+        "A. Quốc hội",
+        "B. Chính phủ",
+        "C. Hội đồng nhân dân",
+        "D. Ủy ban Thường vụ Quốc hội"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn đáp án A vì căn cứ khoản 1 Điều 9 quy định: “1. Quốc hội quyết định thành lập, giải thể, nhập, chia đơn vị hành chính, điều chỉnh địa giới và đổi tên đơn vị hành chính cấp tỉnh.”",
+      "topic": "Luật Tổ chức chính quyền địa phương 2025"
+    },
+    {
+      "id": 28,
+      "question": "Theo Luật Tổ chức chính quyền địa phương 2025, Hội đồng nhân dân tỉnh quyết định kế hoạch phát triển kinh tế – xã hội cấp tỉnh theo kỳ hạn nào?",
+      "options": [
+        "A. 3 năm và hàng năm",
+        "B. 5 năm và hàng năm",
+        "C. 10 năm và hàng năm",
+        "D. 7 năm và hàng năm"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn B vì khoản 3 điểm a Điều 15 nêu rõ Hội đồng nhân dân tỉnh quyết định kế hoạch phát triển kinh tế – xã hội cấp tỉnh 05 năm và hằng năm.",
+      "topic": "Luật Tổ chức chính quyền địa phương 2025"
+    },
+    {
+      "id": 29,
+      "question": "Theo Luật Tổ chức chính quyền địa phương 2025, cơ quan nào quy định chi tiết phạm vi nhiệm vụ, quyền hạn được ủy quyền cho công chức thuộc Ủy ban nhân dân cấp xã?",
+      "options": [
+        "A. Ủy ban nhân dân cấp xã",
+        "B. Ủy ban nhân dân cấp tỉnh",
+        "C. Hội đồng nhân dân cấp tỉnh",
+        "D. Hội đồng nhân dân cấp xã"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn C vì khoản 8 Điều 14 quy định “Hội đồng nhân dân cấp tỉnh quy định chi tiết phạm vi nhiệm vụ, quyền hạn được ủy quyền cho công chức Ủy ban nhân dân cấp xã”.",
+      "topic": "Luật Tổ chức chính quyền địa phương 2025"
+    },
+    {
+      "id": 30,
+      "question": "Theo Luật Tổ chức chính quyền địa phương 2025, tại kỳ họp thứ nhất, Hội đồng nhân dân bầu các chức danh nào sau đây theo đề nghị của Thường trực Hội đồng nhân dân khóa trước?",
+      "options": [
+        "A. Chủ tịch Ủy ban nhân dân, Phó Chủ tịch Ủy ban nhân dân, Ủy viên Ủy ban nhân dân",
+        "B. Chủ tịch Hội đồng nhân dân, Phó Chủ tịch Hội đồng nhân dân, Trưởng Ban của Hội đồng nhân dân",
+        "C. Chủ tịch Ủy ban nhân dân, Chủ tịch Hội đồng nhân dân, Chánh Văn phòng Hội đồng nhân dân",
+        "D. Chủ tịch Hội đồng nhân dân, Phó Chủ tịch Ủy ban nhân dân, Trưởng Ban của Hội đồng nhân dân"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B vì căn cứ Khoản 1 Điều 36 quy định: Tại kỳ họp thứ nhất, Hội đồng nhân dân bầu Chủ tịch Hội đồng nhân dân, Phó Chủ tịch Hội đồng nhân dân, Trưởng Ban của Hội đồng nhân dân trong số các đại biểu Hội đồng nhân dân theo đề nghị của Thường trực Hội đồng nhân dân khóa trước.",
+      "topic": "Luật Tổ chức chính quyền địa phương 2025"
+    },
+    {
+      "id": 31,
+      "question": "Theo Luật Tổ chức chính quyền địa phương 2025, việc phân định thẩm quyền của chính quyền địa phương phải không gồm nguyên tắc nào sau đây?",
+      "options": [
+        "A. Xác định rõ nội dung và phạm vi nhiệm vụ, quyền hạn mà chính quyền địa phương được quyết định, tổ chức thực hiện và chịu trách nhiệm về kết quả;",
+        "B. Nhiệm vụ, quyền hạn của chính quyền địa phương các cấp được xác định trên cơ sở phân định thẩm quyền giữa các cơ quan nhà nước ở trung ương và cơ quan nhà nước ở địa phương và của mỗi cấp chính quyền địa phương theo hình thức phân quyền, phân cấp.",
+        "C. Đẩy mạnh phân quyền, phân cấp các nhiệm vụ, quyền hạn của cơ quan nhà nước ở trung ương cho chính quyền địa phương...",
+        "D. Phù hợp với đặc điểm nông thôn, đô thị, hải đảo, đơn vị hành chính - kinh tế đặc biệt và khả năng, điều kiện thực hiện nhiệm vụ."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B vì B có nội dung không thuộc các nguyên tắc đảm bảo việc phân định thẩm quyền của chính quyền địa phương.",
+      "topic": "Luật Tổ chức chính quyền địa phương 2025"
+    },
+    {
+      "id": 32,
+      "question": "Theo Luật Tổ chức chính quyền địa phương 2025, khẳng định nào sau đây sai về nội dung phân cấp?",
+      "options": [
+        "A. Việc phân cấp phải được quy định trong văn bản quy phạm pháp luật của cơ quan, cá nhân phân cấp...",
+        "B. Cơ quan nhà nước cấp trên, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm kiểm tra, thanh tra, giám sát về tính hợp hiến, hợp pháp trong việc chính quyền địa phương các cấp thực hiện các nhiệm vụ, quyền hạn được phân quyền.",
+        "C. Cơ quan, cá nhân phân cấp có trách nhiệm theo dõi, hướng dẫn, kiểm tra việc thực hiện nhiệm vụ, quyền hạn đã phân cấp...",
+        "D. Ủy ban nhân dân cấp tỉnh được đề xuất với Chính phủ, Thủ tướng Chính phủ, Bộ trưởng phân cấp cho cơ quan ở địa phương thực hiện nhiệm vụ."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B vì B là nội dung quy định tại Điều 12 về phân quyền. Các đáp án A,C,D đúng theo quy định Điều 13 Phân cấp.",
+      "topic": "Luật Tổ chức chính quyền địa phương 2025"
+    },
+    {
+      "id": 33,
+      "question": "Theo Luật Tổ chức chính quyền địa phương 2025, khẳng định nào sau đây sai?",
+      "options": [
+        "A. Các đại biểu Hội đồng nhân dân được bầu ở một hoặc nhiều đơn vị bầu cử hợp thành Tổ đại biểu Hội đồng nhân dân. Số lượng Tổ đại biểu Hội đồng nhân dân do Thường trực Hội đồng nhân dân cùng cấp quyết định.",
+        "B. Nhiệm kỳ của Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân theo nhiệm kỳ của Ủy ban nhân dân cùng cấp. Khi Ủy ban nhân dân hết nhiệm kỳ, Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân tiếp tục làm nhiệm vụ cho đến khi Ủy ban nhân dân khóa mới bầu ra Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân khóa mới.",
+        "C. Nhiệm kỳ của đại biểu Hội đồng nhân dân theo nhiệm kỳ của Hội đồng nhân dân...",
+        "D. Ủy ban Thường vụ Quốc hội quy định tiêu chuẩn, điều kiện thành lập Ban Dân tộc của Hội đồng nhân dân cấp tỉnh..."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B vì căn cứ khoản 5 Điều 29 quy định: Nhiệm kỳ của Thường trực HĐND, các Ban của HĐND theo nhiệm kỳ của HĐND cùng cấp. Khi HĐND hết nhiệm kỳ, họ tiếp tục làm nhiệm vụ cho đến khi HĐND khóa mới bầu ra nhân sự khóa mới.",
+      "topic": "Luật Tổ chức chính quyền địa phương 2025"
+    },
+    {
+      "id": 34,
+      "question": "Theo Luật Tổ chức chính quyền địa phương 2025, cơ quan, cá nhân phân cấp chịu trách nhiệm gì khi thực hiện việc phân cấp?",
+      "options": [
+        "A. Theo dõi, hướng dẫn, kiểm tra và chịu trách nhiệm về kết quả nếu không bảo đảm điều kiện",
+        "B. Chỉ ban hành quyết định phân cấp",
+        "C. Không cần theo dõi sau khi phân cấp",
+        "D. Chỉ chịu trách nhiệm nếu được phân cấp lại"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn A vì khoản 3 Điều 13 quy định rõ trách nhiệm theo dõi, hướng dẫn, kiểm tra và chịu trách nhiệm về kết quả thực hiện.",
+      "topic": "Luật Tổ chức chính quyền địa phương 2025"
+    },
+    {
+      "id": 35,
+      "question": "Theo Luật Tổ chức chính quyền địa phương 2025, đâu không phải là nội dung quy định về nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân phường?",
+      "options": [
+        "A. Chỉ đạo và tổ chức thực hiện quy hoạch, chương trình, kế hoạch phát triển đô thị...",
+        "B. Chỉ đạo và tổ chức thực hiện các biện pháp bảo vệ môi trường đô thị, quản lý rác thải...",
+        "C. Chỉ đạo và chịu trách nhiệm quản lý, duy tu, bảo dưỡng kết cấu hạ tầng đô thị...",
+        "D. Tổ chức thực hiện chương trình cải tạo, chỉnh trang, phát triển đô thị theo quy định của pháp luật và phân cấp của Ủy ban nhân dân cấp tỉnh."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích:Chọn đáp án D vì D là nội dung quy định tại khoản 5 Điều 25 về nhiệm vụ, quyền hạn của Ủy ban nhân dân phường.",
+      "topic": "Luật Tổ chức chính quyền địa phương 2025"
+    },
+    {
+      "id": 36,
+      "question": "Theo quy định tại Luật Cán bộ, công chức năm 2025, trường hợp nào sau đây không được đăng ký dự tuyển công chức?",
+      "options": [
+        "A. Mất hoặc bị hạn chế năng lực hành vi dân sự; người có khó khăn trong nhận thức, làm chủ hành vi",
+        "B. Chưa đủ 21 tuổi trở lên",
+        "C. Có phẩm chất chính trị, đạo đức tốt; có lý lịch rõ ràng",
+        "D. Có sức khỏe để thực hiện nhiệm vụ"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Theo điểm a khoản 3 Điều 19 Luật Cán bộ, công chức năm 2025 quy định những người sau đây không được đăng ký dự tuyển công chức; trong đó có “Mất hoặc bị hạn chế năng lực hành vi dân sự; người có khó khăn trong nhận thức, làm chủ hành vi”.",
+      "topic": "Luật Cán bộ, công chức 2025"
+    },
+    {
+      "id": 37,
+      "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là hình thức kỷ luật đối với công chức?",
+      "options": [
+        "A. Khiển trách",
+        "B. Cảnh cáo",
+        "C. Hạ bậc lương",
+        "D. Buộc thôi việc"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Vì theo quy định tại khoản 1 Điều 36 Luật Cán bộ, công chức năm 2025, không có hình thức kỷ luật “Hạ bậc lương”.",
+      "topic": "Luật Cán bộ, công chức 2025"
+    },
+    {
+      "id": 38,
+      "question": "Theo Luật Cán bộ, công chức năm 2025, việc điều động, luân chuyển, đào tạo, bồi dưỡng và các nội dung khác liên quan đến công tác cán bộ được thực hiện theo quy định nào sau đây?",
+      "options": [
+        "A. Quy chế nội bộ của từng cơ quan, đơn vị",
+        "B. Quy định của cấp có thẩm quyền",
+        "C. Quyết định của tổ chức Đảng",
+        "D. Quy định của pháp luật và của cấp có thẩm quyền"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 1 Điều 17 Luật Cán bộ, công chức năm 2025 quy định: “Việc điều động, luân chuyển, đào tạo, bồi dưỡng, đánh giá, cho thôi việc, từ chức, miễn nhiệm và các nội dung khác liên quan đến công tác cán bộ được thực hiện theo quy định của pháp luật và của cấp có thẩm quyền.”",
+      "topic": "Luật Cán bộ, công chức 2025"
+    },
+    {
+      "id": 39,
+      "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân ?",
+      "options": [
+        "A. Tuyệt đối trung thành với Đảng và Nhà nước",
+        "B. Tôn trọng và bảo vệ quyền con người, quyền công dân, tận tụy phục vụ Nhân dân",
+        "C. Chấp hành nghiêm chỉnh đường lối, chủ trương, chính sách của Đảng",
+        "D. Liên hệ chặt chẽ với Nhân dân, chịu sự giám sát của Nhân dân"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2 Điều 6 Luật Cán bộ, công chức năm 2025 quy định: “Tôn trọng và bảo vệ quyền con người, quyền công dân, tận tụy phục vụ Nhân dân”.",
+      "topic": "Luật Cán bộ, công chức 2025"
+    },
+    {
+      "id": 40,
+      "question": "Theo Luật Cán bộ, công chức năm 2025, nội dung nào sau đây thuộc về quyền của cán bộ, công chức về bảo đảm điều kiện thi hành công vụ?",
+      "options": [
+        "A. Được pháp luật bảo vệ khi thi hành công vụ",
+        "B. Tôn trọng và bảo vệ quyền con người, quyền công dân, tận tụy phục vụ Nhân dân.",
+        "C. Bảo vệ, quản lý và sử dụng hiệu quả, tiết kiệm tài sản công được giao.",
+        "D. Chấp hành nghiêm chỉnh đường lối, chủ trương, chính sách của Đảng và pháp luật của Nhà nước."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 6 Điều 9 quy định “Được pháp luật bảo vệ khi thi hành công vụ”",
+      "topic": "Luật Cán bộ, công chức 2025"
+    },
+    {
+      "id": 41,
+      "question": "Theo Luật Cán bộ, công chức năm 2025, đâu không phải là nguyên tắc trong thi hành công vụ?",
+      "options": [
+        "A. Tuân thủ Hiến pháp và pháp luật.",
+        "B. Việc đánh giá, bố trí, sử dụng cán bộ, công chức phải căn cứ vào phẩm chất chính trị, đạo đức, năng lực và kết quả thực thi nhiệm vụ.",
+        "C. Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ.",
+        "D. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Vì đây là nguyên tắc quản lý cán bộ, công chức; quy định tại khoản 4 Điều 3 Luật Cán bộ, công chức 2025.",
+      "topic": "Luật Cán bộ, công chức 2025"
+    },
+    {
+      "id": 42,
+      "question": "Theo Luật Cán bộ, công chức năm 2025, nguyên tắc nào sau đây là nguyên tắc tuyển dụng công chức?",
+      "options": [
+        "A. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát.",
+        "B. Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.",
+        "C. Bảo đảm thống nhất, đồng bộ, liên thông trong hệ thống chính trị.",
+        "D. Ưu tiên tuyển dụng người có tài năng, người có công với nước, người dân tộc thiểu số."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 4 Điều 18 Luật Cán bộ, công chức năm 2025 quy định nguyên tắc tuyển dụng công chức sau đây: “Ưu tiên tuyển dụng người có tài năng, người có công với nước, người dân tộc thiểu số”",
+      "topic": "Luật Cán bộ, công chức 2025"
+    },
+    {
+      "id": 43,
+      "question": "Theo Luật Cán bộ, công chức năm 2025, nội dung nào sau đây thuộc về văn hóa giao tiếp với Nhân dân của cán bộ, công chức?",
+      "options": [
+        "A. Tôn trọng và bảo vệ quyền con người, quyền công dân, tận tụy phục vụ Nhân dân.",
+        "B. Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả.",
+        "C. Nghiêm cấm hành vi hách dịch, cửa quyền, thiếu trách nhiệm, gây khó khăn, phiền hà cho người dân, doanh nghiệp khi thi hành công vụ.",
+        "D. Thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 2 Điều 13 Luật Cán bộ, công chức năm 2025 quy định: “Nghiêm cấm hành vi hách dịch, cửa quyền, thiếu trách nhiệm, gây khó khăn, phiền hà cho người dân, doanh nghiệp khi thi hành công vụ”",
+      "topic": "Luật Cán bộ, công chức 2025"
+    },
+    {
+      "id": 44,
+      "question": "Theo Luật Cán bộ, công chức năm 2025, đâu là nghĩa vụ của cán bộ, công chức trong thi hành công vụ?",
+      "options": [
+        "A. Tuyệt đối trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; bảo vệ danh dự Tổ quốc, lợi ích quốc gia, dân tộc.",
+        "B. Thực hiện đúng, đầy đủ và chịu trách nhiệm về kết quả thực hiện nhiệm vụ, quyền hạn được giao; chủ động nâng cao năng lực chuyên môn; ứng dụng KHCN.",
+        "C. Liên hệ chặt chẽ với Nhân dân, tôn trọng, lắng nghe ý kiến và chịu sự giám sát của Nhân dân.",
+        "D. Chấp hành nghiêm chỉnh đường lối, chủ trương, chính sách của Đảng và pháp luật của Nhà nước."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 1 Điều 7 Luật Cán bộ, công chức năm 2025 quy định: “Thực hiện đúng, đầy đủ và chịu trách nhiệm về kết quả thực hiện nhiệm vụ, quyền hạn được giao; chủ động nâng cao năng lực, trình độ chuyên môn, nghiệp vụ để đáp ứng yêu cầu của công việc; ứng dụng khoa học, công nghệ và chuyển đổi số trong thực thi nhiệm vụ”",
+      "topic": "Luật Cán bộ, công chức 2025"
+    },
+    {
+      "id": 45,
+      "question": "Theo Luật Cán bộ, công chức năm 2025, thời hạn xử lý kỷ luật không quá bao nhiêu ngày?",
+      "options": [
+        "A. 30 ngày",
+        "B. 45 ngày",
+        "C. 60 ngày",
+        "D. 90 ngày"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Theo khoản 3 Điều 37, Thời hạn xử lý kỷ luật không quá 90 ngày.",
+      "topic": "Luật Cán bộ, công chức 2025"
+    },
+    {
+      "id": 46,
+      "question": "Theo Nghị định số 09/2026/NĐ-CP, Vụ Công tác xây dựng văn bản quy phạm pháp luật gồm có bao nhiêu phòng?",
+      "options": [
+        "A. 3 phòng.",
+        "B. 4 phòng.",
+        "C. 5 phòng.",
+        "D. 6 phòng."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Điều 3. “Vụ Công tác xây dựng văn bản quy phạm pháp luật có 03 phòng”",
+      "topic": "Nghị định 09/2026/NĐ-CP"
+    },
+    {
+      "id": 47,
+      "question": "Theo Nghị định số 09/2026/NĐ-CP, Viện Chiến lược và Khoa học pháp lý thuộc loại hình tổ chức nào của Bộ Tư pháp?",
+      "options": [
+        "A. Tổ chức hành chính giúp Bộ trưởng quản lý nhà nước.",
+        "B. Đơn vị sự nghiệp công lập phục vụ quản lý nhà nước.",
+        "C. Cơ quan trực thuộc Chính phủ do Bộ trưởng quản lý.",
+        "D. Tổ chức xã hội - nghề nghiệp thuộc quản lý của Bộ."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Điều 3. Điều 3 liệt kê \"Viện Chiến lược và Khoa học pháp lý\" tại Khoản 17 và ghi rõ: \"...các tổ chức quy định từ khoản 17 đến khoản 20 Điều này là các đơn vị sự nghiệp công lập phục vụ quản lý nhà nước thuộc bộ.\"",
+      "topic": "Nghị định 09/2026/NĐ-CP"
+    },
+    {
+      "id": 48,
+      "question": "Theo Nghị định số 09/2026/NĐ-CP, Bộ Tư pháp là cơ quan quốc gia trong quan hệ với các thành viên và cơ quan thường trực của hội nghị nào?",
+      "options": [
+        "A. Hội nghị tòa án Công lý Quốc tế.",
+        "B. Hội nghị tòa án Trọng tài Thường trực (PCA).",
+        "C. Hội nghị La Hay về tư pháp quốc tế.",
+        "D. Hội nghị tổ chức Sở hữu Trí tuệ Thế giới (WIPO)."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Điểm đ, Khoản 13, Điều 2. “cơ quan quốc gia trong quan hệ với các thành viên và cơ quan thường trực của Hội nghị La Hay về tư pháp quốc tế”",
+      "topic": "Nghị định 09/2026/NĐ-CP"
+    },
+    {
+      "id": 49,
+      "question": "Theo Nghị định số 09/2026/NĐ-CP, việc thẩm định, góp ý và tham gia đàm phán điều ước quốc tế, thỏa thuận quốc tế thuộc theo quy định pháp luật là nhiệm vụ của Bộ Tư pháp thuộc lĩnh vực nào?",
+      "options": [
+        "A. Về hợp tác quốc tế về pháp luật và cải cách tư pháp.",
+        "B. Xây dựng thể chế, pháp luật quốc tế và giải quyết tranh chấp đầu tư quốc tế.",
+        "C. Cải cách tư pháp.",
+        "D. Bổ trợ tư pháp quốc tế."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Điểm b, Khoản 13, Điều 2, Nghị định số 09/2026/NĐ-CP. Trích dẫn luật: \"13. Về xây dựng thể chế, pháp luật quốc tế và giải quyết tranh chấp đầu tư quốc tế: ... b) Thẩm định, góp ý và tham gia đàm phán điều ước quốc tế, thỏa thuận quốc tế thuộc phạm vi quản lý nhà nước của bộ theo quy định pháp luật;\".",
+      "topic": "Nghị định 09/2026/NĐ-CP"
+    },
+    {
+      "id": 50,
+      "question": "Theo Nghị định số 09/2026/NĐ-CP, chủ thể nào trình Chính phủ dự thảo nghị định, nghị quyết của Chính phủ trong các lĩnh vực thuộc phạm vi quản lý của Bộ?",
+      "options": [
+        "A. Văn phòng Chính phủ.",
+        "B. Bộ trưởng Bộ Tư pháp.",
+        "C. Bộ Tư pháp.",
+        "D. Thủ tướng Chính phủ."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Khoản 1, Điều 2, Nghị định số 09/2026/NĐ-CP. Trích dẫn luật: \"1. Trình Chính phủ dự án luật, nghị quyết của Quốc hội, dự án pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội; dự thảo nghị định, nghị quyết của Chính phủ;...\"",
+      "topic": "Nghị định 09/2026/NĐ-CP"
+    },
+    {
+      "id": 51,
+      "question": "Theo Nghị định số 09/2026/NĐ-CP, đơn vị nào sau đây là đơn vị sự nghiệp công lập thuộc Bộ Tư pháp?",
+      "options": [
+        "A. Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật.",
+        "B. Văn phòng Bộ.",
+        "C. Học viện Tư pháp.",
+        "D. Cục Đăng ký giao dịch bảo đảm và Bồi thường nhà nước."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Khoản 18, Điều 3, Nghị định số 09/2026/NĐ-CP. Trích dẫn luật: \"18. Học viện Tư pháp.\" Phân tích: Theo quy định, các đơn vị được liệt kê từ khoản 17 đến khoản 20 của Điều 3 là các đơn vị sự nghiệp công lập.",
+      "topic": "Nghị định 09/2026/NĐ-CP"
+    },
+    {
+      "id": 52,
+      "question": "Theo Nghị định số 09/2026/NĐ-CP, về lĩnh vực hành chính tư pháp, đâu không phải nhiệm vụ của Bộ Tư pháp trong việc chỉ đạo, theo dõi, hướng dẫn chuyên môn?",
+      "options": [
+        "A. Hộ tịch, quốc tịch, nuôi con nuôi.",
+        "B. Đăng ký biện pháp bảo đảm, đăng ký giao dịch, tài sản khác thuộc thẩm quyền.",
+        "C. Lý lịch tư pháp, đấu giá tài sản.",
+        "D. Bồi thường nhà nước."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Điểm a, Khoản 9, Điều 2, Nghị định số 09/2026/NĐ-CP. Trích dẫn luật: \"a) Chỉ đạo, theo dõi, hướng dẫn chuyên môn, nghiệp vụ, kiểm tra việc thực hiện các công tác: hộ tịch, quốc tịch, nuôi con nuôi; đăng ký biện pháp bảo đảm; bồi thường nhà nước theo quy định pháp luật;\".",
+      "topic": "Nghị định 09/2026/NĐ-CP"
+    },
+    {
+      "id": 53,
+      "question": "Theo Nghị định số 09/2026/NĐ-CP, về bổ trợ tư pháp, Bộ Tư pháp có nhiệm vụ, quyền hạn nào sau đây?",
+      "options": [
+        "A. Hướng dẫn, theo dõi, đôn đốc, kiểm tra việc thực hiện công tác kiểm soát thủ tục hành chính.",
+        "B. Chỉ đạo, theo dõi, hướng dẫn chuyên môn, nghiệp vụ, kiểm tra tổ chức và hoạt động luật sư, trợ giúp pháp lý, công chứng, giám định tư pháp, đấu giá tài sản...",
+        "C. Chủ trì triển khai thực hiện nhiệm vụ cải cách thủ tục hành chính.",
+        "D. Kiến nghị Chính phủ giao các bộ, ngành nghiên cứu, đề xuất các chủ trương về thủ tục hành chính."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Điểm a, Khoản 10, Điều 2, Nghị định số 09/2026/NĐ-CP. Trích dẫn luật quy định về chỉ đạo, hướng dẫn hoạt động luật sư, công chứng, giám định, đấu giá... Đáp án A,C,D thuộc khoản 12 Điều 2.",
+      "topic": "Nghị định 09/2026/NĐ-CP"
+    },
+    {
+      "id": 54,
+      "question": "Theo Quyết định số 89/QĐ-BTP năm 2026, Cục Quản lý Thi hành án dân sự xây dựng trình Bộ trưởng ban hành nội dung nào sau đây?",
+      "options": [
+        "A. Quy tắc đạo đức nghề nghiệp trong lĩnh vực quản lý của Cục",
+        "B. Luật Thi hành án dân sự sửa đổi",
+        "C. Quy hoạch sử dụng đất tại địa phương",
+        "D. Mức lương của công chức toàn ngành tư pháp"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn đáp án a. Bởi: Khoản 4, Điều 2, Quyết định số 89/QĐ-BTP năm 2026: \"Xây dựng, trình Bộ trưởng ban hành... chuẩn mực, quy tắc đạo đức nghề nghiệp trong các lĩnh vực thuộc phạm vi quản lý của Cục.\"",
+      "topic": "Quyết định số 89/QĐ-BTP"
+    },
+    {
+      "id": 55,
+      "question": "Theo Quyết định số 89/QĐ-BTP năm 2026, đâu không phải là lĩnh vực thuộc phạm vi quản lý nhà nước của Cục Quản lý Thi hành án dân sự?",
+      "options": [
+        "A. Quản lý nhà nước về thi hành án hình sự",
+        "B. Quản lý nhà nước về thi hành án dân sự",
+        "C. Quản lý về tổ chức và hoạt động của Thừa hành viên",
+        "D. Quản lý nhà nước về thi hành án hành chính"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn đáp án A. Bởi Công tác thi hành án hình sự thuộc thẩm quyền quản lý của Bộ Công an và Bộ Quốc phòng, không thuộc chức năng của Cục này.",
+      "topic": "Quyết định số 89/QĐ-BTP"
+    },
+    {
+      "id": 56,
+      "question": "Đâu là số lượng Thi hành án dân sự tỉnh, thành phố thuộc Cục tại địa phương theo Quyết định số 89/QĐ-BTP năm 2026?",
+      "options": [
+        "A. 63 đơn vị",
+        "B. 34 đơn vị",
+        "C. 50 đơn vị",
+        "D. 355 đơn vị"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án b. Bởi: Điểm b, Khoản 1, Điều 3 quy định: \"34 Thi hành án dân sự tỉnh, thành phố...\".",
+      "topic": "Quyết định số 89/QĐ-BTP"
+    },
+    {
+      "id": 57,
+      "question": "Theo Quyết định số 89/QĐ-BTP năm 2026, cơ cấu tổ chức của Cục được tổ chức như thế nào?",
+      "options": [
+        "A. Chỉ được tổ chức tại Trung ương, thực hiện quản lý, chỉ đạo thống nhất đối với hệ thống thi hành án dân sự trong phạm vi cả nước.",
+        "B. Được tổ chức từ Trung ương đến địa phương",
+        "C. Được tổ chức tại Trung ương và các thành phố trực thuộc Trung ương, không tổ chức tại các đơn vị hành chính cấp tỉnh khác.",
+        "D. Được tổ chức theo các khu vực kinh tế – xã hội trọng điểm để bảo đảm hiệu quả quản lý, điều hành."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án b. Bởi: Khoản 1, Điều 3, Quyết định số 89/QĐ-BTP năm 2026: \"Cục Quản lý Thi hành án dân sự được tổ chức từ Trung ương đến địa phương...\".",
+      "topic": "Quyết định số 89/QĐ-BTP"
+    },
+    {
+      "id": 58,
+      "question": "Theo Quyết định số 89/QĐ-BTP năm 2026, đâu là đơn vị phụ trách về thống kê dữ liệu thi hành án tại Trung ương?",
+      "options": [
+        "A. Ban Kế hoạch - Tài chính",
+        "B. Ban Chuyển đổi số và thống kê dữ liệu thi hành án",
+        "C. Văn phòng Cục",
+        "D. Ban Nghiệp vụ thi hành án dân sự"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án b. Bởi: Điểm a, Khoản 1, Điều 3 liệt kê: \"Ban Chuyển đổi số và thống kê dữ liệu thi hành án\".",
+      "topic": "Quyết định số 89/QĐ-BTP"
+    },
+    {
+      "id": 59,
+      "question": "Theo Quyết định số 89/QĐ-BTP năm 2026, Ban nào thuộc Cục tại Trung ương phụ trách về Thừa hành viên?",
+      "options": [
+        "A. Ban Pháp chế và Nghiệp vụ thi hành án dân sự",
+        "B. Ban Kế hoạch - Tài chính",
+        "C. Ban Tổ chức cán bộ",
+        "D. Ban Nghiệp vụ thi hành án hành chính và Thừa hành viên"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Chọn đáp án d. Bởi: Điểm a, Khoản 1, Điều 3 liệt kê đơn vị: \"Ban Nghiệp vụ thi hành án hành chính và Thừa hành viên\".",
+      "topic": "Quyết định số 89/QĐ-BTP"
+    },
+    {
+      "id": 60,
+      "question": "Theo Quyết định số 89/QĐ-BTP năm 2026, nhiệm vụ của Cục trong việc tham gia xây dựng văn bản là gì?",
+      "options": [
+        "A. Chỉ chủ trì xây dựng và ban hành các văn bản áp dụng nội bộ.",
+        "B. Tham gia xây dựng, thẩm định, góp ý các dự án, dự thảo văn bản theo phân công của Lãnh đạo Bộ hoặc theo yêu cầu của các đơn vị thuộc Bộ...",
+        "C. Thực hiện thẩm định bắt buộc đối với tất cả các dự án, dự thảo văn bản quy phạm pháp luật do Chính phủ ban hành.",
+        "D. Được ký ban hành các thông tư liên tịch với các bộ, ngành liên quan trong lĩnh vực thi hành án dân sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án b. Bởi: Khoản 1, Điều 2 quy định Cục có nhiệm vụ tham gia xây dựng, thẩm định, góp ý các dự án theo phân công hoặc yêu cầu của các đơn vị liên quan.",
+      "topic": "Quyết định số 89/QĐ-BTP"
+    }
+  ]
 }
 ]
