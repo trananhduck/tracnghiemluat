@@ -7861,7 +7861,7 @@
     ]
   },
    {
-    "id": "DE_THADS_04",
+    "id": "THADS_04",
     "title": "THADS_Đề tổng hợp số 04",
     "questions": [
       {
@@ -12578,7 +12578,7 @@
 },
 
 {
-    "id": 10,
+    "id": "THADS_10",
     "title": "THADS_Đề tổng hợp số 10",
     "questions": [
       {
@@ -13364,7 +13364,7 @@
     ]
   },
   {
-    "id": "DE_TA_THADS_2025",
+    "id": "DE_TA_2025",
     "title": "Đề Thi thử môn Tiếng Anh - THADS 2025",
     "questions": [
       {

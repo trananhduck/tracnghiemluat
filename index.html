@@ -60,6 +60,27 @@
         border-left: 4px solid #60a5fa;
       }
 
+      /* Nút tạo đề ngẫu nhiên ở sidebar */
+      .random-btn-container {
+        padding: 15px;
+        border-top: 1px solid #334155;
+        text-align: center;
+      }
+      .btn-random {
+        width: 100%;
+        padding: 10px;
+        background: #8b5cf6; /* Màu tím */
+        color: white;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-weight: bold;
+        transition: 0.2s;
+      }
+      .btn-random:hover {
+        background: #7c3aed;
+      }
+
       /* MAIN CONTENT */
       main {
         flex: 1;
@@ -150,9 +171,9 @@
         color: #7f1d1d;
       }
       .option-btn:disabled {
-        opacity: 0.8;
+        opacity: 0.9;
         cursor: not-allowed;
-      } /* Style khi đã chọn xong */
+      }
 
       /* RATIONALE */
       .rationale {
@@ -229,7 +250,6 @@
         border: 2px solid var(--primary);
         font-weight: bold;
       }
-      /* Hiển thị ngay đúng sai trên palette */
       .p-item.is-correct {
         background: var(--success);
         color: white;
@@ -317,6 +337,13 @@
   <body>
     <aside class="left-sidebar">
       <div class="sidebar-header">Kho Đề Thi</div>
+
+      <div class="random-btn-container">
+        <button class="btn-random" onclick="createCustomExam()">
+          🎲 Tạo Đề Ngẫu Nhiên (60 câu)
+        </button>
+      </div>
+
       <div class="exam-list" id="exam-list">
         <p style="padding: 15px; color: #94a3b8; text-align: center">
           Đang tải dữ liệu...
@@ -514,15 +541,99 @@
         });
       }
 
+      // --- 1. HÀM TẠO ĐỀ NGẪU NHIÊN ---
+      function createCustomExam() {
+        // Kiểm tra nếu đang làm bài
+        if (state.examId !== null && !state.isFinished) {
+          showModal(
+            "Tạo đề mới?",
+            "Bạn đang làm bài. Nếu tạo đề mới, tiến độ hiện tại sẽ mất.",
+            () => {
+              generateRandomExam();
+            },
+          );
+        } else {
+          generateRandomExam();
+        }
+      }
+
+      function generateRandomExam() {
+        // 1. Định nghĩa danh sách các ID hợp lệ hoặc quy tắc lọc
+        // Cách 1: Nếu ID trong data.json của bạn là "THADS_01", "THADS_02"...
+        // Cách 2: Nếu ID là "DE_THADS_01" (như các file trước), ta sẽ kiểm tra từ khóa "THADS"
+
+        let allQuestions = [];
+
+        // Duyệt qua toàn bộ cơ sở dữ liệu
+        DB.forEach((exam) => {
+          // --- BỘ LỌC QUAN TRỌNG ---
+          // Chỉ lấy những đề có ID chứa chữ "THADS" (hoặc bạn có thể liệt kê chính xác các ID)
+          // Ví dụ: exam.id.startsWith("THADS_") hoặc exam.id.includes("THADS")
+          if (exam.id && exam.id.toUpperCase().includes("THADS")) {
+            // Gán thêm nguồn gốc câu hỏi để tra cứu nếu cần
+            const questionsWithSource = exam.questions.map((q) => ({
+              ...q,
+              sourceExam: exam.title,
+            }));
+
+            allQuestions = allQuestions.concat(questionsWithSource);
+          }
+        });
+
+        // Kiểm tra nếu không tìm thấy câu hỏi nào
+        if (allQuestions.length === 0) {
+          alert(
+            "Không tìm thấy dữ liệu của các bộ đề THADS (01-10).\nVui lòng kiểm tra lại file data.json xem ID đã đúng chưa (ví dụ: id: 'THADS_01').",
+          );
+          return;
+        }
+
+        // 2. Trộn ngẫu nhiên (Fisher-Yates Shuffle)
+        for (let i = allQuestions.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [allQuestions[i], allQuestions[j]] = [
+            allQuestions[j],
+            allQuestions[i],
+          ];
+        }
+
+        // 3. Lấy 60 câu đầu tiên
+        // Nếu tổng số câu hỏi ít hơn 60, lấy tất cả số câu hiện có
+        const questionCount = Math.min(allQuestions.length, 60);
+        const selectedQuestions = allQuestions.slice(0, questionCount);
+
+        // 4. Tạo Object đề thi mới
+        const newExam = {
+          id: `custom_thads_${Date.now()}`,
+          title: `📝 Đề Tổng Hợp Ngẫu Nhiên (${new Date().toLocaleTimeString()})`,
+          questions: selectedQuestions,
+        };
+
+        // 5. Thêm vào DB và render lại list
+        DB.push(newExam);
+        renderExamList();
+
+        // 6. Chọn luôn đề vừa tạo (là phần tử cuối cùng)
+        selectExam(DB.length - 1);
+      }
+
       function checkLocalStorage() {
         const saved = localStorage.getItem("quiz_state");
         if (saved) {
           const parsed = JSON.parse(saved);
-          if (!parsed.isFinished) {
-            document
-              .getElementById("resume-btn-container")
-              .classList.remove("hidden");
-            document.getElementById("setup-screen").classList.remove("hidden");
+          // Kiểm tra xem đề trong localStorage có còn tồn tại trong DB hiện tại không
+          if (DB[parsed.examId]) {
+            if (!parsed.isFinished) {
+              document
+                .getElementById("resume-btn-container")
+                .classList.remove("hidden");
+              document
+                .getElementById("setup-screen")
+                .classList.remove("hidden");
+            }
+          } else {
+            // Nếu đề không tồn tại (do data thay đổi), xóa localstorage
+            localStorage.removeItem("quiz_state");
           }
         }
       }
@@ -603,8 +714,6 @@
         startTimer();
       }
 
-      // --- 5. LOGIC BÀI THI (ĐÃ SỬA: FEEDBACK TỨC THÌ) ---
-
       function loadQuestion(idx) {
         if (idx < 0 || idx >= DB[state.examId].questions.length) return;
         state.currentQIdx = idx;
@@ -619,36 +728,39 @@
         optDiv.innerHTML = "";
 
         const userAns = state.answers[idx];
-        const isAnswered = userAns !== undefined; // Đã trả lời chưa?
+        const isAnswered = userAns !== undefined;
+        const isReview = state.isFinished || state.isReviewing;
 
         q.options.forEach((optText, optIdx) => {
           const btn = document.createElement("button");
           btn.className = "option-btn";
           btn.innerText = optText;
 
-          // Nếu đã trả lời (dù đang làm hay đang review), hiện ngay màu sắc
-          if (isAnswered) {
-            btn.disabled = true; // Khóa nút
+          // Nếu đã trả lời (feedback tức thì) HOẶC đang xem lại
+          if (isAnswered || isReview) {
+            btn.disabled = true;
 
-            // Logic màu sắc:
-            // 1. Đáp án đúng luôn xanh
+            // Logic màu sắc
             if (optIdx === q.correct) {
               btn.classList.add("correct");
             }
-            // 2. Nếu chọn sai, đáp án sai hiện đỏ
-            if (optIdx === userAns && optIdx !== q.correct) {
+            if (
+              userAns !== undefined &&
+              optIdx === userAns &&
+              optIdx !== q.correct
+            ) {
               btn.classList.add("wrong");
             }
           } else {
-            // Chưa trả lời: cho phép click
             btn.onclick = () => handleAnswer(idx, optIdx);
           }
           optDiv.appendChild(btn);
         });
 
-        // Hiển thị giải thích NGAY LẬP TỨC nếu đã trả lời
+        // Hiển thị giải thích
         const ratDiv = document.getElementById("q-rationale");
-        if (isAnswered) {
+        // Hiện giải thích khi: Đã trả lời (trong lúc thi) HOẶC Đang xem lại (kể cả chưa trả lời)
+        if (isAnswered || isReview) {
           ratDiv.style.display = "block";
           const statusText =
             userAns === undefined
@@ -664,21 +776,15 @@
           idx === DB[state.examId].questions.length - 1;
 
         updatePaletteUI();
-        if (!state.isFinished && !state.isReviewing) saveState();
+        if (!isReview) saveState();
       }
 
       function handleAnswer(qIdx, ansIdx) {
         if (state.isFinished) return;
-        // Lưu đáp án
         state.answers[qIdx] = ansIdx;
 
-        // Cập nhật lại giao diện ngay lập tức để hiện màu và giải thích
-        loadQuestion(qIdx);
-
-        // Cập nhật palette bên phải
+        loadQuestion(qIdx); // Reload để hiện màu ngay
         updatePaletteUI();
-
-        // Lưu state
         saveState();
       }
 
@@ -728,7 +834,7 @@
           // Cờ
           if (state.flags.includes(i)) el.classList.add("is-flagged");
 
-          // Logic màu sắc Palette: HIỆN NGAY LẬP TỨC
+          // Logic màu sắc Palette: Hiện ngay khi có câu trả lời
           if (state.answers[i] !== undefined) {
             const isCorrect = state.answers[i] === q.correct;
             el.classList.add(isCorrect ? "is-correct" : "is-wrong");
@@ -814,7 +920,6 @@
         document.getElementById("analysis-box").innerHTML = html;
       }
 
-      // --- CHỨC NĂNG XEM LẠI (REVIEW MODE) ---
       function enterReviewMode() {
         state.isReviewing = true;
 
