@@ -15330,5 +15330,791 @@
       "topic": "Luật Thi hành án dân sự 2008"
     }
   ]
+},
+{
+  "id": "THADS_CHUYENVIEN_02",
+  "title": "Đề 02: Luật Thi hành án dân sự năm 2008 (đã sửa đổi, bổ sung)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Nguyên tắc cơ bản nào được đề cập trong Điều 9 về cách thức thi hành án?",
+      "options": [
+        "A. Kết hợp giữa khuyến khích tự nguyện và áp dụng cưỡng chế khi cần thiết.",
+        "B. Chỉ áp dụng biện pháp cưỡng chế.",
+        "C. Chỉ chờ đợi sự tự nguyện của đương sự.",
+        "D. Ưu tiên cưỡng chế, sau đó mới đến tự nguyện."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ Điều 9: khoản 1 nhấn mạnh tự nguyện, khoản 2 quy định cưỡng chế khi đủ điều kiện.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 2,
+      "question": "Điều 10 quy định về bồi thường thiệt hại áp dụng khi nào?",
+      "options": [
+        "A. Khi tài sản bán đấu giá có giá trị thấp hơn giá trị thực tế.",
+        "B. Khi có hành vi vi phạm quy định của Luật Thi hành án dân sự và gây ra thiệt hại.",
+        "C. Khi việc thi hành án bị trì hoãn.",
+        "D. Khi người phải thi hành án không thi hành án gây thiệt hại cho người được thi hành án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 10: phải có hành vi vi phạm và gây ra thiệt hại thì phát sinh trách nhiệm bồi thường.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 3,
+      "question": "Chức năng “giám sát” và “kiểm sát” trong thi hành án dân sự theo Điều 12 được phân công cho các chủ thể khác nhau nhằm mục đích gì?",
+      "options": [
+        "A. Để tạo ra các cơ chế kiểm tra, giám sát chéo, đảm bảo hoạt động thi hành án tuân thủ pháp luật.",
+        "B. Để thay thế cho hoạt động thanh tra, kiểm tra nội bộ.",
+        "C. Để tăng cường quyền lực cho Viện kiểm sát.",
+        "D. Để giảm bớt gánh nặng công việc cho cơ quan thi hành án."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ Điều 12: giám sát (Quốc hội, HĐND, MTTQ) + kiểm sát (VKS) tạo cơ chế kiểm soát chéo, bảo đảm tính pháp chế.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 4,
+      "question": "Nếu một quyết định của Chấp hành viên bị Viện kiểm sát kháng nghị vì vi phạm pháp luật nghiêm trọng, cơ quan thi hành án phải làm gì?",
+      "options": [
+        "A. Tiếp tục thi hành quyết định đó và báo cáo sau.",
+        "B. Phớt lờ kháng nghị nếu cho rằng không đúng.",
+        "C. Xem xét và có thể phải đình chỉ việc thi hành, thu hồi, sửa đổi hoặc hủy bỏ quyết định.",
+        "D. Chuyển vụ việc cho Tòa án giải quyết."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ điểm e khoản 2 Điều 12: kháng nghị có thể yêu cầu đình chỉ/thu hồi/sửa đổi/bổ sung/hủy bỏ quyết định vi phạm pháp luật.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 5,
+      "question": "Trường hợp một cá nhân cản trở hoạt động của Chấp hành viên, theo Điều 11, hành vi này có thể bị xử lý như thế nào?",
+      "options": [
+        "A. Bị xử lý theo quy định của pháp luật, có thể là hành chính hoặc hình sự.",
+        "B. Chỉ có thể bị xử lý kỷ luật nếu là cán bộ, công chức.",
+        "C. Chỉ bị yêu cầu rời khỏi nơi thi hành án.",
+        "D. Bị Chấp hành viên lập biên bản và cảnh cáo."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ khoản 2 Điều 11: mọi hành vi cản trở/can thiệp đều bị xử lý theo pháp luật; tùy mức độ có thể xử phạt hành chính hoặc truy cứu hình sự.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 6,
+      "question": "Nếu cơ quan thi hành án gây thiệt hại trong quá trình thi hành án, theo Điều 10, nghĩa vụ bồi thường được thực hiện như thế nào?",
+      "options": [
+        "A. Ngân sách nhà nước sẽ chi trả toàn bộ.",
+        "B. Cơ quan gây thiệt hại phải bồi thường theo quy định của pháp luật.",
+        "C. Người bị thiệt hại phải tự chịu.",
+        "D. Chỉ bồi thường nếu có quyết định của Tòa án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 10: cơ quan/tổ chức/cá nhân vi phạm gây thiệt hại thì phải bồi thường theo quy định pháp luật.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 7,
+      "question": "Trách nhiệm của người phiên dịch được quy định tại Điều 8 bao gồm những gì?",
+      "options": [
+        "A. Dịch đúng nghĩa, trung thực, khách quan.",
+        "B. Giải thích pháp luật cho đương sự.",
+        "C. Ghi biên bản các buổi làm việc.",
+        "D. Tư vấn cho đương sự về cách thức thi hành án."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ khoản 2 Điều 8: người phiên dịch phải dịch đúng nghĩa, trung thực, khách quan.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 8,
+      "question": "Theo Điều 12, ngoài cơ quan thi hành án và Chấp hành viên, Viện kiểm sát còn kiểm sát việc tuân theo pháp luật của những đối tượng nào khác?",
+      "options": [
+        "A. Chỉ kiểm sát Tòa án đã ra bản án.",
+        "B. Tòa án, cơ quan, tổ chức, cá nhân có liên quan.",
+        "C. Ủy ban nhân dân các cấp.",
+        "D. Chỉ kiểm sát đương sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 2 Điều 12: VKS kiểm sát việc tuân theo pháp luật của Tòa án và cơ quan/tổ chức/cá nhân có liên quan trong thi hành án.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 9,
+      "question": "Cơ quan, tổ chức, cá nhân có liên quan phải thực hiện yêu cầu của cơ quan thi hành án dân sự dựa trên cơ sở nào theo Điều 11?",
+      "options": [
+        "A. Dựa trên yêu cầu hợp lý và có thiện chí.",
+        "B. Dựa trên quy định của Luật Thi hành án dân sự.",
+        "C. Dựa trên thỏa thuận giữa các bên.",
+        "D. Dựa trên chỉ đạo của cơ quan cấp trên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 2 Điều 11: cơ quan/tổ chức/cá nhân liên quan có trách nhiệm thực hiện yêu cầu của THADS/Chấp hành viên theo quy định của Luật THADS.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 10,
+      "question": "Nếu có thiệt hại xảy ra do vi phạm trong thi hành án, việc bồi thường được tiến hành theo quy định của pháp luật nào theo Điều 10?",
+      "options": [
+        "A. Theo quy định của pháp luật (nói chung).",
+        "B. Theo thỏa thuận giữa người gây thiệt hại và người bị thiệt hại.",
+        "C. Theo quyết định của Thủ trưởng cơ quan thi hành án.",
+        "D. Theo quy định riêng của ngành thi hành án."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ Điều 10 dẫn chiếu “theo quy định của pháp luật”, thực tiễn thường áp dụng các quy định liên quan như Luật Trách nhiệm bồi thường của Nhà nước và Bộ luật Dân sự (tùy chủ thể, tình huống).",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 11,
+      "question": "Điều kiện tiên quyết để một người phải thi hành án bị cưỡng chế theo Điều 9 là gì?",
+      "options": [
+        "A. Đã bị xử phạt vi phạm hành chính.",
+        "B. Hết thời hiệu yêu cầu thi hành án.",
+        "C. Có điều kiện thi hành án.",
+        "D. Người được thi hành án có đơn yêu cầu cưỡng chế."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 2 Điều 9: điều kiện trọng tâm là người phải thi hành án có điều kiện thi hành án nhưng không tự nguyện.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 12,
+      "question": "Theo Điều 13, hệ thống tổ chức thi hành án dân sự bao gồm những thành phần chính nào?",
+      "options": [
+        "A. Cơ quan quản lý thi hành án thuộc Bộ Tư pháp và Tòa án nhân dân các cấp.",
+        "B. Cơ quan quản lý thi hành án dân sự và cơ quan thi hành án dân sự.",
+        "C. Cơ quan thi hành án dân sự và Viện kiểm sát nhân dân.",
+        "D. Cơ quan thi hành án dân sự cấp tỉnh và cơ quan thi hành án dân sự cấp huyện."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 13: hệ thống gồm cơ quan quản lý THADS và cơ quan THADS (cơ quan trực tiếp tổ chức thi hành).",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 13,
+      "question": "Theo Luật Thi hành án dân sự (đã sửa đổi, bổ sung), Cơ quan nào sau đây thuộc nhóm “Cơ quan quản lý thi hành án dân sự”?",
+      "options": [
+        "A. Cơ quan thi hành án cấp quân khu.",
+        "B. Cơ quan thi hành án dân sự cấp huyện.",
+        "C. Cơ quan thi hành án dân sự cấp tỉnh.",
+        "D. Cơ quan quản lý thi hành án thuộc Bộ Quốc phòng."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 13 (Văn bản hợp nhất Luật Thi hành án dân sự số 115/VBHN-VPQH) cơ quan quản lý THADS gồm cơ quan quản lý thuộc Bộ Tư pháp và cơ quan quản lý thuộc Bộ Quốc phòng (trong quân đội).",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 14,
+      "question": "Theo Điều 14, ngoài việc trực tiếp tổ chức thi hành án, cơ quan thi hành án dân sự cấp tỉnh còn có nhiệm vụ gì liên quan đến người đang chấp hành hình phạt tù?",
+      "options": [
+        "A. Ra quyết định đặc xá cho người có nghĩa vụ thi hành án dân sự.",
+        "B. Thu các khoản tiền thi hành án do phạm nhân nộp tại trại giam.",
+        "C. Giám sát việc chấp hành án phạt tù của người có nghĩa vụ thi hành án dân sự.",
+        "D. Lập hồ sơ đề nghị xét miễn, giảm chấp hành hình phạt tù và đặc xá."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ khoản 3 Điều 14: cơ quan THADS cấp tỉnh phối hợp để lập hồ sơ đề nghị xét miễn, giảm chấp hành hình phạt tù và đặc xá theo quy định.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 15,
+      "question": "Cơ quan thi hành án dân sự cấp tỉnh có trách nhiệm báo cáo công tác thi hành án dân sự trước cơ quan nào theo quy định tại Điều 14?",
+      "options": [
+        "A. Chỉ báo cáo trước Ủy ban nhân dân cùng cấp.",
+        "B. Hội đồng nhân dân và Ủy ban nhân dân cùng cấp.",
+        "C. Chỉ báo cáo cơ quan quản lý thi hành án dân sự thuộc Bộ Tư pháp.",
+        "D. Chỉ báo cáo trước Tòa án nhân dân cùng cấp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 7 Điều 14: cơ quan THADS cấp tỉnh báo cáo trước HĐND và UBND cùng cấp theo quy định.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 16,
+      "question": "Nhiệm vụ nào sau đây KHÔNG thuộc quyền hạn của cơ quan thi hành án cấp quân khu theo Điều 15?",
+      "options": [
+        "A. Giải quyết khiếu nại, tố cáo về thi hành án thuộc thẩm quyền.",
+        "B. Lập hồ sơ đề nghị xét miễn, giảm nghĩa vụ thi hành án dân sự.",
+        "C. Trực tiếp tổ chức thi hành bản án, quyết định theo quy định.",
+        "D. Chỉ đạo hoạt động thi hành án đối với cơ quan thi hành án dân sự cấp huyện."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ Điều 15: cơ quan THA cấp quân khu thuộc hệ thống quân đội, không có thẩm quyền chỉ đạo cơ quan THADS cấp huyện (hệ dân sự).",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 17,
+      "question": "Theo Điều 15, cơ quan thi hành án cấp quân khu giúp ai thực hiện nhiệm vụ, quyền hạn theo quy định?",
+      "options": [
+        "A. Tư lệnh quân khu và tương đương.",
+        "B. Bộ trưởng Bộ Quốc phòng.",
+        "C. Viện trưởng Viện kiểm sát quân sự trung ương.",
+        "D. Chánh án Tòa án quân sự trung ương."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ khoản 6 Điều 15: cơ quan THA cấp quân khu có nhiệm vụ giúp Tư lệnh quân khu và tương đương thực hiện nhiệm vụ, quyền hạn liên quan.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 18,
+      "question": "Cơ quan thi hành án cấp quân khu báo cáo Tòa án về kết quả thi hành bản án, quyết định trong trường hợp nào theo Điều 15?",
+      "options": [
+        "A. Khi có yêu cầu của Tòa án.",
+        "B. Trong mọi trường hợp sau khi kết thúc việc thi hành án.",
+        "C. Khi có kháng nghị của Viện kiểm sát.",
+        "D. Định kỳ hàng quý."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ khoản 2 Điều 15: việc báo cáo Tòa án thực hiện khi có yêu cầu của Tòa án.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 19,
+      "question": "Theo Điều 13, cơ quan nào quy định chi tiết về nhiệm vụ, quyền hạn, tên gọi, cơ cấu, tổ chức của cơ quan thi hành án dân sự?",
+      "options": [
+        "A. Bộ Tư pháp.",
+        "B. Tòa án nhân dân tối cao.",
+        "C. Quốc hội.",
+        "D. Chính phủ."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ phần cuối Điều 13: Chính phủ quy định nhiệm vụ, quyền hạn, tên gọi, cơ cấu, tổ chức của cơ quan THADS.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 20,
+      "question": "Một trong những nhiệm vụ của cơ quan thi hành án dân sự cấp tỉnh là tổng kết thực tiễn thi hành án và thực hiện chế độ thống kê, báo cáo theo hướng dẫn của ai?",
+      "options": [
+        "A. Ủy ban nhân dân cấp tỉnh.",
+        "B. Tòa án nhân dân cấp tỉnh.",
+        "C. Viện kiểm sát nhân dân cấp tỉnh.",
+        "D. Cơ quan quản lý thi hành án dân sự thuộc Bộ Tư pháp."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ điểm d khoản 1 Điều 14: thực hiện thống kê/báo cáo theo hướng dẫn của cơ quan quản lý THADS thuộc Bộ Tư pháp.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 21,
+      "question": "Cơ quan nào KHÔNG thuộc “Cơ quan thi hành án dân sự” theo Điều 13?",
+      "options": [
+        "A. Cơ quan thi hành án quân khu và tương đương.",
+        "B. Cơ quan quản lý thi hành án dân sự thuộc Bộ Tư pháp.",
+        "C. Cơ quan thi hành án dân sự tỉnh, thành phố trực thuộc trung ương.",
+        "D. Cơ quan thi hành án dân sự huyện, quận, thị xã, thành phố thuộc tỉnh."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 13: “cơ quan quản lý THADS thuộc Bộ Tư pháp” thuộc nhóm cơ quan quản lý, không phải nhóm cơ quan THADS trực tiếp thi hành.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 22,
+      "question": "Theo Điều 14, một trong những nhiệm vụ của cơ quan thi hành án dân sự cấp tỉnh là quản lý, chỉ đạo về thi hành án dân sự trên địa bàn. Điều này KHÔNG bao gồm việc nào sau đây?",
+      "options": [
+        "A. Chỉ đạo hoạt động thi hành án đối với cơ quan thi hành án dân sự cấp huyện.",
+        "B. Bổ nhiệm Chấp hành viên cho cơ quan thi hành án dân sự cấp huyện.",
+        "C. Tổng kết thực tiễn thi hành án dân sự.",
+        "D. Bảo đảm việc áp dụng thống nhất các quy định của pháp luật."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ thẩm quyền bổ nhiệm tại Điều 17, việc bổ nhiệm Chấp hành viên thuộc Bộ trưởng Bộ Tư pháp, không thuộc cơ quan THADS cấp tỉnh.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 23,
+      "question": "Theo Điều 17, cơ quan nào có thẩm quyền bổ nhiệm Chấp hành viên?",
+      "options": [
+        "A. Bộ trưởng Bộ Tư pháp.",
+        "B. Thủ trưởng cơ quan thi hành án dân sự cấp tỉnh.",
+        "C. Chính phủ.",
+        "D. Tòa án nhân dân tối cao."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ khoản 2 Điều 17: Chấp hành viên do Bộ trưởng Bộ Tư pháp bổ nhiệm.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 24,
+      "question": "Điều 17 của Luật Thi hành án dân sự quy định Chấp hành viên có bao nhiêu ngạch?",
+      "options": [
+        "A. Ba ngạch: Sơ cấp, Trung cấp và Cao cấp.",
+        "B. Bốn ngạch: Tập sự, Sơ cấp, Trung cấp và Cao cấp.",
+        "C. Hai ngạch: Sơ cấp và Trung cấp.",
+        "D. Chỉ có một ngạch duy nhất là Chấp hành viên."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 17: có 03 ngạch: sơ cấp, trung cấp, cao cấp.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 25,
+      "question": "Một trong những tiêu chuẩn chung để được bổ nhiệm làm Chấp hành viên theo khoản 1 Điều 18 là gì?",
+      "options": [
+        "A. Đã từng làm công tác pháp luật tại cơ quan thi hành án.",
+        "B. Là Đảng viên Đảng Cộng sản Việt Nam.",
+        "C. Có trình độ cử nhân luật trở lên.",
+        "D. Có trình độ thạc sĩ luật trở lên."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 18: tiêu chuẩn chung bắt buộc là có trình độ cử nhân luật trở lên.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 26,
+      "question": "Để được bổ nhiệm làm Chấp hành viên sơ cấp, một người cần có thời gian làm công tác pháp luật tối thiểu là bao lâu theo Điều 18?",
+      "options": [
+        "A. 05 năm trở lên.",
+        "B. 03 năm trở lên.",
+        "C. 01 năm trở lên.",
+        "D. 02 năm trở lên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ điểm a khoản 2 Điều 18: Chấp hành viên sơ cấp cần từ 03 năm làm công tác pháp luật trở lên.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 27,
+      "question": "Theo Điều 18, để được bổ nhiệm làm Chấp hành viên trung cấp, một người phải có thời gian làm Chấp hành viên sơ cấp tối thiểu là bao lâu?",
+      "options": [
+        "A. 05 năm trở lên.",
+        "B. 07 năm trở lên.",
+        "C. 03 năm trở lên.",
+        "D. 10 năm trở lên."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ điểm a khoản 3 Điều 18: phải có thời gian làm Chấp hành viên sơ cấp từ 05 năm trở lên.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 28,
+      "question": "Điều kiện nào sau đây là bắt buộc để một người đang là Chấp hành viên trung cấp được bổ nhiệm làm Chấp hành viên cao cấp theo Điều 18?",
+      "options": [
+        "A. Trúng tuyển kỳ thi tuyển Chấp hành viên cao cấp.",
+        "B. Được Thủ trưởng cơ quan thi hành án dân sự cấp tỉnh đề cử.",
+        "C. Có thời gian làm Chấp hành viên trung cấp từ 03 năm trở lên.",
+        "D. Có bằng thạc sĩ luật học."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ điểm b khoản 4 Điều 18: phải trúng tuyển kỳ thi tuyển Chấp hành viên cao cấp (ngoài các điều kiện khác).",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 29,
+      "question": "Trường hợp nào sau đây một Chấp hành viên đương nhiên được miễn nhiệm theo khoản 1 Điều 19?",
+      "options": [
+        "A. Vi phạm kỷ luật trong khi thi hành công vụ.",
+        "B. Do sức khỏe không bảo đảm hoàn thành nhiệm vụ.",
+        "C. Năng lực chuyên môn không bảo đảm thực hiện nhiệm vụ.",
+        "D. Nghỉ hưu hoặc chuyển công tác đến cơ quan khác."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 19: Chấp hành viên đương nhiên miễn nhiệm khi nghỉ hưu hoặc chuyển công tác đến cơ quan khác.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 30,
+      "question": "Theo Điều 19, ai có thẩm quyền xem xét, quyết định miễn nhiệm Chấp hành viên trong trường hợp do năng lực chuyên môn không đảm bảo?",
+      "options": [
+        "A. Bộ trưởng Bộ Tư pháp.",
+        "B. Hội đồng thi tuyển Chấp hành viên.",
+        "C. Thủ trưởng cơ quan thi hành án dân sự cấp tỉnh.",
+        "D. Chính phủ."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ khoản 2 Điều 19: Bộ trưởng Bộ Tư pháp xem xét, quyết định miễn nhiệm trong các trường hợp luật định.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 31,
+      "question": "Theo Điều 20, Chấp hành viên có quyền yêu cầu cơ quan nào tạm giữ người chống đối việc thi hành án?",
+      "options": [
+        "A. Cơ quan Viện kiểm sát.",
+        "B. Cơ quan Tòa án.",
+        "C. Ủy ban nhân dân cấp xã.",
+        "D. Cơ quan Công an."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ khoản 6 Điều 20: Chấp hành viên có quyền yêu cầu cơ quan Công an tạm giữ người chống đối theo quy định pháp luật.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 32,
+      "question": "Điều 21 quy định Chấp hành viên không được thực hiện việc thi hành án liên quan đến quyền, lợi ích của những người nào sau đây?",
+      "options": [
+        "A. Đồng nghiệp trong cùng cơ quan.",
+        "B. Hàng xóm, bạn bè thân thiết.",
+        "C. Vợ, chồng, con đẻ, con nuôi.",
+        "D. Người đã từng có tranh chấp, mâu thuẫn cá nhân."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ điểm a khoản 5 Điều 21: Chấp hành viên không được thi hành án liên quan quyền, lợi ích của vợ/chồng, con đẻ, con nuôi (nhóm thân thích gần).",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 33,
+      "question": "Hành vi nào sau đây bị cấm đối với Chấp hành viên theo quy định tại Điều 21?",
+      "options": [
+        "A. Xác minh tài sản của người phải thi hành án.",
+        "B. Yêu cầu cơ quan Công an hỗ trợ bảo vệ cưỡng chế.",
+        "C. Triệu tập đương sự để giải quyết việc thi hành án.",
+        "D. Sử dụng trái phép vật chứng, tiền, tài sản thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ khoản 4 Điều 21: Chấp hành viên bị cấm sử dụng trái phép vật chứng, tiền, tài sản thi hành án.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 34,
+      "question": "Trong trường hợp đặc biệt, người có 10 năm làm công tác pháp luật trở lên có thể được bổ nhiệm vào ngạch Chấp hành viên nào mà không qua thi tuyển, theo khoản 7 Điều 18?",
+      "options": [
+        "A. Chấp hành viên cao cấp.",
+        "B. Không được bổ nhiệm vào ngạch nào nếu không qua thi tuyển.",
+        "C. Chấp hành viên trung cấp.",
+        "D. Chấp hành viên sơ cấp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 7 Điều 18: trường hợp đặc biệt, người có từ 10 năm làm công tác pháp luật trở lên có thể được bổ nhiệm Chấp hành viên trung cấp không qua thi tuyển.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 35,
+      "question": "Theo Điều 18, người đang là Thẩm phán, Kiểm sát viên được điều động đến công tác tại cơ quan thi hành án dân sự có thể được bổ nhiệm Chấp hành viên ở ngạch nào?",
+      "options": [
+        "A. Ở ngạch tương đương không qua thi tuyển.",
+        "B. Luôn được bổ nhiệm ở ngạch Chấp hành viên cao cấp.",
+        "C. Phải bắt đầu từ ngạch Chấp hành viên sơ cấp.",
+        "D. Phải trúng tuyển kỳ thi tuyển Chấp hành viên như các ứng viên khác."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ khoản 6 Điều 18: Thẩm phán/Kiểm sát viên điều động sang THADS có thể được bổ nhiệm ngạch tương đương và không qua thi tuyển.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 36,
+      "question": "Một Chấp hành viên sơ cấp muốn được bổ nhiệm làm Chấp hành viên trung cấp thì ngoài điều kiện về thời gian công tác, còn cần phải đáp ứng điều kiện nào theo Điều 18?",
+      "options": [
+        "A. Có ít nhất 02 bằng khen của Bộ trưởng Bộ Tư pháp.",
+        "B. Trúng tuyển kỳ thi tuyển Chấp hành viên trung cấp.",
+        "C. Được sự đồng ý của đa số Chấp hành viên trong đơn vị.",
+        "D. Hoàn thành lớp bồi dưỡng nghiệp vụ Chấp hành viên trung cấp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ điểm b khoản 3 Điều 18: điều kiện bắt buộc là trúng tuyển kỳ thi tuyển Chấp hành viên trung cấp.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 37,
+      "question": "Hành vi nào sau đây là một trong những việc Chấp hành viên KHÔNG được làm theo Điều 21?",
+      "options": [
+        "A. Can thiệp trái pháp luật vào việc giải quyết vụ việc thi hành án.",
+        "B. Lập biên bản về hành vi vi phạm pháp luật về thi hành án.",
+        "C. Báo cáo Thủ trưởng cơ quan thi hành án về khó khăn, vướng mắc.",
+        "D. Tư vấn cho đương sự về trình tự, thủ tục thi hành án theo đúng pháp luật."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ khoản 3 Điều 21: nghiêm cấm can thiệp trái pháp luật hoặc lợi dụng ảnh hưởng tác động đến việc giải quyết thi hành án.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 38,
+      "question": "Khi thực hiện nhiệm vụ, quyền hạn của mình, Chấp hành viên phải tuân theo điều gì và được pháp luật bảo vệ những gì theo Điều 20?",
+      "options": [
+        "A. Tuân theo chỉ thị của chính quyền địa phương và được pháp luật bảo vệ quyền lợi chính trị.",
+        "B. Tuân theo chỉ đạo của đương sự và được pháp luật bảo vệ tài sản cá nhân.",
+        "C. Tuân theo thỏa thuận của các bên và được pháp luật bảo vệ khỏi bị khiếu nại.",
+        "D. Tuân theo pháp luật và được pháp luật bảo vệ tính mạng, sức khỏe, danh dự, nhân phẩm và uy tín."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ Điều 20: Chấp hành viên tuân theo pháp luật và được bảo vệ tính mạng, sức khỏe, danh dự, nhân phẩm, uy tín.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 39,
+      "question": "Trường hợp nào sau đây KHÔNG phải là căn cứ để Bộ trưởng Bộ Tư pháp xem xét, quyết định miễn nhiệm Chấp hành viên theo Điều 19?",
+      "options": [
+        "A. Chấp hành viên chuyển công tác đến một cơ quan khác.",
+        "B. Do sức khỏe mà xét thấy không thể bảo đảm hoàn thành nhiệm vụ.",
+        "C. Năng lực chuyên môn không bảo đảm thực hiện nhiệm vụ.",
+        "D. Do hoàn cảnh gia đình mà xét thấy không thể bảo đảm hoàn thành nhiệm vụ."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 19: chuyển công tác là trường hợp đương nhiên miễn nhiệm, không phải trường hợp Bộ trưởng “xem xét, quyết định” theo khoản 2.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 40,
+      "question": "Trong trường hợp đặc biệt do nhu cầu bổ nhiệm Thủ trưởng, Phó thủ trưởng cơ quan thi hành án, người có 15 năm làm công tác pháp luật trở lên có thể được bổ nhiệm vào ngạch nào không qua thi tuyển?",
+      "options": [
+        "A. Không ngạch nào, vì mọi trường hợp đều phải qua thi tuyển.",
+        "B. Chấp hành viên sơ cấp.",
+        "C. Chấp hành viên cao cấp.",
+        "D. Chấp hành viên trung cấp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 7 Điều 18: trường hợp đặc biệt, người có từ 15 năm làm công tác pháp luật trở lên có thể được bổ nhiệm Chấp hành viên cao cấp không qua thi tuyển.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 41,
+      "question": "Theo Điều 20, Chấp hành viên có quyền sử dụng công cụ hỗ trợ trong khi thi hành công vụ theo quy định của cơ quan nào?",
+      "options": [
+        "A. Theo quy định của Bộ Công an.",
+        "B. Theo quyết định của Thủ trưởng cơ quan thi hành án dân sự.",
+        "C. Theo quy định của Bộ Tư pháp.",
+        "D. Theo quy định của Chính phủ."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Khoản 9 Điều 20 Luật Thi hành án dân sự quy định Chấp hành viên “được sử dụng công cụ hỗ trợ trong khi thi hành công vụ theo quy định của Chính phủ”.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 42,
+      "question": "Theo Điều 21, việc Chấp hành viên tư vấn cho đương sự chỉ bị cấm khi nào?",
+      "options": [
+        "A. Khi việc tư vấn có thu phí.",
+        "B. Khi việc tư vấn được thực hiện ngoài giờ hành chính.",
+        "C. Khi việc tư vấn đó dẫn đến việc thi hành án trái pháp luật.",
+        "D. Trong mọi trường hợp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Khoản 2 Điều 21 Luật Thi hành án dân sự nghiêm cấm hành vi “tư vấn cho đương sự… dẫn đến việc thi hành án trái pháp luật”.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 43,
+      "question": "Trường hợp nào sau đây KHÔNG phải là một trong các điều kiện để được bổ nhiệm làm Chấp hành viên sơ cấp theo Điều 18?",
+      "options": [
+        "A. Trúng tuyển kỳ thi tuyển Chấp hành viên sơ cấp.",
+        "B. Có thời gian giữ ngạch Thẩm tra viên thi hành án từ 01 năm trở lên.",
+        "C. Có thời gian làm công tác pháp luật từ 03 năm trở lên.",
+        "D. Đã được đào tạo nghiệp vụ thi hành án dân sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Điều 18 Luật Thi hành án dân sự quy định điều kiện bổ nhiệm Chấp hành viên sơ cấp (trong đó có yêu cầu thời gian làm công tác pháp luật tối thiểu), không quy định điều kiện “giữ ngạch Thẩm tra viên thi hành án từ 01 năm trở lên” là bắt buộc.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 44,
+      "question": "Theo Điều 20, trách nhiệm nào sau đây KHÔNG phải của Chấp hành viên?",
+      "options": [
+        "A. Quy định trình tự, thủ tục thi tuyển, bổ nhiệm Chấp hành viên.",
+        "B. Áp dụng đúng các quy định của pháp luật về trình tự, thủ tục thi hành án.",
+        "C. Thi hành đúng nội dung bản án, quyết định.",
+        "D. Chịu trách nhiệm trước pháp luật về việc thi hành án."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Điều 20 Luật Thi hành án dân sự quy định nhiệm vụ, quyền hạn của Chấp hành viên; còn việc quy định trình tự, thủ tục thi tuyển, bổ nhiệm Chấp hành viên thuộc thẩm quyền của cơ quan nhà nước.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 45,
+      "question": "Trường hợp nào sau đây là căn cứ để miễn nhiệm Chấp hành viên cần được Bộ trưởng Bộ Tư pháp xem xét, quyết định?",
+      "options": [
+        "A. Chấp hành viên hoàn thành xuất sắc nhiệm vụ và được thăng chức.",
+        "B. Chấp hành viên được điều động sang công tác tại Viện kiểm sát.",
+        "C. Vì lý do khác mà không còn đủ tiêu chuẩn để làm Chấp hành viên.",
+        "D. Chấp hành viên nghỉ hưu theo chế độ."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Điểm b Khoản 2 Điều 19 Luật Thi hành án dân sự: Bộ trưởng Bộ Tư pháp xem xét, quyết định miễn nhiệm trong trường hợp “vì lý do khác mà không còn đủ tiêu chuẩn để làm Chấp hành viên”.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 46,
+      "question": "Theo Điều 22 của Luật Thi hành án dân sự, ai là người có thẩm quyền bổ nhiệm Thủ trưởng và Phó thủ trưởng cơ quan thi hành án dân sự?",
+      "options": [
+        "A. Thủ tướng Chính phủ.",
+        "B. Chủ tịch nước.",
+        "C. Chánh án Tòa án nhân dân tối cao.",
+        "D. Bộ trưởng Bộ Tư pháp."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Điều 22 Khoản 1 Luật Thi hành án dân sự quy định Bộ trưởng Bộ Tư pháp có thẩm quyền bổ nhiệm, miễn nhiệm Thủ trưởng và Phó thủ trưởng cơ quan thi hành án dân sự.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 47,
+      "question": "Một trong những nhiệm vụ, quyền hạn của Thủ trưởng cơ quan thi hành án dân sự được quy định tại Điều 23 là gì?",
+      "options": [
+        "A. Quyết định mức phí thi hành án dân sự.",
+        "B. Xét xử lại bản án, quyết định của Tòa án.",
+        "C. Kiến nghị người có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm hoặc tái thẩm.",
+        "D. Bổ nhiệm, miễn nhiệm Chấp hành viên."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Điều 23 Khoản 1 Điểm đ Luật Thi hành án dân sự quy định Thủ trưởng cơ quan thi hành án dân sự có quyền kiến nghị người có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm hoặc tái thẩm.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 48,
+      "question": "Theo Điều 22, Thủ trưởng và Phó thủ trưởng cơ quan thi hành án trong quân đội do ai bổ nhiệm, miễn nhiệm?",
+      "options": [
+        "A. Bộ trưởng Bộ Quốc phòng.",
+        "B. Chánh án Tòa án quân sự trung ương.",
+        "C. Tư lệnh quân khu.",
+        "D. Bộ trưởng Bộ Tư pháp."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Điều 22 Khoản 1 Luật Thi hành án dân sự quy định đối với cơ quan thi hành án trong quân đội, thẩm quyền bổ nhiệm, miễn nhiệm thuộc Bộ trưởng Bộ Quốc phòng.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 49,
+      "question": "Một trong những điều kiện bắt buộc để được bổ nhiệm làm Thủ trưởng, Phó thủ trưởng cơ quan thi hành án dân sự theo Điều 22 là gì?",
+      "options": [
+        "A. Phải là công dân Việt Nam và có trình độ cử nhân luật trở lên.",
+        "B. Phải là Chấp hành viên.",
+        "C. Phải được Hội đồng nhân dân cùng cấp phê chuẩn.",
+        "D. Phải có thời gian làm công tác pháp luật từ 15 năm trở lên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Điều 22 Khoản 1 Luật Thi hành án dân sự quy định Thủ trưởng, Phó thủ trưởng cơ quan thi hành án dân sự phải là Chấp hành viên.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 50,
+      "question": "Thủ trưởng cơ quan thi hành án dân sự cấp tỉnh có quyền hạn gì đối với các cơ quan thi hành án dân sự cấp huyện trên địa bàn theo Điều 23?",
+      "options": [
+        "A. Ra quyết định thi hành án cho tất cả các vụ việc của cấp huyện.",
+        "B. Giải quyết tất cả các khiếu nại, tố cáo phát sinh tại cấp huyện.",
+        "C. Chỉ có quyền yêu cầu báo cáo công tác định kỳ.",
+        "D. Điều động Chấp hành viên và chỉ đạo, kiểm tra công tác thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Điều 23 Khoản 1 Điểm i Luật Thi hành án dân sự quy định Thủ trưởng cấp tỉnh có quyền điều động Chấp hành viên, hướng dẫn nghiệp vụ, chỉ đạo và kiểm tra công tác thi hành án đối với cấp huyện.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 51,
+      "question": "Cơ quan nào quy định tiêu chuẩn, trình tự, thủ tục bổ nhiệm, miễn nhiệm Thủ trưởng, Phó thủ trưởng cơ quan thi hành án dân sự?",
+      "options": [
+        "A. Quốc hội.",
+        "B. Chính phủ.",
+        "C. Bộ Tư pháp.",
+        "D. Tòa án nhân dân tối cao."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Điều 22 Khoản 2 Luật Thi hành án dân sự quy định Chính phủ quy định tiêu chuẩn, trình tự, thủ tục bổ nhiệm, miễn nhiệm các chức danh này.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 52,
+      "question": "Khi ra bản án, quyết định, chủ thể nào dưới đây không phải giải thích cho đương sự về quyền yêu cầu thi hành án... theo Điều 26?",
+      "options": [
+        "A. Cơ quan thi hành án dân sự.",
+        "B. Tòa án.",
+        "C. Trọng tài thương mại.",
+        "D. Chủ tịch Ủy ban Cạnh tranh Quốc gia."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Điều 26 Luật Thi hành án dân sự quy định trách nhiệm giải thích quyền yêu cầu thi hành án thuộc cơ quan ra bản án, quyết định, không phải cơ quan thi hành án dân sự.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 53,
+      "question": "Theo Điều 27, bản án hoặc quyết định được cấp cho đương sự để thi hành phải có ghi chú gì đặc biệt?",
+      "options": [
+        "A. \"Để thi hành\"",
+        "B. \"Yêu cầu thi hành ngay\"",
+        "C. \"Bản chính\"",
+        "D. \"Có hiệu lực pháp luật\""
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 27 quy định rõ Tòa án và các cơ quan khác phải cấp cho đương sự bản án, quyết định có ghi “Để thi hành”.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 54,
+      "question": "Thời hạn tối đa để Tòa án chuyển giao bản án, quyết định dân sự đã có hiệu lực pháp luật cho cơ quan thi hành án dân sự là bao lâu, theo khoản 1 Điều 28?",
+      "options": [
+        "A. 15 ngày",
+        "B. 05 ngày làm việc",
+        "C. Ngay sau khi bản án có hiệu lực",
+        "D. 30 ngày"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 1 Điều 28 quy định rõ Tòa án phải chuyển giao bản án, quyết định trong thời hạn 30 ngày, kể từ ngày bản án, quyết định có hiệu lực pháp luật.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 55,
+      "question": "Theo khoản 3 Điều 28, quyết định áp dụng biện pháp khẩn cấp tạm thời phải được Tòa án hoặc Trọng tài thương mại chuyển giao cho cơ quan thi hành án dân sự vào thời điểm nào?",
+      "options": [
+        "A. Ngay sau khi ra quyết định.",
+        "B. Trong thời hạn 24 giờ kể từ khi ra quyết định.",
+        "C. Trong thời hạn 15 ngày kể từ khi ra quyết định.",
+        "D. Trong thời hạn 03 ngày làm việc kể từ khi ra quyết định."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 3 Điều 28 yêu cầu Tòa án, Trọng tài thương mại phải chuyển giao quyết định này cho cơ quan thi hành án dân sự ngay sau khi ra quyết định.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 56,
+      "question": "Thời hiệu yêu cầu thi hành án dân sự theo quy định chung tại khoản 1 Điều 30 là bao lâu?",
+      "options": [
+        "A. 10 năm, kể từ ngày bản án, quyết định có hiệu lực pháp luật.",
+        "B. 05 năm, kể từ ngày bản án, quyết định có hiệu lực pháp luật.",
+        "C. 03 năm, kể từ ngày bản án, quyết định có hiệu lực pháp luật.",
+        "D. 02 năm, kể từ ngày bản án, quyết định có hiệu lực pháp luật."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 1 Điều 30 quy định rõ thời hiệu yêu cầu thi hành án là 05 năm.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 57,
+      "question": "Đối với bản án, quyết định thi hành theo định kỳ, thời hiệu 05 năm yêu cầu thi hành án được tính như thế nào?",
+      "options": [
+        "A. Tính từ ngày người được thi hành án nộp đơn yêu cầu cho kỳ đầu tiên.",
+        "B. Tính từ ngày nghĩa vụ của kỳ đầu tiên đến hạn cho tất cả các kỳ.",
+        "C. Áp dụng cho từng định kỳ, kể từ ngày nghĩa vụ đến hạn.",
+        "D. Tính từ ngày bản án, quyết định có hiệu lực pháp luật cho tất cả các kỳ."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 1 Điều 30 quy định rõ rằng thời hạn 05 năm được áp dụng cho từng định kỳ, bắt đầu từ ngày nghĩa vụ của kỳ đó đến hạn.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 58,
+      "question": "Theo Điều 30, yếu tố nào sau đây KHÔNG được tính vào thời hiệu yêu cầu thi hành án?",
+      "options": [
+        "A. Thời gian Chấp hành viên xác minh điều kiện thi hành án.",
+        "B. Thời gian người phải thi hành án đi công tác xa.",
+        "C. Thời gian đương sự tự thỏa thuận thi hành án.",
+        "D. Thời gian hoãn, tạm đình chỉ thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 2 Điều 30 nêu rõ thời gian hoãn, tạm đình chỉ thi hành án không tính vào thời hiệu yêu cầu thi hành án.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 59,
+      "question": "Trong trường hợp nào thì thời gian hoãn thi hành án vẫn được tính vào thời hiệu yêu cầu thi hành án?",
+      "options": [
+        "A. Khi người được thi hành án đồng ý cho người phải thi hành án hoãn thi hành án.",
+        "B. Khi người phải thi hành án bị ốm nặng.",
+        "C. Khi tài sản để thi hành án đang được Tòa án thụ lý giải quyết.",
+        "D. Khi có kháng nghị của người có thẩm quyền."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 2 Điều 30 có một ngoại lệ, nêu rõ trừ trường hợp việc hoãn do người được thi hành án đồng ý cho người phải thi hành án hoãn thi hành án, thời gian hoãn không được tính vào thời hiệu. Điều này có nghĩa là trong trường hợp người được thi hành án đồng ý hoãn, thời gian hoãn vẫn tính vào thời hiệu.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 60,
+      "question": "Trường hợp nào sau đây là một trong những lý do để cơ quan thi hành án dân sự từ chối yêu cầu thi hành án theo Điều 31?",
+      "options": [
+        "A. Người phải thi hành án không có tài sản để thi hành án.",
+        "B. Đơn yêu cầu thi hành án viết tay không rõ ràng.",
+        "C. Người yêu cầu không cung cấp được thông tin về tài sản của người phải thi hành án.",
+        "D. Hết thời hiệu yêu cầu thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 5 Điều 31 liệt kê đây là một trong ba trường hợp cơ quan thi hành án dân sự từ chối yêu cầu thi hành án.",
+      "topic": "Luật Thi hành án dân sự"
+    }
+  ]
 }
 ]
