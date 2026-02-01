@@ -15332,6 +15332,792 @@
   ]
 },
 {
+  "id": "THADS_CVTH_01",
+  "title": "Đề 01: TH_THADS_Chuyên viên tổng hợp, chuyên viên giải quyết khiếu nại tố cáo",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Điều 3 giải thích \"Thời hiệu yêu cầu thi hành án\" là gì?",
+      "options": [
+        "A. Thời hạn mà người phải thi hành án phải tự nguyện thi hành nghĩa vụ.",
+        "B. Thời hạn để Tòa án ra bản án, quyết định có hiệu lực pháp luật.",
+        "C. Thời hạn mà cơ quan thi hành án phải hoàn thành việc thi hành án.",
+        "D. Thời hạn mà người được thi hành án, người phải thi hành án có quyền yêu cầu cơ quan thi hành án tổ chức thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 3, khoản 5 định nghĩa chính xác rằng đây là thời hạn mà các bên có quyền yêu cầu cơ quan thi hành án vào cuộc.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 2,
+      "question": "Trong thời hạn bao lâu kể từ khi có quyết định đình chỉ thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời, Chấp hành viên phải làm thủ tục giải tỏa kê biên, trả lại tài sản?",
+      "options": [
+        "A. Trong thời hạn 03 ngày làm việc",
+        "B. Ngay lập tức",
+        "C. Trong thời hạn 24 giờ",
+        "D. Trong thời hạn 05 ngày làm việc"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Khoản 1 Điều 132 quy định Chấp hành viên phải làm các thủ tục giải tỏa trong thời hạn 24 giờ kể từ khi có quyết định đình chỉ.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 3,
+      "question": "Khi nhận được yêu cầu của Chấp hành viên, Kho bạc nhà nước, ngân hàng và tổ chức tín dụng khác phải thực hiện nghiêm chỉnh, kịp thời yêu cầu nào?",
+      "options": [
+        "A. Kê biên nhà ở của người phải thi hành án.",
+        "B. Bán đấu giá tài sản bảo đảm của người phải thi hành án.",
+        "C. Phong tỏa tài khoản và khấu trừ tiền trong tài khoản.",
+        "D. Tạm giữ tài sản của người phải thi hành án tại ngân hàng."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 2 Điều 176, các tổ chức này phải thực hiện nghiêm chỉnh, kịp thời yêu cầu về phong tỏa tài khoản và khấu trừ tiền trong tài khoản.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 4,
+      "question": "Trường hợp chấm dứt cưỡng chế khai thác tài sản do người khai thác không thực hiện đúng yêu cầu, Chấp hành viên sẽ có hành động gì tiếp theo đối với tài sản?",
+      "options": [
+        "A. Phạt tiền người khai thác và yêu cầu tiếp tục thực hiện.",
+        "B. Tiếp tục kê biên và xử lý tài sản đó để thi hành án.",
+        "C. Tìm kiếm một người khai thác khác để thay thế.",
+        "D. Trả lại tài sản cho người phải thi hành án quản lý."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Khoản 2 Điều 109 quy định rõ khi việc khai thác chấm dứt do không hiệu quả hoặc do vi phạm, Chấp hành viên sẽ chuyển sang biện pháp kê biên và xử lý (bán) tài sản.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 5,
+      "question": "Thẩm quyền đào tạo, bổ nhiệm, miễn nhiệm Chấp hành viên, Thẩm tra viên thuộc về cơ quan nào theo quy định của Luật Thi hành án dân sự?",
+      "options": [
+        "A. Chính phủ",
+        "B. Tòa án nhân dân cấp tỉnh",
+        "C. Ủy ban nhân dân cấp tỉnh",
+        "D. Bộ Tư pháp"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Căn cứ điểm d khoản 1 Điều 167, Bộ Tư pháp có nhiệm vụ, quyền hạn quản lý hệ thống tổ chức và quyết định việc đào tạo, bổ nhiệm, miễn nhiệm Chấp hành viên, Thẩm tra viên.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 6,
+      "question": "Hành vi nào sau đây bị cấm đối với Chấp hành viên theo quy định tại Điều 21?",
+      "options": [
+        "A. Xác minh tài sản của người phải thi hành án.",
+        "B. Yêu cầu cơ quan Công an hỗ trợ bảo vệ cưỡng chế.",
+        "C. Triệu tập đương sự để giải quyết việc thi hành án.",
+        "D. Sử dụng trái phép vật chứng, tiền, tài sản thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ khoản 4 Điều 21: Chấp hành viên bị cấm sử dụng trái phép vật chứng, tiền, tài sản thi hành án.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 7,
+      "question": "Cơ quan, tổ chức, cá nhân có liên quan phải thực hiện yêu cầu của cơ quan thi hành án dân sự dựa trên cơ sở nào theo Điều 11?",
+      "options": [
+        "A. Dựa trên yêu cầu hợp lý và có thiện chí.",
+        "B. Dựa trên quy định của Luật Thi hành án dân sự.",
+        "C. Dựa trên thỏa thuận giữa các bên.",
+        "D. Dựa trên chỉ đạo của cơ quan cấp trên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 2 Điều 11: cơ quan/tổ chức/cá nhân liên quan có trách nhiệm thực hiện yêu cầu của THADS/Chấp hành viên theo quy định của Luật THADS.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 8,
+      "question": "Theo Luật Thi hành án dân sự (đã sửa đổi, bổ sung), Cơ quan nào sau đây thuộc nhóm “Cơ quan quản lý thi hành án dân sự”?",
+      "options": [
+        "A. Cơ quan thi hành án cấp quân khu.",
+        "B. Cơ quan thi hành án dân sự cấp huyện.",
+        "C. Cơ quan thi hành án dân sự cấp tỉnh.",
+        "D. Cơ quan quản lý thi hành án thuộc Bộ Quốc phòng."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 13 (Văn bản hợp nhất Luật Thi hành án dân sự số 115/VBHN-VPQH) cơ quan quản lý THADS gồm cơ quan quản lý thuộc Bộ Tư pháp và cơ quan quản lý thuộc Bộ Quốc phòng (trong quân đội).",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 9,
+      "question": "Trách nhiệm cung cấp thông tin về điều kiện thi hành án của người phải thi hành án thuộc về ai khi Chấp hành viên yêu cầu?",
+      "options": [
+        "A. Cơ quan, tổ chức, cá nhân có liên quan đang nắm giữ thông tin hoặc quản lý tài sản, tài khoản.",
+        "B. Chỉ người được thi hành án.",
+        "C. Chỉ Tòa án đã xét xử vụ án.",
+        "D. Chỉ người phải thi hành án."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 44 Khoản 6 quy định rõ trách nhiệm của các cơ quan, tổ chức như ngân hàng, bảo hiểm xã hội, văn phòng đăng ký đất đai... trong việc cung cấp thông tin.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 10,
+      "question": "Trường hợp nào sau đây là tài sản của người phải thi hành án là doanh nghiệp KHÔNG được kê biên?",
+      "options": [
+        "A. Nhà trẻ, trường học, cơ sở y tế và thiết bị thuộc các cơ sở này, nếu không phải là tài sản để kinh doanh.",
+        "B. Nhà xưởng, máy móc đang hoạt động sản xuất.",
+        "C. Nguyên vật liệu đã nhập kho để chuẩn bị cho sản xuất.",
+        "D. Số tiền trong tài khoản thanh toán của doanh nghiệp."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Điều 87 khoản 3 điểm b quy định đây là những tài sản không được kê biên nhằm bảo vệ lợi ích công cộng và người lao động.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 11,
+      "question": "Theo Điều 66, hành vi nào sau đây không thuộc các biện pháp bảo đảm thi hành án?",
+      "options": [
+        "A. Tạm dừng việc đăng ký, chuyển dịch, thay đổi hiện trạng về tài sản.",
+        "B. Phong tỏa tài khoản.",
+        "C. Tạm giữ tài sản, giấy tờ.",
+        "D. Thu hồi, xử lý tiền của người phải thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Đây là một biện pháp cưỡng chế thi hành án theo Điều 71, không phải biện pháp bảo đảm.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 12,
+      "question": "Cơ quan thi hành án dân sự phải tiến hành giao vật chứng, tài sản bị tuyên tịch thu, sung quỹ nhà nước cho cơ quan tài chính cùng cấp trong thời hạn bao lâu kể từ ngày ra quyết định thi hành án?",
+      "options": [
+        "A. 07 ngày.",
+        "B. 05 ngày.",
+        "C. 15 ngày.",
+        "D. 10 ngày."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Điều 124 khoản 1 nêu rõ: \"...trong thời hạn 10 ngày, kể từ ngày ra quyết định thi hành án, cơ quan thi hành án dân sự phải thông báo bằng văn bản và tiến hành giao vật chứng, tài sản tạm giữ đó cho cơ quan tài chính cùng cấp.\"",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 13,
+      "question": "Thời hiệu khiếu nại đối với quyết định về áp dụng biện pháp phong tỏa tài khoản là bao nhiêu ngày?",
+      "options": [
+        "A. 30 ngày, kể từ ngày nhận được quyết định.",
+        "B. 03 ngày làm việc, kể từ ngày nhận được quyết định.",
+        "C. 10 ngày, kể từ ngày nhận được quyết định.",
+        "D. 15 ngày, kể từ ngày nhận được quyết định."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Điểm b khoản 2 Điều 140 quy định một thời hiệu rất ngắn cho loại khiếu nại này để đảm bảo việc thi hành án được tiến hành kịp thời.",
+      "topic": "Luật Thi hành án dân sự"
+    },
+    {
+      "id": 14,
+      "question": "Theo Luật Tố cáo, quyết định áp dụng biện pháp bảo vệ phải được gửi cho ai?",
+      "options": [
+        "A. Chỉ gửi cho người được bảo vệ.",
+        "B. Người được bảo vệ và người giải quyết tố cáo.",
+        "C. Người được bảo vệ, người giải quyết tố cáo và cơ quan, tổ chức, cá nhân khác có liên quan.",
+        "D. Người được bảo vệ, người giải quyết tố cáo và người bị tố cáo."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ khoản 3 Điều 52 Luật Tố cáo quy định: \"3. Quyết định áp dụng biện pháp bảo vệ được gửi cho người được bảo vệ, người giải quyết tố cáo và cơ quan, tổ chức, cá nhân khác có liên quan.\"",
+      "topic": "Luật Tố cáo"
+    },
+    {
+      "id": 15,
+      "question": "Theo Luật Tố cáo, trong trường hợp nhiều người cùng tố cáo mà có một hoặc một số người rút tố cáo thì việc giải quyết được xử lý như thế nào?",
+      "options": [
+        "A. Đình chỉ giải quyết toàn bộ vụ việc.",
+        "B. Tạm đình chỉ để xác minh lý do rút tố cáo.",
+        "C. Tố cáo vẫn tiếp tục được giải quyết theo quy định.",
+        "D. Chỉ giải quyết phần nội dung của những người không rút tố cáo."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ khoản 2 Điều 33 Luật Tố cáo quy định: \"...Trường hợp nhiều người cùng tố cáo mà có một hoặc một số người tố cáo rút tố cáo thì tố cáo vẫn tiếp tục được giải quyết theo quy định của Luật này.\"",
+      "topic": "Luật Tố cáo"
+    },
+    {
+      "id": 16,
+      "question": "Theo Luật Tố cáo, người tố cáo có quyền rút tố cáo vào thời điểm nào?",
+      "options": [
+        "A. Bất kỳ lúc nào trong quá trình giải quyết tố cáo.",
+        "B. Trước khi người giải quyết tố cáo ra quyết định thụ lý.",
+        "C. Trước khi người giải quyết tố cáo ra kết luận nội dung tố cáo.",
+        "D. Sau khi có kết luận nội dung tố cáo nhưng trước khi có quyết định xử lý."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ khoản 1 Điều 33 Luật Tố cáo quy định: \"1. Người tố cáo có quyền rút toàn bộ nội dung tố cáo hoặc một phần nội dung tố cáo trước khi người giải quyết tố cáo ra kết luận nội dung tố cáo.\"",
+      "topic": "Luật Tố cáo"
+    },
+    {
+      "id": 17,
+      "question": "Theo Luật Tố cáo, tố cáo cơ quan, tổ chức trong việc thực hiện nhiệm vụ, công vụ do ai giải quyết?",
+      "options": [
+        "A. Do người đứng đầu chính cơ quan, tổ chức đó giải quyết.",
+        "B. Do cơ quan thanh tra nhà nước cấp trên trực tiếp giải quyết.",
+        "C. Do người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của cơ quan, tổ chức đó giải quyết.",
+        "D. Do Tòa án nhân dân có thẩm quyền giải quyết."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ khoản 6 Điều 12 Luật Tố cáo quy định: \"6. Tố cáo cơ quan, tổ chức trong việc thực hiện nhiệm vụ, công vụ do người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của cơ quan, tổ chức đó giải quyết.\"",
+      "topic": "Luật Tố cáo"
+    },
+    {
+      "id": 18,
+      "question": "Theo Luật Tố cáo, việc công khai kết luận nội dung tố cáo phải được thực hiện trong thời hạn bao lâu kể từ ngày ra kết luận?",
+      "options": [
+        "A. 03 ngày làm việc.",
+        "B. 05 ngày làm việc.",
+        "C. 07 ngày làm việc.",
+        "D. 10 ngày làm việc."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ khoản 1 Điều 40 Luật Tố cáo quy định: \"1. Trong thời hạn 07 ngày làm việc kể từ ngày ra kết luận nội dung tố cáo...\"",
+      "topic": "Luật Tố cáo"
+    },
+    {
+      "id": 19,
+      "question": "Theo Luật Tố cáo, trong trường hợp người bị tố cáo đã chuyển công tác sang cơ quan khác và giữ chức vụ cao hơn, ai sẽ chủ trì giải quyết tố cáo?",
+      "options": [
+        "A. Người đứng đầu cơ quan, tổ chức quản lý người bị tố cáo tại thời điểm có hành vi vi phạm.",
+        "B. Người đứng đầu cơ quan, tổ chức đang quản lý người bị tố cáo.",
+        "C. Người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của cơ quan đang quản lý người bị tố cáo.",
+        "D. Cả hai người đứng đầu cơ quan cũ và mới cùng đồng chủ trì giải quyết."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B Bởi: Căn cứ điểm b khoản 3 Điều 12 Luật Tố cáo quy định: \"...do người đứng đầu cơ quan, tổ chức đang quản lý người bị tố cáo chủ trì giải quyết...\"",
+      "topic": "Luật Tố cáo"
+    },
+    {
+      "id": 20,
+      "question": "Theo Luật Tố cáo, biện pháp nào sau đây thuộc nhóm biện pháp bảo vệ việc làm của người được bảo vệ là người làm việc theo hợp đồng lao động?",
+      "options": [
+        "A. Bố trí cho người được bảo vệ một công việc mới ở doanh nghiệp khác.",
+        "B. Yêu cầu người sử dụng lao động chấm dứt hành vi vi phạm.",
+        "C. Tạm ứng lương cho người được bảo vệ trong thời gian giải quyết tố cáo.",
+        "D. Buộc người sử dụng lao động phải ký hợp đồng lao động không xác định thời hạn."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B Bởi: Căn cứ điểm a khoản 2 Điều 57 Luật Tố cáo quy định: \"a) Yêu cầu người sử dụng lao động chấm dứt hành vi vi phạm; khôi phục vị trí việc làm...\"",
+      "topic": "Luật Tố cáo"
+    },
+    {
+      "id": 21,
+      "question": "Theo Luật Tố cáo, nội dung nào sau đây là đúng khi nói về quyền của người bị tố cáo?",
+      "options": [
+        "A. Được biết toàn bộ hồ sơ, tài liệu xác minh của người giải quyết tố cáo.",
+        "B. Được yêu cầu người giải quyết tố cáo tạm đình chỉ việc giải quyết tố cáo.",
+        "C. Được bảo đảm quyền và lợi ích hợp pháp khi chưa có kết luận nội dung tố cáo của người giải quyết tố cáo.",
+        "D. Được từ chối làm việc với người giải quyết tố cáo."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ điểm d khoản 1 Điều 10 Luật Tố cáo quy định về quyền của người bị tố cáo: \"d) Được bảo đảm quyền và lợi ích hợp pháp khi chưa có kết luận nội dung tố cáo...\"",
+      "topic": "Luật Tố cáo"
+    },
+    {
+      "id": 22,
+      "question": "Theo Luật Tố cáo, đâu không phải là nguyên tắc giải quyết tố cáo?",
+      "options": [
+        "A. Việc giải quyết tố cáo phải kịp thời, chính xác, khách quan, đúng thẩm quyền, trình tự, thủ tục và thời hạn theo quy định của pháp luật.",
+        "B. Việc giải quyết tố cáo phải bảo đảm an toàn cho người tố cáo; bảo đảm quyền và lợi ích hợp pháp của người bị tố cáo trong quá trình giải quyết tố cáo.",
+        "C. Việc giải quyết tố cáo phải công khai, minh bạch, có sự tham gia của người dân.",
+        "D. Việc giải quyết tố cáo phải bảo đảm quyền và lợi ích hợp pháp của người bị tố cáo trong quá trình giải quyết tố cáo."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Điều 4 Luật Tố cáo. Luật không quy định nguyên tắc \"công khai, minh bạch, có sự tham gia của người dân\" cho quá trình giải quyết.",
+      "topic": "Luật Tố cáo"
+    },
+    {
+      "id": 23,
+      "question": "Theo Luật Tố cáo, người bị tố cáo có trách nhiệm gì sau khi có kết luận nội dung tố cáo?",
+      "options": [
+        "A. Khiếu nại kết luận nội dung tố cáo.",
+        "B. Thực hiện kịp thời, đúng thời hạn và đầy đủ các nghĩa vụ đã được xác định tại kết luận.",
+        "C. Chỉ thực hiện khi có quyết định xử lý của cơ quan có thẩm quyền.",
+        "D. Có quyền không thực hiện nếu cho rằng kết luận là không khách quan."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B Bởi: Căn cứ khoản 1 Điều 45 Luật Tố cáo: \"1. Thực hiện kịp thời, đúng thời hạn và đầy đủ các nghĩa vụ đã được xác định tại kết luận nội dung tố cáo.\"",
+      "topic": "Luật Tố cáo"
+    },
+    {
+      "id": 24,
+      "question": "Theo Luật Tố cáo, người bị tố cáo được yêu cầu cơ quan có thẩm quyền xử lý đối tượng nào?",
+      "options": [
+        "A. Người tố cáo trong mọi trường hợp.",
+        "B. Người giải quyết tố cáo trái pháp luật.",
+        "C. Cơ quan báo chí đưa tin về vụ việc.",
+        "D. Người làm chứng trong vụ việc."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B Bởi: Căn cứ điểm đ khoản 1 Điều 10 Luật Tố cáo quy định quyền của người bị tố cáo: \"...xử lý người cố ý tố cáo sai sự thật, người giải quyết tố cáo trái pháp luật;\"",
+      "topic": "Luật Tố cáo"
+    },
+    {
+      "id": 25,
+      "question": "Theo Luật Tố cáo, trường hợp quá thời hạn quy định mà tố cáo chưa được giải quyết, người tố cáo có quyền làm gì?",
+      "options": [
+        "A. Gửi đơn khởi kiện ra Tòa án hành chính.",
+        "B. Khiếu nại lên cơ quan thanh tra cùng cấp với người giải quyết tố cáo.",
+        "C. Tố cáo tiếp với người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của người giải quyết tố cáo.",
+        "D. Gửi đơn đến các cơ quan báo chí để phản ánh."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ khoản 1 Điều 38 Luật Tố cáo quy định quyền tố cáo tiếp lên cấp trên trực tiếp.",
+      "topic": "Luật Tố cáo"
+    },
+    {
+      "id": 26,
+      "question": "Theo Luật Khiếu nại, quyết định giải quyết khiếu nại lần đầu có hiệu lực pháp luật sau bao lâu kể từ ngày ban hành mà người khiếu nại không khiếu nại lần hai?",
+      "options": [
+        "A. 15 ngày.",
+        "B. 45 ngày.",
+        "C. 30 ngày.",
+        "D. Ngay sau khi ban hành."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Khoản 1, Điều 44 Luật Khiếu nại. Thời hạn là 30 ngày (vùng sâu vùng xa có thể đến 45 ngày).",
+      "topic": "Luật Khiếu nại"
+    },
+    {
+      "id": 27,
+      "question": "Theo Luật Khiếu nại, đơn khiếu nại quyết định kỷ luật lần đầu phải được gửi đến đâu?",
+      "options": [
+        "A. Người đã ra quyết định kỷ luật.",
+        "B. Cơ quan cấp trên trực tiếp của người đã ra quyết định kỷ luật.",
+        "C. Cơ quan thanh tra cùng cấp.",
+        "D. Tòa án nhân dân cấp huyện nơi cơ quan đặt trụ sở."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn đáp án A. Bởi: Căn cứ Điều 49 Luật Khiếu nại. Đơn khiếu nại lần đầu phải gửi đến người đã ra quyết định kỷ luật.",
+      "topic": "Luật Khiếu nại"
+    },
+    {
+      "id": 28,
+      "question": "Theo Luật Khiếu nại, đâu là nghĩa vụ của người khiếu nại?",
+      "options": [
+        "A. Chấp hành quyết định hành chính, hành vi hành chính mà mình khiếu nại trong thời gian khiếu nại, trừ trường hợp bị tạm đình chỉ thi hành.",
+        "B. Chỉ cung cấp thông tin, tài liệu có lợi cho mình cho người giải quyết khiếu nại.",
+        "C. Có thể khiếu nại đến bất kỳ cơ quan nào mà mình cho là có thẩm quyền.",
+        "D. Không cần phải trình bày trung thực sự việc nếu thấy không có lợi."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn đáp án A. Bởi: Căn cứ Điểm c, Khoản 2, Điều 12 Luật Khiếu nại.",
+      "topic": "Luật Khiếu nại"
+    },
+    {
+      "id": 29,
+      "question": "Theo Luật Khiếu nại, trách nhiệm của người khiếu nại khi quyết định giải quyết khiếu nại có hiệu lực pháp luật là gì?",
+      "options": [
+        "A. Cộng tác với cơ quan có thẩm quyền trong việc khôi phục quyền, lợi ích hợp pháp của mình.",
+        "B. Yêu cầu bồi thường thêm các khoản thiệt hại không có trong quyết định.",
+        "C. Có quyền tiếp tục khiếu nại lên cấp cao hơn.",
+        "D. Không cần thực hiện nghĩa vụ gì nếu không đồng ý với quyết định."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn đáp án A. Bởi: Căn cứ Điểm a, Khoản 2, Điều 46 Luật Khiếu nại.",
+      "topic": "Luật Khiếu nại"
+    },
+    {
+      "id": 30,
+      "question": "Theo Luật Khiếu nại, đâu không phải là hình thức công khai quyết định giải quyết khiếu nại lần hai?",
+      "options": [
+        "A. Niêm yết tại trụ sở làm việc hoặc nơi tiếp công dân của cơ quan đã giải quyết khiếu nại.",
+        "B. Công bố tại cuộc họp cơ quan, tổ chức nơi người bị khiếu nại công tác.",
+        "C. Gửi văn bản đến từng hộ dân trong khu vực có liên quan.",
+        "D. Thông báo trên phương tiện thông tin đại chúng."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Khoản 2, Điều 41 Luật Khiếu nại quy định 3 hình thức tại A, B, D. Không có hình thức gửi từng hộ dân.",
+      "topic": "Luật Khiếu nại"
+    },
+    {
+      "id": 31,
+      "question": "Theo Luật Khiếu nại, kết luận nội dung khiếu nại trong quyết định giải quyết khiếu nại lần hai có thể là gì?",
+      "options": [
+        "A. Chỉ có thể là khiếu nại đúng hoặc khiếu nại sai.",
+        "B. Khiếu nại là đúng, đúng một phần hoặc sai toàn bộ.",
+        "C. Chuyển hồ sơ sang cơ quan điều tra nếu có dấu hiệu tội phạm.",
+        "D. Yêu cầu người khiếu nại và người bị khiếu nại tự hòa giải."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Điểm h, Khoản 2, Điều 40 Luật Khiếu nại.",
+      "topic": "Luật Khiếu nại"
+    },
+    {
+      "id": 32,
+      "question": "Theo Luật Khiếu nại, khi khiếu nại lần hai, người khiếu nại phải gửi kèm tài liệu gì cùng với đơn?",
+      "options": [
+        "A. Quyết định giải quyết khiếu nại lần đầu và các tài liệu có liên quan.",
+        "B. Bản tường trình chi tiết toàn bộ sự việc từ đầu.",
+        "C. Sơ yếu lý lịch có xác nhận của chính quyền địa phương.",
+        "D. Bằng chứng về việc người giải quyết lần đầu có hành vi tiêu cực."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn đáp án A. Bởi: Căn cứ Khoản 1, Điều 33 Luật Khiếu nại.",
+      "topic": "Luật Khiếu nại"
+    },
+    {
+      "id": 33,
+      "question": "Theo Luật Khiếu nại, hình thức khiếu nại quyết định kỷ luật được quy định như thế nào?",
+      "options": [
+        "A. Có thể thực hiện bằng đơn hoặc khiếu nại trực tiếp.",
+        "B. Phải được thực hiện bằng đơn.",
+        "C. Chỉ cần khiếu nại trực tiếp với người ra quyết định kỷ luật.",
+        "D. Có thể thực hiện bằng đơn, trực tiếp hoặc qua điện thoại."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Điều 49 Luật Khiếu nại. Khiếu nại kỷ luật bắt buộc bằng đơn.",
+      "topic": "Luật Khiếu nại"
+    },
+    {
+      "id": 34,
+      "question": "Theo Luật Khiếu nại, thời hạn giải quyết khiếu nại lần hai đối với vụ việc phức tạp ở vùng sâu, vùng xa đi lại khó khăn là bao lâu?",
+      "options": [
+        "A. Không quá 60 ngày, kể từ ngày thụ lý.",
+        "B. Không quá 70 ngày, kể từ ngày thụ lý.",
+        "C. Không quá 90 ngày, kể từ ngày thụ lý.",
+        "D. Không quá 45 ngày, kể từ ngày thụ lý."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Điều 37 Luật Khiếu nại.",
+      "topic": "Luật Khiếu nại"
+    },
+    {
+      "id": 35,
+      "question": "Theo Luật Khiếu nại, người giải quyết khiếu nại lần hai có thể thành lập Hội đồng tư vấn trong trường hợp nào?",
+      "options": [
+        "A. Khi có sự tham gia của luật sư trong quá trình giải quyết.",
+        "B. Đối với mọi vụ việc khiếu nại lần hai.",
+        "C. Khi có yêu cầu bằng văn bản của người khiếu nại.",
+        "D. Đối với vụ việc khiếu nại phức tạp, nếu thấy cần thiết."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Chọn đáp án D. Bởi: Căn cứ Khoản 2, Điều 36 Luật Khiếu nại.",
+      "topic": "Luật Khiếu nại"
+    },
+    {
+      "id": 36,
+      "question": "Theo Luật Khiếu nại, người khiếu nại có quyền yêu cầu cá nhân, cơ quan đang lưu giữ thông tin liên quan đến nội dung khiếu nại cung cấp cho mình trong thời hạn bao lâu?",
+      "options": [
+        "A. 05 ngày, kể từ ngày có yêu cầu.",
+        "B. 07 ngày, kể từ ngày có yêu cầu.",
+        "C. 15 ngày, kể từ ngày có yêu cầu.",
+        "D. Ngay lập tức khi có yêu cầu."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Điểm đ, Khoản 1, Điều 12 Luật Khiếu nại. Thời hạn là 07 ngày.",
+      "topic": "Luật Khiếu nại"
+    },
+    {
+      "id": 37,
+      "question": "Theo Bộ luật Dân sự năm 2015, chủ sở hữu phải chịu rủi ro đối với tài sản trong trường hợp nào?",
+      "options": [
+        "A. Chủ sở hữu chỉ phải chịu rủi ro đối với tài sản khi thiệt hại phát sinh do lỗi của chủ thể khác gây ra.",
+        "B. Chịu rủi ro về tài sản thuộc sở hữu của mình, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác.",
+        "C. Chủ sở hữu chỉ chịu rủi ro đối với tài sản kể từ thời điểm hoàn thành thủ tục đăng ký quyền sở hữu theo quy định.",
+        "D. Chủ sở hữu không phải chịu rủi ro đối với tài sản trong thời gian tài sản được giao cho bên nhận giữ hợp pháp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 162 Bộ luật Dân sự năm 2015.",
+      "topic": "Bộ luật Dân sự"
+    },
+    {
+      "id": 38,
+      "question": "Khi giải quyết yêu cầu bảo vệ quyền dân sự, Tòa án có thẩm quyền gì đối với quyết định cá biệt trái pháp luật của cơ quan nhà nước theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Không có quyền can thiệp vào quyết định của cơ quan hành chính.",
+        "B. Có quyền hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền.",
+        "C. Có quyền kiến nghị cơ quan đó tự thu hồi quyết định.",
+        "D. Nếu phát hiện quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền phải chờ ý kiến của Viện kiểm sát mới được xử lý."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 15 Bộ luật Dân sự năm 2015.",
+      "topic": "Bộ luật Dân sự"
+    },
+    {
+      "id": 39,
+      "question": "Theo Bộ luật Dân sự năm 2015, thời hạn chiếm hữu liên tục, công khai đối với bất động sản để trở thành chủ sở hữu theo thời hiệu là bao lâu?",
+      "options": [
+        "A. 10 năm",
+        "B. 20 năm",
+        "C. 30 năm",
+        "D. 50 năm"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 236 Bộ luật Dân sự năm 2015.",
+      "topic": "Bộ luật Dân sự"
+    },
+    {
+      "id": 40,
+      "question": "Chủ sở hữu có quyền yêu cầu Tòa án buộc người có hành vi xâm phạm thực hiện biện pháp nào sau đây theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Trả lại tài sản, chấm dứt hành vi cản trở trái pháp luật và bồi thường thiệt hại.",
+        "B. Buộc chuyển giao quyền sở hữu tài sản bị xâm phạm cho Nhà nước theo quyết định của Tòa án.",
+        "C. Buộc người có hành vi xâm phạm phải chuyển nhượng tài sản cho chủ thể khác nhằm chấm dứt tranh chấp.",
+        "D. Buộc người có hành vi xâm phạm phải chịu hình phạt tương ứng theo quy định của pháp luật."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Khoản 2 Điều 164 Bộ luật Dân sự năm 2015.",
+      "topic": "Bộ luật Dân sự"
+    },
+    {
+      "id": 41,
+      "question": "Khi thời hạn được xác định bằng ngày, tuần, tháng, năm thì thời điểm bắt đầu tính thời hạn được quy định thế nào theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Thời hạn được tính bắt đầu ngay trong ngày được xác định làm căn cứ xác lập thời hạn.",
+        "B. Ngày đầu tiên của thời hạn không được tính mà tính từ ngày tiếp theo liền kề ngày được xác định.",
+        "C. Thời hạn được tính từ thời điểm 0 giờ của ngày được xác định theo lịch.",
+        "D. Thời điểm bắt đầu tính thời hạn do các bên thỏa thuận và được xác định vào cuối ngày đầu tiên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 2 Điều 147 Bộ luật Dân sự năm 2015.",
+      "topic": "Bộ luật Dân sự"
+    },
+    {
+      "id": 42,
+      "question": "Cá nhân nào sau đây không đủ điều kiện làm người giám hộ theo quy định tại Điều 49 Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Người chưa được xóa án tích về tội cố ý xâm phạm tính mạng người khác.",
+        "B. Người đang sống tại nước ngoài nhưng có quốc tịch Việt Nam.",
+        "C. Người không có quan hệ họ hàng với người được giám hộ.",
+        "D. Người đã nghỉ hưu và có thu nhập ổn định."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Khoản 3 Điều 49 Bộ luật Dân sự năm 2015.",
+      "topic": "Bộ luật Dân sự"
+    },
+    {
+      "id": 43,
+      "question": "Theo Bộ luật Dân sự năm 2015, bên cầm giữ tài sản có nghĩa vụ nào sau đây?",
+      "options": [
+        "A. Được thực hiện các biện pháp cần thiết làm thay đổi tình trạng tài sản cầm giữ nhằm bảo toàn hoặc gia tăng giá trị tài sản.",
+        "B. Được chuyển giao việc nắm giữ tài sản cầm giữ cho người thứ ba khi xét thấy cần thiết để bảo đảm quyền lợi của mình.",
+        "C. Giữ gìn, bảo quản tài sản cầm giữ.",
+        "D. Được khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản cầm giữ trong phạm vi không làm giảm giá trị tài sản."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 1 Điều 349 Bộ luật Dân sự năm 2015.",
+      "topic": "Bộ luật Dân sự"
+    },
+    {
+      "id": 44,
+      "question": "Người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi khi xác lập giao dịch dân sự cần điều kiện gì theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Phải có người đại diện theo pháp luật đồng ý, trừ giao dịch phục vụ nhu cầu sinh hoạt hàng ngày phù hợp với lứa tuổi.",
+        "B. Tự mình xác lập mọi giao dịch nếu có tài sản riêng.",
+        "C. Phải được Tòa án cho phép.",
+        "D. Phải có ít nhất hai người làm chứng thành niên."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Khoản 3 Điều 21 Bộ luật Dân sự năm 2015.",
+      "topic": "Bộ luật Dân sự"
+    },
+    {
+      "id": 45,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), người có quyền, lợi ích liên quan có quyền yêu cầu Tòa án thông báo tìm kiếm người vắng mặt tại nơi cư trú khi người đó biệt tích trong thời gian bao lâu trở lên?",
+      "options": [
+        "A. 03 tháng liền trở lên.",
+        "B. 06 tháng liền trở lên.",
+        "C. 12 tháng liền trở lên.",
+        "D. 24 tháng liền trở lên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ theo Khoản 1 Điều 381 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Bộ luật Tố tụng dân sự"
+    },
+    {
+      "id": 46,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), nội dung nào sau đây là đúng về nghĩa vụ chứng minh của đương sự?",
+      "options": [
+        "A. Đương sự chỉ có quyền thu thập chứng cứ, việc cung cấp cho Tòa án là không bắt buộc.",
+        "B. Đương sự có quyền và nghĩa vụ chủ động thu thập, giao nộp chứng cứ cho Tòa án và chứng minh cho yêu cầu của mình.",
+        "C. Tòa án có nghĩa vụ thay mặt đương sự thu thập toàn bộ chứng cứ trong mọi vụ án dân sự.",
+        "D. Đương sự không có nghĩa vụ chứng minh nếu đối phương không có ý kiến phản đối."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 6 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Bộ luật Tố tụng dân sự"
+    },
+    {
+      "id": 47,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), đâu là những chủ thể có quyền yêu cầu Tòa án hủy bỏ quyết định tuyên bố một người mất tích?",
+      "options": [
+        "A. Chỉ người bị Tòa án tuyên bố mất tích trở về có quyền yêu cầu.",
+        "B. Người bị tuyên bố mất tích trở về hoặc người có quyền, lợi ích liên quan.",
+        "C. Viện kiểm sát cùng cấp có quyền yêu cầu hủy bỏ quyết định này.",
+        "D. Cơ quan công an nơi người đó cư trú trước khi biệt tích có quyền yêu cầu."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 390 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Bộ luật Tố tụng dân sự"
+    },
+    {
+      "id": 48,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), người có hành vi đe dọa nhằm cản trở đại diện của cơ quan tham gia phiên tòa bị xử lý theo hình thức nào?",
+      "options": [
+        "A. Phạt vi phạm hợp đồng lao động nếu là nhân viên của cơ quan đó.",
+        "B. Bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự.",
+        "C. Bị buộc phải thay thế người đại diện khác tham gia phiên tòa.",
+        "D. Bị công khai danh tính trên trang thông tin của Bộ Tư pháp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 494 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Bộ luật Tố tụng dân sự"
+    },
+    {
+      "id": 49,
+      "question": "Thời hạn khiếu nại của đương sự đối với quyết định áp dụng biện pháp khẩn cấp tạm thời của Thẩm phán là bao lâu?",
+      "options": [
+        "A. 03 ngày làm việc, kể từ ngày nhận được quyết định.",
+        "B. 05 ngày làm việc, kể từ ngày nhận được quyết định.",
+        "C. 07 ngày làm việc, kể từ ngày nhận được quyết định.",
+        "D. 10 ngày làm việc, kể từ ngày nhận được quyết định."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điều 140 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Bộ luật Tố tụng dân sự"
+    },
+    {
+      "id": 50,
+      "question": "Đâu là nghĩa vụ bồi thường của người bị khiếu nại theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Bồi thường mọi chi phí đi lại của người khiếu nại trong suốt quá trình khiếu nại.",
+        "B. Bồi thường thiệt hại do quyết định, hành vi tố tụng dân sự trái pháp luật của mình gây ra.",
+        "C. Bồi thường danh dự cho gia đình người khiếu nại theo yêu cầu của họ.",
+        "D. Nộp phạt vào ngân sách nhà nước số tiền gấp đôi giá trị tài sản tranh chấp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điểm c Khoản 2 Điều 501 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Bộ luật Tố tụng dân sự"
+    },
+    {
+      "id": 51,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), trường hợp người kháng cáo đã được triệu tập hợp lệ lần thứ hai mà vẫn vắng mặt thì Tòa án xử lý như thế nào?",
+      "options": [
+        "A. Tòa án ra quyết định hoãn phiên họp phúc thẩm lần thứ hai.",
+        "B. Tòa án ra quyết định đình chỉ giải quyết phúc thẩm việc dân sự đối với yêu cầu kháng cáo của họ, trừ trường hợp bất khả kháng.",
+        "C. Tòa án vẫn tiến hành phiên họp và ra quyết định giữ nguyên bản án sơ thẩm.",
+        "D. Tòa án chuyển hồ sơ cho Viện kiểm sát giải quyết theo thẩm quyền."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ theo Khoản 2 Điều 374 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Bộ luật Tố tụng dân sự"
+    },
+    {
+      "id": 52,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), yêu cầu công nhận thuận tình ly hôn, thỏa thuận nuôi con thuộc loại nào?",
+      "options": [
+        "A. Tranh chấp về hôn nhân và gia đình.",
+        "B. Tranh chấp về dân sự.",
+        "C. Yêu cầu về hôn nhân và gia đình.",
+        "D. Việc dân sự tự nguyện."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 29 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Bộ luật Tố tụng dân sự"
+    },
+    {
+      "id": 53,
+      "question": "Chủ thể nào có thẩm quyền cử người tham dự thi tuyển Chấp hành viên đối với công chức thuộc Chi cục thi hành án dân sự trực thuộc?",
+      "options": [
+        "A. Cục trưởng Cục thi hành án dân sự.",
+        "B. Bộ trưởng Bộ Tư pháp.",
+        "C. Chi cục trưởng Chi cục thi hành án dân sự.",
+        "D. Tổng Cục trưởng Tổng cục thi hành án dân sự."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 2 Điều 58 quy định Cục trưởng Cục thi hành án dân sự cử người tham dự thi tuyển đối với công chức thuộc Cục và các Chi cục trực thuộc.",
+      "topic": "Nghị định 62/2015/NĐ-CP"
+    },
+    {
+      "id": 54,
+      "question": "Trong trường hợp người phải thi hành án đã chết và chưa xác định được người thừa kế, cơ quan thi hành án dân sự phải thông báo công khai trong thời gian bao lâu?",
+      "options": [
+        "A. 01 tháng, kể từ ngày thông báo, niêm yết.",
+        "B. 06 tháng, kể từ ngày thông báo, niêm yết.",
+        "C. 03 tháng, kể từ ngày thông báo, niêm yết.",
+        "D. 01 năm, kể từ ngày thông báo, niêm yết."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 15, khoản 1, điểm b nêu rõ cơ quan thi hành án dân sự thông báo công khai và niêm yết trong thời gian 03 tháng để người thừa kế biết.",
+      "topic": "Nghị định 62/2015/NĐ-CP"
+    },
+    {
+      "id": 55,
+      "question": "Khi Chấp hành viên lập biên bản tạm giữ tài sản là tiền mặt, nội dung nào cần phải ghi rõ theo quy định tại Điều 18 Nghị định số 62/2015/NĐ-CP?",
+      "options": [
+        "A. Tên ngân hàng phát hành.",
+        "B. Số lượng tờ, mệnh giá, là tiền nước nào và có thể ghi cả số sê ri.",
+        "C. Dự định sử dụng số tiền đó để thi hành cho khoản nợ nào.",
+        "D. Nguồn gốc của số tiền."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2 Điều 18 quy định: \"phải ghi rõ số lượng tờ, mệnh giá các loại tiền, nếu là ngoại tệ thì phải ghi là tiền nước nào...\"",
+      "topic": "Nghị định 62/2015/NĐ-CP"
+    },
+    {
+      "id": 56,
+      "question": "Chấp hành viên được thực hiện việc bán đấu giá quyền sở hữu trí tuệ trong trường hợp nào?",
+      "options": [
+        "A. Khi tài sản có giá trị trên 50.000.000 đồng.",
+        "B. Trong mọi trường hợp để đẩy nhanh tiến độ thi hành án.",
+        "C. Khi có giá trị đến 10.000.000 đồng hoặc tại địa phương không có tổ chức bán đấu giá.",
+        "D. Chỉ khi được người phải thi hành án đồng ý bằng văn bản."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điểm b Khoản 1 Điều 31 quy định trường hợp Chấp hành viên được bán đấu giá: tài sản có giá trị đến 10.000.000 đồng hoặc địa phương không có tổ chức bán đấu giá.",
+      "topic": "Nghị định 62/2015/NĐ-CP"
+    },
+    {
+      "id": 57,
+      "question": "Loại công cụ hỗ trợ nào sau đây không thuộc danh mục được trang bị, sử dụng trong thi hành án dân sự theo quy định?",
+      "options": [
+        "A. Các loại súng quân dụng và vũ khí thô sơ.",
+        "B. Các loại phương tiện xịt hơi cay, chất gây mê.",
+        "C. Các loại súng dùng để bắn đạn nhựa, đạn cao su, hơi cay.",
+        "D. Các loại dùi cui điện, dùi cui cao su, găng tay điện."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 74 chỉ liệt kê các loại công cụ hỗ trợ cụ thể như súng bắn đạn cao su, hơi cay... không bao gồm súng quân dụng và vũ khí thô sơ.",
+      "topic": "Nghị định 62/2015/NĐ-CP"
+    },
+    {
+      "id": 58,
+      "question": "Khoản chi nào sau đây được tính là chi phí cần thiết khác trong chi phí cưỡng chế thi hành án theo Điều 43 Nghị định số 62/2015/NĐ-CP?",
+      "options": [
+        "A. Chi phí đi lại của đương sự đến cơ quan thi hành án.",
+        "B. Chi phí cho việc bố trí phiên dịch trong trường hợp đương sự là người nước ngoài.",
+        "C. Tiền bồi thường thiệt hại do việc cưỡng chế gây ra.",
+        "D. Chi phí thuê luật sư cho người phải thi hành án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điểm đ, khoản 1, Điều 43 liệt kê rõ chi phí bố trí phiên dịch là một trong các chi phí cần thiết khác.",
+      "topic": "Nghị định 62/2015/NĐ-CP"
+    },
+    {
+      "id": 59,
+      "question": "Theo Điều 8 Nghị định số 62/2015/NĐ-CP, hồ sơ thi hành án được lập dựa trên căn cứ nào và trong thời hạn bao lâu kể từ ngày được phân công?",
+      "options": [
+        "A. Căn cứ vào đơn yêu cầu thi hành án; trong thời hạn không quá 05 ngày làm việc.",
+        "B. Căn cứ vào kết quả xác minh điều kiện thi hành án; trong thời hạn 01 ngày làm việc.",
+        "C. Căn cứ vào bản án, quyết định của Tòa án; trong thời hạn không quá 03 ngày làm việc.",
+        "D. Căn cứ vào quyết định thi hành án; trong thời hạn không quá 02 ngày làm việc."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 1 Điều 8 quy định: “Quyết định thi hành án là căn cứ để lập hồ sơ thi hành án” và thời hạn là “không quá 02 ngày làm việc”.",
+      "topic": "Nghị định 62/2015/NĐ-CP"
+    },
+    {
+      "id": 60,
+      "question": "Chủ thể nào là người chịu trách nhiệm về kết quả xác minh theo nội dung ủy quyền xác minh điều kiện thi hành án?",
+      "options": [
+        "A. Cả Thủ trưởng cơ quan ủy quyền và Thủ trưởng cơ quan nhận ủy quyền.",
+        "B. Thủ trưởng cơ quan thi hành án dân sự đã ủy quyền.",
+        "C. Chấp hành viên của cơ quan thi hành án dân sự đã ủy quyền.",
+        "D. Thủ trưởng cơ quan thi hành án dân sự nơi nhận ủy quyền."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 9, khoản 2 quy định rõ Thủ trưởng cơ quan thi hành án dân sự nơi nhận ủy quyền phải chịu trách nhiệm về kết quả xác minh.",
+      "topic": "Nghị định 62/2015/NĐ-CP"
+    }
+  ]
+}, 
+{
   "id": "TH_THADS_CVTH_03",
   "title": "Đề 03: TH_THADS_Chuyên viên tổng hợp, chuyên viên giải quyết khiếu nại tố cáo",
   "questions": [
