@@ -17689,6 +17689,1057 @@
   ]
 },
 {
+  "id": "THADS_DE_06",
+  "title": "Đề 06: Luật Thi hành án dân sự năm 2008 (đã sửa đổi, bổ sung)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Trường hợp diện tích đất đã kê biên đang do người phải thi hành án quản lý, khai thác, sử dụng thì Chấp hành viên sẽ tạm giao diện tích đất đó cho ai?",
+      "options": [
+        "A. Một tổ chức, cá nhân khác có đủ điều kiện.",
+        "B. Người được thi hành án.",
+        "C. Người phải thi hành án.",
+        "D. Ủy ban nhân dân cấp xã."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Điều 112 khoản 1 quy định rõ: \"Trường hợp diện tích đất đã kê biên đang do người phải thi hành án quản lý, khai thác, sử dụng thì Chấp hành viên tạm giao diện tích đất đã kê biên cho người đó.\"",
+      "topic": "Cưỡng chế đối với quyền sử dụng đất"
+    },
+    {
+      "id": 2,
+      "question": "Đối với tài sản gắn liền với đất có trước khi người phải thi hành án nhận được quyết định thi hành án, nếu người có tài sản và người phải thi hành án không thỏa thuận được phương thức giải quyết, thời hạn để Chấp hành viên hướng dẫn họ thỏa thuận là bao nhiêu ngày?",
+      "options": [
+        "A. 30 ngày.",
+        "B. 15 ngày.",
+        "C. 10 ngày.",
+        "D. 45 ngày."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Điều 113 khoản 1 điểm a quy định: \"Trong thời hạn 15 ngày, kể từ ngày hướng dẫn mà họ không thỏa thuận được thì Chấp hành viên xử lý tài sản đó cùng với quyền sử dụng đất...\"",
+      "topic": "Cưỡng chế đối với quyền sử dụng đất"
+    },
+    {
+      "id": 3,
+      "question": "Trong thủ tục cưỡng chế trả vật đặc định, nếu vật phải trả bị giảm giá trị mà người được thi hành án không đồng ý nhận và hai bên không thỏa thuận được, Chấp hành viên sẽ xử lý như thế nào?",
+      "options": [
+        "A. Lập biên bản và đình chỉ thi hành án.",
+        "B. Bán đấu giá vật đó để thi hành án.",
+        "C. Cưỡng chế trả vật cho người được thi hành án.",
+        "D. Yêu cầu người phải thi hành án bồi thường ngay lập tức."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Điều 114 khoản 1 điểm b nêu rõ: \"Trường hợp đương sự không thỏa thuận được thì Chấp hành viên cưỡng chế trả vật cho người được thi hành án. Đương sự có quyền khởi kiện yêu cầu Tòa án giải quyết về thiệt hại...\"",
+      "topic": "Cưỡng chế trả vật, chuyển giao quyền tài sản"
+    },
+    {
+      "id": 4,
+      "question": "Khi tiến hành cưỡng chế chuyển giao quyền sử dụng đất, thành phần nào sau đây bắt buộc phải có sự tham gia?",
+      "options": [
+        "A. Đại diện của người được thi hành án và người phải thi hành án.",
+        "B. Đại diện cơ quan công an và tổ trưởng dân phố.",
+        "C. Đại diện Viện kiểm sát nhân dân cùng cấp.",
+        "D. Đại diện cơ quan quản lý nhà nước về đất đai cùng cấp và Ủy ban nhân dân cấp xã."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Điều 117 khoản 1 quy định: \"Khi tiến hành giao đất phải có sự tham gia của đại diện cơ quan quản lý nhà nước về đất đai cùng cấp và Ủy ban nhân dân cấp xã nơi có đất được chuyển giao.\"",
+      "topic": "Cưỡng chế đối với quyền sử dụng đất"
+    },
+    {
+      "id": 5,
+      "question": "Nếu người phải thi hành án không thực hiện công việc nhất định theo bản án, Chấp hành viên sẽ áp dụng biện pháp gì đầu tiên và ấn định thời hạn bao lâu để họ thực hiện?",
+      "options": [
+        "A. Phạt tiền và ấn định thời hạn 03 ngày làm việc.",
+        "B. Giao cho người khác thực hiện ngay và chi phí do người phải thi hành án chịu.",
+        "C. Phạt tiền và ấn định thời hạn 05 ngày làm việc.",
+        "D. Đề nghị truy cứu trách nhiệm hình sự ngay lập tức."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Điều 118 khoản 1 nêu rõ: \"...Chấp hành viên quyết định phạt tiền và ấn định thời hạn 05 ngày làm việc, kể từ ngày ra quyết định phạt tiền để người đó thực hiện nghĩa vụ thi hành án.\"",
+      "topic": "Cưỡng chế buộc thực hiện công việc nhất định"
+    },
+    {
+      "id": 6,
+      "question": "Trước khi cưỡng chế giao người chưa thành niên cho người được giao nuôi dưỡng, Chấp hành viên phải phối hợp với cơ quan, tổ chức nào để thuyết phục đương sự tự nguyện thi hành án?",
+      "options": [
+        "A. Cơ quan công an và cơ quan quản lý hộ tịch.",
+        "B. Tòa án đã ra bản án và Viện kiểm sát cùng cấp.",
+        "C. Sở Tư pháp và Hội liên hiệp phụ nữ cấp tỉnh.",
+        "D. Chính quyền địa phương và tổ chức chính trị - xã hội tại địa phương đó."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Điều 120 khoản 1 quy định: \"Trước khi cưỡng chế giao người chưa thành niên cho người được giao nuôi dưỡng, Chấp hành viên phối hợp với chính quyền địa phương, tổ chức chính trị - xã hội tại địa phương đó thuyết phục đương sự tự nguyện thi hành án.\"",
+      "topic": "Cưỡng chế giao người chưa thành niên"
+    },
+    {
+      "id": 7,
+      "question": "Theo Luật Thi hành án dân sự, việc giao, nhận vật chứng, tài sản tạm giữ giữa cơ quan xét xử và cơ quan thi hành án dân sự được tiến hành tại đâu?",
+      "options": [
+        "A. Tại kho của cơ quan thi hành án dân sự.",
+        "B. Tại nơi đang tạm giữ vật chứng, tài sản đó.",
+        "C. Tại trụ sở Tòa án đã ra bản án.",
+        "D. Tại kho của cơ quan Công an."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Điều 122 khoản 2 quy định: \"Việc giao, nhận vật chứng, tài sản tạm giữ được tiến hành tại kho của cơ quan thi hành án dân sự.\"",
+      "topic": "Thi hành án trong trường hợp có vật chứng, tài sản tạm giữ"
+    },
+    {
+      "id": 8,
+      "question": "Cơ quan thi hành án dân sự phải tiến hành giao vật chứng, tài sản bị tuyên tịch thu, sung quỹ nhà nước cho cơ quan tài chính cùng cấp trong thời hạn bao lâu kể từ ngày ra quyết định thi hành án?",
+      "options": [
+        "A. 07 ngày.",
+        "B. 05 ngày.",
+        "C. 15 ngày.",
+        "D. 10 ngày."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Điều 124 khoản 1 nêu rõ: \"...trong thời hạn 10 ngày, kể từ ngày ra quyết định thi hành án, cơ quan thi hành án dân sự phải thông báo bằng văn bản và tiến hành giao vật chứng, tài sản tạm giữ đó cho cơ quan tài chính cùng cấp.\"",
+      "topic": "Xử lý vật chứng, tài sản bị tịch thu"
+    },
+    {
+      "id": 9,
+      "question": "Ai chịu chi phí cho việc cưỡng chế tháo dỡ hoặc chuyển tài sản ra khỏi diện tích đất phải chuyển giao, trong trường hợp tài sản hình thành sau khi có bản án hiệu lực pháp luật?",
+      "options": [
+        "A. Người được thi hành án.",
+        "B. Ngân sách nhà nước.",
+        "C. Người có tài sản.",
+        "D. Người phải thi hành án."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Điều 117 khoản 2 điểm a quy định: \"Nếu người có tài sản không thực hiện thì Chấp hành viên cưỡng chế tháo dỡ hoặc chuyển tài sản ra khỏi diện tích đất phải chuyển giao... Chi phí cưỡng chế do người có tài sản chịu.\"",
+      "topic": "Cưỡng chế đối với quyền sử dụng đất"
+    },
+    {
+      "id": 10,
+      "question": "Sau khi hết thời hạn ấn định mà người phải thi hành án không thực hiện công việc nhất định mà công việc đó có thể giao cho người khác thực hiện thay, Chấp hành viên sẽ làm gì?",
+      "options": [
+        "A. Giao cho người có điều kiện thực hiện và chi phí do người phải thi hành án chịu.",
+        "B. Đề nghị cơ quan có thẩm quyền truy cứu trách nhiệm hình sự.",
+        "C. Tiếp tục phạt tiền với mức cao hơn.",
+        "D. Yêu cầu người được thi hành án tự tổ chức thực hiện."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Điều 118 khoản 2 điểm a quy định: \"...Chấp hành viên giao cho người có điều kiện thực hiện; chi phí thực hiện do người phải thi hành án chịu.\"",
+      "topic": "Cưỡng chế buộc thực hiện công việc nhất định"
+    },
+    {
+      "id": 11,
+      "question": "Trường hợp người phải thi hành án hoặc người đang trông giữ người chưa thành niên không giao người chưa thành niên, Chấp hành viên ra quyết định phạt tiền và ấn định thời hạn bao lâu để người đó giao?",
+      "options": [
+        "A. 07 ngày làm việc.",
+        "B. 05 ngày làm việc.",
+        "C. 03 ngày làm việc.",
+        "D. 10 ngày làm việc."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Điều 120 khoản 2 quy định: \"...Chấp hành viên ra quyết định phạt tiền, ấn định thời hạn 05 ngày làm việc, kể từ ngày ra quyết định phạt tiền để người đó giao người chưa thành niên...\"",
+      "topic": "Cưỡng chế giao người chưa thành niên"
+    },
+    {
+      "id": 12,
+      "question": "Trong thời hạn bao lâu kể từ ngày ra quyết định thi hành án, Thủ trưởng cơ quan thi hành án dân sự phải ra quyết định thành lập Hội đồng tiêu hủy vật chứng, tài sản?",
+      "options": [
+        "A. 15 ngày.",
+        "B. 01 tháng.",
+        "C. 02 tháng.",
+        "D. Ngay sau khi có quyết định thi hành án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Điều 125 khoản 1 quy định: \"Trong thời hạn 01 tháng, kể từ ngày ra quyết định thi hành án, Thủ trưởng cơ quan thi hành án dân sự ra quyết định thành lập Hội đồng tiêu huỷ vật chứng, tài sản...\"",
+      "topic": "Xử lý vật chứng, tài sản bị tiêu hủy"
+    },
+    {
+      "id": 13,
+      "question": "Trường hợp tài sản là cây trồng, vật nuôi ngắn ngày chưa đến mùa thu hoạch đã bị kê biên, Chấp hành viên chỉ tiến hành xử lý khi nào?",
+      "options": [
+        "A. Khi đến mùa thu hoạch.",
+        "B. Khi người được thi hành án yêu cầu xử lý ngay.",
+        "C. Sau 30 ngày kể từ ngày kê biên.",
+        "D. Ngay sau khi định giá xong."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Điều 113 khoản 3 quy định: \"...sau khi kê biên, Chấp hành viên chỉ tiến hành xử lý khi đến mùa thu hoạch hoặc khi kết thúc quy trình sản xuất khép kín.\"",
+      "topic": "Cưỡng chế đối với quyền sử dụng đất"
+    },
+    {
+      "id": 14,
+      "question": "Theo quy định tại Điều 126 Luật Thi hành án dân sự, trường hợp đương sự không đến nhận tiền sau khi được thông báo, Chấp hành viên phải gửi số tiền đó theo hình thức nào sau khi hết thời hạn 15 ngày?",
+      "options": [
+        "A. Niêm yết tại kho bạc nhà nước",
+        "B. Tiết kiệm có kỳ hạn 03 tháng",
+        "C. Làm thủ tục sung quỹ nhà nước ngay lập tức",
+        "D. Tiết kiệm không kỳ hạn"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Khoản 2 Điều 126 quy định rõ, hết thời hạn 15 ngày mà đương sự không đến nhận tiền, Chấp hành viên sẽ gửi số tiền đó theo hình thức tiết kiệm không kỳ hạn.",
+      "topic": "Giải tỏa tiền, tài sản"
+    },
+    {
+      "id": 15,
+      "question": "Điều 127 Luật Thi hành án dân sự quy định Chấp hành viên xử lý tài sản mà bản án, quyết định tuyên kê biên để bảo đảm thi hành án trong trường hợp nào?",
+      "options": [
+        "A. Khi tài sản có nguy cơ bị tẩu tán, hủy hoại",
+        "B. Người được thi hành án có yêu cầu xử lý ngay",
+        "C. Người phải thi hành án không tự nguyện thi hành án",
+        "D. Ngay sau khi bản án, quyết định có hiệu lực"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Điều 127 quy định rõ rằng việc xử lý tài sản đã bị kê biên để bảo đảm thi hành án chỉ diễn ra khi người phải thi hành án không tự nguyện thực hiện nghĩa vụ của mình.",
+      "topic": "Xử lý tài sản đã kê biên"
+    },
+    {
+      "id": 16,
+      "question": "Theo Điều 128 Luật Thi hành án dân sự, cơ quan nào có trách nhiệm thu các khoản tiền, tài sản mà người phải thi hành án đang chấp hành hình phạt tù hoặc thân nhân của họ nộp để thi hành án?",
+      "options": [
+        "A. Viện kiểm sát nhân dân giám sát việc thi hành án",
+        "B. Giám thị trại giam, trại tạm giam nơi người phải thi hành án đang chấp hành hình phạt tù",
+        "C. Tòa án đã ra bản án, quyết định",
+        "D. Cơ quan thi hành án dân sự nơi người đó cư trú trước khi bị bắt"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Khoản 1 Điều 128 quy định rõ nhiệm vụ này thuộc về Giám thị trại giam, trại tạm giam, sau đó mới chuyển cho cơ quan thi hành án dân sự.",
+      "topic": "Thu tiền, tài sản của người phải thi hành án đang chấp hành hình phạt tù"
+    },
+    {
+      "id": 17,
+      "question": "Theo Điều 130 Luật Thi hành án dân sự, Chấp hành viên phải áp dụng ngay các biện pháp bảo đảm, biện pháp cưỡng chế trong thời hạn bao lâu kể từ khi nhận được quyết định thi hành án áp dụng biện pháp khẩn cấp tạm thời?",
+      "options": [
+        "A. Ngay trong ngày làm việc",
+        "B. Trong thời hạn 05 ngày làm việc",
+        "C. Trong thời hạn 24 giờ",
+        "D. Trong thời hạn 03 ngày làm việc"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Khoản 1 Điều 130 yêu cầu Chấp hành viên phải hành động ngay lập tức, trong thời hạn 24 giờ, do tính chất khẩn cấp của biện pháp này.",
+      "topic": "Thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 18,
+      "question": "Chi phí thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời của Tòa án, theo Điều 133 Luật Thi hành án dân sự, ban đầu được tạm ứng từ nguồn nào?",
+      "options": [
+        "A. Ngân sách nhà nước",
+        "B. Người bị áp dụng biện pháp",
+        "C. Quỹ của cơ quan thi hành án dân sự",
+        "D. Người yêu cầu áp dụng biện pháp"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Khoản 1 Điều 133 quy định rằng chi phí thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời của Tòa án được tạm ứng từ ngân sách nhà nước.",
+      "topic": "Chi phí thi hành án"
+    },
+    {
+      "id": 19,
+      "question": "Khi quyết định giám đốc thẩm, tái thẩm tuyên hủy bản án đã có hiệu lực pháp luật để xét xử sơ thẩm lại, theo Điều 136, việc thi hành án sẽ được thực hiện theo bản án, quyết định nào?",
+      "options": [
+        "A. Bản án sơ thẩm mới có hiệu lực pháp luật",
+        "B. Quyết định giám đốc thẩm, tái thẩm",
+        "C. Bản án, quyết định đã bị hủy",
+        "D. Thỏa thuận của các bên đương sự"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Khoản 1 Điều 136 quy định, việc thi hành án được thực hiện theo bản án, quyết định sơ thẩm mới có hiệu lực pháp luật hoặc bản án phúc thẩm mới sau khi xét xử lại.",
+      "topic": "Thi hành bản án, quyết định bị hủy, sửa"
+    },
+    {
+      "id": 20,
+      "question": "Theo Điều 126, nếu tài sản trả lại cho đương sự là giấy tờ liên quan đến nhân thân, hết thời hạn bao lâu kể từ ngày thông báo mà đương sự không đến nhận thì Chấp hành viên sẽ chuyển giao cho cơ quan đã ban hành giấy tờ đó?",
+      "options": [
+        "A. 03 tháng",
+        "B. 06 tháng",
+        "C. 01 năm",
+        "D. 05 năm"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Khoản 3 Điều 126 quy định rõ, đối với giấy tờ liên quan đến tài sản, nhân thân của đương sự, hết thời hạn 01 năm mà không có người nhận thì Chấp hành viên sẽ chuyển giao cho cơ quan đã ban hành.",
+      "topic": "Giải tỏa tiền, tài sản"
+    },
+    {
+      "id": 21,
+      "question": "Để bảo đảm thi hành quyết định về cho thu hoạch, cho bán hoa màu hoặc sản phẩm hàng hóa khác, Chấp hành viên áp dụng biện pháp nào theo Điều 130?",
+      "options": [
+        "A. Kê biên, xử lý tài sản",
+        "B. Phong tỏa tài khoản",
+        "C. Cấm xuất cảnh",
+        "D. Tạm giữ giấy tờ"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Điểm đ Khoản 1 Điều 130 quy định áp dụng biện pháp cưỡng chế tại khoản 3 Điều 71 và các điều 98, 99, 100 và 101, tức là các biện pháp kê biên và xử lý tài sản.",
+      "topic": "Thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 22,
+      "question": "Trong thời hạn bao lâu kể từ khi có quyết định đình chỉ thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời, Chấp hành viên phải làm thủ tục giải tỏa kê biên, trả lại tài sản?",
+      "options": [
+        "A. Trong thời hạn 03 ngày làm việc",
+        "B. Ngay lập tức",
+        "C. Trong thời hạn 24 giờ",
+        "D. Trong thời hạn 05 ngày làm việc"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Khoản 1 Điều 132 quy định Chấp hành viên phải làm các thủ tục giải tỏa trong thời hạn 24 giờ kể từ khi có quyết định đình chỉ.",
+      "topic": "Thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 23,
+      "question": "Theo Điều 126, trường hợp tài sản không bán được hoặc bị hư hỏng không còn giá trị sử dụng sau khi đã thông báo cho đương sự đến nhận, Thủ trưởng cơ quan thi hành án dân sự sẽ ra quyết định gì?",
+      "options": [
+        "A. Quyết định bán với giá tượng trưng",
+        "B. Quyết định tiêu hủy tài sản",
+        "C. Quyết định giao cho cơ quan tài chính",
+        "D. Quyết định trả lại cho người phải thi hành án"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Khoản 3 Điều 126 quy định rõ, đối với tài sản không bán được hoặc hư hỏng không còn giá trị, Thủ trưởng cơ quan thi hành án dân sự phải ra quyết định tiêu hủy.",
+      "topic": "Giải tỏa tiền, tài sản"
+    },
+    {
+      "id": 24,
+      "question": "Căn cứ Điều 129, chi phí cho việc gửi tiền, tài sản cho người được thi hành án đang chấp hành hình phạt tù do ai chịu?",
+      "options": [
+        "A. Cơ quan thi hành án dân sự",
+        "B. Người phải thi hành án",
+        "C. Người được thi hành án",
+        "D. Ngân sách nhà nước"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Khoản 2 Điều 129 quy định rõ chi phí cho việc gửi tiền, tài sản do người được thi hành án chịu.",
+      "topic": "Thu tiền, tài sản của người phải thi hành án đang chấp hành hình phạt tù"
+    },
+    {
+      "id": 25,
+      "question": "Theo Khoản 3 Điều 135, khi có yêu cầu về bồi thường thiệt hại do việc thi hành một bản án, quyết định sau đó bị hủy, sửa, cơ quan nào sẽ giải quyết?",
+      "options": [
+        "A. Bộ Tư pháp",
+        "B. Tòa án cấp trên trực tiếp của Tòa án đã ra bản án",
+        "C. Cơ quan ra bản án, quyết định bị hủy, sửa",
+        "D. Cơ quan thi hành án dân sự đã tổ chức thi hành"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Khoản 3 Điều 135 quy định rõ, cơ quan ra bản án, quyết định bị hủy, sửa sẽ giải quyết yêu cầu bồi thường thiệt hại theo quy định của pháp luật.",
+      "topic": "Bồi thường thiệt hại"
+    },
+    {
+      "id": 26,
+      "question": "Theo Luật Thi hành án dân sự, đối tượng nào có quyền khiếu nại đối với quyết định, hành vi của Thủ trưởng cơ quan thi hành án dân sự và Chấp hành viên?",
+      "options": [
+        "A. Bất kỳ công dân nào biết về vụ việc.",
+        "B. Viện kiểm sát nhân dân cùng cấp.",
+        "C. Chỉ có người phải thi hành án.",
+        "D. Đương sự và người có quyền lợi, nghĩa vụ liên quan."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Điều 140 của Luật quy định rõ rằng đương sự và người có quyền lợi, nghĩa vụ liên quan có quyền khiếu nại nếu có căn cứ cho rằng quyết định, hành vi đó là trái pháp luật.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 27,
+      "question": "Thời hiệu khiếu nại đối với quyết định, hành vi về thi hành án sau khi đã áp dụng biện pháp cưỡng chế là bao lâu?",
+      "options": [
+        "A. 30 ngày, kể từ ngày nhận được quyết định hoặc biết được hành vi đó.",
+        "B. 15 ngày, kể từ ngày nhận được quyết định hoặc biết được hành vi đó.",
+        "C. 90 ngày, kể từ ngày nhận được quyết định hoặc biết được hành vi đó.",
+        "D. 03 ngày làm việc, kể từ ngày nhận được quyết định hoặc biết được hành vi đó."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Theo điểm d, khoản 2 Điều 140, thời hiệu khiếu nại sau khi đã áp dụng biện pháp cưỡng chế là 30 ngày.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 28,
+      "question": "Trường hợp nào sau đây khiếu nại sẽ không được thụ lý giải quyết?",
+      "options": [
+        "A. Người khiếu nại không có năng lực hành vi dân sự đầy đủ mà không có người đại diện hợp pháp.",
+        "B. Người khiếu nại là người có quyền lợi, nghĩa vụ liên quan.",
+        "C. Quyết định bị khiếu nại liên quan đến số tiền thi hành án lớn.",
+        "D. Người khiếu nại không cung cấp được đầy đủ bằng chứng ngay khi nộp đơn."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Điều 141 quy định rõ đây là một trong những trường hợp khiếu nại không được thụ lý để giải quyết.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 29,
+      "question": "Ai có thẩm quyền giải quyết khiếu nại đối với quyết định, hành vi trái pháp luật của Thủ trưởng cơ quan thi hành án dân sự cấp huyện?",
+      "options": [
+        "A. Thủ trưởng cơ quan thi hành án dân sự cấp huyện.",
+        "B. Bộ trưởng Bộ Tư pháp.",
+        "C. Thủ trưởng cơ quan thi hành án dân sự cấp tỉnh.",
+        "D. Thủ trưởng cơ quan quản lý thi hành án dân sự thuộc Bộ Tư pháp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Theo điểm b khoản 2 Điều 142, Thủ trưởng cơ quan thi hành án dân sự cấp tỉnh có thẩm quyền giải quyết khiếu nại đối với cấp dưới trực tiếp là Thủ trưởng cơ quan thi hành án dân sự cấp huyện.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 30,
+      "question": "Trong trường hợp cần thiết, ai có quyền xem xét lại quyết định giải quyết khiếu nại đã có hiệu lực thi hành của Thủ trưởng cơ quan thi hành án dân sự cấp tỉnh?",
+      "options": [
+        "A. Chánh án Tòa án nhân dân tối cao.",
+        "B. Bộ trưởng Bộ Tư pháp.",
+        "C. Viện trưởng Viện kiểm sát nhân dân tối cao.",
+        "D. Thủ trưởng cơ quan quản lý thi hành án dân sự thuộc Bộ Tư pháp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Theo điểm b khoản 4 Điều 142, Bộ trưởng Bộ Tư pháp có quyền xem xét lại các quyết định giải quyết khiếu nại đã có hiệu lực thi hành trong những trường hợp cần thiết.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 31,
+      "question": "Theo Điều 144, người bị khiếu nại có quyền nào sau đây?",
+      "options": [
+        "A. Từ chối giải trình nếu cho rằng khiếu nại không có căn cứ.",
+        "B. Ủy quyền cho người khác thực hiện nghĩa vụ bồi thường.",
+        "C. Được biết các căn cứ khiếu nại của người khiếu nại.",
+        "D. Yêu cầu người khiếu nại cung cấp thêm bằng chứng."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Điểm a khoản 1 Điều 144 quy định rõ người bị khiếu nại có quyền này để có thể giải trình và bảo vệ quyết định, hành vi của mình.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 32,
+      "question": "Thời hạn giải quyết khiếu nại lần đầu là bao nhiêu ngày, kể từ ngày thụ lý?",
+      "options": [
+        "A. 30 ngày.",
+        "B. 45 ngày.",
+        "C. 15 ngày.",
+        "D. 05 ngày làm việc."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Theo khoản 1 Điều 146, thời hạn giải quyết khiếu nại lần đầu là 15 ngày. Đối với vụ việc phức tạp, thời hạn có thể kéo dài nhưng không quá 30 ngày.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 33,
+      "question": "Theo Luật Thi hành án dân sự (đã sửa đổi, bổ sung), đối với quyết định, hành vi về áp dụng biện pháp cưỡng chế thì thời hạn giải quyết khiếu nại lần hai là bao nhiêu ngày kể từ ngày thụ lý đơn khiếu nại?",
+      "options": [
+        "A. 60 ngày.",
+        "B. 45 ngày.",
+        "C. 30 ngày.",
+        "D. 90 ngày."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Khoản 3, Điều 146 quy định: Đối với quyết định, hành vi cưỡng chế thi hành án thì thời hạn giải quyết khiếu nại lần đầu là 30 ngày, lần hai là 45 ngày, kể từ ngày thụ lý đơn khiếu nại.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 34,
+      "question": "Theo Điều 148, trong thời hạn bao lâu kể từ ngày nhận được đơn khiếu nại thuộc thẩm quyền, người có thẩm quyền phải thụ lý để giải quyết?",
+      "options": [
+        "A. Ngay trong ngày làm việc.",
+        "B. 10 ngày.",
+        "C. 03 ngày làm việc.",
+        "D. 05 ngày làm việc."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Đây là thời hạn chính xác được quy định tại khoản 1 Điều 148 để người có thẩm quyền ra quyết định thụ lý đơn khiếu nại là 05 ngày làm việc.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 35,
+      "question": "Quyết định giải quyết khiếu nại lần hai phải có nội dung nào sau đây?",
+      "options": [
+        "A. Thông báo về quyền khởi kiện ra Tòa án hành chính.",
+        "B. Yêu cầu người khiếu nại bồi thường nếu khiếu nại sai.",
+        "C. Kết luận về nội dung khiếu nại là đúng, đúng một phần hoặc sai toàn bộ.",
+        "D. Đề nghị truy cứu trách nhiệm hình sự người bị khiếu nại."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Khoản 4 Điều 153 quy định đây là một trong những nội dung chính, thể hiện quan điểm của người giải quyết khiếu nại.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 36,
+      "question": "Thời hiệu khiếu nại đối với quyết định về áp dụng biện pháp phong tỏa tài khoản là bao nhiêu ngày?",
+      "options": [
+        "A. 30 ngày, kể từ ngày nhận được quyết định.",
+        "B. 03 ngày làm việc, kể từ ngày nhận được quyết định.",
+        "C. 10 ngày, kể từ ngày nhận được quyết định.",
+        "D. 15 ngày, kể từ ngày nhận được quyết định."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Điểm b khoản 2 Điều 140 quy định một thời hiệu rất ngắn (03 ngày làm việc) cho loại khiếu nại này để đảm bảo việc thi hành án được tiến hành kịp thời.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 37,
+      "question": "Trường hợp người khiếu nại lần đầu không đồng ý với quyết định giải quyết, họ phải gửi đơn khiếu nại lần hai trong thời hạn bao lâu?",
+      "options": [
+        "A. 15 ngày, kể từ ngày nhận được quyết định giải quyết khiếu nại.",
+        "B. 05 ngày làm việc, kể từ ngày nhận được quyết định giải quyết khiếu nại.",
+        "C. Bất kỳ lúc nào sau khi nhận được quyết định.",
+        "D. 30 ngày, kể từ ngày nhận được quyết định giải quyết khiếu nại."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Theo Điều 140 khoản 2 điểm a, thời hiệu khiếu nại lần hai đối với các quyết định, hành vi thông thường là 15 ngày.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 38,
+      "question": "Việc tổ chức đối thoại trong quá trình giải quyết khiếu nại lần đầu có phải là thủ tục bắt buộc không?",
+      "options": [
+        "A. Không bắt buộc, chỉ thực hiện khi người giải quyết khiếu nại thấy cần thiết.",
+        "B. Chỉ bắt buộc đối với các vụ việc phức tạp.",
+        "C. Chỉ bắt buộc khi người khiếu nại có yêu cầu.",
+        "D. Bắt buộc trong mọi trường hợp."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Khoản 1 Điều 149 sử dụng cụm từ \"nếu thấy cần thiết\", cho thấy đây là một biện pháp tùy nghi của người giải quyết khiếu nại.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 39,
+      "question": "Nội dung nào trong quyết định giải quyết khiếu nại lần đầu giúp người khiếu nại thực hiện quyền của mình nếu không đồng ý với quyết định?",
+      "options": [
+        "A. Việc bồi thường thiệt hại, khắc phục hậu quả.",
+        "B. Căn cứ pháp luật để giải quyết khiếu nại.",
+        "C. Hướng dẫn quyền khiếu nại lần hai của đương sự.",
+        "D. Kết luận về nội dung khiếu nại."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Theo khoản 9 Điều 151, đây là nội dung bắt buộc để đảm bảo quyền của người khiếu nại được tiếp tục thực hiện theo đúng thủ tục.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 40,
+      "question": "Thủ tục giải quyết khiếu nại lần hai khác với lần đầu ở điểm nào?",
+      "options": [
+        "A. Không cần tổ chức đối thoại.",
+        "B. Thời hạn giải quyết dài hơn.",
+        "C. Người giải quyết khiếu nại không cần xác minh lại vụ việc.",
+        "D. Quyết định giải quyết không cần gửi cho Viện kiểm sát."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Điều 146 quy định thời hạn giải quyết lần hai là 30 ngày (45 ngày đối với vụ việc phức tạp), dài hơn so với 15 ngày (30 ngày) của lần đầu.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    }
+  ]
+},{
+  "id": "THADS_DE_07",
+  "title": "Đề 07: Luật Thi hành án dân sự năm 2008 (đã sửa đổi, bổ sung)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Trường hợp nào sau đây được xem là lý do chính đáng để người khiếu nại được khiếu nại vượt quá thời hiệu?",
+      "options": [
+        "A. Do trở ngại khách quan hoặc sự kiện bất khả kháng.",
+        "B. Do không am hiểu pháp luật.",
+        "C. Do người bị khiếu nại hứa sẽ tự khắc phục.",
+        "D. Do đang chờ kết quả giải quyết của một vụ việc khác có liên quan."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Khoản 2 Điều 140 quy định rằng trường hợp do trở ngại khách quan hoặc sự kiện bất khả kháng mà không thể khiếu nại đúng hạn thì thời gian đó không tính vào thời hiệu.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 2,
+      "question": "Trong quyết định giải quyết khiếu nại lần hai, nếu kết luận khiếu nại là đúng một phần thì người có thẩm quyền sẽ ra quyết định như thế nào?",
+      "options": [
+        "A. Bác đơn khiếu nại và giữ nguyên quyết định giải quyết lần đầu.",
+        "B. Giữ nguyên, sửa đổi một phần quyết định, hành vi bị khiếu nại.",
+        "C. Yêu cầu người giải quyết khiếu nại lần đầu giải quyết lại từ đầu.",
+        "D. Hủy bỏ toàn bộ quyết định giải quyết khiếu nại lần đầu."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Khoản 7 Điều 153 quy định người giải quyết có quyền sửa đổi một phần quyết định, hành vi bị khiếu nại cho phù hợp với kết luận.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 3,
+      "question": "Trường hợp đơn khiếu nại không được thụ lý, người có thẩm quyền phải thông báo cho người khiếu nại trong thời hạn bao lâu?",
+      "options": [
+        "A. Ngay trong ngày nhận được đơn.",
+        "B. 05 ngày làm việc, kể từ ngày nhận được đơn.",
+        "C. 03 ngày làm việc, kể từ ngày nhận được đơn.",
+        "D. 10 ngày, kể từ ngày nhận được đơn."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Khoản 1 Điều 148 quy định đây là thời hạn để người có thẩm quyền ra quyết định thụ lý hoặc thông báo không thụ lý và nêu rõ lý do.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 4,
+      "question": "Người khiếu nại có thể rút đơn khiếu nại tại thời điểm nào?",
+      "options": [
+        "A. Chỉ khi được người có thẩm quyền giải quyết đồng ý.",
+        "B. Chỉ trong giai đoạn giải quyết khiếu nại lần hai.",
+        "C. Chỉ trước khi có quyết định giải quyết khiếu nại lần đầu.",
+        "D. Tại bất kỳ thời điểm nào trong quá trình giải quyết khiếu nại."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Điểm b khoản 1 Điều 143 quy định người khiếu nại có quyền rút khiếu nại tại bất kỳ thời điểm nào trong quá trình giải quyết.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 5,
+      "question": "Theo Luật Thi hành án dân sự, đối tượng nào có quyền tố cáo về hành vi vi phạm pháp luật của Thủ trưởng cơ quan thi hành án dân sự, Chấp hành viên và công chức khác?",
+      "options": [
+        "A. Bất kỳ cá nhân, tổ chức nào",
+        "B. Cơ quan, tổ chức có liên quan",
+        "C. Công dân",
+        "D. Chỉ đương sự trong vụ việc thi hành án"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Điều 154 quy định rõ: “Công dân có quyền tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền về hành vi vi phạm pháp luật của Thủ trưởng cơ quan thi hành án dân sự, Chấp hành viên và công chức khác...”",
+      "topic": "Tố cáo"
+    },
+    {
+      "id": 6,
+      "question": "Người tố cáo trong thi hành án dân sự có nghĩa vụ nào sau đây theo quy định tại Điều 155?",
+      "options": [
+        "A. Được thông báo kết quả giải quyết tố cáo.",
+        "B. Yêu cầu được bồi thường thiệt hại do hành vi bị tố cáo gây ra.",
+        "C. Trình bày trung thực sự việc, cung cấp thông tin, tài liệu liên quan.",
+        "D. Yêu cầu giữ bí mật họ, tên, địa chỉ, bút tích của mình."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Điểm b khoản 2 Điều 155 quy định rõ đây là một trong các nghĩa vụ của người tố cáo.",
+      "topic": "Tố cáo"
+    },
+    {
+      "id": 7,
+      "question": "Thời hạn giải quyết tố cáo trong thi hành án dân sự là bao nhiêu ngày, kể từ ngày thụ lý?",
+      "options": [
+        "A. 90 ngày",
+        "B. 30 ngày",
+        "C. 60 ngày",
+        "D. 45 ngày"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Khoản 2 Điều 157 quy định: “Thời hạn giải quyết tố cáo là 60 ngày, kể từ ngày thụ lý”.",
+      "topic": "Tố cáo"
+    },
+    {
+      "id": 8,
+      "question": "Đối với vụ việc phức tạp, thời hạn giải quyết tố cáo trong thi hành án dân sự có thể kéo dài nhưng không quá bao nhiêu ngày?",
+      "options": [
+        "A. 90 ngày",
+        "B. Không quy định giới hạn",
+        "C. 120 ngày",
+        "D. 60 ngày"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Khoản 2 Điều 157 nêu rõ: “...đối với vụ việc phức tạp thì thời hạn giải quyết tố cáo có thể dài hơn, nhưng không quá 90 ngày.”",
+      "topic": "Tố cáo"
+    },
+    {
+      "id": 9,
+      "question": "Trường hợp người bị tố cáo là Thủ trưởng cơ quan thi hành án dân sự cấp huyện thì ai có trách nhiệm giải quyết?",
+      "options": [
+        "A. Thủ trưởng cơ quan thi hành án dân sự cấp tỉnh",
+        "B. Thủ trưởng cơ quan quản lý thi hành án dân sự thuộc Bộ Tư pháp",
+        "C. Viện trưởng Viện kiểm sát nhân dân cấp huyện",
+        "D. Chánh án Tòa án nhân dân cấp huyện"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Khoản 2 Điều 157 quy định trong trường hợp này, Thủ trưởng cơ quan thi hành án dân sự cấp trên trực tiếp (cấp tỉnh) có trách nhiệm giải quyết.",
+      "topic": "Tố cáo"
+    },
+    {
+      "id": 10,
+      "question": "Cơ quan nào có nhiệm vụ kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo về thi hành án dân sự theo Điều 159?",
+      "options": [
+        "A. Tòa án nhân dân",
+        "B. Cơ quan quản lý thi hành án dân sự cấp trên",
+        "C. Viện kiểm sát",
+        "D. Cơ quan Thanh tra"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Điều 159 quy định: “Viện kiểm sát kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo về thi hành án dân sự theo quy định của pháp luật.”",
+      "topic": "Kháng nghị, kiến nghị của Viện kiểm sát"
+    },
+    {
+      "id": 11,
+      "question": "Thời hạn kháng nghị của Viện kiểm sát cùng cấp đối với quyết định, hành vi của Thủ trưởng, Chấp hành viên cơ quan thi hành án dân sự là bao nhiêu ngày?",
+      "options": [
+        "A. 45 ngày",
+        "B. 15 ngày",
+        "C. 07 ngày",
+        "D. 30 ngày"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Khoản 2 Điều 160 quy định: “Thời hạn kháng nghị của Viện kiểm sát cùng cấp là 15 ngày... kể từ ngày nhận được quyết định hoặc phát hiện hành vi vi phạm.”",
+      "topic": "Kháng nghị, kiến nghị của Viện kiểm sát"
+    },
+    {
+      "id": 12,
+      "question": "Thời hạn kháng nghị của Viện kiểm sát cấp trên trực tiếp đối với quyết định, hành vi của Thủ trưởng, Chấp hành viên cơ quan thi hành án dân sự là bao nhiêu ngày?",
+      "options": [
+        "A. 60 ngày",
+        "B. 45 ngày",
+        "C. 30 ngày",
+        "D. 15 ngày"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Khoản 2 Điều 160 quy định: “...thời hạn kháng nghị của Viện kiểm sát cấp trên trực tiếp là 30 ngày, kể từ ngày nhận được quyết định hoặc phát hiện hành vi vi phạm.”",
+      "topic": "Kháng nghị, kiến nghị của Viện kiểm sát"
+    },
+    {
+      "id": 13,
+      "question": "Theo Điều 161, Thủ trưởng cơ quan thi hành án dân sự phải trả lời kháng nghị của Viện kiểm sát trong thời hạn bao nhiêu ngày, kể từ ngày nhận được kháng nghị?",
+      "options": [
+        "A. 15 ngày",
+        "B. 07 ngày",
+        "C. 10 ngày",
+        "D. 30 ngày"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Khoản 1 Điều 161 nêu rõ: “Thủ trưởng cơ quan thi hành án dân sự có trách nhiệm trả lời kháng nghị của Viện kiểm sát nhân dân ... trong thời hạn 15 ngày, kể từ ngày nhận được kháng nghị.”",
+      "topic": "Kháng nghị, kiến nghị của Viện kiểm sát"
+    },
+    {
+      "id": 14,
+      "question": "Hành vi nào sau đây được coi là vi phạm hành chính trong thi hành án dân sự theo Điều 162?",
+      "options": [
+        "A. Tẩu tán hoặc làm hư hỏng tài sản để không thực hiện nghĩa vụ thi hành án",
+        "B. Ủy quyền cho người khác tham gia thi hành án",
+        "C. Yêu cầu Tòa án giải thích bản án",
+        "D. Đề nghị thay đổi Chấp hành viên"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Khoản 5 Điều 162 liệt kê đây là một trong những hành vi vi phạm hành chính.",
+      "topic": "Xử lý vi phạm"
+    },
+    {
+      "id": 15,
+      "question": "Theo Luật Thi hành án dân sự, hành vi sử dụng trái phép, tiêu dùng, chuyển nhượng, cất giấu tài sản đã kê biên nhưng chưa tới mức bị truy cứu hình sự bị xử lý như thế nào?",
+      "options": [
+        "A. Bị coi là vi phạm hành chính",
+        "B. Không bị xử lý nếu tài sản được khôi phục nguyên trạng",
+        "C. Bị truy cứu trách nhiệm hình sự ngay lập tức",
+        "D. Chỉ bị nhắc nhở bằng văn bản"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Khoản 7 Điều 162 xác định đây là một hành vi vi phạm hành chính trong thi hành án dân sự.",
+      "topic": "Xử lý vi phạm"
+    },
+    {
+      "id": 16,
+      "question": "Trình tự, thủ tục xử phạt vi phạm hành chính trong thi hành án dân sự được thực hiện theo quy định của pháp luật nào?",
+      "options": [
+        "A. Pháp luật về xử lý vi phạm hành chính",
+        "B. Pháp luật về tố tụng dân sự",
+        "C. Do Chấp hành viên tự quy định",
+        "D. Quy định riêng của Bộ Tư pháp"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Khoản 1 Điều 164 quy định: “Nguyên tắc xử phạt, thời hiệu xử phạt, tình tiết tăng nặng, giảm nhẹ và trình tự, thủ tục xử phạt cụ thể thực hiện theo quy định của pháp luật về xử lý vi phạm hành chính.”",
+      "topic": "Xử lý vi phạm"
+    },
+    {
+      "id": 17,
+      "question": "Người phải thi hành án cố ý không chấp hành bản án, quyết định thì bị xử lý như thế nào theo Điều 165?",
+      "options": [
+        "A. Bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự",
+        "B. Bị tăng nghĩa vụ thi hành án",
+        "C. Chỉ bị truy cứu trách nhiệm hình sự",
+        "D. Chỉ bị xử phạt vi phạm hành chính"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Khoản 1 Điều 165 quy định: “...tùy theo tính chất và mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.”",
+      "topic": "Xử lý vi phạm"
+    },
+    {
+      "id": 18,
+      "question": "Theo Điều 155, người tố cáo có quyền gửi đơn hoặc trực tiếp tố cáo với cơ quan, tổ chức, cá nhân nào?",
+      "options": [
+        "A. Chỉ với Tòa án nhân dân",
+        "B. Chỉ với Viện kiểm sát nhân dân",
+        "C. Chỉ với cơ quan công an",
+        "D. Với cơ quan, tổ chức, cá nhân có thẩm quyền"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Điểm a khoản 1 Điều 155 quy định người tố cáo có quyền: “Gửi đơn hoặc trực tiếp tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền”.",
+      "topic": "Tố cáo"
+    },
+    {
+      "id": 19,
+      "question": "Nghĩa vụ của người bị tố cáo trong thi hành án dân sự KHÔNG bao gồm nội dung nào sau đây theo Điều 156?",
+      "options": [
+        "A. Giải trình về hành vi bị tố cáo.",
+        "B. Chấp hành nghiêm chỉnh quyết định xử lý của cơ quan có thẩm quyền.",
+        "C. Cung cấp thông tin, tài liệu liên quan khi cơ quan có thẩm quyền yêu cầu.",
+        "D. Yêu cầu người tố cáo bồi thường thiệt hại nếu nội dung tố cáo sai sự thật."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Đây là một quyền mà người bị tố cáo có thể thực hiện thông qua thủ tục pháp lý khác, nhưng không được liệt kê là một quyền hoặc nghĩa vụ trong Điều 156.",
+      "topic": "Tố cáo"
+    },
+    {
+      "id": 20,
+      "question": "Trường hợp chấp nhận kháng nghị của Viện kiểm sát, Thủ trưởng cơ quan thi hành án dân sự phải thực hiện kháng nghị trong thời hạn bao nhiêu ngày làm việc?",
+      "options": [
+        "A. Ngay lập tức",
+        "B. 15 ngày làm việc",
+        "C. 03 ngày làm việc",
+        "D. 05 ngày làm việc"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Khoản 1 Điều 161 quy định: “...trong thời hạn 05 ngày làm việc, kể từ ngày có văn bản trả lời kháng nghị, Thủ trưởng cơ quan thi hành án dân sự phải thực hiện kháng nghị của Viện kiểm sát nhân dân.”",
+      "topic": "Kháng nghị, kiến nghị của Viện kiểm sát"
+    },
+    {
+      "id": 21,
+      "question": "Hành vi nào sau đây KHÔNG phải là vi phạm hành chính trong thi hành án dân sự theo Điều 162?",
+      "options": [
+        "A. Có điều kiện thi hành án nhưng cố tình trì hoãn việc thực hiện.",
+        "B. Khiếu nại đối với quyết định của Chấp hành viên.",
+        "C. Chống đối, cản trở hay xúi giục người khác chống đối, cản trở việc thi hành án.",
+        "D. Không thực hiện công việc phải làm theo bản án, quyết định."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Khiếu nại là quyền của đương sự, người có quyền lợi, nghĩa vụ liên quan được pháp luật bảo vệ, không phải là hành vi vi phạm.",
+      "topic": "Xử lý vi phạm"
+    },
+    {
+      "id": 22,
+      "question": "Cơ quan, tổ chức, cá nhân không thực hiện các quyết định về thi hành án thì tùy theo tính chất và mức độ vi phạm mà bị xử phạt vi phạm hành chính, nếu gây thiệt hại thì phải bồi thường; nếu là cá nhân thì còn có thể bị xử lý như thế nào?",
+      "options": [
+        "A. Xử lý kỷ luật hoặc bị truy cứu trách nhiệm dân sự",
+        "B. Xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự",
+        "C. Xử lý kỷ luật hoặc bị truy cứu trách nhiệm hành chính",
+        "D. Xử lý kỷ luật, cách chức hoặc bị truy cứu trách nhiệm dân sự"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Khoản 2 Điều 165 quy định: “...nếu là cá nhân thì còn có thể bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự.”",
+      "topic": "Xử lý vi phạm"
+    },
+    {
+      "id": 23,
+      "question": "Theo Luật Thi hành án dân sự, cơ quan nào thực hiện thống nhất quản lý nhà nước về thi hành án dân sự trong phạm vi cả nước?",
+      "options": [
+        "A. Tòa án nhân dân tối cao",
+        "B. Chính phủ",
+        "C. Quốc hội",
+        "D. Bộ Tư pháp"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 1 Điều 166, Chính phủ có nhiệm vụ, quyền hạn thống nhất quản lý nhà nước về thi hành án dân sự trong phạm vi cả nước.",
+      "topic": "Quản lý nhà nước về thi hành án dân sự"
+    },
+    {
+      "id": 24,
+      "question": "Cơ quan nào có trách nhiệm báo cáo Quốc hội về công tác thi hành án dân sự định kỳ hàng năm theo quy định của Luật Thi hành án dân sự?",
+      "options": [
+        "A. Tòa án nhân dân tối cao",
+        "B. Viện kiểm sát nhân dân tối cao",
+        "C. Chính phủ",
+        "D. Bộ Tư pháp"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 4 Điều 166, Chính phủ có nhiệm vụ định kỳ hàng năm báo cáo Quốc hội về công tác thi hành án dân sự.",
+      "topic": "Quản lý nhà nước về thi hành án dân sự"
+    },
+    {
+      "id": 25,
+      "question": "Thẩm quyền đào tạo, bổ nhiệm, miễn nhiệm Chấp hành viên, Thẩm tra viên thuộc về cơ quan nào theo quy định của Luật Thi hành án dân sự?",
+      "options": [
+        "A. Chính phủ",
+        "B. Tòa án nhân dân cấp tỉnh",
+        "C. Ủy ban nhân dân cấp tỉnh",
+        "D. Bộ Tư pháp"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Căn cứ điểm d khoản 1 Điều 167, Bộ Tư pháp có nhiệm vụ, quyền hạn quản lý hệ thống tổ chức và quyết định việc đào tạo, bổ nhiệm, miễn nhiệm Chấp hành viên, Thẩm tra viên.",
+      "topic": "Quản lý nhà nước về thi hành án dân sự"
+    },
+    {
+      "id": 26,
+      "question": "Thẩm quyền quyết định thành lập, giải thể các cơ quan thi hành án trong quân đội thuộc về ai?",
+      "options": [
+        "A. Bộ trưởng Bộ Quốc phòng",
+        "B. Tư lệnh quân khu",
+        "C. Thủ tướng Chính phủ",
+        "D. Bộ trưởng Bộ Tư pháp"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Căn cứ điểm b khoản 2 Điều 168, Bộ trưởng Bộ Quốc phòng có nhiệm vụ, quyền hạn quản lý hệ thống tổ chức và quyết định thành lập, giải thể các cơ quan thi hành án trong quân đội.",
+      "topic": "Quản lý nhà nước về thi hành án dân sự"
+    },
+    {
+      "id": 27,
+      "question": "Trong thời hạn bao nhiêu ngày, Tòa án nhân dân cấp tỉnh phải trả lời kiến nghị của cơ quan thi hành án dân sự về việc xem xét lại bản án, quyết định theo thủ tục giám đốc thẩm, tái thẩm?",
+      "options": [
+        "A. 30 ngày",
+        "B. 60 ngày",
+        "C. 90 ngày",
+        "D. 45 ngày"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Căn cứ điểm d khoản 3 Điều 170, Tòa án nhân dân cấp tỉnh có nhiệm vụ trả lời kiến nghị trong thời hạn 90 ngày, kể từ ngày nhận được kiến nghị.",
+      "topic": "Trách nhiệm của Tòa án nhân dân"
+    },
+    {
+      "id": 28,
+      "question": "Việc bổ nhiệm, miễn nhiệm Thủ trưởng, Phó thủ trưởng cơ quan thi hành án cấp quân khu cần có ý kiến bằng văn bản của ai?",
+      "options": [
+        "A. Bộ trưởng Bộ Tư pháp",
+        "B. Chủ nhiệm Tổng cục Chính trị",
+        "C. Tư lệnh quân khu và tương đương",
+        "D. Chánh án Tòa án quân sự trung ương"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 3 Điều 172, việc bổ nhiệm, miễn nhiệm các chức danh này cần có ý kiến bằng văn bản của Tư lệnh quân khu và tương đương.",
+      "topic": "Quản lý nhà nước về thi hành án dân sự"
+    },
+    {
+      "id": 29,
+      "question": "Theo Luật Thi hành án dân sự, cơ quan nào có quyền yêu cầu cơ quan thi hành án dân sự cấp tỉnh báo cáo công tác thi hành án dân sự ở địa phương?",
+      "options": [
+        "A. Hội đồng nhân dân cấp tỉnh",
+        "B. Tòa án nhân dân cấp tỉnh",
+        "C. Ủy ban nhân dân cấp tỉnh",
+        "D. Ban Pháp chế Hội đồng nhân dân cấp tỉnh"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 4 Điều 173, Ủy ban nhân dân cấp tỉnh có quyền yêu cầu cơ quan thi hành án dân sự cấp tỉnh báo cáo công tác thi hành án dân sự ở địa phương.",
+      "topic": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": 30,
+      "question": "Việc bổ nhiệm, miễn nhiệm Thủ trưởng, Phó thủ trưởng cơ quan thi hành án dân sự cấp huyện cần có ý kiến bằng văn bản của cơ quan nào?",
+      "options": [
+        "A. Hội đồng nhân dân cấp huyện",
+        "B. Ủy ban nhân dân cấp tỉnh",
+        "C. Thủ trưởng cơ quan thi hành án dân sự cấp tỉnh",
+        "D. Ủy ban nhân dân cấp huyện"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 3 Điều 174, việc bổ nhiệm, miễn nhiệm các chức danh này cần có ý kiến bằng văn bản của Ủy ban nhân dân cấp huyện.",
+      "topic": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": 31,
+      "question": "Chủ tịch Ủy ban nhân dân cấp xã KHÔNG có nhiệm vụ, quyền hạn phối hợp với Chấp hành viên trong việc nào sau đây?",
+      "options": [
+        "A. Bổ nhiệm, miễn nhiệm Chấp hành viên.",
+        "B. Áp dụng biện pháp cưỡng chế thi hành án.",
+        "C. Thông báo thi hành án.",
+        "D. Áp dụng biện pháp bảo đảm thi hành án."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Việc bổ nhiệm, miễn nhiệm Chấp hành viên là thẩm quyền của Bộ trưởng Bộ Tư pháp, không liên quan đến nhiệm vụ của Ủy ban nhân dân cấp xã theo Điều 175.",
+      "topic": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": 32,
+      "question": "Theo Luật Thi hành án dân sự, Kho bạc nhà nước, ngân hàng có trách nhiệm nào sau đây?",
+      "options": [
+        "A. Tự động khấu trừ tiền trong tài khoản của người phải thi hành án khi nhận được bản án.",
+        "B. Thông báo cho người được thi hành án về tình hình tài chính của người phải thi hành án.",
+        "C. Cung cấp thông tin về tài khoản của người phải thi hành án theo yêu cầu của Chấp hành viên.",
+        "D. Từ chối yêu cầu của Chấp hành viên nếu người phải thi hành án là khách hàng VIP."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 1 Điều 176, Kho bạc nhà nước, ngân hàng có trách nhiệm cung cấp đúng, đầy đủ, kịp thời thông tin, số liệu về tài khoản của người phải thi hành án.",
+      "topic": "Trách nhiệm của Kho bạc nhà nước, ngân hàng và tổ chức tín dụng khác"
+    },
+    {
+      "id": 33,
+      "question": "Khi nhận được yêu cầu của Chấp hành viên, Kho bạc nhà nước, ngân hàng và tổ chức tín dụng khác phải thực hiện nghiêm chỉnh, kịp thời yêu cầu nào?",
+      "options": [
+        "A. Kê biên nhà ở của người phải thi hành án.",
+        "B. Bán đấu giá tài sản bảo đảm của người phải thi hành án.",
+        "C. Phong tỏa tài khoản và khấu trừ tiền trong tài khoản.",
+        "D. Tạm giữ tài sản của người phải thi hành án tại ngân hàng."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 2 Điều 176, các tổ chức này phải thực hiện nghiêm chỉnh, kịp thời yêu cầu về phong tỏa tài khoản và khấu trừ tiền trong tài khoản.",
+      "topic": "Trách nhiệm của Kho bạc nhà nước, ngân hàng và tổ chức tín dụng khác"
+    },
+    {
+      "id": 34,
+      "question": "Theo yêu cầu của Chấp hành viên, cơ quan đăng ký tài sản, đăng ký giao dịch bảo đảm có trách nhiệm nào sau đây?",
+      "options": [
+        "A. Tạm dừng hoặc dừng việc thực hiện các yêu cầu liên quan đến các giao dịch đối với tài sản của người phải thi hành án.",
+        "B. Định giá tài sản của người phải thi hành án.",
+        "C. Tự động kê biên tài sản khi phát hiện người phải thi hành án có giao dịch.",
+        "D. Thông báo cho các bên liên quan về việc tài sản sắp bị kê biên."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 1 Điều 178, đây là trách nhiệm của cơ quan đăng ký tài sản, đăng ký giao dịch bảo đảm ngay sau khi nhận được yêu cầu của Chấp hành viên.",
+      "topic": "Trách nhiệm của cơ quan đăng ký tài sản, đăng ký giao dịch bảo đảm"
+    },
+    {
+      "id": 35,
+      "question": "Cơ quan nhà nước có thẩm quyền thực hiện việc gì cho người mua được tài sản thi hành án, người được thi hành án nhận tài sản?",
+      "options": [
+        "A. Cung cấp một khoản vay ưu đãi để thanh toán tiền mua tài sản.",
+        "B. Miễn toàn bộ thuế, phí liên quan đến tài sản.",
+        "C. Làm thủ tục đăng ký quyền sở hữu, quyền sử dụng cho họ.",
+        "D. Bảo hành tài sản trong thời gian 01 năm."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 2 Điều 178, cơ quan nhà nước có thẩm quyền có trách nhiệm làm thủ tục đăng ký, chuyển quyền sở hữu, sử dụng cho người mua, người nhận tài sản.",
+      "topic": "Trách nhiệm của cơ quan đăng ký tài sản, đăng ký giao dịch bảo đảm"
+    },
+    {
+      "id": 36,
+      "question": "Trường hợp bản án, quyết định tuyên chưa rõ, cơ quan ra bản án, quyết định phải có văn bản giải thích trong thời hạn bao nhiêu ngày kể từ ngày nhận được yêu cầu?",
+      "options": [
+        "A. 30 ngày",
+        "B. 10 ngày",
+        "C. 05 ngày làm việc",
+        "D. 15 ngày"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 2 Điều 179, thời hạn giải thích là 15 ngày, kể từ ngày nhận được yêu cầu của đương sự hoặc của cơ quan thi hành án dân sự.",
+      "topic": "Trách nhiệm của cơ quan ra bản án, quyết định"
+    },
+    {
+      "id": 37,
+      "question": "Đối với vụ việc phức tạp, thời hạn để cơ quan ra bản án, quyết định có văn bản giải thích không quá bao nhiêu ngày?",
+      "options": [
+        "A. 15 ngày",
+        "B. 45 ngày",
+        "C. 60 ngày",
+        "D. 30 ngày"
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 2 Điều 179, trường hợp vụ việc phức tạp thì thời hạn trả lời không quá 30 ngày, kể từ ngày nhận được yêu cầu.",
+      "topic": "Trách nhiệm của cơ quan ra bản án, quyết định"
+    },
+    {
+      "id": 38,
+      "question": "Cơ quan, tổ chức được giao theo dõi, quản lý người đang chấp hành án hình sự có trách nhiệm phối hợp với cơ quan thi hành án dân sự về việc nào sau đây?",
+      "options": [
+        "A. Quyết định miễn, giảm nghĩa vụ thi hành án dân sự.",
+        "B. Xét xử lại vụ án dân sự của người đang chấp hành án.",
+        "C. Đại diện cho người đang chấp hành án để thực hiện nghĩa vụ.",
+        "D. Giáo dục người đang chấp hành án hình sự thực hiện nghiêm túc nghĩa vụ dân sự."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 1 Điều 180, đây là một trong các trách nhiệm phối hợp của cơ quan, tổ chức được giao theo dõi, quản lý người đang chấp hành án hình sự.",
+      "topic": "Trách nhiệm của cơ quan, tổ chức trong việc phối hợp thi hành án dân sự"
+    },
+    {
+      "id": 39,
+      "question": "Khi người bị kết án đã chấp hành xong hình phạt tù, được đặc xá hoặc được miễn chấp hành hình phạt tù, cơ quan quản lý người đó phải kịp thời thông báo cho cơ quan thi hành án dân sự về nội dung gì?",
+      "options": [
+        "A. Tình trạng sức khỏe của người đó.",
+        "B. Danh sách người thân của người đó.",
+        "C. Kế hoạch làm việc trong tương lai của người đó.",
+        "D. Nơi cư trú của người đó."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 4 Điều 180, cơ quan này phải kịp thời thông báo cho cơ quan thi hành án dân sự về nơi cư trú của người bị kết án sau khi họ ra khỏi nơi chấp hành án.",
+      "topic": "Trách nhiệm của cơ quan, tổ chức trong việc phối hợp thi hành án dân sự"
+    },
+    {
+      "id": 40,
+      "question": "Trách nhiệm của cơ quan nào là chỉ đạo các cơ quan của mình và Ủy ban nhân dân cấp tỉnh trong thi hành án dân sự?",
+      "options": [
+        "A. Chính phủ",
+        "B. Ủy ban Thường vụ Quốc hội",
+        "C. Tòa án nhân dân tối cao",
+        "D. Bộ Tư pháp"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ: Căn cứ khoản 2 Điều 166, Chính phủ có nhiệm vụ, quyền hạn chỉ đạo các cơ quan của Chính phủ, Ủy ban nhân dân cấp tỉnh trong thi hành án dân sự.",
+      "topic": "Quản lý nhà nước về thi hành án dân sự"
+    }
+  ]
+},
+{
   "id": "THADS_CVTH_01",
   "title": "Đề 01: TH_THADS_Chuyên viên tổng hợp, chuyên viên giải quyết khiếu nại tố cáo",
   "questions": [
