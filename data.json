@@ -5502,7 +5502,7 @@
     ]
   },
   {
-  "id": "THADS_01",
+  "id": "KTC_THADS_01",
   "title": "THADS_Đề tổng hợp số 01",
   "questions": [
     {
@@ -6288,7 +6288,7 @@
   ]
 },
 {
-    "id": "DE_THADS_02",
+    "id": "KTC_THADS_02",
     "title": "THADS_Đề tổng hợp số 02",
     "questions": [
       {
@@ -7075,7 +7075,7 @@
   },
   
   {
-    "id": "DE_THADS_03",
+    "id": "KTC_THADS_03",
     "title": "THADS_Đề tổng hợp số 03",
     "questions": [
       {
@@ -7861,7 +7861,7 @@
     ]
   },
    {
-    "id": "THADS_04",
+    "id": "KTC_THADS_04",
     "title": "THADS_Đề tổng hợp số 04",
     "questions": [
       {
@@ -8647,7 +8647,7 @@
     ]
   },
   {
-  "id": "THADS_05",
+  "id": "KTC_THADS_05",
   "title": "THADS_Đề tổng hợp số 05",
   "questions": [
     {
@@ -9433,7 +9433,7 @@
   ]
 },
 {
-  "id": "THADS_06",
+  "id": "KTC_THADS_06",
   "title": "THADS_Đề tổng hợp số 06",
   "questions": [
     {
@@ -10219,7 +10219,7 @@
   ]
 },
 {
-  "id": "THADS_07",
+  "id": "KTC_THADS_07",
   "title": "THADS_Đề tổng hợp số 07",
   "questions": [
     {
@@ -11005,7 +11005,7 @@
   ]
 },
 {
-  "id": "THADS_08",
+  "id": "KTC_THADS_08",
   "title": "THADS_Đề tổng hợp số 08",
   "questions": [
     {
@@ -11791,7 +11791,7 @@
   ]
 },
 {
-  "id": "THADS_09",
+  "id": "KTC_THADS_09",
   "title": "THADS_Đề tổng hợp số 09",
   "questions": [
     {
@@ -12578,7 +12578,7 @@
 },
 
 {
-    "id": "THADS_10",
+    "id": "KTC_THADS_10",
     "title": "THADS_Đề tổng hợp số 10",
     "questions": [
       {
@@ -20312,7 +20312,7 @@
   ]
 },
 {
-  "id": "TH_THADS_CVTH_03",
+  "id": "THADS_CVTH_03",
   "title": "Đề 03: TH_THADS_Chuyên viên tổng hợp, chuyên viên giải quyết khiếu nại tố cáo",
   "questions": [
     {
@@ -21098,7 +21098,7 @@
   ]
 },
 {
-  "id": "TH_THADS_CVTH_04",
+  "id": "THADS_CVTH_04",
   "title": "Đề 04: TH_THADS_Chuyên viên tổng hợp, chuyên viên giải quyết khiếu nại tố cáo",
   "questions": [
     {
@@ -21884,7 +21884,7 @@
   ]
 },
 {
-  "id": "TH_THADS_CVTH_05",
+  "id": "THADS_CVTH_05",
   "title": "Đề 05: TH_THADS_Chuyên viên tổng hợp, chuyên viên giải quyết khiếu nại tố cáo",
   "questions": [
     {
@@ -25814,7 +25814,7 @@
   ]
 },
 {
-  "id": "TH_THADS_CVTH_10",
+  "id": "THADS_CVTH_10",
   "title": "Đề 10: TH_THADS_Chuyên viên tổng hợp, chuyên viên giải quyết khiếu nại tố cáo",
   "questions": [
     {

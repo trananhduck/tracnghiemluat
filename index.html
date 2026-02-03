@@ -690,13 +690,26 @@
 
       // 1. Đề ngẫu nhiên hoàn toàn
       function createCustomExam() {
-        let allQ = [];
-        DB.forEach((ex) => (allQ = allQ.concat(ex.questions)));
-        const finalQ = allQ.sort(() => 0.5 - Math.random()).slice(0, 60);
+       const thadsExams = DB.filter(
+          (ex) => ex.id && ex.id.toUpperCase().includes("KTC_THADS"),
+        );
+        if (thadsExams.length === 0)
+          return alert("Không tìm thấy bộ đề TH_THADS nào!");
 
+        let combinedQ = [];
+        const perExam = Math.ceil(60 / thadsExams.length);
+
+        thadsExams.forEach((ex) => {
+          const picked = [...ex.questions]
+            .sort(() => 0.5 - Math.random())
+            .slice(0, perExam);
+          combinedQ = combinedQ.concat(picked);
+        });
+
+        const finalQ = combinedQ.sort(() => 0.5 - Math.random()).slice(0, 60);
         const newExam = {
-          id: `rnd_${Date.now()}`,
-          title: `🎲 Đề Ngẫu Nhiên (${new Date().toLocaleTimeString()})`,
+          id: `thads_mix_${Date.now()}`,
+          title: `⚖️ Đề Tổng Hợp THADS (${new Date().toLocaleTimeString()})`,
           questions: finalQ,
         };
         DB.push(newExam);
@@ -707,7 +720,7 @@
       // 2. Đề tổng hợp THADS (Lấy mẫu hệ thống theo tỷ lệ)
       function createTHADSExam() {
         const thadsExams = DB.filter(
-          (ex) => ex.id && ex.id.toUpperCase().includes("THADS"),
+          (ex) => ex.id && ex.id.toUpperCase().includes("THADS_CVTH_"),
         );
         if (thadsExams.length === 0)
           return alert("Không tìm thấy bộ đề TH_THADS nào!");
