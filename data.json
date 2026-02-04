@@ -31697,5 +31697,2825 @@
       "topic": "Khiếu nại quyết định kỷ luật"
     }
   ]
+},
+{
+  "id": "DS_DE_01",
+  "title": "Đề 01: Bộ luật Dân sự năm 2015",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Đâu là một trong những nguyên tắc cơ bản của pháp luật dân sự được quy định trong Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Ưu tiên bảo vệ lợi ích của cá nhân hơn lợi ích quốc gia, dân tộc.",
+        "B. Cá nhân, pháp nhân phải tự chịu trách nhiệm về việc không thực hiện hoặc thực hiện không đúng nghĩa vụ dân sự.",
+        "C. Cho phép phân biệt đối xử vì lý do tôn giáo trong các giao dịch dân sự.",
+        "D. Cam kết, thỏa thuận có thể trái đạo đức xã hội nếu các bên đồng ý."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 5 Điều 3 Bộ luật Dân sự năm 2015 quy định: \"Cá nhân, pháp nhân phải tự chịu trách nhiệm về việc không thực hiện hoặc thực hiện không đúng nghĩa vụ dân sự.\"",
+      "topic": "Nguyên tắc cơ bản"
+    },
+    {
+      "id": 2,
+      "question": "Theo Bộ luật Dân sự năm 2015, cá nhân, pháp nhân phải xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự của mình một cách như thế nào?",
+      "options": [
+        "A. Theo ý chí chủ quan bất kể quyền lợi của người khác.",
+        "B. Thiện chí, trung thực.",
+        "C. Chỉ cần tuân thủ các điều khoản trong hợp đồng đã ký.",
+        "D. Ưu tiên lợi ích cá nhân lên trên hết trong mọi trường hợp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 3 Điều 3 Bộ luật Dân sự năm 2015 quy định: \"Cá nhân, pháp nhân phải xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự của mình một cách thiện chí, trung thực.\"",
+      "topic": "Nguyên tắc cơ bản"
+    },
+    {
+      "id": 3,
+      "question": "Theo Bộ luật dân sự 2015, có bao nhiêu nguyên tắc cơ bản của pháp luật dân sự?",
+      "options": [
+        "A. 3 nguyên tắc.",
+        "B. 4 nguyên tắc",
+        "C. 5 nguyên tắc",
+        "D. 6 nguyên tắc"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Điều 3 Bộ luật Dân sự năm 2015 quy định 5 nguyên tắc: Bình đẳng; Tự do cam kết; Thiện chí, trung thực; Không xâm phạm lợi ích chung/người khác; Tự chịu trách nhiệm.",
+      "topic": "Nguyên tắc cơ bản"
+    },
+    {
+      "id": 4,
+      "question": "Theo Bộ luật dân sự năm 2015, trường hợp có sự khác nhau giữa quy định của Bộ luật Dân sự và điều ước quốc tế mà Việt Nam là thành viên về cùng một vấn đề thì áp dụng văn bản nào?",
+      "options": [
+        "A. Áp dụng Bộ luật Dân sự.",
+        "B. Áp dụng quy định của điều ước quốc tế.",
+        "C. Do Tòa án tối cao quyết định văn bản áp dụng.",
+        "D. Áp dụng văn bản được ban hành sau."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 4 Điều 4 Bộ luật Dân sự năm 2015 quy định áp dụng quy định của điều ước quốc tế nếu có sự khác nhau.",
+      "topic": "Áp dụng Bộ luật dân sự"
+    },
+    {
+      "id": 5,
+      "question": "Nội dung nào sau đây mô tả đúng về điều kiện để một quy tắc xử sự được coi là tập quán theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là quy tắc mới hình thành và chỉ áp dụng trong một giao dịch cụ thể.",
+        "B. Là quy tắc xử sự có nội dung rõ ràng, được hình thành và lặp đi lặp lại nhiều lần trong một thời gian dài, được thừa nhận và áp dụng rộng rãi.",
+        "C. Là quy tắc do các bên tự đặt ra và chỉ có hiệu lực với các bên đó.",
+        "D. Là quy tắc được ghi chép trong các văn bản hướng dẫn của cơ quan nhà nước."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 5 Bộ luật Dân sự năm 2015 quy định về định nghĩa tập quán.",
+      "topic": "Tập quán"
+    },
+    {
+      "id": 6,
+      "question": "Theo Bộ luật Dân sự năm 2015, trường hợp các bên không có thỏa thuận và pháp luật không quy định thì có thể áp dụng tập quán nhưng không được trái với điều gì?",
+      "options": [
+        "A. Ý chí của bên có quyền lợi lớn hơn.",
+        "B. Các nguyên tắc cơ bản của pháp luật dân sự của Bộ luật Dân sự.",
+        "C. Các quy định của pháp luật hình sự hiện hành.",
+        "D. Quyết định của người đứng đầu chính quyền địa phương."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 5 Bộ luật Dân sự năm 2015, tập quán không được trái với các nguyên tắc quy định tại Điều 3.",
+      "topic": "Tập quán"
+    },
+    {
+      "id": 7,
+      "question": "Nội dung nào sau đây là đúng khi nói về áp dụng tương tự pháp luật theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Áp dụng khi pháp luật đã có quy định rõ ràng về vấn đề đó.",
+        "B. Áp dụng khi các bên có thỏa thuận khác với quy định của pháp luật.",
+        "C. Áp dụng khi phát sinh quan hệ dân sự mà không có thỏa thuận, không có pháp luật quy định và không có tập quán được áp dụng.",
+        "D. Không được phép áp dụng tương tự pháp luật trong mọi trường hợp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Khoản 1 Điều 6 Bộ luật Dân sự năm 2015.",
+      "topic": "Áp dụng pháp luật tương tự"
+    },
+    {
+      "id": 8,
+      "question": "Theo Bộ luật Dân sự năm 2015, đâu là một trong những căn cứ xác lập quyền dân sự?",
+      "options": [
+        "A. Hành vi gây thiệt hại cho người khác.",
+        "B. Kết quả của lao động, sản xuất, kinh doanh.",
+        "C. Việc không thực hiện nghĩa vụ theo hợp đồng.",
+        "D. Các quy tắc đạo đức thông thường không được pháp luật hóa."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 4 Điều 8 Bộ luật Dân sự năm 2015.",
+      "topic": "Căn cứ xác lập quyền dân sự"
+    },
+    {
+      "id": 9,
+      "question": "Đâu không phải là căn cứ xác lập quyền dân sự theo quy định của Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Hành vi pháp lý đơn phương.",
+        "B. Thực hiện công việc không có ủy quyền.",
+        "C. Quyết định của tổ chức xã hội không có thẩm quyền nhà nước.",
+        "D. Bị thiệt hại do hành vi trái pháp luật."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Điều 8 quy định các căn cứ xác lập quyền dân sự không bao gồm quyết định của tổ chức xã hội không có thẩm quyền.",
+      "topic": "Căn cứ xác lập quyền dân sự"
+    },
+    {
+      "id": 10,
+      "question": "Theo Bộ luật Dân sự năm 2015, việc cá nhân, pháp nhân không thực hiện quyền dân sự của mình dẫn đến hậu quả gì?",
+      "options": [
+        "A. Luôn làm chấm dứt quyền dân sự đó.",
+        "B. Không phải là căn cứ làm chấm dứt quyền, trừ trường hợp luật có quy định khác.",
+        "C. Bị cơ quan nhà nước tước quyền dân sự đó ngay lập tức.",
+        "D. Phải bồi thường thiệt hại cho nhà nước."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 9 Bộ luật Dân sự năm 2015.",
+      "topic": "Thực hiện quyền dân sự"
+    },
+    {
+      "id": 11,
+      "question": "Khi quyền dân sự của cá nhân bị xâm phạm, chủ thể đó có quyền yêu cầu cơ quan có thẩm quyền thực hiện phương thức bảo vệ nào sau đây theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Tịch thu toàn bộ tài sản của người vi phạm để sung công quỹ.",
+        "B. Buộc xin lỗi, cải chính công khai.",
+        "C. Cách chức người có hành vi xâm phạm nếu họ là công chức.",
+        "D. Phạt tù người có hành vi xâm phạm."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 3 Điều 11 Bộ luật Dân sự năm 2015.",
+      "topic": "Bảo vệ quyền dân sự"
+    },
+    {
+      "id": 12,
+      "question": "Theo Bộ luật Dân sự năm 2015, năng lực pháp luật dân sự của cá nhân được hiểu như thế nào?",
+      "options": [
+        "A. Là khả năng cá nhân tự mình thực hiện mọi giao dịch dân sự.",
+        "B. Là khả năng của cá nhân có quyền dân sự và nghĩa vụ dân sự.",
+        "C. Là khả năng nhận thức và điều khiển hành vi của cá nhân.",
+        "D. Chỉ những người đủ 18 tuổi mới có năng lực pháp luật dân sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 16 Bộ luật Dân sự năm 2015.",
+      "topic": "Năng lực pháp luật cá nhân"
+    },
+    {
+      "id": 13,
+      "question": "Năng lực pháp luật dân sự của cá nhân bắt đầu và chấm dứt khi nào theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Bất đầu từ khi đủ 6 tuổi và chấm dứt khi chết.",
+        "B. Bắt đầu từ khi sinh ra và chấm dứt khi chết.",
+        "C. Bắt đầu từ khi sinh ra và chấm dứt khi bị Tòa án tuyên bố mất năng lực hành vi dân sự.",
+        "D. Bắt đầu từ khi đủ 18 tuổi và chấm dứt khi chết."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 3 Điều 16 Bộ luật Dân sự năm 2015.",
+      "topic": "Năng lực pháp luật cá nhân"
+    },
+    {
+      "id": 14,
+      "question": "Nội dung nào sau đây là đúng khi nói về sự bình đẳng trong năng lực pháp luật dân sự theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Người giàu có năng lực pháp luật dân sự cao hơn người nghèo.",
+        "B. Cán bộ, công chức có năng lực pháp luật dân sự cao hơn người dân thường.",
+        "C. Mọi cá nhân đều có năng lực pháp luật dân sự như nhau.",
+        "D. Chỉ công dân Việt Nam mới có năng lực pháp luật dân sự đầy đủ tại Việt Nam."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 16 Bộ luật Dân sự năm 2015.",
+      "topic": "Năng lực pháp luật cá nhân"
+    },
+    {
+      "id": 15,
+      "question": "Theo Bộ luật Dân sự năm 2015, điền từ còn thiếu vào chỗ trống sau: “Năng lực pháp luật dân sự của cá nhân _________” ?",
+      "options": [
+        "A. Bị hạn chế theo quy định của Bộ luật dân sự, luật khác có liên quan quy định khác.",
+        "B. Không bị hạn chế",
+        "C. Bị hạn chế theo quyết định của chính quyền địa phương để đảm bảo an ninh.",
+        "D. Bị hạn chế khi cá nhân đó không có tài sản."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Điều 18 Bộ luật Dân sự năm 2015 quy định năng lực pháp luật không bị hạn chế, trừ trường hợp luật định.",
+      "topic": "Năng lực pháp luật cá nhân"
+    },
+    {
+      "id": 16,
+      "question": "Khái niệm năng lực hành vi dân sự của cá nhân theo Bộ luật Dân sự năm 2015 là gì?",
+      "options": [
+        "A. Là khả năng cá nhân có quyền và nghĩa vụ dân sự.",
+        "B. Là khả năng của cá nhân bằng hành vi của mình xác lập, thực hiện quyền, nghĩa vụ dân sự.",
+        "C. Là khả năng cá nhân tự bảo vệ quyền lợi trước Tòa án.",
+        "D. Là khả năng cá nhân được nhà nước thừa nhận tư cách chủ thể."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Điều 19 Bộ luật Dân sự năm 2015.",
+      "topic": "Năng lực hành vi cá nhân"
+    },
+    {
+      "id": 17,
+      "question": "Theo Bộ luật Dân sự năm 2015, người thành niên có đặc điểm gì về năng lực hành vi dân sự?",
+      "options": [
+        "A. Chỉ có năng lực hành vi dân sự khi có tài sản riêng.",
+        "B. Có năng lực hành vi dân sự đầy đủ, trừ trường hợp bị mất, bị hạn chế hoặc có khó khăn trong nhận thức, làm chủ hành vi.",
+        "C. Luôn có năng lực hành vi dân sự đầy đủ trong mọi trường hợp.",
+        "D. Phải qua một kỳ sát hạch mới được công nhận năng lực hành vi dân sự đầy đủ."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 20 Bộ luật Dân sự năm 2015.",
+      "topic": "Năng lực hành vi cá nhân"
+    },
+    {
+      "id": 18,
+      "question": "Theo Bộ luật Dân sự năm 2015, người chưa đủ sáu tuổi xác lập giao dịch dân sự như thế nào?",
+      "options": [
+        "A. Tự mình xác lập các giao dịch nhỏ.",
+        "B. Do người đại diện theo pháp luật của người đó xác lập, thực hiện.",
+        "C. Giao dịch hoàn toàn vô hiệu và không được phép thực hiện.",
+        "D. Phải được sự đồng ý bằng văn bản của UBND cấp xã."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 21 Bộ luật Dân sự năm 2015.",
+      "topic": "Người chưa thành niên"
+    },
+    {
+      "id": 19,
+      "question": "Người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi khi xác lập giao dịch dân sự cần điều kiện gì theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Phải có người đại diện theo pháp luật đồng ý, trừ giao dịch phục vụ nhu cầu sinh hoạt hàng ngày phù hợp với lứa tuổi.",
+        "B. Tự mình xác lập mọi giao dịch nếu có tài sản riêng.",
+        "C. Phải được Tòa án cho phép.",
+        "D. Phải có ít nhất hai người làm chứng thành niên."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn đáp án A. Bởi: Căn cứ Khoản 3 Điều 21 Bộ luật Dân sự năm 2015.",
+      "topic": "Người chưa thành niên"
+    },
+    {
+      "id": 20,
+      "question": "Theo Bộ luật Dân sự năm 2015, người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi không được tự mình xác lập giao dịch nào sau đây nếu không có sự đồng ý của người đại diện?",
+      "options": [
+        "A. Mua sắm quần áo, sách vở phục vụ học tập.",
+        "B. Giao dịch dân sự liên quan đến bất động sản, động sản phải đăng ký.",
+        "C. Các giao dịch nhỏ lẻ tại cửa hàng tiện lợi.",
+        "D. Thuê nhà trọ để ở khi đi học xa."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 4 Điều 21 Bộ luật Dân sự năm 2015.",
+      "topic": "Người chưa thành niên"
+    },
+    {
+      "id": 21,
+      "question": "Căn cứ để Tòa án ra quyết định tuyên bố một người mất năng lực hành vi dân sự theo Bộ luật Dân sự năm 2015 là gì?",
+      "options": [
+        "A. Người đó thường xuyên uống rượu say và gây gổ.",
+        "B. Người đó bị bệnh tâm thần hoặc bệnh khác không thể nhận thức, làm chủ hành vi trên cơ sở kết luận giám định pháp y tâm thần.",
+        "C. Người đó bị liệt hai chân không thể đi lại.",
+        "D. Người đó không biết chữ và không có kiến thức pháp luật."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 22 Bộ luật Dân sự năm 2015.",
+      "topic": "Mất năng lực hành vi dân sự"
+    },
+    {
+      "id": 22,
+      "question": "Giao dịch dân sự của người mất năng lực hành vi dân sự do ai thực hiện theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Chính người đó tự thực hiện dưới sự giám sát của UBND cấp xã.",
+        "B. Do người đại diện theo pháp luật xác lập, thực hiện.",
+        "C. Do vợ, chồng, cha, mẹ của người đó thực hiện giúp.",
+        "D. Không được phép thực hiện bất kỳ giao dịch nào."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 22 Bộ luật Dân sự năm 2015.",
+      "topic": "Mất năng lực hành vi dân sự"
+    },
+    {
+      "id": 23,
+      "question": "Theo Bộ luật Dân sự năm 2015, người có khó khăn trong nhận thức, làm chủ hành vi là đối tượng nào?",
+      "options": [
+        "A. Người chưa thành niên chưa đủ 15 tuổi.",
+        "B. Người thành niên do tình trạng thể chất hoặc tinh thần mà không đủ khả năng nhận thức, làm chủ hành vi nhưng chưa đến mức mất năng lực hành vi dân sự.",
+        "C. Người nghiện ma túy dẫn đến phá tán tài sản gia đình.",
+        "D. Người già trên 80 tuổi."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 23 Bộ luật Dân sự năm 2015.",
+      "topic": "Khó khăn trong nhận thức, làm chủ hành vi"
+    },
+    {
+      "id": 24,
+      "question": "Theo Bộ luật Dân sự năm 2015, đối tượng nào sau đây có thể bị Tòa án tuyên bố bị hạn chế năng lực hành vi dân sự?",
+      "options": [
+        "A. Người bị bệnh tâm thần nhẹ.",
+        "B. Người nghiện ma túy, nghiện các chất kích thích khác dẫn đến phá tán tài sản của gia đình.",
+        "C. Người bị khiếm thính, khiếm thị bẩm sinh.",
+        "D. Người không có tài sản và không có việc làm ổn định."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 24 Bộ luật Dân sự năm 2015.",
+      "topic": "Hạn chế năng lực hành vi dân sự"
+    },
+    {
+      "id": 25,
+      "question": "Giao dịch dân sự liên quan đến tài sản của người bị hạn chế năng lực hành vi dân sự cần điều kiện gì theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Phải có sự đồng ý của tất cả các thành viên trong gia đình.",
+        "B. Phải có sự đồng ý của người đại diện theo pháp luật, trừ giao dịch phục vụ nhu cầu sinh hoạt hàng ngày.",
+        "C. Phải được Tòa án phê duyệt đối với từng giao dịch.",
+        "D. Chỉ cần người đó tự ký tên là đủ hiệu lực."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 24 Bộ luật Dân sự năm 2015.",
+      "topic": "Hạn chế năng lực hành vi dân sự"
+    },
+    {
+      "id": 26,
+      "question": "Quyền nhân thân được quy định trong Bộ luật Dân sự năm 2015 có đặc điểm chính nào sau đây?",
+      "options": [
+        "A. Có thể tự do mua bán, chuyển nhượng trên thị trường.",
+        "B. Gắn liền với mỗi cá nhân, không thể chuyển giao cho người khác, trừ trường hợp luật khác có liên quan quy định khác.",
+        "C. Chỉ tồn tại khi cá nhân đó đã đủ tuổi thành niên.",
+        "D. Có thể bị từ bỏ bằng văn bản công chứng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 25 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền nhân thân"
+    },
+    {
+      "id": 27,
+      "question": "Theo Bộ luật Dân sự năm 2015, việc xác lập quan hệ dân sự liên quan đến quyền nhân thân của người mất năng lực hành vi dân sự do ai đồng ý?",
+      "options": [
+        "A. Do chính người đó đồng ý nếu lúc đó tỉnh táo.",
+        "B. Do người đại diện theo pháp luật của người đó đồng ý.",
+        "C. Do UBND cấp xã nơi cư trú quyết định.",
+        "D. Do anh, chị, em ruột đồng ý là đủ."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 25 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền nhân thân"
+    },
+    {
+      "id": 28,
+      "question": "Theo Bộ luật Dân sự năm 2015, họ của cá nhân được xác định như thế nào khi cha đẻ và mẹ đẻ không có thỏa thuận?",
+      "options": [
+        "A. Xác định theo họ của cha đẻ.",
+        "B. Xác định theo họ của mẹ đẻ.",
+        "C. Xác định theo tập quán.",
+        "D. Do cơ quan đăng ký hộ tịch tự lựa chọn một họ."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 26 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền đối với họ, tên"
+    },
+    {
+      "id": 29,
+      "question": "Theo Bộ luật Dân sự năm 2015, việc thay đổi họ, tên của cá nhân có làm chấm dứt quyền, nghĩa vụ dân sự được xác lập theo họ, tên cũ không?",
+      "options": [
+        "A. Có, mọi giao dịch cũ đều bị vô hiệu.",
+        "B. Không làm thay đổi, chấm dứt quyền, nghĩa vụ dân sự được xác lập theo họ, tên cũ.",
+        "C. Chỉ chấm dứt các nghĩa vụ nợ, còn quyền lợi vẫn giữ nguyên.",
+        "D. Chỉ chấm dứt nếu cơ quan công an yêu cầu."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 3 Điều 27 và Khoản 3 Điều 28 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền đối với họ, tên"
+    },
+    {
+      "id": 30,
+      "question": "Cá nhân có quyền yêu cầu thay đổi tên trong trường hợp nào sau đây theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Việc sử dụng tên đó gây nhầm lẫn, ảnh hưởng đến tình cảm gia đình, đến danh dự, lợi ích hợp pháp.",
+        "B. Muốn đổi tên để phù hợp với phong thủy.",
+        "C. Muốn đổi tên giống với người nước ngoài để dễ làm việc.",
+        "D. Đổi tên để không phải đi nghĩa vụ quân sự."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn đáp án A. Bởi: Căn cứ Điểm a Khoản 1 Điều 28 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền đối với họ, tên"
+    },
+    {
+      "id": 31,
+      "question": "Theo Bộ luật Dân sự năm 2015, khái niệm giám hộ được hiểu như thế nào?",
+      "options": [
+        "A. Là việc chăm sóc trẻ em tại các trung tâm bảo trợ xã hội.",
+        "B. Là việc cá nhân, pháp nhân được quy định để chăm sóc, bảo vệ quyền, lợi ích hợp pháp của người được giám hộ.",
+        "C. Là việc quản lý người phạm tội tại cộng đồng.",
+        "D. Là việc cha mẹ nuôi dạy con cái hàng ngày."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 46 Bộ luật Dân sự năm 2015.",
+      "topic": "Giám hộ"
+    },
+    {
+      "id": 32,
+      "question": "Trường hợp giám hộ cho người có khó khăn trong nhận thức, làm chủ hành vi thì cần điều kiện gì về ý chí của người đó theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Không cần ý kiến của người đó vì họ đang gặp khó khăn.",
+        "B. Phải được sự đồng ý của người đó nếu họ có năng lực thể hiện ý chí tại thời điểm yêu cầu.",
+        "C. Phải có sự đồng ý của người thân thích nếu họ có năng lực thể hiện ý chí tại thời điểm yêu cầu.",
+        "D. Phải có sự đồng ý của bác sĩ tâm thần điều trị."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 46 Bộ luật Dân sự năm 2015.",
+      "topic": "Giám hộ"
+    },
+    {
+      "id": 33,
+      "question": "Theo Bộ luật Dân sự năm 2015, đối tượng nào sau đây không thuộc diện cần người giám hộ?",
+      "options": [
+        "A. Người chưa thành niên không còn cha, mẹ.",
+        "B. Người chưa thành niên có cha mẹ nhưng cha mẹ bị hạn chế quyền đối với con.",
+        "C. Người thành niên có năng lực hành vi dân sự đầy đủ nhưng không có việc làm.",
+        "D. Người mất năng lực hành vi dân sự."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Điều 47 quy định đối tượng được giám hộ, người thành niên bình thường không thuộc diện này.",
+      "topic": "Giám hộ"
+    },
+    {
+      "id": 34,
+      "question": "Một người có thể có bao nhiêu người giám hộ theo quy định của Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Không giới hạn số lượng người giám hộ.",
+        "B. Chỉ có thể có một người giám hộ, trừ trường hợp đặc biệt",
+        "C. Luôn phải có ít nhất hai người giám hộ để giám sát lẫn nhau.",
+        "D. Tối đa là ba người giám hộ."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 47 Bộ luật Dân sự năm 2015.",
+      "topic": "Giám hộ"
+    },
+    {
+      "id": 35,
+      "question": "Đâu là điều kiện bắt buộc đối với cá nhân khi làm người giám hộ theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Phải có tài sản trị giá trên 500 triệu đồng.",
+        "B. Có năng lực hành vi dân sự đầy đủ.",
+        "C. Phải là người thân thích trong phạm vi 3 đời của người được giám hộ.",
+        "D. Đang làm việc trong cơ quan nhà nước."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 49 Bộ luật Dân sự năm 2015.",
+      "topic": "Điều kiện của cá nhân làm người giám hộ"
+    },
+    {
+      "id": 36,
+      "question": "Cá nhân nào sau đây không đủ điều kiện làm người giám hộ theo quy định tại Điều 49 Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Người chưa được xóa án tích về tội cố ý xâm phạm tính mạng người khác.",
+        "B. Người đang sống tại nước ngoài nhưng có quốc tịch Việt Nam.",
+        "C. Người không có quan hệ họ hàng với người được giám hộ.",
+        "D. Người đã nghỉ hưu và có thu nhập ổn định."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn đáp án A. Bởi: Căn cứ Khoản 3 Điều 49 Bộ luật Dân sự năm 2015.",
+      "topic": "Điều kiện của cá nhân làm người giám hộ"
+    },
+    {
+      "id": 37,
+      "question": "Theo Bộ luật Dân sự năm 2015, pháp nhân làm người giám hộ cần đáp ứng điều kiện nào?",
+      "options": [
+        "A. Có năng lực pháp luật dân sự phù hợp với việc giám hộ và là pháp nhân thương mại có lợi nhuận cao.",
+        "B. Có năng lực pháp luật dân sự phù hợp với việc giám hộ và có điều kiện cần thiết thực hiện quyền, nghĩa vụ giám hộ.",
+        "C. Có năng lực pháp luật dân sự phù hợp với việc giám hộ và phải được thành lập ít nhất 10 năm.",
+        "D. Có năng lực pháp luật dân sự phù hợp với việc giám hộ và phải có vốn điều lệ trên 10 tỷ đồng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Điều 50 Bộ luật Dân sự năm 2015.",
+      "topic": "Điều kiện của pháp nhân làm người giám hộ"
+    },
+    {
+      "id": 38,
+      "question": "Nội dung nào sau đây là sai khi nói về quyền tự bảo vệ quyền dân sự theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Việc tự bảo vệ phải phù hợp với tính chất, mức độ xâm phạm.",
+        "B. Có thể dùng bất kỳ biện pháp nào",
+        "C. Không được trái với các nguyên tắc cơ bản quy định tại Bộ luật Dân sự.",
+        "D. Phải sử dụng các biện pháp tự vệ đã được quy định"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Điều 12 Bộ luật Dân sự năm 2015, bạo lực quá mức là trái pháp luật.",
+      "topic": "Bảo vệ quyền dân sự"
+    },
+    {
+      "id": 39,
+      "question": "Theo Bộ luật Dân sự năm 2015, Tòa án có được từ chối giải quyế́t vụ việc dân sự vì lý do chưa có điều luật để áp dụng không?",
+      "options": [
+        "A. Tòa án được từ chối và hướng dẫn đương sự đi về.",
+        "B. Tòa án không được từ chối giải quyết vụ, việc dân sự vì lý do chưa có điều luật để áp dụng.",
+        "C. Tòa án chỉ giải quyết nếu vụ việc có giá trị tranh chấp lớn.",
+        "D. Tòa án được từ chối nếu không tìm thấy tập quán tương ứng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 14 Bộ luật Dân sự năm 2015.",
+      "topic": "Bảo vệ quyền dân sự"
+    },
+    {
+      "id": 40,
+      "question": "Khi giải quyết yêu cầu bảo vệ quyền dân sự, Tòa án có thẩm quyền gì đối với quyết định cá biệt trái pháp luật của cơ quan nhà nước theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Không có quyền can thiệp vào quyết định của cơ quan hành chính.",
+        "B. Có quyền hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền.",
+        "C. Có quyền kiến nghị cơ quan đó tự thu hồi quyết định.",
+        "D. Nếu phát hiện quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền phải chờ ý kiến của Viện kiểm sát mới được xử lý."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Điều 15 Bộ luật Dân sự năm 2015.",
+      "topic": "Bảo vệ quyền dân sự"
+    },
+    {
+      "id": 41,
+      "question": "Theo Bộ luật Dân sự năm 2015, đâu là phương thức để cá nhân, pháp nhân bảo vệ quyền dân sự bị xâm phạm?",
+      "options": [
+        "A. Buộc bồi thường thiệt hại.",
+        "B. Bắt giữ người vi phạm để tra khảo.",
+        "C. Đăng tin xúc phạm lại người đã xâm phạm mình.",
+        "D. Yêu cầu cơ quan công an tước giấy phép kinh doanh của đối thủ."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn đáp án A. Bởi: Căn cứ Khoản 5 Điều 11 Bộ luật Dân sự năm 2015.",
+      "topic": "Bảo vệ quyền dân sự"
+    },
+    {
+      "id": 42,
+      "question": "Nội dung nào sau đây là đúng về giới hạn việc thực hiện quyền dân sự theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Cá nhân được tự do thực hiện quyền dân sự.",
+        "B. Cá nhân, pháp nhân không được lạm dụng quyền dân sự của mình gây thiệt hại cho người khác hoặc vi phạm nghĩa vụ.",
+        "C. Chỉ có pháp nhân mới bị giới hạn quyền dân sự.",
+        "D. Giới hạn quyền dân sự chỉ do các bên tự thỏa thuận trong hợp đồng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 10 Bộ luật Dân sự năm 2015.",
+      "topic": "Giới hạn thực hiện quyền dân sự"
+    },
+    {
+      "id": 43,
+      "question": "Theo Bộ luật Dân sự năm 2015, Nhà nước có chính sách gì đối với việc hòa giải trong quan hệ dân sự?",
+      "options": [
+        "A. Bắt buộc mọi tranh chấp dân sự phải hòa giải tại UBND cấp xã.",
+        "B. Khuyến khích việc hòa giải giữa các bên phù hợp với quy định của pháp luật.",
+        "C. Không công nhận kết quả hòa giải ngoài Tòa án.",
+        "D. Khuyến khích hòa giải đối với các tranh chấp về hôn nhân gia đình."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 7 Bộ luật Dân sự năm 2015.",
+      "topic": "Chính sách của Nhà nước"
+    },
+    {
+      "id": 44,
+      "question": "Trường hợp không thể áp dụng tương tự pháp luật, Tòa án sẽ áp dụng căn cứ nào tiếp theo theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Áp dụng pháp luật nước ngoài.",
+        "B. Áp dụng các nguyên tắc cơ bản của pháp luật dân sự, án lệ, lẽ công bằng.",
+        "C. Áp dụng nghị quyết của hội đồng nhân dân tỉnh.",
+        "D. Tòa án được quyền tự sáng tạo ra quy định mới."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 6 Bộ luật Dân sự năm 2015.",
+      "topic": "Áp dụng pháp luật tương tự"
+    },
+    {
+      "id": 45,
+      "question": "Một cá nhân, pháp nhân có thể làm người giám hộ cho bao nhiêu người theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Chỉ duy nhất một người.",
+        "B. Tối đa là hai người.",
+        "C. Có thể giám hộ cho nhiều người.",
+        "D. Chỉ cá nhân mới được giám hộ cho nhiều người, pháp nhân thì không."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Khoản 3 Điều 48 Bộ luật Dân sự năm 2015.",
+      "topic": "Giám hộ"
+    },
+    {
+      "id": 46,
+      "question": "Theo Bộ luật Dân sự năm 2015, trường hợp người có năng lực hành vi dân sự đầy đủ lựa chọn người giám hộ cho mình thì phải lập thành văn bản như thế nào?",
+      "options": [
+        "A. Chỉ cần chữ ký của hai bên.",
+        "B. Văn bản có công chứng hoặc chứng thực.",
+        "C. Phải có sự chứng kiến của ít nhất 5 người hàng xóm.",
+        "D. Phải nộp cho Tòa án tối cao phê duyệt."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 48 Bộ luật Dân sự năm 2015.",
+      "topic": "Lựa chọn người giám hộ"
+    },
+    {
+      "id": 47,
+      "question": "Đâu là nguyên tắc xác lập, thực hiện quyền, nghĩa vụ dân sự liên quan đến lợi ích quốc gia theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Không được xâm phạm đến lợi ích quốc gia, dân tộc, trừ trường hợp pháp luật có quy định khác.",
+        "B. Không được xâm phạm đến lợi ích quốc gia, dân tộc, lợi ích công cộng.",
+        "C. Không được xâm phạm đến lợi ích quốc gia, dân tộc, trừ trường hợp vì mục tiêu phát triển kinh tế – xã hội.",
+        "D. Không được xâm phạm đến lợi ích quốc gia, dân tộc, lợi ích công cộng nhưng được cân nhắc trên cơ sở lợi ích chung."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 4 Điều 3 Bộ luật Dân sự năm 2015.",
+      "topic": "Nguyên tắc cơ bản"
+    },
+    {
+      "id": 48,
+      "question": "Theo Bộ luật Dân sự năm 2015, trường hợp luật chuyên ngành không quy định về một quan hệ dân sự cụ thể thì áp dụng văn bản nào?",
+      "options": [
+        "A. Không được giải quyết quan hệ đó.",
+        "B. Áp dụng quy định của Bộ luật Dân sự.",
+        "C. Áp dụng các văn bản dưới luật của Bộ Nội vụ.",
+        "D. Chờ Quốc hội ban hành luật mới."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 3 Điều 4 Bộ luật Dân sự năm 2015.",
+      "topic": "Áp dụng Bộ luật dân sự"
+    },
+    {
+      "id": 49,
+      "question": "Theo Bộ luật Dân sự năm 2015, trường hợp không có thỏa thuận khác, ai là người giám hộ đương nhiên đầu tiên của người chưa thành niên không còn cha, mẹ?",
+      "options": [
+        "A. Ông nội, bà nội",
+        "B. Bác ruột, chú ruột",
+        "C. Anh ruột là anh cả hoặc chị ruột là chị cả",
+        "D. Ông ngoại, bà ngoại"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Khoản 1, Điều 52, Bộ luật Dân sự năm 2015.",
+      "topic": "Giám hộ đương nhiên"
+    },
+    {
+      "id": 50,
+      "question": "Đâu là quy định đúng về người giám hộ đương nhiên của người vợ mất năng lực hành vi dân sự theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Người con cả của hai vợ chồng",
+        "B. Cha đẻ hoặc mẹ đẻ của người vợ",
+        "C. Người chồng",
+        "D. Anh ruột hoặc chị ruột của người vợ"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Khoản 1, Điều 53, Bộ luật Dân sự năm 2015.",
+      "topic": "Giám hộ đương nhiên"
+    },
+    {
+      "id": 51,
+      "question": "Theo Bộ luật Dân sự năm 2015, nội dung nào sau đây không thuộc nghĩa vụ của người giám hộ đối với người được giám hộ chưa đủ mười lăm tuổi?",
+      "options": [
+        "A. Chăm sóc, giáo dục người được giám hộ",
+        "B. Quản lý tài sản của người được giám hộ",
+        "C. Đại diện cho người được giám hộ trong các giao dịch dân sự, không phụ thuộc vào độ tuổi và năng lực hành vi dân sự.",
+        "D. Bảo vệ quyền, lợi ích hợp pháp của người được giám hộ"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 55 quy định đại diện trừ trường hợp luật cho phép tự xác lập.",
+      "topic": "Nghĩa vụ của người giám hộ"
+    },
+    {
+      "id": 52,
+      "question": "Theo Bộ luật Dân sự năm 2015, người giám hộ của người được giám hộ từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có nghĩa vụ nào sau đây?",
+      "options": [
+        "A. Chăm sóc và giáo dục người được giám hộ",
+        "B. Bảo vệ quyền, lợi ích hợp pháp của người được giám hộ",
+        "C. Bồi thường mọi thiệt hại do người được giám hộ gây ra",
+        "D. Quản lý tài sản của người được giám hộ trong mọi trường hợp"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 3, Điều 56, Bộ luật Dân sự năm 2015.",
+      "topic": "Nghĩa vụ của người giám hộ"
+    },
+    {
+      "id": 53,
+      "question": "Đâu là nghĩa vụ bổ sung của người giám hộ đối với người được giám hộ mất năng lực hành vi dân sự so với người chưa thành niên theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Quản lý tài sản của người được giám hộ",
+        "B. Đại diện trong các giao dịch dân sự",
+        "C. Chăm sóc, bảo đảm việc điều trị bệnh cho người được giám hộ",
+        "D. Bảo vệ quyền và lợi ích hợp pháp"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Điểm a, Khoản 1, Điều 57, Bộ luật Dân sự năm 2015.",
+      "topic": "Nghĩa vụ của người giám hộ"
+    },
+    {
+      "id": 54,
+      "question": "Theo Bộ luật Dân sự năm 2015, người giám hộ có quyền nào sau đây đối với tài sản của người được giám hộ?",
+      "options": [
+        "A. Được sử dụng tài sản của người được giám hộ để bù đắp các chi phí phát sinh trong quá trình quản lý.",
+        "B. Được thanh toán các chi phí hợp lý cho việc quản lý tài sản của người được giám hộ",
+        "C. Được định đoạt tài sản của người được giám hộ vì mục đích nhân đạo, từ thiện.",
+        "D. Được xác lập giao dịch dân sự liên quan đến tài sản của người được giám hộ nếu không gây thiệt hại."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Điểm b, Khoản 1, Điều 58, Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền của người giám hộ"
+    },
+    {
+      "id": 55,
+      "question": "Theo Bộ luật Dân sự năm 2015, việc bán tài sản có giá trị lớn của người được giám hộ phải được sự đồng ý của ai?",
+      "options": [
+        "A. Tòa án nhân dân cấp tỉnh",
+        "B. Ủy ban nhân dân cấp xã",
+        "C. Người giám sát việc giám hộ",
+        "D. Người thân thích của người được giám hộ"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Khoản 1, Điều 59, Bộ luật Dân sự năm 2015.",
+      "topic": "Quản lý tài sản người được giám hộ"
+    },
+    {
+      "id": 56,
+      "question": "Theo Bộ luật Dân sự năm 2015, nội dung nào sau đây là đúng khi nói về giao dịch dân sự giữa người giám hộ với người được giám hộ?",
+      "options": [
+        "A. Các giao dịch dân sự giữa họ đều vô hiệu, không phụ thuộc vào mục đích của giao dịch.",
+        "B. Các giao dịch này chỉ có hiệu lực khi được cơ quan có thẩm quyền chấp thuận.",
+        "C. Vô hiệu, trừ trường hợp giao dịch được thực hiện vì lợi ích của người được giám hộ và có sự đồng ý của người giám sát việc giám hộ",
+        "D. Có hiệu lực nếu người giám hộ chứng minh được không làm ảnh hưởng đến quyền, lợi ích hợp pháp của người được giám hộ."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Khoản 1, Điều 59, Bộ luật Dân sự năm 2015.",
+      "topic": "Quản lý tài sản người được giám hộ"
+    },
+    {
+      "id": 57,
+      "question": "Theo Bộ luật Dân sự năm 2015, khi người được giám hộ đã có năng lực hành vi dân sự đầy đủ, thời hạn để người giám hộ thanh toán tài sản là bao lâu?",
+      "options": [
+        "A. 15 ngày, kể từ ngày chấm dứt việc giám hộ",
+        "B. 30 ngày, kể từ ngày chấm dứt việc giám hộ",
+        "C. 03 tháng, kể từ ngày chấm dứt việc giám hộ",
+        "D. 06 tháng, kể từ ngày chấm dứt việc giám hộ"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn đáp án A. Bởi: Căn cứ Khoản 1, Điều 63, Bộ luật Dân sự năm 2015.",
+      "topic": "Hậu quả chấm dứt giám hộ"
+    },
+    {
+      "id": 58,
+      "question": "Đâu là thời hạn quy định để người giám hộ thanh toán tài sản với người thừa kế khi người được giám hộ chết theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. 15 ngày, kể từ ngày chấm dứt việc giám hộ",
+        "B. 01 tháng, kể từ ngày chấm dứt việc giám hộ",
+        "C. 03 tháng, kể từ ngày chấm dứt việc giám hộ",
+        "D. 06 tháng, kể từ ngày chấm dứt việc giám hộ"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Chọn đáp án C. Bởi: Căn cứ Khoản 2, Điều 63, Bộ luật Dân sự năm 2015.",
+      "topic": "Hậu quả chấm dứt giám hộ"
+    },
+    {
+      "id": 59,
+      "question": "Theo Bộ luật Dân sự năm 2015, trường hợp vợ hoặc chồng của người vắng mặt tại nơi cư trú bị mất năng lực hành vi dân sự thì tài sản của người vắng mặt được giao cho ai quản lý?",
+      "options": [
+        "A. Con thành niên hoặc cha, mẹ của người vắng mặt",
+        "B. Anh, chị, em ruột của người vắng mặt",
+        "C. Ủy ban nhân dân cấp xã nơi có tài sản",
+        "D. Tòa án chỉ định người quản lý tài sản là người hàng xóm"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Chọn đáp án A. Bởi: Căn cứ Điểm c, Khoản 1, Điều 65, Bộ luật Dân sự năm 2015.",
+      "topic": "Quản lý tài sản người vắng mặt"
+    },
+    {
+      "id": 60,
+      "question": "Đâu là nghĩa vụ của người quản lý tài sản của người vắng mặt tại nơi cư trú theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Được định đoạt tài sản của người vắng mặt nhằm bảo toàn và phát triển giá trị tài sản.",
+        "B. Bán ngay tài sản là hoa màu, sản phẩm khác có nguy cơ bị hư hỏng",
+        "C. Không phải bồi thường thiệt hại nếu làm mất, hư hỏng tài sản trong trường hợp không cố ý.",
+        "D. Chỉ thực hiện nghĩa vụ cấp dưỡng khi có yêu cầu của người vắng mặt."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Chọn đáp án B. Bởi: Căn cứ Khoản 2, Điều 66, Bộ luật Dân sự năm 2015.",
+      "topic": "Quản lý tài sản người vắng mặt"
+    }
+  ]
+},
+{
+  "id": "DS_DE_02",
+  "title": "Đề 02: Bộ luật Dân sự năm 2015",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Trường hợp các bên xác lập giao dịch dân sự giả tạo nhằm che giấu một giao dịch khác thì xử lý như thế nào theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Cả giao dịch giả tạo và giao dịch bị che giấu đều có hiệu lực nếu được các bên tự nguyện xác lập.",
+        "B. Giao dịch giả tạo vô hiệu, giao dịch bị che giấu vẫn có hiệu lực (trừ khi nó cũng vô hiệu theo quy định).",
+        "C. Giao dịch giả tạo vẫn có hiệu lực pháp lý, còn giao dịch bị che giấu bị coi là vô hiệu do không được công khai.",
+        "D. Cả hai giao dịch đều bị Tòa án tuyên vô hiệu mà không cần xem xét mục đích và nội dung giao dịch."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 1 Điều 124 Bộ luật Dân sự năm 2015 quy định: 'Khi các bên xác lập giao dịch dân sự một cách giả tạo nhằm che giấu một giao dịch dân sự khác thì giao dịch dân sự giả tạo vô hiệu, còn giao dịch dân sự bị che giấu vẫn có hiệu lực, trừ trường hợp giao dịch đó cũng vô hiệu...'",
+      "topic": "Giao dịch dân sự"
+    },
+    {
+      "id": 2,
+      "question": "Đâu là trường hợp giao dịch dân sự của người mất năng lực hành vi dân sự không bị vô hiệu theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Giao dịch nhằm phục vụ hoạt động đầu tư, kinh doanh phù hợp với khả năng tài sản của người đó.",
+        "B. Giao dịch nhằm đáp ứng nhu cầu thiết yếu hàng ngày của người đó.",
+        "C. Giao dịch ủy quyền cho người khác quản lý, sử dụng tài sản nhằm bảo đảm lợi ích của bản thân.",
+        "D. Giao dịch xác lập hợp đồng vay tài sản có giá trị lớn nhưng có sự đồng ý của người thân thích."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào điểm a khoản 2 Điều 125 Bộ luật Dân sự năm 2015, giao dịch dân sự của người chưa đủ sáu tuổi, người mất năng lực hành vi dân sự nhằm đáp ứng nhu cầu thiết yếu hàng ngày thì không bị vô hiệu.",
+      "topic": "Giao dịch dân sự"
+    },
+    {
+      "id": 3,
+      "question": "Theo Bộ luật Dân sự năm 2015, bên bị nhầm lẫn có quyền yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu khi nào?",
+      "options": [
+        "A. Khi phát sinh sự nhầm lẫn về giá cả, số lượng hoặc điều kiện thanh toán của giao dịch.",
+        "B. Khi sự nhầm lẫn làm cho một bên hoặc các bên không đạt được mục đích của việc xác lập giao dịch.",
+        "C. Khi bên kia không chấp thuận việc sửa đổi, bổ sung nội dung giao dịch theo đề nghị của bên bị nhầm lẫn.",
+        "D. Khi giao dịch dân sự chưa được thực hiện hoặc thực hiện không đầy đủ trong thời hạn 06 tháng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 1 Điều 126 Bộ luật Dân sự năm 2015 quy định: 'Trường hợp giao dịch dân sự được xác lập có sự nhầm lẫn làm cho một bên hoặc các bên không đạt được mục đích của việc xác lập giao dịch thì bên bị nhầm lẫn có quyền yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu...'",
+      "topic": "Giao dịch dân sự"
+    },
+    {
+      "id": 4,
+      "question": "“Lừa dối” trong giao dịch dân sự được Bộ luật Dân sự năm 2015 định nghĩa như thế nào?",
+      "options": [
+        "A. Là việc một bên cung cấp thông tin không chính xác làm ảnh hưởng đến quyết định xác lập giao dịch của bên kia.",
+        "B. Là hành vi cố ý của một bên hoặc của người thứ ba nhằm làm cho bên kia hiểu sai lệch về chủ thể, tính chất của đối tượng hoặc nội dung giao dịch.",
+        "C. Là việc các bên thỏa thuận với nhau nhằm che giấu nghĩa vụ tài chính đối với Nhà nước trong quá trình xác lập giao dịch.",
+        "D. Là hành vi tác động về tinh thần hoặc vật chất buộc bên kia phải xác lập giao dịch không đúng với ý chí ban đầu."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Điều 127 Bộ luật Dân sự năm 2015 quy định: 'Lừa dối trong giao dịch dân sự là hành vi cố ý của một bên hoặc của người thứ ba nhằm làm cho bên kia hiểu sai lệch về chủ thể, tính chất của đối tượng hoặc nội dung của giao dịch dân sự nên đã xác lập giao dịch đó.'",
+      "topic": "Giao dịch dân sự"
+    },
+    {
+      "id": 5,
+      "question": "Nội dung nào sau đây là đúng về quyền yêu cầu của người xác lập giao dịch vào đúng thời điểm không nhận thức được hành vi của mình theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Người đó không có quyền yêu cầu vì tại thời điểm xác lập giao dịch vẫn được coi là có năng lực hành vi dân sự đầy đủ.",
+        "B. Người đó có quyền yêu cầu Tòa án tuyên bố giao dịch dân sự đó là vô hiệu.",
+        "C. Người đó chỉ có quyền đề nghị điều chỉnh nội dung giao dịch để bảo đảm phù hợp với ý chí thực tế.",
+        "D. Người đó chỉ được quyền yêu cầu sau khi có kết luận chuyên môn của cơ quan y tế có thẩm quyền."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Điều 128 Bộ luật Dân sự năm 2015 quy định: 'Người có năng lực hành vi dân sự nhưng đã xác lập giao dịch vào đúng thời điểm không nhận thức và làm chủ được hành vi của mình thì có quyền yêu cầu Tòa án tuyên bố giao dịch dân sự đó là vô hiệu.'",
+      "topic": "Giao dịch dân sự"
+    },
+    {
+      "id": 6,
+      "question": "Giao dịch dân sự vi phạm quy định điều kiện có hiệu lực về hình thức thì được Tòa án công nhận hiệu lực trong trường hợp nào sau đây theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Một bên đã thực hiện phần lớn nghĩa vụ trong giao dịch theo thỏa thuận giữa các bên.",
+        "B. Một bên hoặc các bên đã thực hiện ít nhất hai phần ba (2/3) nghĩa vụ trong giao dịch.",
+        "C. Các bên chưa giao nhận tài sản trên thực tế, nhưng thể hiện ý chí muốn tiếp tục thực hiện giao dịch.",
+        "D. Giao dịch đã được xác lập và thực hiện ổn định trong 02 năm mà không phát sinh tranh chấp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 1 và 2 Điều 129 Bộ luật Dân sự năm 2015, nếu một bên hoặc các bên đã thực hiện ít nhất hai phần ba (2/3) nghĩa vụ trong giao dịch thì Tòa án ra quyết định công nhận hiệu lực của giao dịch đó.",
+      "topic": "Giao dịch dân sự"
+    },
+    {
+      "id": 7,
+      "question": "Theo Bộ luật Dân sự năm 2015, hậu quả pháp lý của giao dịch dân sự vô hiệu là gì?",
+      "options": [
+        "A. Làm phát sinh quyền và nghĩa vụ dân sự của các bên kể từ thời điểm Tòa án ra quyết định tuyên bố giao dịch vô hiệu.",
+        "B. Không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm giao dịch được xác lập.",
+        "C. Các bên không được tiếp tục hoặc xác lập lại giao dịch dân sự có cùng nội dung đã bị tuyên vô hiệu.",
+        "D. Bên có lỗi trong việc xác lập giao dịch vô hiệu phải chịu trách nhiệm pháp lý theo quy định của pháp luật có liên quan."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 1 Điều 131 Bộ luật Dân sự năm 2015 quy định: 'Giao dịch dân sự vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm giao dịch được xác lập.'",
+      "topic": "Giao dịch dân sự"
+    },
+    {
+      "id": 8,
+      "question": "Khi giao dịch dân sự vô hiệu, các bên phải thực hiện việc hoàn trả như thế nào theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Các bên hoàn trả lại tài sản đã nhận theo thỏa thuận ban đầu mà không xem xét các chi phí liên quan.",
+        "B. Các bên khôi phục lại tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận; nếu không hoàn trả được bằng hiện vật thì trị giá thành tiền để hoàn trả.",
+        "C. Bên nhận tài sản được tiếp tục sử dụng và không phải hoàn trả nếu tài sản đã được khai thác trong thời gian dài.",
+        "D. Chỉ bên có lỗi trong việc làm giao dịch vô hiệu mới có nghĩa vụ hoàn trả tài sản cho bên kia."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 2 Điều 131 Bộ luật Dân sự năm 2015 quy định về việc khôi phục tình trạng ban đầu.",
+      "topic": "Giao dịch dân sự"
+    },
+    {
+      "id": 9,
+      "question": "Thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu do bị lừa dối, đe dọa là bao lâu theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. 01 năm kể từ ngày người bị lừa dối biết hoặc phải biết giao dịch được xác lập do bị lừa dối.",
+        "B. 02 năm kể từ ngày người bị lừa dối biết hoặc phải biết giao dịch được xác lập do bị lừa dối.",
+        "C. 03 năm kể từ ngày người bị lừa dối biết hoặc phải biết giao dịch được xác lập do bị lừa dối.",
+        "D. 04 năm kể từ ngày người bị lừa dối biết hoặc phải biết giao dịch được xác lập do bị lừa dối."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào điểm b khoản 1 Điều 132 Bộ luật Dân sự năm 2015 quy định thời hiệu là 02 năm.",
+      "topic": "Giao dịch dân sự"
+    },
+    {
+      "id": 10,
+      "question": "Đối với giao dịch dân sự vô hiệu do vi phạm điều cấm của luật hoặc giả tạo, thời hiệu yêu cầu Tòa án tuyên bố vô hiệu được quy định thế nào theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Thời hiệu là 02 năm.",
+        "B. Thời hiệu là 05 năm.",
+        "C. Thời hiệu yêu cầu không bị hạn chế.",
+        "D. Thời hiệu là 03 năm."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ vào khoản 3 Điều 132 Bộ luật Dân sự năm 2015 quy định thời hiệu yêu cầu không bị hạn chế đối với các trường hợp này.",
+      "topic": "Giao dịch dân sự"
+    },
+    {
+      "id": 11,
+      "question": "Đâu là định nghĩa về “Đại diện” theo quy định của Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là việc cá nhân thay mặt người khác thực hiện giao dịch và được hưởng thù lao theo thỏa thuận.",
+        "B. Là việc cá nhân, pháp nhân nhân danh và vì lợi ích của cá nhân hoặc pháp nhân khác xác lập, thực hiện giao dịch dân sự.",
+        "C. Là việc các bên cùng nhân danh nhau để thực hiện công việc theo hợp đồng hợp tác.",
+        "D. Là việc cha, mẹ thực hiện quyền và nghĩa vụ đối với con chưa thành niên theo quy định của pháp luật."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 1 Điều 134 Bộ luật Dân sự năm 2015.",
+      "topic": "Đại diện"
+    },
+    {
+      "id": 12,
+      "question": "Theo Bộ luật Dân sự năm 2015, quyền đại diện được xác lập từ những căn cứ nào?",
+      "options": [
+        "A. Quyền đại diện được xác lập trên cơ sở thỏa thuận ủy quyền hợp pháp giữa các bên có liên quan.",
+        "B. Quyền đại diện được xác lập theo ủy quyền; theo quyết định của cơ quan nhà nước; theo điều lệ pháp nhân hoặc theo quy định của pháp luật.",
+        "C. Quyền đại diện được xác lập theo quy định của pháp luật về hôn nhân và gia đình trong các quan hệ nhân thân, tài sản.",
+        "D. Quyền đại diện được xác lập theo yêu cầu hoặc sự chấp thuận của người thứ ba có liên quan đến giao dịch."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Điều 135 Bộ luật Dân sự năm 2015.",
+      "topic": "Đại diện"
+    },
+    {
+      "id": 13,
+      "question": "Đâu là người đại diện theo pháp luật của cá nhân theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Anh, chị, em ruột là người đại diện theo pháp luật của nhau trong các quan hệ dân sự phát sinh từ quan hệ gia đình.",
+        "B. Cha, mẹ đối với con chưa thành niên.",
+        "C. Người có quan hệ gắn bó thân thiết được xác định là người đại diện theo pháp luật của người mất năng lực hành vi dân sự.",
+        "D. Người sinh sống ổn định cùng địa bàn được xem là người đại diện theo pháp luật của người bị hạn chế năng lực hành vi dân sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Điều 136 Bộ luật Dân sự năm 2015 quy định danh mục những người đại diện theo pháp luật của cá nhân.",
+      "topic": "Đại diện"
+    },
+    {
+      "id": 14,
+      "question": "Nội dung nào sau đây là đúng về người đại diện theo pháp luật của pháp nhân theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Pháp nhân chỉ có duy nhất một người đại diện theo pháp luật.",
+        "B. Một pháp nhân có thể có nhiều người đại diện theo pháp luật.",
+        "C. Người đại diện theo pháp luật bắt buộc phải là người sáng lập pháp nhân.",
+        "D. Người đại diện theo pháp luật của pháp nhân do Bộ Nội vụ chỉ định."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 2 Điều 137 Bộ luật Dân sự năm 2015 quy định pháp nhân có thể có nhiều người đại diện.",
+      "topic": "Đại diện"
+    },
+    {
+      "id": 15,
+      "question": "Theo Bộ luật Dân sự năm 2015, người từ đủ bao nhiêu tuổi trở lên có thể là người đại diện theo ủy quyền?",
+      "options": [
+        "A. Từ đủ 12 tuổi đến chưa đủ 15 tuổi (trừ trường hợp pháp luật quy định khác).",
+        "B. Từ đủ 15 tuổi đến chưa đủ 18 tuổi (trừ trường hợp pháp luật quy định khác).",
+        "C. Bắt buộc phải từ đủ 18 tuổi trở lên (trừ trường hợp pháp luật quy định khác).",
+        "D. Không quy định về độ tuổi, chỉ cần có năng lực nhận thức (trừ trường hợp pháp luật quy định khác)."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 3 Điều 138 Bộ luật Dân sự năm 2015.",
+      "topic": "Đại diện"
+    },
+    {
+      "id": 16,
+      "question": "Theo Bộ luật Dân sự năm 2015, hành vi của người đại diện gây hậu quả pháp lý như thế nào đối với người được đại diện?",
+      "options": [
+        "A. Hành vi của người đại diện không làm phát sinh quyền, nghĩa vụ dân sự đối với người được đại diện",
+        "B. Làm phát sinh quyền, nghĩa vụ đối với người được đại diện nếu phù hợp với phạm vi đại diện.",
+        "C. Hành vi của người đại diện chỉ làm phát sinh nghĩa vụ bồi thường thiệt hại cho người được đại diện.",
+        "D. Người được đại diện chỉ phải chịu trách nhiệm khi trực tiếp ký tên hoặc xác nhận vào giao dịch."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 1 Điều 139 Bộ luật Dân sự năm 2015.",
+      "topic": "Đại diện"
+    },
+    {
+      "id": 17,
+      "question": "Nếu quyền đại diện không được xác định với giao dịch dân sự cụ thể thì thời hạn đại diện là bao lâu theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. 06 tháng kể từ thời điểm phát sinh quyền đại diện.",
+        "B. 01 năm kể từ thời điểm phát sinh quyền đại diện.",
+        "C. 02 năm kể từ thời điểm ký văn bản ủy quyền.",
+        "D. Vĩnh viễn cho đến khi người đại diện chết."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào điểm b khoản 2 Điều 140 Bộ luật Dân sự năm 2015.",
+      "topic": "Đại diện"
+    },
+    {
+      "id": 18,
+      "question": "Đâu là căn cứ chấm dứt đại diện theo pháp luật của cá nhân theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Người được đại diện là cá nhân đã thành niên hoặc năng lực hành vi dân sự đã được khôi phục.",
+        "B. Người đại diện thay đổi nơi cư trú sang tỉnh khác.",
+        "C. Người được đại diện đi học tập tại nước ngoài.",
+        "D. Người đại diện bị xử phạt vi phạm hành chính trong lĩnh vực giao thông."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ vào điểm a khoản 4 Điều 140 Bộ luật Dân sự năm 2015.",
+      "topic": "Đại diện"
+    },
+    {
+      "id": 19,
+      "question": "Theo Bộ luật Dân sự năm 2015, người đại diện không được thực hiện hành vi nào sau đây?",
+      "options": [
+        "A. Xác lập giao dịch dân sự vì lợi ích của người được đại diện.",
+        "B. Nhân danh người được đại diện để xác lập giao dịch dân sự với chính mình hoặc với bên thứ ba mà mình cũng là người đại diện.",
+        "C. Thông báo cho bên giao dịch biết về phạm vi đại diện của mình.",
+        "D. Kiểm tra tài sản của người được đại diện trước khi giao dịch."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 3 Điều 141 Bộ luật Dân sự năm 2015.",
+      "topic": "Đại diện"
+    },
+    {
+      "id": 20,
+      "question": "Giao dịch dân sự do người không có quyền đại diện xác lập làm phát sinh quyền, nghĩa vụ đối với người được đại diện trong trường hợp nào sau đây theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Khi người được đại diện đã công nhận giao dịch.",
+        "B. Khi người không có quyền đại diện đã thực hiện việc giao nhận tiền hoặc tài sản từ bên kia.",
+        "C. Khi giao dịch được xác lập mang lại lợi ích kinh tế đáng kể cho người được đại diện.",
+        "D. Khi người thứ ba tham gia giao dịch ngay tình và không biết về việc người xác lập giao dịch không có quyền đại diện."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ vào khoản 1 Điều 142 Bộ luật Dân sự năm 2015.",
+      "topic": "Đại diện"
+    },
+    {
+      "id": 21,
+      "question": "Theo Bộ luật Dân sự năm 2015, hậu quả của giao dịch do người đại diện xác lập vượt quá phạm vi đại diện là gì?",
+      "options": [
+        "A. Người được đại diện phải chịu trách nhiệm đối với toàn bộ giao dịch do người đại diện xác lập.",
+        "B. Không làm phát sinh quyền, nghĩa vụ của người được đại diện đối với phần giao dịch thực hiện vượt quá (trừ trường hợp đồng ý hoặc biết mà không phản đối).",
+        "C. Giao dịch vượt quá phạm vi đại diện bị cơ quan nhà nước có thẩm quyền thu hồi hoặc hủy bỏ theo quy định.",
+        "D. Người đại diện bị chấm dứt quyền đại diện đối với mọi giao dịch dân sự trong tương lai."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 1 Điều 143 Bộ luật Dân sự năm 2015.",
+      "topic": "Đại diện"
+    },
+    {
+      "id": 22,
+      "question": "Khái niệm “Thời hạn” được Bộ luật Dân sự năm 2015 quy định như thế nào?",
+      "options": [
+        "A. Là một ngày cụ thể được ghi trong lịch dương.",
+        "B. Là một khoảng thời gian được xác định từ thời điểm này đến thời điểm khác.",
+        "C. Là thời gian tối đa để giải quyết một vụ án dân sự.",
+        "D. Là thời điểm một sự kiện bắt buộc phải xảy ra."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 1 Điều 144 Bộ luật Dân sự năm 2015.",
+      "topic": "Thời hạn, thời hiệu"
+    },
+    {
+      "id": 23,
+      "question": "Quy định về cách tính thời hạn “Một tháng” theo Bộ luật Dân sự năm 2015 khi các khoảng thời gian diễn ra không liền nhau là bao nhiêu ngày?",
+      "options": [
+        "A. 28 ngày.",
+        "B. 30 ngày.",
+        "C. 31 ngày.",
+        "D. Tính theo số ngày thực tế của tháng đó."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào điểm c khoản 1 Điều 146 Bộ luật Dân sự năm 2015.",
+      "topic": "Thời hạn, thời hiệu"
+    },
+    {
+      "id": 24,
+      "question": "Khi thời hạn được xác định bằng ngày, tuần, tháng, năm thì thời điểm bắt đầu tính thời hạn được quy định thế nào theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Thời hạn được tính bắt đầu ngay trong ngày được xác định làm căn cứ xác lập thời hạn.",
+        "B. Ngày đầu tiên của thời hạn không được tính mà tính từ ngày tiếp theo liền kề ngày được xác định.",
+        "C. Thời hạn được tính từ thời điểm 0 giờ của ngày được xác định theo lịch.",
+        "D. Thời điểm bắt đầu tính thời hạn do các bên thỏa thuận và được xác định vào cuối ngày đầu tiên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 2 Điều 147 Bộ luật Dân sự năm 2015.",
+      "topic": "Thời hạn, thời hiệu"
+    },
+    {
+      "id": 25,
+      "question": "Theo Bộ luật Dân sự năm 2015, nếu ngày cuối cùng của thời hạn là ngày nghỉ lễ thì thời hạn kết thúc vào lúc nào?",
+      "options": [
+        "A. Vào lúc 24 giờ của ngày nghỉ lễ đó.",
+        "B. Vào thời điểm kết thúc ngày làm việc tiếp theo ngày nghỉ đó.",
+        "C. Vào 12 giờ trưa của ngày trước ngày nghỉ lễ.",
+        "D. Thời hạn được kéo dài thêm đúng bằng số ngày nghỉ lễ."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 5 Điều 148 Bộ luật Dân sự năm 2015.",
+      "topic": "Thời hạn, thời hiệu"
+    },
+    {
+      "id": 26,
+      "question": "Tòa án chỉ áp dụng quy định về thời hiệu khi nào theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Khi Tòa án xét thấy việc áp dụng thời hiệu là cần thiết nhằm bảo đảm công bằng và trật tự pháp luật.",
+        "B. Theo yêu cầu áp dụng thời hiệu của một bên hoặc các bên với điều kiện yêu cầu này đưa ra trước khi Tòa án cấp sơ thẩm ra bản án.",
+        "C. Khi thời gian giải quyết vụ việc dân sự đã kéo dài vượt quá một khoảng thời gian nhất định theo thực tiễn xét xử.",
+        "D. Khi có ý kiến đề nghị áp dụng thời hiệu bằng văn bản của Viện kiểm sát nhân dân cùng cấp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 2 Điều 149 Bộ luật Dân sự năm 2015.",
+      "topic": "Thời hạn, thời hiệu"
+    },
+    {
+      "id": 27,
+      "question": "Nội dung nào sau đây là đúng về thời hiệu hưởng quyền dân sự theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là thời hạn mà khi bắt đầu thì chủ thể được hưởng quyền ngay lập tức.",
+        "B. Là thời hạn mà khi kết thúc thời hạn đó thì chủ thể được hưởng quyền dân sự.",
+        "C. Là thời hạn do các bên tự đặt ra trong hợp đồng mua bán.",
+        "D. Là thời hạn mà Tòa án dùng để xử phạt các hành vi vi phạm."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào khoản 1 Điều 150 Bộ luật Dân sự năm 2015.",
+      "topic": "Thời hạn, thời hiệu"
+    },
+    {
+      "id": 28,
+      "question": "Theo Bộ luật Dân sự năm 2015, người được hưởng lợi từ việc áp dụng thời hiệu có quyền gì?",
+      "options": [
+        "A. Có quyền từ chối áp dụng thời hiệu (trừ trường hợp nhằm trốn tránh nghĩa vụ).",
+        "B. Có quyền yêu cầu Nhà nước bồi thường nếu thời hiệu quá ngắn.",
+        "C. Có quyền thay đổi thời hạn thời hiệu theo ý muốn của mình.",
+        "D. Có quyền chuyển nhượng quyền áp dụng thời hiệu cho người khác lấy tiền."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ vào khoản 2 Điều 149 Bộ luật Dân sự năm 2015.",
+      "topic": "Thời hạn, thời hiệu"
+    },
+    {
+      "id": 29,
+      "question": "Nội dung nào sau đây là sai khi nói về tài sản theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Động sản là những tài sản không phải là bất động sản.",
+        "B. Bất động sản và động sản có thể là tài sản hiện có và tài sản hình thành trong tương lai.",
+        "C. Quyền sở hữu đối với động sản bắt buộc phải đăng ký trong mọi trường hợp.",
+        "D. Việc đăng ký tài sản phải được công khai."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ vào khoản 2 Điều 106 Bộ luật Dân sự năm 2015, động sản không phải đăng ký trừ trường hợp pháp luật quy định khác.",
+      "topic": "Tài sản"
+    },
+    {
+      "id": 30,
+      "question": "Theo Bộ luật Dân sự năm 2015, đâu không phải là một loại thời hiệu được quy định?",
+      "options": [
+        "A. Thời hiệu hưởng quyền dân sự.",
+        "B. Thời hiệu miễn trừ nghĩa vụ dân sự.",
+        "C. Thời hiệu truy cứu trách nhiệm hình sự trong quan hệ dân sự.",
+        "D. Thời hiệu yêu cầu giải quyết việc dân sự."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 150 Bộ luật Dân sự năm 2015.",
+      "topic": "Thời hạn, thời hiệu"
+    },
+    {
+      "id": 31,
+      "question": "Nội dung nào sau đây là đúng về thời điểm bắt đầu thời hiệu khởi kiện vụ án dân sự theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Tính từ ngày người có quyền yêu cầu phát hiện ra hành vi vi phạm.",
+        "B. Tính từ ngày người có quyền yêu cầu biết hoặc phải biết quyền, lợi ích hợp pháp của mình bị xâm phạm.",
+        "C. Tính từ ngày xảy ra hành vi xâm phạm quyền và lợi ích hợp pháp.",
+        "D. Tính từ ngày cơ quan nhà nước có thẩm quyền lập biên bản về hành vi vi phạm."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 154 Bộ luật Dân sự năm 2015.",
+      "topic": "Thời hạn, thời hiệu"
+    },
+    {
+      "id": 32,
+      "question": "Đâu là trường hợp không áp dụng thời hiệu khởi kiện theo quy định của Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Tranh chấp về hợp đồng vay tài sản giữa cá nhân với cá nhân.",
+        "B. Yêu cầu bảo vệ quyền nhân thân gắn với tài sản.",
+        "C. Yêu cầu bảo vệ quyền sở hữu, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.",
+        "D. Tranh chấp về bồi thường thiệt hại ngoài hợp đồng."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 155 Bộ luật Dân sự năm 2015.",
+      "topic": "Thời hạn, thời hiệu"
+    },
+    {
+      "id": 33,
+      "question": "Theo Bộ luật Dân sự năm 2015, sự kiện bất khả kháng là sự kiện xảy ra như thế nào để được tính là thời gian không tính vào thời hiệu khởi kiện?",
+      "options": [
+        "A. Xảy ra khách quan, có thể lường trước nhưng không thể khắc phục.",
+        "B. Xảy ra khách quan, không thể lường trước nhưng có thể khắc phục nếu dùng mọi biện pháp.",
+        "C. Xảy ra chủ quan, không thể lường trước và không thể khắc phục.",
+        "D. Xảy ra một cách khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích Chọn đáp án D. Bởi: Căn cứ Khoản 1 Điều 156 Bộ luật Dân sự năm 2015.",
+      "topic": "Thời hạn, thời hiệu"
+    },
+    {
+      "id": 34,
+      "question": "Quyền sở hữu theo Bộ luật Dân sự năm 2015 bao gồm những quyền nào sau đây?",
+      "options": [
+        "A. Quyền chiếm hữu, quyền sử dụng và quyền định đoạt tài sản.",
+        "B. Quyền khai thác, quyền quản lý và quyền tiêu dùng.",
+        "C. Quyền chiếm giữ, quyền hưởng dụng và quyền bề mặt.",
+        "D. Quyền chiếm hữu, quyền hưởng dụng và quyền định đoạt tài sản."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điều 158 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền sở hữu"
+    },
+    {
+      "id": 35,
+      "question": "Nội dung nào sau đây là đúng khi nói về “Quyền khác đối với tài sản” theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là quyền của chủ sở hữu đối với tài sản của mình.",
+        "B. Là quyền của chủ thể trực tiếp nắm giữ, chi phối tài sản thuộc quyền sở hữu của chủ thể khác.",
+        "C. Là quyền chỉ được xác lập thông qua hợp đồng mua bán tài sản.",
+        "D. Là quyền của Nhà nước đối với mọi loại tài sản trong xã hội."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 159 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền khác đối với tài sản"
+    },
+    {
+      "id": 36,
+      "question": "Theo Bộ luật Dân sự năm 2015, nguyên tắc nào sau đây là đúng khi thực hiện quyền sở hữu và quyền khác đối với tài sản?",
+      "options": [
+        "A. Chủ sở hữu được thực hiện mọi hành vi theo ý chí của mình kể cả gây thiệt hại cho người khác.",
+        "B. Quyền khác đối với tài sản sẽ chấm dứt ngay khi quyền sở hữu được chuyển giao cho người mới.",
+        "C. Quyền khác đối với tài sản vẫn có hiệu lực trong trường hợp quyền sở hữu được chuyển giao, trừ trường hợp luật có quy định khác.",
+        "D. Chủ thể có quyền khác đối với tài sản không được thực hiện bất kỳ hành vi nào nếu chưa được chủ sở hữu đồng ý bằng văn bản."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 1 Điều 160 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền sở hữu và quyền khác đối với tài sản"
+    },
+    {
+      "id": 37,
+      "question": "Trường hợp luật không quy định và các bên không có thỏa thuận, thời điểm xác lập quyền sở hữu theo Bộ luật Dân sự năm 2015 là khi nào?",
+      "options": [
+        "A. Khi các bên ký kết hợp đồng.",
+        "B. Khi một bên đã thanh toán xong tiền.",
+        "C. Khi tài sản được chuyển giao.",
+        "D. Khi cơ quan nhà nước cấp giấy chứng nhận quyền sở hữu."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 1 Điều 161 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền sở hữu"
+    },
+    {
+      "id": 38,
+      "question": "Theo Bộ luật Dân sự năm 2015, chủ sở hữu phải chịu rủi ro đối với tài sản trong trường hợp nào?",
+      "options": [
+        "A. Chủ sở hữu chỉ phải chịu rủi ro đối với tài sản khi thiệt hại phát sinh do lỗi của chủ thể khác gây ra.",
+        "B. Chịu rủi ro về tài sản thuộc sở hữu của mình, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác.",
+        "C. Chủ sở hữu chỉ chịu rủi ro đối với tài sản kể từ thời điểm hoàn thành thủ tục đăng ký quyền sở hữu theo quy định.",
+        "D. Chủ sở hữu không phải chịu rủi ro đối với tài sản trong thời gian tài sản được giao cho bên nhận giữ hợp pháp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 162 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền sở hữu"
+    },
+    {
+      "id": 39,
+      "question": "Nhà nước trưng mua tài sản của tổ chức, cá nhân theo giá thị trường trong trường hợp thật cần thiết vì lý do nào sau đây theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Để phục vụ mục tiêu phát triển kinh tế – xã hội và chỉnh trang đô thị theo quy hoạch được phê duyệt.",
+        "B. Vì lý do quốc phòng, an ninh hoặc vì lợi ích quốc gia, tình trạng khẩn cấp, phòng chống thiên tai.",
+        "C. Theo đề nghị của doanh nghiệp nhà nước nhằm đáp ứng nhu cầu mở rộng hoạt động sản xuất, kinh doanh.",
+        "D. Khi tài sản không được chủ sở hữu khai thác, sử dụng hiệu quả trong thời gian dài."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 163 Bộ luật Dân sự năm 2015.",
+      "topic": "Bảo vệ quyền sở hữu"
+    },
+    {
+      "id": 40,
+      "question": "Chủ sở hữu có quyền yêu cầu Tòa án buộc người có hành vi xâm phạm thực hiện biện pháp nào sau đây theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Trả lại tài sản, chấm dứt hành vi cản trở trái pháp luật và bồi thường thiệt hại.",
+        "B. Buộc chuyển giao quyền sở hữu tài sản bị xâm phạm cho Nhà nước theo quyết định của Tòa án.",
+        "C. Buộc người có hành vi xâm phạm phải chuyển nhượng tài sản cho chủ thể khác nhằm chấm dứt tranh chấp.",
+        "D. Buộc người có hành vi xâm phạm phải chịu hình phạt tương ứng theo quy định của pháp luật."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Khoản 2 Điều 164 Bộ luật Dân sự năm 2015.",
+      "topic": "Bảo vệ quyền sở hữu"
+    },
+    {
+      "id": 41,
+      "question": "Đâu là trường hợp chiếm hữu không có căn cứ pháp luật theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Người được chủ sở hữu ủy quyền quản lý tài sản.",
+        "B. Người phát hiện và giữ tài sản vô chủ phù hợp với quy định pháp luật.",
+        "C. Người được chuyển giao quyền chiếm hữu thông qua giao dịch dân sự trái pháp luật.",
+        "D. Người phát hiện gia súc bị thất lạc phù hợp với điều kiện luật định."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 165 Bộ luật Dân sự năm 2015.",
+      "topic": "Chiếm hữu"
+    },
+    {
+      "id": 42,
+      "question": "Theo Bộ luật Dân sự năm 2015, chủ sở hữu không có quyền đòi lại tài sản từ đối tượng nào sau đây?",
+      "options": [
+        "A. Người chiếm hữu tài sản không có căn cứ pháp luật.",
+        "B. Chủ thể đang có quyền khác đối với tài sản đó.",
+        "C. Người được lợi về tài sản không có căn cứ pháp luật.",
+        "D. Người sử dụng tài sản không có căn cứ pháp luật."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 166 Bộ luật Dân sự năm 2015.",
+      "topic": "Bảo vệ quyền sở hữu"
+    },
+    {
+      "id": 43,
+      "question": "Đối với động sản không phải đăng ký quyền sở hữu, chủ sở hữu được đòi lại từ người chiếm hữu ngay tình trong trường hợp nào theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Khi người chiếm hữu ngay tình có được thông qua hợp đồng có đền bù.",
+        "B. Khi người chiếm hữu ngay tình có được thông qua hợp đồng không có đền bù với người không có quyền định đoạt tài sản.",
+        "C. Trong mọi trường hợp mà người chiếm hữu không phải là chủ sở hữu.",
+        "D. Khi tài sản được bán đấu giá tại tổ chức có thẩm quyền."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 167 Bộ luật Dân sự năm 2015.",
+      "topic": "Bảo vệ quyền sở hữu"
+    },
+    {
+      "id": 44,
+      "question": "Nội dung nào sau đây đúng khi nói về quyền đòi lại bất động sản từ người chiếm hữu ngay tình theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Chủ sở hữu được đòi lại trừ trường hợp người thứ ba ngay tình xác lập giao dịch căn cứ vào việc đăng ký tại cơ quan nhà nước.",
+        "B. Chủ sở hữu không được đòi lại bất động sản nếu người chiếm hữu ngay tình đã quản lý, sử dụng ổn định trong một thời gian dài.",
+        "C. Chủ sở hữu luôn có quyền đòi lại bất động sản từ người chiếm hữu ngay tình mà không phụ thuộc vào căn cứ xác lập giao dịch.",
+        "D. Quyền đòi lại bất động sản chỉ được thực hiện khi giá trị tài sản không vượt quá một mức nhất định theo quy định của pháp luật."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điều 168 Bộ luật Dân sự năm 2015 và khoản 2 Điều 133.",
+      "topic": "Bảo vệ quyền sở hữu"
+    },
+    {
+      "id": 45,
+      "question": "Khi có hành vi cản trở trái pháp luật đối với việc thực hiện quyền sở hữu, chủ thể có quyền gì theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Yêu cầu người có hành vi cản trở phải nhận chuyển nhượng lại tài sản nhằm chấm dứt tranh chấp.",
+        "B. Chủ thể có quyền áp dụng các biện pháp cần thiết để tự bảo vệ quyền sở hữu của mình.",
+        "C. Yêu cầu người đó chấm dứt hành vi hoặc yêu cầu Tòa án buộc người đó chấm dứt hành vi.",
+        "D. Chủ thể không có quyền yêu cầu chấm dứt hành vi cản trở nếu chưa phát sinh thiệt hại vật chất."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 169 Bộ luật Dân sự năm 2015.",
+      "topic": "Bảo vệ quyền sở hữu"
+    },
+    {
+      "id": 46,
+      "question": "Theo Bộ luật Dân sự năm 2015, khi thực hiện quyền sở hữu, chủ thể phải tuân thủ nghĩa vụ nào để bảo đảm trật tự xã hội?",
+      "options": [
+        "A. Chỉ cần không thực hiện hành vi bị pháp luật hình sự nghiêm cấm khi sử dụng tài sản.",
+        "B. Tôn trọng, bảo đảm trật tự, an toàn xã hội, không được lạm dụng quyền để gây thiệt hại lợi ích công cộng.",
+        "C. Phải thực hiện việc thông báo hoặc xin phép cơ quan có thẩm quyền trước khi sử dụng tài sản trong một số trường hợp.",
+        "D. Phải thực hiện nghĩa vụ tài chính định kỳ để bảo đảm an ninh, trật tự trong quá trình sử dụng tài sản."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 173 Bộ luật Dân sự năm 2015.",
+      "topic": "Nghĩa vụ của chủ sở hữu"
+    },
+    {
+      "id": 47,
+      "question": "Ranh giới giữa các bất động sản liền kề có thể được xác định dựa trên căn cứ nào sau đây theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Theo thỏa thuận, quyết định của cơ quan nhà nước hoặc ranh giới tồn tại từ 30 năm trở lên không tranh chấp.",
+        "B. Ranh giới do chủ sở hữu bất động sản có diện tích hoặc giá trị lớn hơn xác lập và được các bên mặc nhiên thừa nhận.",
+        "C. Ranh giới giữa các bất động sản liền kề phải được xác định bằng các công trình ngăn cách vật chất như kênh, mương, hàng rào.",
+        "D. Ranh giới được xác định căn cứ vào bản đồ địa chính hoặc hồ sơ quản lý đất đai của các giai đoạn lịch sử trước đây."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Khoản 1 Điều 175 Bộ luật Dân sự năm 2015.",
+      "topic": "Ranh giới tài sản"
+    },
+    {
+      "id": 48,
+      "question": "Theo Bộ luật Dân sự năm 2015, chủ sở hữu bất động sản liền kề phải xử lý như thế nào nếu rễ cây, cành cây vượt quá ranh giới?",
+      "options": [
+        "A. Chủ sở hữu bất động sản liền kề có quyền tự mình chặt bỏ rễ cây, cành cây vượt quá ranh giới mà không cần sự đồng ý của chủ sở hữu cây.",
+        "B. Phải xén rễ, cắt, tỉa cành phần vượt quá, trừ trường hợp có thỏa thuận khác.",
+        "C. Chủ sở hữu bất động sản liền kề được quyền thu hoạch hoa, quả phát sinh từ cành cây vượt quá ranh giới đất.",
+        "D. Có quyền đề nghị cơ quan nhà nước có thẩm quyền thu hồi, xử lý cây gây ảnh hưởng đến ranh giới bất động sản liền kề."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 175 Bộ luật Dân sự năm 2015.",
+      "topic": "Ranh giới tài sản"
+    },
+    {
+      "id": 49,
+      "question": "Nội dung nào sau đây là đúng về mốc giới ngăn cách các bất động sản theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Mốc giới được xác lập trên ranh giới bất động sản thuộc quyền sở hữu của người trực tiếp đầu tư xây dựng mốc giới đó.",
+        "B. Đối với cây được xác định là mốc giới chung, hoa lợi phát sinh được phân chia theo tỷ lệ diện tích đất của mỗi bên.",
+        "C. Đối với cây là mốc giới chung, các bên đều có nghĩa vụ bảo vệ và hoa lợi thu được chia đều, trừ trường hợp có thỏa thuận khác.",
+        "D. Chủ sở hữu được quyền mở cửa sổ, lỗ thông gió trên tường là mốc giới chung nếu không làm ảnh hưởng đáng kể đến bất động sản liền kề."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 3 Điều 176 Bộ luật Dân sự năm 2015.",
+      "topic": "Mốc giới tài sản"
+    },
+    {
+      "id": 50,
+      "question": "Chủ sở hữu thực hiện quyền chiếm hữu đối với tài sản của mình như thế nào theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Thực hiện mọi hành vi theo ý chí của mình nhưng không được trái pháp luật, đạo đức xã hội.",
+        "B. Chủ sở hữu chỉ được thực hiện quyền chiếm hữu đối với tài sản khi có sự chứng kiến hoặc xác nhận của cơ quan có thẩm quyền.",
+        "C. Việc chiếm hữu tài sản của chủ sở hữu phải được đăng ký tại cơ quan nhà nước có thẩm quyền theo quy định.",
+        "D. Chủ sở hữu không được chuyển giao quyền chiếm hữu tài sản cho người khác dưới bất kỳ hình thức nào."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điều 186 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền chiếm hữu"
+    },
+    {
+      "id": 51,
+      "question": "Quyền sử dụng tài sản theo quy định của Bộ luật Dân sự năm 2015 bao gồm những nội dung gì?",
+      "options": [
+        "A. Quyền bán, trao đổi hoặc tặng cho tài sản cho người khác.",
+        "B. Quyền khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản.",
+        "C. Quyền thay đổi cấu trúc pháp lý của tài sản.",
+        "D. Quyền đại diện cho chủ sở hữu để định đoạt tài sản."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 189 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền sử dụng"
+    },
+    {
+      "id": 52,
+      "question": "Theo Bộ luật Dân sự năm 2015, quyền định đoạt là quyền nào sau đây?",
+      "options": [
+        "A. Quyền nắm giữ và quản lý tài sản theo thời hạn.",
+        "B. Quyền khai thác các giá trị sử dụng của tài sản trong sản xuất.",
+        "C. Quyền chuyển giao quyền sở hữu tài sản, từ bỏ quyền sở hữu, tiêu dùng hoặc tiêu hủy tài sản.",
+        "D. Quyền ưu tiên mua tài sản khi chủ sở hữu có ý định bán."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 192 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền định đoạt"
+    },
+    {
+      "id": 53,
+      "question": "Điều kiện để thực hiện quyền định đoạt tài sản theo Bộ luật Dân sự năm 2015 là gì?",
+      "options": [
+        "A. Việc định đoạt tài sản phải có sự thống nhất ý chí của các thành viên trong gia đình có liên quan đến tài sản.",
+        "B. Do người có năng lực hành vi dân sự thực hiện không trái quy định của pháp luật.",
+        "C. Chỉ được thực hiện quyền định đoạt đối với tài sản có giá trị từ một mức nhất định theo quy định của pháp luật.",
+        "D. Việc định đoạt tài sản phải được thực hiện thông qua hình thức đấu giá công khai nhằm bảo đảm tính minh bạch."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 193 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền định đoạt"
+    },
+    {
+      "id": 54,
+      "question": "Tài sản nào sau đây thuộc sở hữu toàn dân theo quy định của Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Đất đai, tài nguyên nước, tài nguyên khoáng sản và tài sản do Nhà nước đầu tư, quản lý.",
+        "B. Nhà ở của cá nhân được xây dựng trên đất thuê của Nhà nước.",
+        "C. Vốn góp của tư nhân vào các doanh nghiệp cổ phần.",
+        "D. Tài sản của các tổ chức tôn giáo được hình thành từ sự đóng góp của tín đồ."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điều 197 Bộ luật Dân sự năm 2015.",
+      "topic": "Hình thức sở hữu"
+    },
+    {
+      "id": 55,
+      "question": "Chủ thể nào đại diện thực hiện quyền của chủ sở hữu đối với tài sản thuộc sở hữu toàn dân theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Ủy ban Mặt trận Tổ quốc Việt Nam.",
+        "B. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+        "C. Các tập đoàn kinh tế đa quốc gia đang khai thác tài nguyên.",
+        "D. Hội đồng nhân dân các cấp nơi có tài sản."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 198 Bộ luật Dân sự năm 2015.",
+      "topic": "Hình thức sở hữu"
+    },
+    {
+      "id": 56,
+      "question": "Theo Bộ luật Dân sự năm 2015, thời gian không tính vào thời hiệu khởi kiện bao gồm trường hợp nào dưới đây?",
+      "options": [
+        "A. Bên có nghĩa vụ thừa nhận toàn bộ hoặc một phần nghĩa vụ của mình trong thời gian xảy ra tranh chấp.",
+        "B. Chưa có người đại diện cho người chưa thành niên, người mất năng lực hành vi dân sự.",
+        "C. Các bên đang tiến hành thương lượng, hòa giải để chuẩn bị xác lập giao dịch dân sự mới.",
+        "D. Người có quyền khởi kiện không thể thực hiện việc khởi kiện do đi công tác hoặc cư trú ở nước ngoài trong thời gian dài."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 156 Bộ luật Dân sự năm 2015.",
+      "topic": "Thời hạn, thời hiệu"
+    },
+    {
+      "id": 57,
+      "question": "Thời hiệu khởi kiện vụ án dân sự bắt đầu lại trong trường hợp nào theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Người có quyền khởi kiện lâm vào tình trạng ốm đau, bệnh tật kéo dài không thể thực hiện quyền khởi kiện.",
+        "B. Bên có nghĩa vụ đã thừa nhận một phần hoặc toàn bộ nghĩa vụ của mình đối với người khởi kiện.",
+        "C. Khi có sự thay đổi về quy định của pháp luật đối với loại tranh chấp đó.",
+        "D. Khi người khởi kiện ủy quyền cho luật sư tham gia tố tụng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 157 Bộ luật Dân sự năm 2015.",
+      "topic": "Thời hạn, thời hiệu"
+    },
+    {
+      "id": 58,
+      "question": "Theo Bộ luật Dân sự năm 2015, quyền yêu cầu bồi thường thiệt hại của chủ sở hữu được quy định như thế nào?",
+      "options": [
+        "A. Chỉ phát sinh quyền yêu cầu bồi thường trong trường hợp hành vi xâm phạm do cá nhân thực hiện.",
+        "B. Chủ sở hữu có quyền yêu cầu người có hành vi xâm phạm quyền sở hữu bồi thường thiệt hại.",
+        "C. Chủ sở hữu chỉ được yêu cầu bồi thường khi tài sản bị hủy hoại hoàn toàn, không còn khả năng khôi phục.",
+        "D. Việc yêu cầu bồi thường thiệt hại phải được thực hiện sau khi đã tiến hành hòa giải tại Ủy ban nhân dân cấp xã nơi xảy ra thiệt hại."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 170 Bộ luật Dân sự năm 2015.",
+      "topic": "Bảo vệ quyền sở hữu"
+    },
+    {
+      "id": 59,
+      "question": "Nội dung nào đúng về việc thu hoa lợi, lợi tức khi tài sản chưa được chuyển giao theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Thuộc về bên nhận tài sản kể từ ngày ký hợp đồng.",
+        "B. Thuộc về bên có tài sản chuyển giao, trừ trường hợp có thỏa thuận khác.",
+        "C. Phải nộp vào ngân sách nhà nước trong thời gian chờ giao tài sản.",
+        "D. Chia đều cho hai bên tham gia giao dịch."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 161 Bộ luật Dân sự năm 2015.",
+      "topic": "Quyền sở hữu"
+    },
+    {
+      "id": 60,
+      "question": "Theo Bộ luật Dân sự năm 2015, đối với tài sản thuộc sở hữu toàn dân mà chưa được giao quản lý thì cơ quan nào có trách nhiệm tổ chức bảo vệ?",
+      "options": [
+        "A. Quốc hội",
+        "B. Chính phủ",
+        "C. Bộ Tài chính",
+        "D. Ủy ban nhân dân cấp tỉnh"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 204 Bộ luật Dân sự năm 2015 quy định Chính phủ tổ chức thực hiện việc bảo vệ, quy hoạch khai thác.",
+      "topic": "Hình thức sở hữu"
+    }
+  ]
+},
+{
+  "id": "DS_DE_03",
+  "title": "Đề 03: Bộ luật Dân sự năm 2015",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Đâu là khẳng định đúng khi nói về tài sản thuộc sở hữu riêng theo quy định của Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Tài sản hợp pháp thuộc sở hữu riêng bị hạn chế về giá trị nhưng không hạn chế về số lượng",
+        "B. Tài sản hợp pháp thuộc sở hữu riêng bị hạn chế về số lượng nhưng không hạn chế về giá trị",
+        "C. Tài sản hợp pháp thuộc sở hữu riêng không bị hạn chế về số lượng, giá trị",
+        "D. Tài sản hợp pháp thuộc sở hữu riêng chỉ bao gồm động sản, không bao gồm bất động sản"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 205 Bộ luật Dân sự năm 2015 quy định: '1. Sở hữu riêng là sở hữu của một cá nhân hoặc một pháp nhân. 2. Tài sản hợp pháp thuộc sở hữu riêng không bị hạn chế về số lượng, giá trị.'",
+      "topic": "Sở hữu riêng"
+    },
+    {
+      "id": 2,
+      "question": "Theo Bộ luật Dân sự năm 2015, chủ sở hữu có quyền chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng nhằm mục đích nào sau đây?",
+      "options": [
+        "A. Chỉ được sử dụng để đáp ứng nhu cầu sinh hoạt và tiêu dùng cá nhân, không bao gồm các hoạt động khác.",
+        "B. Phục vụ nhu cầu sinh hoạt, tiêu dùng, sản xuất, kinh doanh và các mục đích khác không trái pháp luật",
+        "C. Được thực hiện theo ý chí của chủ sở hữu, không phụ thuộc vào việc mục đích đó có trái quy định của pháp luật hay không.",
+        "D. Chỉ được sử dụng cho mục đích sản xuất và kinh doanh, không bao gồm nhu cầu sinh hoạt hoặc tiêu dùng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 206 Bộ luật Dân sự năm 2015 quy định mục đích sử dụng tài sản sở hữu riêng đa dạng nhưng phải không trái pháp luật.",
+      "topic": "Sở hữu riêng"
+    },
+    {
+      "id": 3,
+      "question": "Theo Bộ luật Dân sự năm 2015, nội dung nào sau đây định nghĩa đúng về sở hữu chung?",
+      "options": [
+        "A. Sở hữu chung là sở hữu của hai cá nhân đối với một tài sản",
+        "B. Sở hữu chung là sở hữu của nhiều chủ thể đối với tài sản",
+        "C. Sở hữu chung là sở hữu của Nhà nước và tư nhân đối với cùng một tài sản",
+        "D. Sở hữu chung là sở hữu của các thành viên trong một tổ chức chính trị"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 207 Bộ luật Dân sự năm 2015 quy định: 'Sở hữu chung là sở hữu của nhiều chủ thể đối với tài sản.'",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 4,
+      "question": "Đâu là quy định đúng về sở hữu chung theo phần theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là sở hữu chung mà phần quyền sở hữu của mỗi chủ sở hữu không được xác định",
+        "B. Là sở hữu chung mà trong đó phần quyền sở hữu của mỗi chủ sở hữu được xác định đối với tài sản chung",
+        "C. Là sở hữu chung chỉ áp dụng đối với các thành viên trong gia đình",
+        "D. Là sở hữu chung mà các chủ thể luôn có phần quyền bằng nhau"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 209 Bộ luật Dân sự năm 2015 quy định đặc điểm cốt lõi của sở hữu chung theo phần.",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 5,
+      "question": "Theo Bộ luật Dân sự năm 2015, nội dung nào sau đây là đúng khi nói về sở hữu chung hợp nhất?",
+      "options": [
+        "A. Là sở hữu chung mà phần quyền sở hữu của mỗi chủ sở hữu được xác định rõ ràng",
+        "B. Là sở hữu chung mà trong đó, phần quyền sở hữu của mỗi chủ sở hữu chung không được xác định đối với tài sản chung",
+        "C. Chỉ bao gồm sở hữu chung hợp nhất không thể phân chia",
+        "D. Các chủ sở hữu chung hợp nhất có quyền và nghĩa vụ khác nhau tùy theo đóng góp"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 210 Bộ luật Dân sự năm 2015 quy định sở hữu chung hợp nhất không xác định phần quyền của mỗi chủ sở hữu tại thời điểm xác lập.",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 6,
+      "question": "Theo quy định tại Bộ luật Dân sự năm 2015, tính chất của tài sản chung của cộng đồng được xác định như thế nào?",
+      "options": [
+        "A. Là tài sản chung theo phần có thể phân chia",
+        "B. Là tài sản chung hợp nhất có thể phân chia",
+        "C. Là tài sản chung hợp nhất không phân chia",
+        "D. Là tài sản thuộc sở hữu riêng của người đứng đầu cộng đồng"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 3 Điều 211 Bộ luật Dân sự năm 2015 quy định tài sản chung cộng đồng là hợp nhất không phân chia.",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 7,
+      "question": "Theo Bộ luật Dân sự năm 2015, khi định đoạt tài sản là bất động sản của gia đình mà không có thỏa thuận thì cần sự đồng ý của đối tượng nào?",
+      "options": [
+        "A. Người đại diện hợp pháp của gia đình được ghi nhận trên Giấy chứng nhận quyền sử dụng đất",
+        "B. Toàn bộ các thành viên gia đình đang cùng sinh sống và có quyền, lợi ích liên quan đến tài sản, không phụ thuộc vào độ tuổi",
+        "C. Tất cả các thành viên gia đình là người thành niên có năng lực hành vi dân sự đầy đủ",
+        "D. Cha và mẹ là những người giữ vai trò chủ hộ hoặc người quản lý tài sản chung của gia đình"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 212 Bộ luật Dân sự năm 2015 yêu cầu sự thỏa thuận của các thành viên thành niên có năng lực hành vi dân sự đầy đủ.",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 8,
+      "question": "Đâu là nhận định đúng về sở hữu chung của vợ chồng theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Sở hữu chung của vợ chồng được xác lập theo chế độ sở hữu chung theo phần, căn cứ vào mức độ đóng góp của mỗi bên",
+        "B. Sở hữu chung của vợ chồng là sở hữu chung hợp nhất và về nguyên tắc không đặt ra việc phân chia trong thời kỳ hôn nhân",
+        "C. Sở hữu chung của vợ chồng là sở hữu chung hợp nhất có thể phân chia",
+        "D. Quyền định đoạt tài sản chung của vợ chồng được thực hiện theo sự phân công vai trò giữa vợ và chồng, không hoàn toàn ngang bằng"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 1 Điều 213 Bộ luật Dân sự năm 2015 quy định sở hữu chung vợ chồng là hợp nhất có thể phân chia.",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 9,
+      "question": "Theo Bộ luật Dân sự năm 2015, phần diện tích, trang thiết bị dùng chung trong nhà chung cư thuộc hình thức sở hữu nào?",
+      "options": [
+        "A. Sở hữu chung theo phần của các chủ sở hữu căn hộ",
+        "B. Sở hữu chung hợp nhất của tất cả chủ sở hữu các căn hộ và không phân chia",
+        "C. Sở hữu riêng của Ban quản trị nhà chung cư",
+        "D. Sở hữu của chủ đầu tư xây dựng dự án chung cư đó"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 214 Bộ luật Dân sự năm 2015.",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 10,
+      "question": "Theo Bộ luật Dân sự năm 2015, sở hữu chung hỗn hợp được hiểu là gì?",
+      "options": [
+        "A. Sở hữu đối với tài sản của dòng họ và cộng đồng dân cư",
+        "B. Sở hữu đối với tài sản do các chủ sở hữu thuộc các thành phần kinh tế khác nhau góp vốn để sản xuất, kinh doanh thu lợi nhuận",
+        "C. Sở hữu của vợ chồng đối với tài sản hình thành trong thời kỳ hôn nhân",
+        "D. Sở hữu của Nhà nước đối với các doanh nghiệp có vốn đầu tư nước ngoài"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 215 Bộ luật Dân sự năm 2015.",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 11,
+      "question": "Các chủ sở hữu chung quản lý tài sản chung theo nguyên tắc nào theo quy định của Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Quản lý tài sản chung được thực hiện theo nguyên tắc quyết định của đa số chủ sở hữu, trừ trường hợp các bên có thỏa thuận khác",
+        "B. Nguyên tắc nhất trí",
+        "C. Việc quản lý tài sản chung được thực hiện theo ý chí của chủ sở hữu có giá trị phần quyền sở hữu lớn nhất đối với tài sản",
+        "D. Việc quản lý tài sản chung do cơ quan nhà nước có thẩm quyền quyết định trong trường hợp các chủ sở hữu không thống nhất được ý chí"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 216 Bộ luật Dân sự năm 2015 quy định nguyên tắc nhất trí trong quản lý tài sản chung.",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 12,
+      "question": "Theo Bộ luật Dân sự năm 2015, khi một chủ sở hữu chung theo phần bán phần quyền sở hữu của mình đối với bất động sản thì thời hạn ưu tiên mua của các chủ sở hữu chung khác là bao lâu?",
+      "options": [
+        "A. 01 tháng kể từ ngày nhận được thông báo",
+        "B. 02 tháng kể từ ngày nhận được thông báo",
+        "C. 03 tháng kể từ ngày nhận được thông báo",
+        "D. 15 ngày kể từ ngày nhận được thông báo"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 3 Điều 218 Bộ luật Dân sự năm 2015 quy định thời hạn 03 tháng cho bất động sản.",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 13,
+      "question": "Theo Bộ luật Dân sự năm 2015, thời hạn ưu tiên mua đối với động sản thuộc sở hữu chung theo phần là bao lâu kể từ ngày nhận được thông báo?",
+      "options": [
+        "A. 15 ngày",
+        "B. 01 tháng",
+        "C. 02 tháng",
+        "D. 03 tháng"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 3 Điều 218 Bộ luật Dân sự năm 2015 quy định thời hạn 01 tháng cho động sản.",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 14,
+      "question": "Nội dung nào sau đây là đúng về thời hiệu yêu cầu Tòa án giải quyết khi có sự vi phạm về quyền ưu tiên mua tài sản chung theo phần theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Trong thời hạn 01 tháng kể từ ngày phát hiện vi phạm",
+        "B. Trong thời hạn 03 tháng kể từ ngày phát hiện vi phạm",
+        "C. Trong thời hạn 06 tháng kể từ ngày phát hiện vi phạm",
+        "D. Trong thời hạn 01 năm kể từ ngày phát hiện vi phạm"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 3 Điều 218 Bộ luật Dân sự năm 2015.",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 15,
+      "question": "Theo Bộ luật Dân sự năm 2015, trường hợp một trong các chủ sở hữu chung đối với bất động sản từ bỏ phần quyền sở hữu của mình hoặc khi người này chết mà không có người thừa kế thì phần quyền đó thuộc về ai?",
+      "options": [
+        "A. Thuộc về các chủ sở hữu chung còn lại",
+        "B. Thuộc về Nhà nước",
+        "C. Thuộc về Ủy ban nhân dân cấp xã nơi có bất động sản",
+        "D. Thuộc về người đang trực tiếp sử dụng bất động sản đó"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 4 Điều 218 Bộ luật Dân sự năm 2015, phần quyền đó thuộc về Nhà nước (trừ sở hữu chung cộng đồng).",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 16,
+      "question": "Theo Bộ luật Dân sự năm 2015, khi tài sản chung không thể chia được bằng hiện vật thì chủ sở hữu chung có yêu cầu chia có quyền làm gì?",
+      "options": [
+        "A. Yêu cầu các chủ sở hữu chung còn lại nhận phần tài sản tương ứng và thanh toán lại giá trị phần quyền sở hữu của mình",
+        "B. Bán phần quyền sở hữu của mình, trừ trường hợp các chủ sở hữu chung có thỏa thuận khác",
+        "C. Đề nghị cơ quan nhà nước có thẩm quyền xử lý tài sản chung theo trình tự pháp luật nhằm bảo đảm quyền lợi của các bên",
+        "D. Quyết định chấm dứt sự tồn tại của tài sản chung trong trường hợp việc tiếp tục quản lý, sử dụng không còn khả thi"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 219 Bộ luật Dân sự năm 2015.",
+      "topic": "Sở hữu chung"
+    },
+    {
+      "id": 17,
+      "question": "Đâu là khẳng định đúng về việc xác lập quyền sở hữu theo hợp đồng theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Người được giao tài sản thông qua hợp đồng thuê tài sản thì có quyền sở hữu tài sản đó",
+        "B. Người được giao tài sản thông qua hợp đồng mượn tài sản thì có quyền sở hữu tài sản đó",
+        "C. Người được giao tài sản thông qua hợp đồng mua bán, tặng cho, trao đổi, cho vay thì có quyền sở hữu tài sản đó",
+        "D. Mọi loại hợp đồng liên quan đến tài sản đều xác lập quyền sở hữu cho người nhận tài sản"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 223 Bộ luật Dân sự năm 2015.",
+      "topic": "Xác lập quyền sở hữu"
+    },
+    {
+      "id": 18,
+      "question": "Theo Bộ luật Dân sự năm 2015, chủ sở hữu, người sử dụng tài sản có quyền sở hữu đối với hoa lợi, lợi tức từ thời điểm nào?",
+      "options": [
+        "A. Từ thời điểm ký kết hợp đồng xác lập quyền sử dụng tài sản",
+        "B. Từ thời điểm thu được hoa lợi, lợi tức đó",
+        "C. Từ thời điểm hoa lợi bắt đầu hình thành trên tài sản gốc",
+        "D. Từ thời điểm đăng ký quyền sở hữu đối với hoa lợi, lợi tức"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 224 Bộ luật Dân sự năm 2015.",
+      "topic": "Xác lập quyền sở hữu"
+    },
+    {
+      "id": 19,
+      "question": "Theo quy định tại Bộ luật Dân sự năm 2015, tài sản vô chủ được định nghĩa là gì?",
+      "options": [
+        "A. Là tài sản không xác định được ai là người đã tạo ra nó",
+        "B. Là tài sản mà chủ sở hữu đã từ bỏ quyền sở hữu đối với tài sản đó",
+        "C. Là tài sản bị đánh rơi nhưng không có người nhặt",
+        "D. Là tài sản thuộc di tích lịch sử - văn hóa chưa được khai quật"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 228 Bộ luật Dân sự năm 2015.",
+      "topic": "Xác lập quyền sở hữu"
+    },
+    {
+      "id": 20,
+      "question": "Theo Bộ luật Dân sự năm 2015, sau bao lâu kể từ ngày thông báo công khai mà không xác định được ai là chủ sở hữu tài sản là động sản thì quyền sở hữu thuộc về người phát hiện?",
+      "options": [
+        "A. 01 năm",
+        "B. 02 năm",
+        "C. 03 năm",
+        "D. 04 năm"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Khoản 2 Điều 228 Bộ luật Dân sự năm 2015.",
+      "topic": "Xác lập quyền sở hữu"
+    },
+    {
+      "id": 21,
+      "question": "Theo Bộ luật Dân sự năm 2015, sau bao lâu kể từ ngày thông báo công khai mà không xác định được ai là chủ sở hữu tài sản là bất động sản thì bất động sản đó thuộc về Nhà nước?",
+      "options": [
+        "A. 02 năm",
+        "B. 03 năm",
+        "C. 05 năm",
+        "D. 10 năm"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 228 Bộ luật Dân sự năm 2015.",
+      "topic": "Xác lập quyền sở hữu"
+    },
+    {
+      "id": 22,
+      "question": "Nội dung nào sau đây là đúng về việc xác lập quyền sở hữu đối với tài sản bị chôn, giấu, chìm đắm được tìm thấy là di tích lịch sử - văn hóa theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Tài sản đó thuộc quyền sở hữu của người trực tiếp phát hiện và giao nộp theo quy định của pháp luật về di sản văn hóa",
+        "B. Tài sản đó thuộc sở hữu chung của người tìm thấy và người sở hữu đất nơi tìm thấy tài sản",
+        "C. Tài sản đó thuộc về Nhà nước",
+        "D. Tài sản đó thuộc quyền quản lý và sử dụng của Ủy ban nhân dân cấp tỉnh nơi phát hiện tài sản theo thẩm quyền được giao"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điểm a Khoản 2 Điều 229 Bộ luật Dân sự năm 2015.",
+      "topic": "Xác lập quyền sở hữu"
+    },
+    {
+      "id": 23,
+      "question": "Theo Bộ luật Dân sự năm 2015, tài sản bị chôn, giấu không phải di tích lịch sử khi tìm thấy có giá trị như thế nào thì thuộc sở hữu của người tìm thấy?",
+      "options": [
+        "A. Giá trị nhỏ hơn hoặc bằng năm lần mức lương cơ sở",
+        "B. Giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở",
+        "C. Giá trị nhỏ hơn hoặc bằng hai mươi lần mức lương cơ sở",
+        "D. Giá trị nhỏ hơn hoặc bằng mười lăm lần mức lương cơ sở"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điểm b Khoản 2 Điều 229 Bộ luật Dân sự năm 2015.",
+      "topic": "Xác lập quyền sở hữu"
+    },
+    {
+      "id": 24,
+      "question": "Đâu là căn cứ xác lập quyền sở hữu theo quy định của Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Do được nhận thừa kế",
+        "B. Do hành vi xâm phạm quyền của người khác",
+        "C. Do thuê tài sản trong thời hạn dài trên 20 năm",
+        "D. Do mượn tài sản và đã sử dụng trên 10 năm"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điều 234 Bộ luật Dân sự năm 2015.",
+      "topic": "Xác lập quyền sở hữu"
+    },
+    {
+      "id": 25,
+      "question": "Theo Bộ luật Dân sự năm 2015, quyền sở hữu có thể được xác lập căn cứ vào văn bản nào sau đây?",
+      "options": [
+        "A. Biên bản hòa giải tại Ủy ban nhân dân cấp xã được lập theo đúng trình tự, thủ tục pháp luật về hòa giải ở cơ sở",
+        "B. Bản án, quyết định có hiệu lực pháp luật của Tòa án, cơ quan nhà nước có thẩm quyền khác",
+        "C. Đơn khởi kiện được Tòa án nhân dân có thẩm quyền thụ lý theo quy định của pháp luật tố tụng",
+        "D. Hợp đồng thuê tài sản được công chứng hoặc chứng thực theo quy định của pháp luật"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 235 Bộ luật Dân sự năm 2015.",
+      "topic": "Xác lập quyền sở hữu"
+    },
+    {
+      "id": 26,
+      "question": "Theo Bộ luật Dân sự năm 2015, thời hạn chiếm hữu liên tục, công khai đối với bất động sản để trở thành chủ sở hữu theo thời hiệu là bao lâu?",
+      "options": [
+        "A. 10 năm",
+        "B. 20 năm",
+        "C. 30 năm",
+        "D. 50 năm"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 236 Bộ luật Dân sự năm 2015.",
+      "topic": "Xác lập quyền sở hữu theo thời hiệu"
+    },
+    {
+      "id": 27,
+      "question": "Nội dung nào sau đây định nghĩa đúng về nghĩa vụ theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Nghĩa vụ là việc một bên phải thực hiện đầy đủ các yêu cầu hợp pháp do bên còn lại đặt ra trong quan hệ dân sự",
+        "B. Nghĩa vụ là việc mà theo đó, bên có nghĩa vụ phải thực hiện một công việc nhất định vì lợi ích của bên có quyền",
+        "C. Nghĩa vụ là trách nhiệm của một chủ thể trong việc thanh toán tiền hoặc giá trị tài sản cho chủ thể khác",
+        "D. Nghĩa vụ phát sinh trên cơ sở bản án, quyết định đã có hiệu lực pháp luật của Tòa án nhân dân có thẩm quyền"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 274 Bộ luật Dân sự năm 2015.",
+      "topic": "Nghĩa vụ"
+    },
+    {
+      "id": 28,
+      "question": "Đâu không phải là căn cứ phát sinh nghĩa vụ theo quy định tại Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Hợp đồng dân sự",
+        "B. Hành vi pháp lý đơn phương",
+        "C. Sự kiện bất khả kháng làm chấm dứt mọi quan hệ tài sản",
+        "D. Gây thiệt hại do hành vi trái pháp luật"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 275 Bộ luật Dân sự năm 2015 liệt kê các căn cứ nhưng không có sự kiện bất khả kháng.",
+      "topic": "Nghĩa vụ"
+    },
+    {
+      "id": 29,
+      "question": "Đâu là đặc điểm của nghĩa vụ phân chia được theo phần theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là nghĩa vụ mà đối tượng phải được thực hiện cùng một lúc toàn bộ",
+        "B. Là nghĩa vụ mà đối tượng của nghĩa vụ có thể chia thành nhiều phần để thực hiện",
+        "C. Là nghĩa vụ chỉ áp dụng đối với quan hệ giữa vợ và chồng",
+        "D. Là nghĩa vụ bắt buộc phải thực hiện thông qua người thứ ba"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 290 Bộ luật Dân sự năm 2015.",
+      "topic": "Nghĩa vụ"
+    },
+    {
+      "id": 30,
+      "question": "Theo Bộ luật Dân sự năm 2015, nghĩa vụ không phân chia được theo phần có đặc điểm gì?",
+      "options": [
+        "A. Đối tượng của nghĩa vụ có thể chia thành nhiều giai đoạn thực hiện",
+        "B. Đối tượng của nghĩa vụ phải được thực hiện cùng một lúc",
+        "C. Mỗi người có nghĩa vụ chỉ thực hiện phần của mình là đủ",
+        "D. Chỉ phát sinh từ hành vi pháp lý đơn phương"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 291 Bộ luật Dân sự năm 2015.",
+      "topic": "Nghĩa vụ"
+    },
+    {
+      "id": 31,
+      "question": "Đâu là một trong các biện pháp bảo đảm thực hiện nghĩa vụ theo quy định tại Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Cho thuê tài sản",
+        "B. Bảo lưu quyền sở hữu",
+        "C. Ủy quyền quản lý tài sản",
+        "D. Gửi giữ tài sản"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 6 Điều 292 Bộ luật Dân sự năm 2015.",
+      "topic": "Biện pháp bảo đảm"
+    },
+    {
+      "id": 32,
+      "question": "Theo Bộ luật Dân sự năm 2015, nếu không có thỏa thuận và pháp luật không quy định thì phạm vi nghĩa vụ được bảo đảm là bao nhiêu?",
+      "options": [
+        "A. Phạm vi bảo đảm chỉ giới hạn đối với nghĩa vụ trả nợ gốc, không bao gồm các nghĩa vụ phát sinh khác",
+        "B. Bảo đảm toàn bộ, kể cả nghĩa vụ trả lãi, tiền phạt và bồi thường thiệt hại",
+        "C. Phạm vi nghĩa vụ được bảo đảm được xác định theo tỷ lệ nhất định do các bên suy đoán trên cơ sở giá trị tài sản bảo đảm",
+        "D. Phạm vi nghĩa vụ được bảo đảm do bên nhận bảo đảm quyết định căn cứ vào chính sách tín dụng và mức độ rủi ro"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 293 Bộ luật Dân sự năm 2015.",
+      "topic": "Biện pháp bảo đảm"
+    },
+    {
+      "id": 33,
+      "question": "Nội dung nào sau đây là đúng về bảo đảm thực hiện nghĩa vụ trong tương lai theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Khi nghĩa vụ trong tương lai được hình thành, các bên phải tiến hành xác lập lại biện pháp bảo đảm để bảo đảm hiệu lực pháp lý",
+        "B. Khi nghĩa vụ trong tương lai hình thành, các bên không phải xác lập lại biện pháp bảo đảm đối với nghĩa vụ đó",
+        "C. Việc bảo đảm thực hiện nghĩa vụ trong tương lai chỉ được áp dụng đối với biện pháp đặt cọc theo quy định của pháp luật",
+        "D. Các bên không được thỏa thuận về phạm vi nghĩa vụ được bảo đảm trong trường hợp bảo đảm nghĩa vụ trong tương lai"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 294 Bộ luật Dân sự năm 2015.",
+      "topic": "Biện pháp bảo đảm"
+    },
+    {
+      "id": 34,
+      "question": "Theo quy định của Bộ luật Dân sự năm 2015, tài sản bảo đảm phải thỏa mãn điều kiện nào sau đây?",
+      "options": [
+        "A. Tài sản bảo đảm phải là tài sản hiện có tại thời điểm xác lập biện pháp bảo đảm và không bao gồm tài sản hình thành trong tương lai",
+        "B. Phải thuộc quyền sở hữu của bên bảo đảm, trừ trường hợp cầm giữ tài sản, bảo lưu quyền sở hữu",
+        "C. Giá trị tài sản bảo đảm phải bảo đảm lớn hơn giá trị nghĩa vụ được bảo đảm nhằm bảo đảm khả năng thanh toán",
+        "D. Tài sản bảo đảm phải được áp dụng biện pháp niêm phong hoặc quản lý đặc biệt theo quyết định của Tòa án ngay sau khi giao kết"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 295 Bộ luật Dân sự năm 2015.",
+      "topic": "Biện pháp bảo đảm"
+    },
+    {
+      "id": 35,
+      "question": "Theo Bộ luật Dân sự năm 2015, một tài sản có thể dùng để bảo đảm thực hiện nhiều nghĩa vụ nếu thỏa mãn điều kiện nào?",
+      "options": [
+        "A. Có giá trị tại thời điểm xác lập giao dịch bảo đảm lớn hơn tổng giá trị các nghĩa vụ được bảo đảm",
+        "B. Việc dùng tài sản để bảo đảm nhiều nghĩa vụ phải được sự chấp thuận của Ủy ban nhân dân cấp tỉnh nơi có tài sản",
+        "C. Tài sản dùng để bảo đảm nhiều nghĩa vụ phải thuộc sở hữu Nhà nước theo quy định của pháp luật",
+        "D. Việc dùng một tài sản để bảo đảm nhiều nghĩa vụ chỉ được áp dụng đối với tài sản là động sản"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Khoản 1 Điều 296 Bộ luật Dân sự năm 2015.",
+      "topic": "Biện pháp bảo đảm"
+    },
+    {
+      "id": 36,
+      "question": "Theo Bộ luật Dân sự năm 2015, biện pháp bảo đảm phát sinh hiệu lực đối kháng với người thứ ba khi nào?",
+      "options": [
+        "A. Kể từ thời điểm hợp đồng bảo đảm được giao kết hợp pháp giữa các bên",
+        "B. Từ khi đăng ký biện pháp bảo đảm hoặc bên nhận bảo đảm nắm giữ hoặc chiếm giữ tài sản bảo đảm",
+        "C. Khi bên bảo đảm rơi vào tình trạng không có khả năng thực hiện nghĩa vụ thanh toán theo thỏa thuận",
+        "D. Sau khi hết một khoảng thời gian nhất định kể từ ngày giao kết hợp đồng bảo đảm theo quy định của pháp luật"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 297 Bộ luật Dân sự năm 2015.",
+      "topic": "Biện pháp bảo đảm"
+    },
+    {
+      "id": 37,
+      "question": "Đâu là một trong các trường hợp xử lý tài sản bảo đảm theo quy định tại Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Bên có nghĩa vụ đã thực hiện đầy đủ, đúng thời hạn nghĩa vụ được bảo đảm theo thỏa thuận",
+        "B. Khi đến hạn thực hiện nghĩa vụ được bảo đảm mà bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ",
+        "C. Bên nhận bảo đảm có nhu cầu điều chỉnh hoặc thay đổi biện pháp, loại tài sản bảo đảm để phù hợp với điều kiện thực tế",
+        "D. Giá trị tài sản bảo đảm có sự biến động tăng lên đáng kể trên thị trường tại thời điểm xử lý"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 299 Bộ luật Dân sự năm 2015.",
+      "topic": "Xử lý tài sản bảo đảm"
+    },
+    {
+      "id": 38,
+      "question": "Theo Bộ luật Dân sự năm 2015, đâu là các phương thức xử lý tài sản cầm cố, thế chấp mà các bên có thể thỏa thuận?",
+      "options": [
+        "A. Bán đấu giá tài sản hoặc bên nhận bảo đảm tự bán tài sản theo trình tự, thủ tục do pháp luật quy định",
+        "B. Bán đấu giá tài sản; bên nhận bảo đảm tự bán tài sản; bên nhận bảo đảm nhận chính tài sản để thay thế cho việc thực hiện nghĩa vụ hoặc phương thức khác.",
+        "C. Bên nhận bảo đảm nhận chính tài sản cầm cố, thế chấp để thay thế cho việc thực hiện toàn bộ nghĩa vụ được bảo đảm.",
+        "D. Tài sản cầm cố, thế chấp phải được chuyển giao cho cơ quan thi hành án dân sự để tổ chức bán đấu giá theo quy định."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 303 Bộ luật Dân sự năm 2015.",
+      "topic": "Xử lý tài sản bảo đảm"
+    },
+    {
+      "id": 39,
+      "question": "Theo Bộ luật Dân sự năm 2015, nội dung nào sau đây là đúng khi các bên không có thỏa thuận về phương thức xử lý tài sản bảo đảm?",
+      "options": [
+        "A. Bên nhận bảo đảm được quyền chủ động bán tài sản bảo đảm theo giá thị trường tại thời điểm xử lý.",
+        "B. Bên nhận bảo đảm được nhận chính tài sản bảo đảm để thay thế cho việc thực hiện nghĩa vụ của bên bảo đảm.",
+        "C. Tài sản được bán đấu giá, trừ trường hợp luật có quy định khác.",
+        "D. Giao dịch bảo đảm chấm dứt hiệu lực kể từ thời điểm không đạt được thỏa thuận về phương thức xử lý tài sản."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 303 Bộ luật Dân sự năm 2015.",
+      "topic": "Xử lý tài sản bảo đảm"
+    },
+    {
+      "id": 40,
+      "question": "Theo Bộ luật Dân sự năm 2015, khi bên nhận bảo đảm nhận chính tài sản bảo đảm để thay thế cho việc thực hiện nghĩa vụ mà giá trị tài sản lớn hơn giá trị nghĩa vụ thì xử lý như thế nào?",
+      "options": [
+        "A. Bên nhận bảo đảm được quyền sở hữu toàn bộ tài sản và phần giá trị chênh lệch phát sinh mà không phải hoàn trả",
+        "B. Bên nhận bảo đảm phải thanh toán số tiền chênh lệch đó cho bên bảo đảm.",
+        "C. Phần giá trị chênh lệch được xác định là khoản thu hợp pháp và phải nộp vào ngân sách nhà nước theo quy định",
+        "D. Việc nhận chính tài sản để thay thế cho việc thực hiện nghĩa vụ bị coi là vô hiệu do vi phạm nguyên tắc ngang giá trong giao dịch dân sự"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 3 Điều 305 Bộ luật Dân sự năm 2015.",
+      "topic": "Xử lý tài sản bảo đảm"
+    },
+    {
+      "id": 41,
+      "question": "Đâu là quy định đúng về việc định giá tài sản bảo đảm theo Bộ luật Dân sự năm 2015 trong trường hợp các bên không có thỏa thuận về giá?",
+      "options": [
+        "A. Giá tài sản do bên nhận bảo đảm tự quyết định dựa trên giá sổ sách.",
+        "B. Giá tài sản do bên bảo đảm đưa ra tại thời điểm xử lý.",
+        "C. Tài sản được định giá thông qua tổ chức định giá tài sản.",
+        "D. Tài sản được định giá theo mức giá sàn của cơ quan thuế địa phương."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 1 Điều 306 Bộ luật Dân sự năm 2015.",
+      "topic": "Xử lý tài sản bảo đảm"
+    },
+    {
+      "id": 42,
+      "question": "Đâu là thứ tự ưu tiên thanh toán đúng giữa các bên cùng nhận bảo đảm khi các biện pháp bảo đảm đều phát sinh hiệu lực đối kháng với người thứ ba theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Thanh toán theo giá trị của từng nghĩa vụ từ cao xuống thấp.",
+        "B. Thanh toán theo thứ tự xác lập hiệu lực đối kháng.",
+        "C. Thanh toán theo thứ tự giao kết hợp đồng bảo đảm.",
+        "D. Thanh toán theo sự chỉ định của Tòa án nhân dân."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điểm a Khoản 1 Điều 308 Bộ luật Dân sự năm 2015.",
+      "topic": "Xử lý tài sản bảo đảm"
+    },
+    {
+      "id": 43,
+      "question": "Bộ luật Dân sự năm 2015 định nghĩa như thế nào là cầm cố tài sản?",
+      "options": [
+        "A. Là việc một bên dùng tài sản thuộc sở hữu của mình để bảo đảm nghĩa vụ và không giao tài sản cho bên kia.",
+        "B. Là việc một bên giao tài sản thuộc quyền sở hữu của mình cho bên kia để bảo đảm thực hiện nghĩa vụ.",
+        "C. Là việc bên có nghĩa vụ ký kết văn bản cam kết dùng tài sản để trả nợ.",
+        "D. Là việc bên có nghĩa vụ gửi tiền vào tài khoản phong tỏa tại ngân hàng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 309 Bộ luật Dân sự năm 2015.",
+      "topic": "Cầm cố tài sản"
+    },
+    {
+      "id": 44,
+      "question": "Bộ luật Dân sự năm 2015 định nghĩa như thế nào là thế chấp tài sản?",
+      "options": [
+        "A. Là việc một bên dùng tài sản của người khác để bảo đảm thực hiện nghĩa vụ.",
+        "B. Là việc một bên chuyển giao quyền sở hữu tài sản cho bên kia để bảo đảm thực hiện nghĩa vụ.",
+        "C. Là việc một bên dùng tài sản thuộc sở hữu của mình để bảo đảm thực hiện nghĩa vụ và không giao tài sản cho bên kia.",
+        "D. Là việc một bên giao tài sản của mình cho bên kia giữ để làm tin."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 1 Điều 317 Bộ luật Dân sự năm 2015.",
+      "topic": "Thế chấp tài sản"
+    },
+    {
+      "id": 45,
+      "question": "Theo Bộ luật Dân sự năm 2015, trường hợp thế chấp toàn bộ bất động sản, động sản có vật phụ thì vật phụ đó được xử lý như thế nào?",
+      "options": [
+        "A. Vật phụ không thuộc tài sản thế chấp trừ khi có thỏa thuận riêng.",
+        "B. Vật phụ cũng thuộc tài sản thế chấp, trừ trường hợp có thỏa thuận khác.",
+        "C. Vật phụ chỉ thuộc tài sản thế chấp nếu có đăng ký biến động.",
+        "D. Vật phụ mặc nhiên tách rời khỏi khối tài sản thế chấp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 318 Bộ luật Dân sự năm 2015.",
+      "topic": "Thế chấp tài sản"
+    },
+    {
+      "id": 46,
+      "question": "Nội dung nào sau đây là đúng về thời điểm thế chấp tài sản phát sinh hiệu lực đối kháng với người thứ ba theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Kể từ thời điểm các bên ký kết hợp đồng thế chấp.",
+        "B. Kể từ thời điểm bên thế chấp giao giấy tờ tài sản cho bên nhận thế chấp.",
+        "C. Kể từ thời điểm đăng ký.",
+        "D. Kể từ thời điểm bên nhận thế chấp kiểm tra tài sản."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 319 Bộ luật Dân sự năm 2015.",
+      "topic": "Thế chấp tài sản"
+    },
+    {
+      "id": 47,
+      "question": "Đâu là nghĩa vụ của bên thế chấp tài sản theo quy định tại Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Phải giao tài sản thế chấp cho bên nhận thế chấp bảo quản.",
+        "B. Không được khai thác công dụng của tài sản thế chấp.",
+        "C. Bảo quản, giữ gìn tài sản thế chấp.",
+        "D. Phải thay đổi chủ sở hữu tài sản sang cho bên nhận thế chấp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 320 Bộ luật Dân sự năm 2015.",
+      "topic": "Thế chấp tài sản"
+    },
+    {
+      "id": 48,
+      "question": "Theo Bộ luật Dân sự năm 2015, bên thế chấp có quyền bán, thay thế, trao đổi tài sản thế chấp trong trường hợp nào mà không cần sự đồng ý của bên nhận thế chấp?",
+      "options": [
+        "A. Tài sản đó là bất động sản đã đăng ký quyền sở hữu.",
+        "B. Tài sản đó là hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh.",
+        "C. Tài sản đó là phương tiện giao thông vận tải.",
+        "D. Không có trường hợp nào được bán mà không có sự đồng ý của bên nhận thế chấp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 4 Điều 321 Bộ luật Dân sự năm 2015.",
+      "topic": "Thế chấp tài sản"
+    },
+    {
+      "id": 49,
+      "question": "Theo Bộ luật Dân sự năm 2015, bên nhận thế chấp có quyền gì đối với việc kiểm tra tài sản?",
+      "options": [
+        "A. Được quyền trực tiếp tiếp cận nơi có tài sản thế chấp để kiểm tra mà không cần sự đồng ý của bên thế chấp",
+        "B. Xem xét, kiểm tra trực tiếp tài sản thế chấp, nhưng không được cản trở hoặc gây khó khăn cho việc hình thành, sử dụng, khai thác tài sản thế chấp.",
+        "C. Việc kiểm tra tài sản thế chấp chỉ được thực hiện thông qua tài liệu, hình ảnh hoặc báo cáo do bên thế chấp cung cấp",
+        "D. Được quyền thu giữ ngay tài sản thế chấp khi phát hiện dấu hiệu xuống cấp hoặc hư hỏng mà không phải thực hiện thủ tục thông báo"
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 323 Bộ luật Dân sự năm 2015.",
+      "topic": "Thế chấp tài sản"
+    },
+    {
+      "id": 50,
+      "question": "Đâu là nghĩa vụ của người thứ ba khi giữ tài sản thế chấp theo quy định của Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Có trách nhiệm tự mình chịu toàn bộ chi phí sửa chữa, khắc phục hư hỏng của tài sản thế chấp mà không được hoàn trả",
+        "B. Được quyền xử lý, bán tài sản thế chấp trong trường hợp bên thế chấp không thanh toán thù lao giữ tài sản theo thỏa thuận",
+        "C. Bảo quản, giữ gìn tài sản thế chấp; nếu làm mất tài sản thế chấp, làm mất giá trị hoặc giảm sút giá trị của tài sản thế chấp thì phải bồi thường.",
+        "D. Được quyền sử dụng tài sản thế chấp để khai thác, kinh doanh nhằm thu lợi cho bản thân trong thời gian giữ tài sản"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điểm a Khoản 2 Điều 324 Bộ luật Dân sự năm 2015.",
+      "topic": "Thế chấp tài sản"
+    },
+    {
+      "id": 51,
+      "question": "Theo Bộ luật Dân sự năm 2015, định nghĩa nào sau đây là đúng về đặt cọc?",
+      "options": [
+        "A. Là việc một bên giao cho bên kia một tài sản trong một thời hạn nhất định để bảo đảm cho việc sử dụng tài sản đó theo thỏa thuận.",
+        "B. Là việc một bên giao cho bên kia một khoản tiền hoặc vật có giá trị khác trong một thời hạn để bảo đảm giao kết hoặc thực hiện hợp đồng.",
+        "C. Là việc bên có nghĩa vụ gửi một khoản tiền vào tổ chức tín dụng theo yêu cầu của bên có quyền nhằm bảo đảm thực hiện nghĩa vụ dân sự.",
+        "D. Là việc người thứ ba cam kết với bên có quyền sẽ thực hiện nghĩa vụ tài chính thay cho bên có nghĩa vụ trong trường hợp đến hạn mà nghĩa vụ không được thực hiện."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 328 Bộ luật Dân sự năm 2015.",
+      "topic": "Đặt cọc"
+    },
+    {
+      "id": 52,
+      "question": "Theo Bộ luật Dân sự năm 2015, trường hợp bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì phải xử lý tài sản đặt cọc như thế nào (nếu không có thỏa thuận khác)?",
+      "options": [
+        "A. Phải hoàn trả cho bên đặt cọc toàn bộ tài sản đặt cọc đã nhận theo nguyên tắc khôi phục lại tình trạng ban đầu.",
+        "B. Tài sản đặt cọc được xử lý theo quy định của pháp luật về tài sản vô chủ và thuộc quyền quản lý của Nhà nước.",
+        "C. Phải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài sản đặt cọc.",
+        "D. Phải bồi thường cho bên đặt cọc khoản thiệt hại thực tế, trực tiếp phát sinh do việc không giao kết, thực hiện hợp đồng."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 328 Bộ luật Dân sự năm 2015.",
+      "topic": "Đặt cọc"
+    },
+    {
+      "id": 53,
+      "question": "Bộ luật Dân sự năm 2015 quy định như thế nào về ký cược?",
+      "options": [
+        "A. Là việc bên vay trong quan hệ vay tài sản giao cho bên cho vay một tài sản nhằm bảo đảm nghĩa vụ hoàn trả nợ gốc và lãi khi đến hạn.",
+        "B. Là việc bên thuê tài sản là động sản giao cho bên cho thuê một khoản tiền hoặc vật có giá trị khác trong một thời hạn để bảo đảm việc trả lại tài sản thuê.",
+        "C. Là việc tổ chức, cá nhân gửi một khoản tiền vào tài khoản phong tỏa tại ngân hàng để bảo đảm việc thực hiện nghĩa vụ tài chính phát sinh theo quy định của pháp luật.",
+        "D. Là việc bên thứ ba cam kết bằng tài sản của mình để bảo đảm cho nghĩa vụ dân sự của người khác trong quan hệ hợp đồng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 329 Bộ luật Dân sự năm 2015.",
+      "topic": "Ký cược"
+    },
+    {
+      "id": 54,
+      "question": "Theo Bộ luật Dân sự năm 2015, ký quỹ được thực hiện tại đâu?",
+      "options": [
+        "A. Tại văn phòng công chứng.",
+        "B. Tại kho bạc nhà nước.",
+        "C. Tại một tổ chức tín dụng.",
+        "D. Tại trụ sở của bên có quyền."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 1 Điều 330 Bộ luật Dân sự năm 2015.",
+      "topic": "Ký quỹ"
+    },
+    {
+      "id": 55,
+      "question": "Định nghĩa nào sau đây đúng về bảo lãnh theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là việc bên có nghĩa vụ cam kết dùng toàn bộ tài sản thuộc quyền sở hữu của mình để bảo đảm việc thực hiện nghĩa vụ dân sự khi đến hạn.",
+        "B. Là việc người thứ ba cam kết với bên có quyền sẽ thực hiện nghĩa vụ thay cho bên có nghĩa vụ, nếu khi đến thời hạn thực hiện nghĩa vụ mà bên được bảo lãnh không thực hiện hoặc thực hiện không đúng nghĩa vụ.",
+        "C. Là việc bên có quyền giữ giấy tờ, hồ sơ pháp lý của bên có nghĩa vụ nhằm bảo đảm việc thực hiện nghĩa vụ theo thỏa thuận giữa các bên.",
+        "D. Là việc bên có nghĩa vụ thanh toán trước toàn bộ giá trị nghĩa vụ để bảo đảm việc giao kết và thực hiện hợp đồng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 335 Bộ luật Dân sự năm 2015.",
+      "topic": "Bảo lãnh"
+    },
+    {
+      "id": 56,
+      "question": "Bộ luật Dân sự năm 2015 định nghĩa như thế nào về cầm giữ tài sản?",
+      "options": [
+        "A. Là việc bên có quyền đang nắm giữ hợp pháp tài sản là đối tượng của hợp đồng song vụ được chiếm giữ tài sản trong trường hợp bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ.",
+        "B. Là việc bên có nghĩa vụ giao tài sản thuộc quyền sở hữu của mình cho bên có quyền nắm giữ để bảo đảm việc thực hiện nghĩa vụ trả nợ đến hạn.",
+        "C. Là việc cơ quan có thẩm quyền áp dụng biện pháp cưỡng chế bằng cách kê biên, quản lý tài sản của bên có nghĩa vụ theo trình tự, thủ tục luật định.",
+        "D. Là việc một bên trong hợp đồng tạm thời không thực hiện nghĩa vụ giao tài sản cho đến khi bên kia hoàn thành đầy đủ nghĩa vụ thanh toán theo thỏa thuận."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điều 346 Bộ luật Dân sự năm 2015.",
+      "topic": "Cầm giữ tài sản"
+    },
+    {
+      "id": 57,
+      "question": "Theo Bộ luật Dân sự năm 2015, trường hợp bên có nghĩa vụ không thực hiện đúng nghĩa vụ do sự kiện bất khả kháng thì chịu trách nhiệm dân sự như thế nào?",
+      "options": [
+        "A. Vẫn phải chịu trách nhiệm dân sự đầy đủ, trừ trường hợp bên có quyền đồng ý miễn trách nhiệm.",
+        "B. Chỉ phải chịu trách nhiệm dân sự trong phạm vi thiệt hại thực tế không thể chứng minh là do sự kiện bất khả kháng gây ra.",
+        "C. Không phải chịu trách nhiệm dân sự, trừ trường hợp có thỏa thuận khác hoặc pháp luật có quy định khác.",
+        "D. Chỉ phát sinh trách nhiệm dân sự khi bên có quyền có yêu cầu và chứng minh được lỗi của bên có nghĩa vụ."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 351 Bộ luật Dân sự năm 2015.",
+      "topic": "Trách nhiệm dân sự"
+    },
+    {
+      "id": 58,
+      "question": "Theo Bộ luật Dân sự năm 2015, khi đến thời hạn thực hiện nghĩa vụ mà bên có nghĩa vụ đã thực hiện nhưng bên có quyền không tiếp nhận thì gọi là gì?",
+      "options": [
+        "A. Vi phạm nghĩa vụ dân sự.",
+        "B. Chậm tiếp nhận việc thực hiện nghĩa vụ.",
+        "C. Hoãn thực hiện nghĩa vụ.",
+        "D. Chấm dứt nghĩa vụ dân sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 355 Bộ luật Dân sự năm 2015.",
+      "topic": "Chậm tiếp nhận việc thực hiện nghĩa vụ"
+    },
+    {
+      "id": 59,
+      "question": "Trong trường hợp chậm tiếp nhận đối tượng của nghĩa vụ là tài sản có nguy cơ bị hư hỏng, bên có nghĩa vụ có quyền gì theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Được quyền tiêu hủy tài sản đó ngay lập tức.",
+        "B. Có quyền bán tài sản đó và phải thông báo ngay cho bên có quyền.",
+        "C. Phải giữ tài sản cho đến khi nó tự hư hỏng hoàn toàn.",
+        "D. Phải giao tài sản cho chính quyền địa phương để tiêu thụ."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 3 Điều 355 Bộ luật Dân sự năm 2015.",
+      "topic": "Chậm tiếp nhận việc thực hiện nghĩa vụ"
+    },
+    {
+      "id": 60,
+      "question": "Theo Bộ luật Dân sự năm 2015, bên cầm giữ tài sản có nghĩa vụ nào sau đây?",
+      "options": [
+        "A. Được thực hiện các biện pháp cần thiết làm thay đổi tình trạng tài sản cầm giữ nhằm bảo toàn hoặc gia tăng giá trị tài sản.",
+        "B. Được chuyển giao việc nắm giữ tài sản cầm giữ cho người thứ ba khi xét thấy cần thiết để bảo đảm quyền lợi của mình.",
+        "C. Giữ gìn, bảo quản tài sản cầm giữ.",
+        "D. Được khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản cầm giữ trong phạm vi không làm giảm giá trị tài sản."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 1 Điều 349 Bộ luật Dân sự năm 2015.",
+      "topic": "Cầm giữ tài sản"
+    }
+  ]
+},
+{
+  "id": "DS_DE_04",
+  "title": "Đề 04: Bộ luật Dân sự năm 2015",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Đâu không phải là căn cứ chấm dứt việc cầm giữ tài sản theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Bên cầm giữ không còn chiếm giữ tài sản trên thực tế.",
+        "B. Nghĩa vụ đã được thực hiện xong.",
+        "C. Tài sản cầm giữ bị giảm giá trị do biến động thị trường.",
+        "D. Tài sản cầm giữ không còn."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 350 Bộ luật Dân sự năm 2015 quy định các căn cứ chấm dứt cầm giữ bao gồm: Bên cầm giữ không còn chiếm giữ tài sản; Các bên thỏa thuận biện pháp khác thay thế; Nghĩa vụ đã xong; Tài sản không còn; Theo thỏa thuận. Việc giảm giá trị tài sản do thị trường không phải là căn cứ chấm dứt.",
+      "topic": "Cầm giữ tài sản"
+    },
+    {
+      "id": 2,
+      "question": "Theo Bộ luật Dân sự năm 2015, nội dung nào sau đây là đúng khi nói về trách nhiệm dân sự của bên bảo lãnh?",
+      "options": [
+        "A. Bên bảo lãnh không phải chịu trách nhiệm dân sự đối với nghĩa vụ đã được bảo lãnh.",
+        "B. Trường hợp bên được bảo lãnh không thực hiện nghĩa vụ thì bên bảo lãnh phải thực hiện nghĩa vụ đó.",
+        "C. Bên bảo lãnh chỉ phải thực hiện nghĩa vụ bảo lãnh khi nghĩa vụ được bảo lãnh có kèm theo tài sản bảo đảm theo thỏa thuận.",
+        "D. Bên bảo lãnh có quyền từ chối thực hiện nghĩa vụ bảo lãnh nếu chứng minh được bên được bảo lãnh vi phạm nghĩa vụ do nguyên nhân khách quan."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 342 Bộ luật Dân sự năm 2015 quy định: '1. Trường hợp bên được bảo lãnh không thực hiện hoặc thực hiện không đúng nghĩa vụ thì bên bảo lãnh phải thực hiện nghĩa vụ đó.'",
+      "topic": "Bảo lãnh"
+    },
+    {
+      "id": 3,
+      "question": "Theo Bộ luật Dân sự năm 2015, đâu là quy định đúng về thời điểm có hiệu lực của hợp đồng?",
+      "options": [
+        "A. Hợp đồng có hiệu lực kể từ thời điểm các bên hoàn tất việc ký kết trên văn bản hợp đồng, trừ trường hợp pháp luật có quy định khác.",
+        "B. Hợp đồng có hiệu lực từ thời điểm được giao kết, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác.",
+        "C. Hợp đồng có hiệu lực kể từ thời điểm bên đề nghị giao kết hợp đồng nhận được thông báo chấp nhận giao kết hợp đồng của bên kia.",
+        "D. Hợp đồng chỉ phát sinh hiệu lực pháp luật sau khi được công chứng hoặc chứng thực theo pháp luật quy định."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ khoản 1 Điều 401 Bộ luật Dân sự năm 2015 quy định: 'Hợp đồng được giao kết hợp pháp có hiệu lực từ thời điểm giao kết, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác.'",
+      "topic": "Hợp đồng"
+    },
+    {
+      "id": 4,
+      "question": "Nội dung nào sau đây là đúng khi nói về hợp đồng đơn vụ theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là hợp đồng mà mỗi bên đều có nghĩa vụ đối với nhau.",
+        "B. Là hợp đồng mà chỉ một bên có nghĩa vụ.",
+        "C. Là hợp đồng mà hiệu lực không phụ thuộc vào hợp đồng phụ.",
+        "D. Là hợp đồng vì lợi ích của người thứ ba là hợp đồng mà các bên giao kết hợp đồng đều phải thực hiện nghĩa vụ và người thứ ba được hưởng lợi ích từ việc thực hiện nghĩa vụ đó."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ khoản 2 Điều 402 Bộ luật Dân sự năm 2015 quy định: 'Hợp đồng đơn vụ là hợp đồng mà chỉ một bên có nghĩa vụ.' Trong hợp đồng đơn vụ, chỉ một chủ thể chịu ràng buộc bởi nghĩa vụ pháp lý, chủ thể còn lại hưởng quyền mà không phải thực hiện nghĩa vụ đối ứng.",
+      "topic": "Hợp đồng"
+    },
+    {
+      "id": 5,
+      "question": "Theo Bộ luật Dân sự năm 2015, thời hiệu khởi kiện để yêu cầu Tòa án giải quyết tranh chấp hợp đồng là bao lâu?",
+      "options": [
+        "A. 01 năm kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền và lợi ích hợp pháp của mình bị xâm phạm.",
+        "B. 02 năm kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền và lợi ích hợp pháp của mình bị xâm phạm.",
+        "C. 03 năm kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền và lợi ích hợp pháp của mình bị xâm phạm.",
+        "D. 05 năm kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền và lợi ích hợp pháp của mình bị xâm phạm."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 429 Bộ luật Dân sự năm 2015 quy định: 'Thời hiệu khởi kiện để yêu cầu Tòa án giải quyết tranh chấp hợp đồng là 03 năm, kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền và lợi ích hợp pháp của mình bị xâm phạm.'",
+      "topic": "Hợp đồng"
+    },
+    {
+      "id": 6,
+      "question": "Đâu là định nghĩa đúng về hợp đồng mua bán tài sản theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là sự thỏa thuận giữa các bên, theo đó bên bán chuyển quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán.",
+        "B. Là sự thỏa thuận giữa các bên, theo đó bên bán giao tài sản và quyền sử dụng tài sản cho bên mua.",
+        "C. Là sự thỏa thuận về việc chuyển giao quyền chiếm hữu tài sản trong một thời hạn nhất định có hoàn trả.",
+        "D. Là sự thỏa thuận giữa các bên về việc bên bán hỗ trợ bên mua xác lập quyền đối với tài sản."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điều 430 Bộ luật Dân sự năm 2015 quy định: 'Hợp đồng mua bán tài sản là sự thỏa thuận giữa các bên, theo đó bên bán chuyển quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán.'",
+      "topic": "Hợp đồng mua bán tài sản"
+    },
+    {
+      "id": 7,
+      "question": "Theo Bộ luật Dân sự năm 2015, trong trường hợp mua trả chậm hoặc trả dần, bên bán được quyền đòi lại tài sản khi nào?",
+      "options": [
+        "A. Khi bên mua không thanh toán đủ tiền trong hai kỳ liên tiếp.",
+        "B. Khi bên mua không thực hiện nghĩa vụ thanh toán theo thỏa thuận, trừ trường hợp có thỏa thuận khác.",
+        "C. Khi bên mua sử dụng tài sản làm giảm sút giá trị của tài sản đó.",
+        "D. Ngay khi bên mua chậm thanh toán một phần tiền ở bất kỳ kỳ hạn nào."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 455 Bộ luật Dân sự năm 2015 quy định: 'Trường hợp bên mua không hoàn thành nghĩa vụ thanh toán cho bên bán theo thỏa thuận thì bên bán có quyền đòi lại tài sản.'",
+      "topic": "Hợp đồng mua bán tài sản"
+    },
+    {
+      "id": 8,
+      "question": "Nội dung nào sau đây là đúng khi nói về hợp đồng trao đổi tài sản theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là sự thỏa thuận giữa các bên, theo đó các bên giao tài sản và chuyển quyền sở hữu đối với tài sản cho nhau.",
+        "B. Là hợp đồng mà một bên giao tài sản cho bên kia sử dụng và nhận lại tài sản cùng loại.",
+        "C. Là hợp đồng mà một bên chuyển quyền sở hữu tài sản cho bên kia mà không cần đền bù.",
+        "D. Là sự thỏa thuận giữa các bên về việc mượn tài sản của nhau trong một thời hạn cụ thể."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ khoản 1 Điều 457 Bộ luật Dân sự năm 2015 quy định về hợp đồng trao đổi tài sản.",
+      "topic": "Hợp đồng trao đổi tài sản"
+    },
+    {
+      "id": 9,
+      "question": "Theo Bộ luật Dân sự năm 2015, lãi suất vay do các bên thỏa thuận không được vượt quá mức bao nhiêu?",
+      "options": [
+        "A. 10%/năm của khoản tiền vay.",
+        "B. 15%/năm của khoản tiền vay.",
+        "C. 20%/năm của khoản tiền vay.",
+        "D. 25%/năm của khoản tiền vay."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ khoản 1 Điều 468 Bộ luật Dân sự năm 2015 quy định: 'Trường hợp các bên có thỏa thuận về lãi suất thì lãi suất theo thỏa thuận không được vượt quá 20%/năm của khoản tiền vay'.",
+      "topic": "Hợp đồng vay tài sản"
+    },
+    {
+      "id": 10,
+      "question": "Theo Bộ luật Dân sự năm 2015, trường hợp các bên có thỏa thuận về việc trả lãi nhưng không xác định rõ lãi suất và có tranh chấp thì lãi suất được xác định như thế nào?",
+      "options": [
+        "A. Lãi suất được xác định bằng 50% mức lãi suất giới hạn.",
+        "B. Lãi suất được xác định theo lãi suất cơ bản do Ngân hàng Nhà nước công bố.",
+        "C. Lãi suất được xác định bằng 20%/năm.",
+        "D. Lãi suất được xác định bằng mức trung bình cộng lãi suất của 03 ngân hàng thương mại tại địa phương."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ khoản 2 Điều 468 Bộ luật Dân sự năm 2015 quy định: 'Trường hợp các bên có thỏa thuận về việc trả lãi, nhưng không xác định rõ lãi suất và có tranh chấp về lãi suất thì lãi suất được xác định bằng 50% mức lãi suất giới hạn' (tức 10%/năm).",
+      "topic": "Hợp đồng vay tài sản"
+    },
+    {
+      "id": 11,
+      "question": "Đối với hợp đồng vay không kỳ hạn và không có lãi, bên cho vay có quyền đòi lại tài sản vào thời điểm nào theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Bất cứ lúc nào nhưng phải báo cho bên vay biết trước một thời gian hợp lý, trừ trường hợp có thỏa thuận khác.",
+        "B. Chỉ được đòi lại tài sản vay sau khi hợp đồng vay đã được thực hiện trong 06 tháng.",
+        "C. Bên cho vay có quyền đòi lại tài sản vay vào bất kỳ thời điểm nào kể từ khi giao tài sản vay, không phụ thuộc vào nghĩa vụ thông báo trước.",
+        "D. Bên cho vay chỉ được đòi lại tài sản vay trong trường hợp bên vay có hành vi làm giảm khả năng thực hiện nghĩa vụ trả nợ."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ khoản 1 Điều 469 Bộ luật Dân sự năm 2015 quy định về quyền đòi nợ đối với vay không kỳ hạn và không lãi.",
+      "topic": "Hợp đồng vay tài sản"
+    },
+    {
+      "id": 12,
+      "question": "Theo Bộ luật Dân sự năm 2015, trong hợp đồng vay có kỳ hạn và không có lãi, bên vay có quyền trả lại tài sản trước kỳ hạn khi nào?",
+      "options": [
+        "A. Phải có sự đồng ý của bên cho vay.",
+        "B. Bất cứ lúc nào và không cần báo trước.",
+        "C. Bất cứ lúc nào nhưng phải báo trước cho bên cho vay một thời gian hợp lý.",
+        "D. Không được phép trả trước kỳ hạn trong mọi trường hợp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ khoản 1 Điều 470 Bộ luật Dân sự năm 2015 quy định bên vay có quyền trả lại tài sản bất cứ lúc nào, nhưng phải báo trước thời gian hợp lý. (Trong câu hỏi này, đáp án B phản ánh quyền trả bất kỳ lúc nào).",
+      "topic": "Hợp đồng vay tài sản"
+    },
+    {
+      "id": 13,
+      "question": "Đâu là định nghĩa đúng về hợp đồng thuê tài sản theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là sự thỏa thuận giữa các bên, theo đó bên cho thuê giao tài sản cho bên thuê để sử dụng trong một thời hạn, bên thuê phải trả tiền thuê.",
+        "B. Là sự thỏa thuận giữa các bên về việc chuyển quyền sở hữu tài sản trong một thời gian nhất định.",
+        "C. Là hợp đồng mà bên thuê có quyền định đoạt tài sản thuê nếu thanh toán đủ tiền thuê.",
+        "D. Là sự thỏa thuận giao tài sản không thu tiền để bên thuê sử dụng cho mục đích công ích."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điều 483 Bộ luật Dân sự năm 2015 quy định: 'Hợp đồng thuê tài sản là sự thỏa thuận giữa các bên, theo đó bên cho thuê giao tài sản cho bên thuê để sử dụng trong một thời hạn, bên thuê phải trả tiền thuê.'",
+      "topic": "Hợp đồng thuê tài sản"
+    },
+    {
+      "id": 14,
+      "question": "Nội dung nào sau đây là đúng khi nói về đối tượng của hợp đồng mượn tài sản theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là vật tiêu hao.",
+        "B. Là vật cùng loại.",
+        "C. Là vật không tiêu hao.",
+        "D. Là các loại giấy tờ có giá."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 494 Bộ luật Dân sự năm 2015. Vì phải trả lại chính tài sản đó nên đối tượng phải là vật không tiêu hao.",
+      "topic": "Hợp đồng mượn tài sản"
+    },
+    {
+      "id": 15,
+      "question": "Theo Bộ luật Dân sự năm 2015, hình thức của hợp đồng về quyền sử dụng đất phải như thế nào?",
+      "options": [
+        "A. Có thể bằng lời nói hoặc bằng văn bản.",
+        "B. Phải được lập thành văn bản, theo hình thức phù hợp với quy định",
+        "C. Chỉ cần lập bằng văn bản tay giữa các bên là đủ hiệu lực.",
+        "D. Phải được đăng ký tại Sở Tài nguyên và Môi trường mới có hiệu lực giao kết."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 500 Bộ luật Dân sự năm 2015 quy định: 'Hợp đồng về quyền sử dụng đất phải được lập thành văn bản, theo hình thức phù hợp với quy định...'",
+      "topic": "Hợp đồng quyền sử dụng đất"
+    },
+    {
+      "id": 16,
+      "question": "Theo Bộ luật Dân sự năm 2015, hợp đồng song vụ là gì?",
+      "options": [
+        "A. Là hợp đồng mà chỉ một bên có nghĩa vụ.",
+        "B. Là hợp đồng mà mỗi bên đều có nghĩa vụ đối với nhau.",
+        "C. Là hợp đồng mà hiệu lực phụ thuộc vào việc thực hiện một công việc cụ thể.",
+        "D. Là hợp đồng mà các bên không cần thỏa thuận về giá cả."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ khoản 1 Điều 402 Bộ luật Dân sự năm 2015 quy định về hợp đồng song vụ.",
+      "topic": "Hợp đồng"
+    },
+    {
+      "id": 17,
+      "question": "Theo Bộ luật Dân sự năm 2015, hợp đồng chính là gì?",
+      "options": [
+        "A. Là hợp đồng mà hiệu lực phụ thuộc vào hợp đồng phụ.",
+        "B. Là hợp đồng mà hiệu lực không phụ thuộc vào hợp đồng phụ.",
+        "C. Là hợp đồng có giá trị tài sản lớn nhất trong các giao dịch.",
+        "D. Là hợp đồng được lập thành văn bản có công chứng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ khoản 3 Điều 402 Bộ luật Dân sự năm 2015 quy định về hợp đồng chính.",
+      "topic": "Hợp đồng"
+    },
+    {
+      "id": 18,
+      "question": "Nội dung nào sau đây là đúng khi nói về định nghĩa hợp đồng dịch vụ theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Hợp đồng dịch vụ là sự thỏa thuận giữa các bên, theo đó bên cung ứng dịch vụ thực hiện công việc không thu phí.",
+        "B. Hợp đồng dịch vụ là sự thỏa thuận giữa các bên, theo đó bên cung ứng dịch vụ thực hiện công việc cho bên thuê dịch vụ, bên thuê dịch vụ phải trả tiền công.",
+        "C. Hợp đồng dịch vụ là sự thỏa thuận giữa các bên, theo đó bên thuê dịch vụ thực hiện công việc cho bên cung ứng dịch vụ và được trả công.",
+        "D. Hợp đồng dịch vụ là sự thỏa thuận về việc chuyển giao tài sản và quyền sở hữu."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 504 Bộ luật Dân sự năm 2015 quy định về định nghĩa hợp đồng dịch vụ.",
+      "topic": "Hợp đồng dịch vụ"
+    },
+    {
+      "id": 19,
+      "question": "Đâu không phải là nghĩa vụ của bên cung ứng dịch vụ theo quy định tại Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Thực hiện công việc đúng chất lượng, số lượng, thời hạn, địa điểm.",
+        "B. Không được giao cho người khác thực hiện thay công việc nếu không có sự đồng ý của bên thuê.",
+        "C. Được quyền thay đổi nội dung công việc một cách đơn phương để đảm bảo chất lượng dịch vụ tốt nhất.",
+        "D. Bảo quản và phải giao lại cho bên thuê dịch vụ tài liệu và phương tiện được giao."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 513 Bộ luật Dân sự năm 2015, bên cung ứng dịch vụ không có quyền đơn phương thay đổi nội dung công việc.",
+      "topic": "Hợp đồng dịch vụ"
+    },
+    {
+      "id": 20,
+      "question": "Nội dung nào sau đây là đúng khi nói về định nghĩa hợp đồng vận chuyển hành khách theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là sự thỏa thuận giữa các bên, theo đó bên vận chuyển đưa hành khách đến địa điểm đã định, hành khách không phải trả cước phí.",
+        "B. Là sự thỏa thuận giữa các bên, theo đó bên vận chuyển đưa hành khách đến nơi an toàn, hành khách phải tự vận chuyển hành lý.",
+        "C. Là sự thỏa thuận giữa các bên, theo đó bên vận chuyển đưa hành khách, hành lý đến địa điểm đã định, hành khách phải trả cước phí vận chuyển.",
+        "D. Là sự thỏa thuận giữa hành khách và người điều khiển phương tiện về việc di chuyển."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 542 Bộ luật Dân sự năm 2015 quy định về hợp đồng vận chuyển hành khách.",
+      "topic": "Hợp đồng vận chuyển"
+    },
+    {
+      "id": 21,
+      "question": "Đâu là định nghĩa về hợp đồng gửi giữ tài sản theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Là sự thỏa thuận giữa các bên, theo đó bên giữ nhận tài sản của bên gửi để bảo quản và trả lại chính tài sản đó, bên gửi phải trả tiền công (trừ trường hợp miễn phí).",
+        "B. Là sự thỏa thuận giữa các bên về việc chuyển quyền sử dụng tài sản trong một thời hạn nhất định và có hoàn trả.",
+        "C. Là sự thỏa thuận về việc bên giữ được quyền khai thác công dụng của tài sản gửi giữ để bù đắp chi phí bảo quản.",
+        "D. Là sự thỏa thuận giữa các bên, theo đó bên gửi giao quyền định đoạt tài sản cho bên giữ trong thời gian gửi giữ."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điều 554 Bộ luật Dân sự năm 2015 quy định về hợp đồng gửi giữ tài sản.",
+      "topic": "Hợp đồng gửi giữ tài sản"
+    },
+    {
+      "id": 22,
+      "question": "Theo Bộ luật Dân sự năm 2015, đâu là định nghĩa về hợp đồng ủy quyền?",
+      "options": [
+        "A. Là sự thỏa thuận giữa các bên, theo đó bên được ủy quyền thực hiện công việc nhân danh mình vì lợi ích của bên ủy quyền.",
+        "B. Là sự thỏa thuận giữa các bên, theo đó bên được ủy quyền có nghĩa vụ thực hiện công việc nhân danh bên ủy quyền, bên ủy quyền chỉ phải trả thù lao nếu có thỏa thuận hoặc luật định.",
+        "C. Là sự thỏa thuận giữa các bên, theo đó bên ủy quyền giao tài sản cho bên được ủy quyền để thực hiện các giao dịch với người thứ ba.",
+        "D. Là sự thỏa thuận giữa các bên về việc bên được ủy quyền thay mặt bên ủy quyền để chịu trách nhiệm hình sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 562 Bộ luật Dân sự năm 2015 quy định về hợp đồng ủy quyền.",
+      "topic": "Hợp đồng ủy quyền"
+    },
+    {
+      "id": 23,
+      "question": "Nội dung nào sau đây là đúng khi nói về quyền thừa kế theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Cá nhân chỉ được hưởng quyền thừa kế theo pháp luật.",
+        "B. Cá nhân có quyền lập di chúc để định đoạt tài sản của mình; để lại tài sản của mình cho người thừa kế theo pháp luật; hưởng di sản theo di chúc hoặc pháp luật.",
+        "C. Người được hưởng di sản theo di chúc phải là người có quan hệ huyết thống hoặc hôn nhân.",
+        "D. Pháp nhân không được xác lập quyền hưởng di sản theo di chúc, trừ trường hợp đặc biệt."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 609 Bộ luật Dân sự năm 2015 quy định về Quyền thừa kế.",
+      "topic": "Thừa kế"
+    },
+    {
+      "id": 24,
+      "question": "Theo Bộ luật Dân sự năm 2015, thời điểm mở thừa kế được xác định là khi nào?",
+      "options": [
+        "A. Thời điểm những người thừa kế thống nhất họp và tiến hành việc phân chia di sản.",
+        "B. Thời điểm Tòa án ban hành bản án, quyết định có hiệu lực pháp luật về việc phân chia di sản.",
+        "C. Thời điểm người có tài sản chết.",
+        "D. Thời điểm sau 30 ngày kể từ ngày người có tài sản qua đời."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 1 Điều 611 Bộ luật Dân sự năm 2015.",
+      "topic": "Thừa kế"
+    },
+    {
+      "id": 25,
+      "question": "Theo Bộ luật Dân sự năm 2015, di sản bao gồm những loại tài sản nào?",
+      "options": [
+        "A. Di sản chỉ bao gồm tài sản thuộc sở hữu riêng của người chết.",
+        "B. Bao gồm tài sản riêng của người chết, phần tài sản của người chết trong tài sản chung với người khác.",
+        "C. Di sản được xác định là phần tài sản của người chết trong khối tài sản chung của vợ chồng.",
+        "D. Di sản bao gồm toàn bộ tài sản do hộ gia đình quản lý mà người chết là thành viên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 612 Bộ luật Dân sự năm 2015.",
+      "topic": "Thừa kế"
+    },
+    {
+      "id": 26,
+      "question": "Đâu là điều kiện để cá nhân trở thành người thừa kế theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Cá nhân phải là người còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết.",
+        "B. Cá nhân phải là người có quốc tịch Việt Nam và đang cư trú tại Việt Nam.",
+        "C. Cá nhân phải là người đã thành niên và có năng lực hành vi dân sự đầy đủ.",
+        "D. Cá nhân phải có tên trong sổ hộ khẩu của người để lại di sản ít nhất 05 năm."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Khoản 1 Điều 613 Bộ luật Dân sự năm 2015.",
+      "topic": "Thừa kế"
+    },
+    {
+      "id": 27,
+      "question": "Theo Bộ luật Dân sự năm 2015, những người thừa kế có trách nhiệm thực hiện nghĩa vụ tài sản do người chết để lại như thế nào?",
+      "options": [
+        "A. Phải tiếp tục thực hiện toàn bộ nghĩa vụ tài sản, kể cả bằng tài sản riêng của mình.",
+        "B. Thực hiện nghĩa vụ tài sản trong phạm vi di sản do người chết để lại, trừ trường hợp có thỏa thuận khác.",
+        "C. Trường hợp không để lại di chúc thì không có nghĩa vụ thực hiện các nghĩa vụ tài sản phát sinh trước đó.",
+        "D. Chỉ phải thực hiện nghĩa vụ tài sản đối với Nhà nước; các nghĩa vụ dân sự khác chấm dứt."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 615 Bộ luật Dân sự năm 2015.",
+      "topic": "Thừa kế"
+    },
+    {
+      "id": 28,
+      "question": "Theo Bộ luật Dân sự năm 2015, ai là người có quyền quản lý di sản?",
+      "options": [
+        "A. Chỉ được xác định theo ý chí của người để lại di sản trong di chúc.",
+        "B. Là người được chỉ định trong di chúc hoặc do những người thừa kế thỏa thuận cử ra.",
+        "C. Thuộc thẩm quyền của cơ quan nhà nước có thẩm quyền theo quy định pháp luật.",
+        "D. Người đứng đầu hàng thừa kế thứ nhất đương nhiên có quyền quản lý di sản."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 616 Bộ luật Dân sự năm 2015.",
+      "topic": "Thừa kế"
+    },
+    {
+      "id": 29,
+      "question": "Đâu là nghĩa vụ của người quản lý di sản theo quy định tại Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Được toàn quyền định đoạt di sản nhằm phục vụ việc phân chia.",
+        "B. Lập danh mục di sản; thu hồi tài sản thuộc di sản của người chết đang do người khác chiếm hữu.",
+        "C. Có quyền sử dụng di sản để tiến hành các hoạt động sinh lợi phục vụ nhu cầu cá nhân.",
+        "D. Được quyền điều chỉnh nội dung di chúc cho phù hợp với hoàn cảnh thực tế."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 617 Bộ luật Dân sự năm 2015 quy định các nghĩa vụ của người quản lý di sản.",
+      "topic": "Thừa kế"
+    },
+    {
+      "id": 30,
+      "question": "Người quản lý di sản có quyền nào sau đây theo quy định của Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Quyền được hưởng toàn bộ hoa lợi, lợi tức phát sinh từ di sản.",
+        "B. Quyền đại diện cho những người thừa kế trong quan hệ với người thứ ba.",
+        "C. Quyền được hưởng thù lao theo thỏa thuận với những người thừa kế.",
+        "D. Quyền từ chối giao lại di sản khi những người thừa kế yêu cầu."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 1 Điều 618 Bộ luật Dân sự năm 2015.",
+      "topic": "Thừa kế"
+    },
+    {
+      "id": 31,
+      "question": "Việc từ chối nhận di sản phải được thực hiện trong thời hạn nào và dưới hình thức nào theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Phải được lập thành văn bản và gửi đến người quản lý di sản, những người thừa kế khác.",
+        "B. Có thể bằng lời nói trước ít nhất hai người làm chứng.",
+        "C. Phải được thực hiện sau khi di sản đã được phân chia xong.",
+        "D. Không cần hình thức cụ thể, chỉ cần không đến nhận di sản là đủ."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Khoản 2 Điều 620 Bộ luật Dân sự năm 2015.",
+      "topic": "Thừa kế"
+    },
+    {
+      "id": 32,
+      "question": "Thời hiệu để người thừa kế yêu cầu chia di sản đối với bất động sản theo Bộ luật Dân sự năm 2015 là bao nhiêu năm?",
+      "options": [
+        "A. 10 năm, kể từ thời điểm mở thừa kế.",
+        "B. 20 năm, kể từ thời điểm mở thừa kế.",
+        "C. 30 năm, kể từ thời điểm mở thừa kế.",
+        "D. Không áp dụng thời hiệu đối với bất động sản."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 1 Điều 623 Bộ luật Dân sự năm 2015.",
+      "topic": "Thừa kế"
+    },
+    {
+      "id": 33,
+      "question": "Trường hợp nào sau đây di sản sẽ được thừa kế theo pháp luật theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Người thừa kế theo di chúc đã thành niên và có năng lực hành vi đầy đủ.",
+        "B. Không có di chúc; di chúc không hợp pháp; những người thừa kế theo di chúc chết trước hoặc cùng thời điểm với người lập di chúc.",
+        "C. Di chúc được lập thành văn bản nhưng không có người làm chứng.",
+        "D. Người có tài sản còn sống và tự nguyện xác lập việc phân chia trước."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 650 Bộ luật Dân sự năm 2015.",
+      "topic": "Thừa kế theo pháp luật"
+    },
+    {
+      "id": 34,
+      "question": "Nội dung nào sau đây là đúng khi nói về thừa kế thế vị theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Con của người để lại di sản chết trước hoặc cùng lúc với người để lại di sản thì cháu được hưởng phần mà cha/mẹ được hưởng nếu còn sống.",
+        "B. Cháu chỉ được hưởng thừa kế thế vị khi không còn ai thuộc hàng thừa kế thứ nhất.",
+        "C. Thừa kế thế vị chỉ áp dụng cho người thừa kế theo di chúc.",
+        "D. Cháu được hưởng thừa kế thế vị ngay cả khi cha/mẹ bị tước quyền hưởng di sản."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điều 652 Bộ luật Dân sự năm 2015.",
+      "topic": "Thừa kế theo pháp luật"
+    },
+    {
+      "id": 35,
+      "question": "Khoản chi phí nào sau đây được ưu tiên thanh toán hàng đầu khi phân chia di sản theo Bộ luật Dân sự năm 2015?",
+      "options": [
+        "A. Các khoản nợ thuế và nghĩa vụ tài chính khác đối với Nhà nước.",
+        "B. Chi phí hợp lý theo tập quán cho việc mai táng.",
+        "C. Khoản tiền cấp dưỡng còn thiếu.",
+        "D. Tiền công lao động cho người trực tiếp chăm sóc người chết."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 658 Bộ luật Dân sự năm 2015.",
+      "topic": "Thừa kế"
+    }
+  ]
 }
+
 ]
