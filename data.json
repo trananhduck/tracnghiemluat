@@ -26598,5 +26598,2363 @@
       "topic": "Nghị định 62/2015/NĐ-CP"
     }
   ]
+},
+{
+  "id": "NghiDinh_62_De_01",
+  "title": "Đề 01: Nghị định số 62/2015/NĐ-CP của chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi hành án dân sự (đã sửa đổi, bổ sung)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), cơ quan nào có trách nhiệm chỉ đạo việc yêu cầu thi hành án nếu sau 01 năm kể từ ngày bản án có hiệu lực pháp luật, cơ quan, tổ chức, doanh nghiệp được thi hành án đối với khoản tiền, tài sản thuộc sở hữu nhà nước không yêu cầu thi hành án?",
+      "options": [
+        "A. Cơ quan thi hành án dân sự cấp trên trực tiếp.",
+        "B. Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp đặt trụ sở.",
+        "C. Cơ quan, tổ chức quản lý trực tiếp hoặc cơ quan đại diện chủ sở hữu của cơ quan, tổ chức, doanh nghiệp đó.",
+        "D. Tòa án đã ra bản án, quyết định."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 3, khoản 3 quy định rõ trách nhiệm này thuộc về cơ quan quản lý trực tiếp hoặc cơ quan đại diện chủ sở hữu.",
+      "topic": "Trách nhiệm chỉ đạo thi hành án"
+    },
+    {
+      "id": 2,
+      "question": "Trường hợp nào sau đây được coi là \"trở ngại khách quan\" theo quy định tại Điều 4 của Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Đương sự quên thời hiệu yêu cầu thi hành án.",
+        "B. Thiên tai, hỏa hoạn, địch họa.",
+        "C. Đương sự cố tình không nhận bản án, quyết định.",
+        "D. Đương sự bị tai nạn, ốm nặng đến mức mất khả năng nhận thức hoặc chết mà chưa xác định được người thừa kế."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điểm b khoản 3 Điều 4 quy định rõ đây là một trường hợp thuộc trở ngại khách quan.",
+      "topic": "Trở ngại khách quan"
+    },
+    {
+      "id": 3,
+      "question": "Để chứng minh lý do yêu cầu thi hành án quá hạn do bị tai nạn, ốm nặng, đương sự cần cung cấp tài liệu gì theo quy định tại Điều 4 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Xác nhận của Ủy ban nhân dân cấp xã nơi cư trú.",
+        "B. Tóm tắt hồ sơ bệnh án được cơ sở khám bệnh, chữa bệnh từ cấp huyện trở lên xác nhận.",
+        "C. Bản tường trình chi tiết về tai nạn, bệnh tật có người làm chứng.",
+        "D. Xác nhận của Thủ trưởng cơ quan, đơn vị nơi công tác."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điểm b khoản 4 Điều 4 quy định cụ thể loại tài liệu này là bắt buộc để chứng minh tình trạng ốm nặng.",
+      "topic": "Hồ sơ chứng minh lý do quá hạn"
+    },
+    {
+      "id": 4,
+      "question": "Trong trường hợp đương sự thỏa thuận thi hành án sau khi cơ quan thi hành án đã ra quyết định thi hành án, văn bản thỏa thuận phải có nội dung nào sau đây theo Điều 5 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Phải được công chứng hoặc chứng thực.",
+        "B. Chỉ cần nêu rõ nội dung thỏa thuận và chữ ký các bên.",
+        "C. Hậu quả pháp lý đối với việc không thực hiện hoặc thực hiện không đúng nội dung đã thỏa thuận.",
+        "D. Phải có sự đồng ý của Viện kiểm sát cùng cấp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 2 Điều 5 quy định rõ văn bản thỏa thuận phải thể hiện hậu quả pháp lý đối với việc không thực hiện hoặc thực hiện không đúng nội dung đã thỏa thuận.",
+      "topic": "Thỏa thuận thi hành án"
+    },
+    {
+      "id": 5,
+      "question": "Khi nào Chấp hành viên có trách nhiệm chứng kiến và ký tên vào văn bản thỏa thuận của đương sự?",
+      "options": [
+        "A. Khi đương sự có yêu cầu, đối với trường hợp thỏa thuận sau khi đã có quyết định thi hành án.",
+        "B. Khi Thủ trưởng cơ quan thi hành án dân sự chỉ đạo.",
+        "C. Chỉ khi thỏa thuận liên quan đến tài sản là bất động sản.",
+        "D. Trong mọi trường hợp đương sự thỏa thuận thi hành án."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 4 Điều 5 quy định Chấp hành viên chứng kiến khi đương sự có yêu cầu và trong các trường hợp tại khoản 2 và 3 của Điều này.",
+      "topic": "Trách nhiệm của Chấp hành viên"
+    },
+    {
+      "id": 6,
+      "question": "Thủ trưởng cơ quan thi hành án dân sự sẽ ra một quyết định thi hành án chung đối với các khoản thuộc diện chủ động thi hành trong một bản án, trừ trường hợp nào sau đây theo Điều 6 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Các khoản thu cho Nhà nước có giá trị nhỏ.",
+        "B. Bản án, quyết định được tuyên bởi Tòa án cấp huyện.",
+        "C. Có người phải thi hành nhiều khoản khác nhau.",
+        "D. Bản án, quyết định có nhiều khoản phải thi hành."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điểm b khoản 1 Điều 6 quy định đây là trường hợp ngoại lệ, phải ra một quyết định thi hành án riêng đối với người đó.",
+      "topic": "Ra quyết định thi hành án"
+    },
+    {
+      "id": 7,
+      "question": "Theo Điều 6 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), khoản nào sau đây thuộc diện các khoản thu khác cho Nhà nước mà cơ quan thi hành án chủ động ra quyết định thi hành án?",
+      "options": [
+        "A. Tiền cấp dưỡng nuôi con.",
+        "B. Tiền bồi thường thiệt hại trong các vụ án dân sự thông thường.",
+        "C. Tiền án phí dân sự.",
+        "D. Khoản bồi thường cho Nhà nước trong các vụ án tham nhũng."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 3 Điều 6 liệt kê rõ khoản bồi thường cho Nhà nước trong các vụ án xâm phạm trật tự quản lý kinh tế, tham nhũng thuộc diện chủ động thi hành.",
+      "topic": "Khoản thu chủ động thi hành"
+    },
+    {
+      "id": 8,
+      "question": "Theo Điều 7 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), trong trường hợp bản án, quyết định có một người phải thi hành án cho nhiều người và các đương sự yêu cầu thi hành án vào cùng thời điểm, Thủ trưởng cơ quan thi hành án dân sự sẽ xử lý như thế nào?",
+      "options": [
+        "A. Ra một quyết định thi hành án chung cho nhiều yêu cầu.",
+        "B. Ra một quyết định thi hành án cho mỗi yêu cầu.",
+        "C. Yêu cầu các đương sự thỏa thuận để chỉ một người đại diện yêu cầu.",
+        "D. Từ chối yêu cầu cho đến khi tất cả các đương sự cùng yêu cầu."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 1 Điều 7 quy định rõ trong trường hợp này, Thủ trưởng cơ quan thi hành án dân sự ra một quyết định thi hành án chung.",
+      "topic": "Cấp và thu hồi quyết định thi hành án"
+    },
+    {
+      "id": 9,
+      "question": "Theo Điều 8 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), hồ sơ thi hành án được lập dựa trên căn cứ nào và trong thời hạn bao lâu kể từ ngày được phân công?",
+      "options": [
+        "A. Căn cứ vào đơn yêu cầu thi hành án; trong thời hạn không quá 05 ngày làm việc.",
+        "B. Căn cứ vào kết quả xác minh điều kiện thi hành án; trong thời hạn 01 ngày làm việc.",
+        "C. Căn cứ vào bản án, quyết định của Tòa án; trong thời hạn không quá 03 ngày làm việc.",
+        "D. Căn cứ vào quyết định thi hành án; trong thời hạn không quá 02 ngày làm việc."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 1 Điều 8 quy định rõ: “Quyết định thi hành án là căn cứ để lập hồ sơ thi hành án” và thời hạn là “không quá 02 ngày làm việc”.",
+      "topic": "Lập hồ sơ thi hành án"
+    },
+    {
+      "id": 10,
+      "question": "Ủy ban nhân dân các cấp có trách nhiệm gì trong công tác thi hành án dân sự theo Điều 3 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Phối hợp chỉ đạo và tạo điều kiện cho cơ quan thi hành án dân sự trên địa bàn thực thi chính sách, pháp luật.",
+        "B. Ra quyết định thi hành án đối với các vụ việc phức tạp.",
+        "C. Giải quyết khiếu nại đối với quyết định của Chấp hành viên.",
+        "D. Trực tiếp tổ chức cưỡng chế thi hành án."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 1 Điều 3 nêu rõ trách nhiệm phối hợp chỉ đạo và tạo điều kiện của Ủy ban nhân dân các cấp.",
+      "topic": "Trách nhiệm của UBND"
+    },
+    {
+      "id": 11,
+      "question": "Trường hợp nào sau đây không được coi là trở ngại khách quan theo điểm b, khoản 3, Điều 4 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Do lỗi của cơ quan thi hành án dẫn đến đương sự không thể yêu cầu thi hành án đúng hạn.",
+        "B. Đương sự bị ốm thông thường, vẫn có khả năng nhận thức và đi lại.",
+        "C. Tổ chức bị giải thể mà chưa xác định được tổ chức, cá nhân mới có quyền yêu cầu thi hành án.",
+        "D. Đương sự đi công tác ở vùng biên giới, hải đảo."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Văn bản quy định phải là “ốm nặng đến mức mất khả năng nhận thức”, do đó ốm thông thường không được xem là trở ngại khách quan.",
+      "topic": "Trở ngại khách quan"
+    },
+    {
+      "id": 12,
+      "question": "Xác nhận của tổ chức, cá nhân có thẩm quyền về sự kiện bất khả kháng hoặc trở ngại khách quan phải thể hiện rõ những nội dung gì?",
+      "options": [
+        "A. Chỉ cần nêu nội dung sự kiện và có chữ ký, con dấu của người xác nhận.",
+        "B. Thời gian xảy ra sự kiện và thiệt hại ước tính.",
+        "C. Địa điểm, nội dung và thời gian xảy ra sự kiện.",
+        "D. Chỉ cần thể hiện địa điểm và thời gian xảy ra sự kiện."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 4 Điều 4 quy định rõ xác nhận phải thể hiện đầy đủ ba yếu tố: địa điểm, nội dung và thời gian xảy ra sự kiện.",
+      "topic": "Xác nhận sự kiện bất khả kháng"
+    },
+    {
+      "id": 13,
+      "question": "Nếu đương sự thỏa thuận thi hành án trước khi yêu cầu thi hành án và bên có nghĩa vụ không thực hiện đúng thỏa thuận, bên có quyền sẽ làm gì?",
+      "options": [
+        "A. Yêu cầu cơ quan thi hành án cưỡng chế thực hiện thỏa thuận.",
+        "B. Mất quyền yêu cầu thi hành án theo bản án, quyết định ban đầu.",
+        "C. Được yêu cầu thi hành án đối với phần nghĩa vụ chưa được thi hành theo nội dung bản án, quyết định, nếu thời hiệu vẫn còn.",
+        "D. Khởi kiện ra Tòa án để yêu cầu giải quyết tranh chấp về thỏa thuận mới."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 1 Điều 5 quy định rõ quyền của bên có quyền trong trường hợp này.",
+      "topic": "Thỏa thuận thi hành án"
+    },
+    {
+      "id": 14,
+      "question": "Phù hiệu, cấp hiệu của Chấp hành viên và các chức danh khác trong cơ quan thi hành án trong quân đội thực hiện theo quy định của chủ thể nào?",
+      "options": [
+        "A. Bộ Quốc phòng.",
+        "B. Bộ Tư pháp.",
+        "C. Tổng cục Thi hành án dân sự.",
+        "D. Bộ Công an."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 2, Điều 80 quy định rõ, phù hiệu, cấp hiệu của các chức danh thi hành án trong quân đội do Bộ Quốc phòng quy định.",
+      "topic": "Trang phục thi hành án quân đội"
+    },
+    {
+      "id": 15,
+      "question": "Chấp hành viên có thể từ chối chứng kiến thỏa thuận của đương sự trong trường hợp nào?",
+      "options": [
+        "A. Thỏa thuận làm ảnh hưởng đến quyền và lợi ích hợp pháp của người thứ ba.",
+        "B. Các bên không nộp phí chứng kiến thỏa thuận.",
+        "C. Thỏa thuận có nội dung phức tạp, khó thực hiện.",
+        "D. Thỏa thuận được thực hiện ngoài trụ sở cơ quan thi hành án dân sự."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 4 Điều 5 quy định rõ đây là một trong các trường hợp Chấp hành viên phải từ chối chứng kiến thỏa thuận.",
+      "topic": "Thỏa thuận thi hành án"
+    },
+    {
+      "id": 16,
+      "question": "Trong trường hợp nào cơ quan thi hành án dân sự không từ chối yêu cầu thi hành án dù bản án không xác định rõ khoản phải thi hành hoặc người phải thi hành?",
+      "options": [
+        "A. Giao quyền thăm nom, chăm sóc người chưa thành niên.",
+        "B. Yêu cầu trả một khoản nợ không có lãi suất.",
+        "C. Yêu cầu bồi thường thiệt hại về tinh thần.",
+        "D. Yêu cầu xin lỗi, cải chính công khai."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điểm c khoản 4 Điều 7 quy định đây là một trong những trường hợp ngoại lệ mà cơ quan thi hành án không từ chối yêu cầu.",
+      "topic": "Tiếp nhận yêu cầu thi hành án"
+    },
+    {
+      "id": 17,
+      "question": "Căn cứ pháp lý để lập một hồ sơ thi hành án là gì?",
+      "options": [
+        "A. Bản án, quyết định có hiệu lực pháp luật của Tòa án.",
+        "B. Đơn yêu cầu thi hành án của đương sự.",
+        "C. Biên bản xác minh điều kiện thi hành án.",
+        "D. Quyết định thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 1 Điều 8 nêu rõ: “Quyết định thi hành án là căn cứ để lập hồ sơ thi hành án.”",
+      "topic": "Lập hồ sơ thi hành án"
+    },
+    {
+      "id": 18,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), trường hợp đương sự thỏa thuận đình chỉ thi hành án sau thời điểm tài sản đã được bán đấu giá thành thì cần thêm điều kiện gì?",
+      "options": [
+        "A. Phải được Thủ trưởng cơ quan thi hành án cấp trên trực tiếp phê duyệt.",
+        "B. Phải nộp một khoản tiền phạt do hủy kết quả đấu giá.",
+        "C. Sự đồng ý của người trúng đấu giá.",
+        "D. Sự đồng ý của Viện kiểm sát nhân dân cùng cấp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 3 Điều 5 quy định việc thỏa thuận phải được sự đồng ý của người trúng đấu giá, vì quyền lợi của họ đã phát sinh.",
+      "topic": "Đình chỉ thi hành án"
+    },
+    {
+      "id": 19,
+      "question": "Trường hợp phạm nhân tự nguyện nộp tiền thi hành án khi đã hết thời hiệu yêu cầu thi hành án, cơ quan thi hành án dân sự sẽ xử lý như thế nào?",
+      "options": [
+        "A. Ra quyết định thi hành án tương ứng với khoản tiền, tài sản họ tự nguyện nộp.",
+        "B. Nhận tiền và sung vào quỹ nhà nước ngay lập tức.",
+        "C. Từ chối nhận tiền vì đã hết thời hiệu.",
+        "D. Ra quyết định khôi phục thời hiệu và tổ chức thi hành án toàn bộ nghĩa vụ."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 6 Điều 4 quy định: “cơ quan thi hành án dân sự chỉ ra quyết định thi hành án tương ứng với khoản tiền, tài sản họ tự nguyện nộp”.",
+      "topic": "Nộp tiền khi hết thời hiệu"
+    },
+    {
+      "id": 20,
+      "question": "Hết thời hạn bao lâu kể từ ngày được thông báo hợp lệ mà người được thi hành án không đến nhận khoản tiền do phạm nhân tự nguyện nộp (khi đã hết thời hiệu) thì cơ quan thi hành án sẽ làm thủ tục sung quỹ nhà nước?",
+      "options": [
+        "A. 06 tháng.",
+        "B. 02 năm.",
+        "C. 03 tháng.",
+        "D. 01 năm."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 6 Điều 4 quy định: “Hết thời hạn 01 năm… mà người được thi hành án không đến nhận tiền, tài sản thì cơ quan thi hành án dân sự làm thủ tục sung quỹ nhà nước”.",
+      "topic": "Sung quỹ nhà nước"
+    },
+    {
+      "id": 21,
+      "question": "Khi đương sự thỏa thuận thi hành án, họ phải chịu trách nhiệm về những nội dung nào theo Khoản 2 Điều 5 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Nội dung thỏa thuận phải có lợi hơn cho người được thi hành án so với bản án.",
+        "B. Chỉ chịu trách nhiệm về việc thực hiện đúng thỏa thuận.",
+        "C. Nội dung thỏa thuận không vi phạm điều cấm của luật và trái đạo đức xã hội.",
+        "D. Chịu trách nhiệm bồi thường cho cơ quan thi hành án nếu thỏa thuận không thành."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 2 Điều 5 quy định đương sự phải chịu trách nhiệm về việc thỏa thuận không vi phạm điều cấm của luật, trái đạo đức xã hội, không đúng thực tế, không ảnh hưởng đến người thứ ba và không nhằm trốn tránh phí thi hành án.",
+      "topic": "Trách nhiệm đương sự khi thỏa thuận"
+    },
+    {
+      "id": 22,
+      "question": "Sau khi có quyết định đình chỉ thi hành án của Thủ trưởng cơ quan thi hành án dân sự do đương sự thỏa thuận, đương sự có quyền gì đối với nội dung đã đình chỉ?",
+      "options": [
+        "A. Có quyền yêu cầu Tòa án xem xét lại quyết định đình chỉ.",
+        "B. Có quyền yêu cầu thi hành án trở lại nếu bên kia vi phạm thỏa thuận.",
+        "C. Không có quyền yêu cầu thi hành án trở lại đối với nội dung đã đình chỉ.",
+        "D. Có quyền yêu cầu thi hành án trở lại trong thời hạn 01 năm."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 3 Điều 5 quy định: “Sau khi có quyết định đình chỉ thi hành án… đương sự không có quyền yêu cầu thi hành án trở lại đối với nội dung đã đình chỉ thi hành.”",
+      "topic": "Hệ quả của thỏa thuận đình chỉ"
+    },
+    {
+      "id": 23,
+      "question": "Trong trường hợp nào Chấp hành viên sẽ chứng kiến việc thỏa thuận của đương sự ngoài trụ sở cơ quan thi hành án dân sự?",
+      "options": [
+        "A. Khi có sự đồng ý của Thủ trưởng cơ quan thi hành án dân sự.",
+        "B. Khi thỏa thuận có giá trị lớn.",
+        "C. Khi đương sự yêu cầu và thỏa thuận liên quan đến giao quyền sử dụng đất, giao nhà.",
+        "D. Trong mọi trường hợp khi đương sự có yêu cầu."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 4 Điều 5 quy định các trường hợp này, Chấp hành viên sẽ chứng kiến ngoài trụ sở nếu đương sự yêu cầu.",
+      "topic": "Chứng kiến thỏa thuận ngoài trụ sở"
+    },
+    {
+      "id": 24,
+      "question": "Một hồ sơ thi hành án phải thể hiện điều gì và được lưu trữ như thế nào?",
+      "options": [
+        "A. Kết quả cuối cùng của việc thi hành án và được tiêu hủy sau khi vụ việc kết thúc.",
+        "B. Các biên bản làm việc với đương sự và được Chấp hành viên tự bảo quản.",
+        "C. Chỉ thể hiện các quyết định quan trọng của Chấp hành viên và được lưu trữ 5 năm.",
+        "D. Toàn bộ quá trình tổ chức thi hành án của Chấp hành viên và được lưu trữ theo quy định của pháp luật về lưu trữ."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 2 Điều 8 quy định đầy đủ về nội dung và cách thức lưu trữ hồ sơ thi hành án.",
+      "topic": "Hồ sơ và lưu trữ"
+    },
+    {
+      "id": 25,
+      "question": "Cơ quan, tổ chức nào chủ trì, phối hợp hướng dẫn hoạt động của Ban Chỉ đạo thi hành án dân sự?",
+      "options": [
+        "A. Bộ Công an.",
+        "B. Bộ Tư pháp.",
+        "C. Văn phòng Chính phủ.",
+        "D. Tòa án nhân dân tối cao."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2 Điều 3 quy định: “Bộ Tư pháp chủ trì, phối hợp với Tòa án nhân dân tối cao, Viện Kiểm sát nhân dân tối cao, Bộ Công an, Bộ Tài chính, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam hướng dẫn hoạt động của Ban Chỉ đạo thi hành án dân sự.”",
+      "topic": "Ban Chỉ đạo THADS"
+    },
+    {
+      "id": 26,
+      "question": "Để chứng minh lý do yêu cầu thi hành án quá hạn do hợp nhất, sáp nhập, chia, tách doanh nghiệp, cần có tài liệu gì?",
+      "options": [
+        "A. Văn bản hợp pháp chứng minh thời gian chưa xác định được tổ chức, cá nhân mới có quyền yêu cầu thi hành án.",
+        "B. Biên bản họp của Hội đồng thành viên/cổ đông.",
+        "C. Báo cáo tài chính của doanh nghiệp tại thời điểm chia, tách.",
+        "D. Xác nhận của cơ quan đăng ký kinh doanh."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điểm đ khoản 4 Điều 4 quy định rõ loại tài liệu cần thiết trong trường hợp này.",
+      "topic": "Chứng minh lý do quá hạn"
+    },
+    {
+      "id": 27,
+      "question": "Mỗi quyết định thi hành án sẽ được lập thành bao nhiêu hồ sơ thi hành án?",
+      "options": [
+        "A. Một hồ sơ thi hành án.",
+        "B. Hai hồ sơ, một lưu tại cơ quan, một gửi cho Viện kiểm sát.",
+        "C. Tùy thuộc vào số lượng đương sự trong vụ việc.",
+        "D. Một hồ sơ chung cho tất cả các quyết định trong tháng."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 1 Điều 8 quy định: “Mỗi quyết định thi hành án lập thành một hồ sơ thi hành án.”",
+      "topic": "Lập hồ sơ thi hành án"
+    },
+    {
+      "id": 28,
+      "question": "Theo quy định tại Nghị định 62/2015/NĐ-CP (đã được sửa đổi, bổ sung), trong trường hợp ủy quyền xác minh tài sản là bất động sản, thời hạn trả lời kết quả xác minh của cơ quan nhận ủy quyền là bao lâu kể từ ngày nhận được ủy quyền?",
+      "options": [
+        "A. Không quá 15 ngày.",
+        "B. Không quá 30 ngày, và có thể kéo dài nhưng không quá 45 ngày đối với trường hợp khó khăn, phức tạp.",
+        "C. Không quá 30 ngày trong mọi trường hợp.",
+        "D. Không quá 45 ngày."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 9, khoản 2, điểm a quy định thời hạn trả lời kết quả xác minh đối với bất động sản và động sản phải đăng ký, bao gồm cả trường hợp gia hạn.",
+      "topic": "Ủy quyền xác minh tài sản"
+    },
+    {
+      "id": 29,
+      "question": "Trong trường hợp nào sau đây, đương sự có quyền yêu cầu thay đổi Chấp hành viên theo Điều 10 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Chấp hành viên từ chối áp dụng biện pháp cưỡng chế theo yêu cầu của đương sự.",
+        "B. Đương sự cho rằng Chấp hành viên có trình độ chuyên môn không phù hợp.",
+        "C. Chấp hành viên đã tham gia với tư cách là người phiên dịch trong cùng vụ án đó.",
+        "D. Có căn cứ cho rằng Chấp hành viên không vô tư trong khi làm nhiệm vụ."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 10, khoản 1, điểm d quy định đây là căn cứ hợp pháp để đương sự yêu cầu thay đổi Chấp hành viên.",
+      "topic": "Thay đổi Chấp hành viên"
+    },
+    {
+      "id": 30,
+      "question": "Văn bản yêu cầu thay đổi Chấp hành viên phải được gửi đến đâu nếu Chấp hành viên đang thi hành vụ việc là Thủ trưởng cơ quan thi hành án dân sự?",
+      "options": [
+        "A. Gửi đến Viện kiểm sát nhân dân cùng cấp để giám sát.",
+        "B. Chỉ được gửi đến Thủ trưởng cơ quan quản lý thi hành án dân sự cấp trên trực tiếp.",
+        "C. Thủ trưởng cơ quan thi hành án dân sự hoặc Thủ trưởng cơ quan quản lý thi hành án dân sự cấp trên trực tiếp.",
+        "D. Gửi đến Tòa án nhân dân cùng cấp để giải quyết."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 10, khoản 2 quy định đương sự có thể gửi văn bản đến Thủ trưởng cơ quan thi hành án dân sự hoặc cơ quan quản lý thi hành án dân sự cấp trên trực tiếp.",
+      "topic": "Thủ tục thay đổi Chấp hành viên"
+    },
+    {
+      "id": 31,
+      "question": "Thời hạn giải quyết yêu cầu thay đổi Chấp hành viên là bao lâu, kể từ ngày nhận được văn bản yêu cầu?",
+      "options": [
+        "A. 10 ngày làm việc.",
+        "B. 03 ngày làm việc.",
+        "C. 07 ngày làm việc.",
+        "D. 05 ngày làm việc."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 10, khoản 3 quy định người có thẩm quyền phải xem xét, quyết định hoặc trả lời bằng văn bản trong thời hạn 05 ngày làm việc.",
+      "topic": "Thời hạn giải quyết thay đổi Chấp hành viên"
+    },
+    {
+      "id": 32,
+      "question": "Theo Điều 11, cơ quan thi hành án dân sự phải đăng tải công khai thông tin về tên, địa chỉ, nghĩa vụ thi hành án của người phải thi hành án trên Trang thông tin điện tử của Cục thi hành án dân sự và tích hợp trên Cổng thông tin điện tử của Tổng cục thi hành án dân sự thuộc Bộ Tư pháp trong thời hạn nào?",
+      "options": [
+        "A. Trong thời hạn 02 ngày làm việc, kể từ ngày ra quyết định.",
+        "B. Trong thời hạn 03 ngày làm việc, kể từ ngày ra quyết định.",
+        "C. Ngay trong ngày ra quyết định về việc chưa có điều kiện thi hành án.",
+        "D. Trong thời hạn 05 ngày làm việc, kể từ ngày ra quyết định về việc chưa có điều kiện thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 1, Điều 11 quy định trong thời hạn 05 ngày làm việc, kể từ ngày ra quyết định về việc chưa có điều kiện thi hành án, cơ quan thi hành án dân sự đăng tải công khai thông tin.",
+      "topic": "Đăng tải thông tin chưa có điều kiện thi hành"
+    },
+    {
+      "id": 33,
+      "question": "Thời gian niêm yết công khai quyết định về việc chưa có điều kiện thi hành án tại Ủy ban nhân dân cấp xã là bao lâu?",
+      "options": [
+        "A. 03 tháng, kể từ ngày niêm yết.",
+        "B. 01 tháng, kể từ ngày niêm yết.",
+        "C. Cho đến khi người phải thi hành án có điều kiện thi hành án.",
+        "D. 06 tháng, kể từ ngày niêm yết."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 11, khoản 1 quy định thời gian niêm yết công khai là 03 tháng tại trụ sở Ủy ban nhân dân cấp xã.",
+      "topic": "Niêm yết thông tin chưa có điều kiện thi hành"
+    },
+    {
+      "id": 34,
+      "question": "Theo Điều 12 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), việc thông báo về thi hành án từ lần thứ hai trở đi có thể được thực hiện qua VNeID hoặc Trang thông tin điện tử khi nào?",
+      "options": [
+        "A. Khi người được thông báo đồng ý.",
+        "B. Khi cơ quan thi hành án dân sự thấy cần thiết để đẩy nhanh tiến độ.",
+        "C. Khi người được thông báo không có mặt tại nơi cư trú.",
+        "D. Trong mọi trường hợp để tiết kiệm chi phí."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 12, khoản 1 quy định điều kiện thông báo qua phương tiện điện tử là phải có sự đồng ý của người được thông báo.",
+      "topic": "Thông báo thi hành án điện tử"
+    },
+    {
+      "id": 35,
+      "question": "Trong trường hợp đương sự từ chối không nhận thông báo trực tiếp, người thực hiện thông báo phải làm gì để việc thông báo được coi là hợp lệ?",
+      "options": [
+        "A. Báo cáo lại cho Chấp hành viên để tìm phương thức khác.",
+        "B. Gửi thông báo qua đường bưu điện.",
+        "C. Yêu cầu người thân thích của đương sự nhận thay.",
+        "D. Lập biên bản về việc từ chối nhận, có chữ ký của người chứng kiến."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 12, khoản 4 quy định thủ tục lập biên bản về việc từ chối nhận và có người chứng kiến để việc thông báo được coi là hợp lệ.",
+      "topic": "Thủ tục thông báo hợp lệ"
+    },
+    {
+      "id": 36,
+      "question": "Cơ quan thi hành án dân sự không tổ chức cưỡng chế thi hành án có huy động lực lượng trong khoảng thời gian nào sau đây?",
+      "options": [
+        "A. Trong thời gian 07 ngày trước và sau Tết Nguyên đán.",
+        "B. Chỉ trong những ngày nghỉ lễ Tết Nguyên đán theo quy định của Nhà nước.",
+        "C. Trong thời gian 10 ngày trước và sau Tết Nguyên đán.",
+        "D. Trong thời gian 15 ngày trước và sau Tết Nguyên đán."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 13, khoản 2 quy định khoảng thời gian không tổ chức cưỡng chế là 15 ngày trước và sau Tết Nguyên đán.",
+      "topic": "Thời gian không cưỡng chế"
+    },
+    {
+      "id": 37,
+      "question": "Nguyên tắc áp dụng biện pháp bảo đảm, cưỡng chế thi hành án phải như thế nào so với nghĩa vụ của người phải thi hành án?",
+      "options": [
+        "A. Bằng đúng giá trị nghĩa vụ phải thi hành, không tính chi phí thi hành án.",
+        "B. Do Chấp hành viên quyết định tùy thuộc vào thái độ hợp tác của người phải thi hành án.",
+        "C. Phải lớn hơn nghĩa vụ để đảm bảo thi hành án triệt để.",
+        "D. Phải tương ứng với nghĩa vụ của người phải thi hành án và các chi phí thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 13, khoản 1 quy định nguyên tắc áp dụng biện pháp bảo đảm, cưỡng chế phải tương ứng với nghĩa vụ và chi phí thi hành án.",
+      "topic": "Nguyên tắc cưỡng chế"
+    },
+    {
+      "id": 38,
+      "question": "Trường hợp nào sau đây là một ngoại lệ của nguyên tắc áp dụng biện pháp cưỡng chế phải tương ứng với nghĩa vụ thi hành án?",
+      "options": [
+        "A. Khi người phải thi hành án không hợp tác trong quá trình xác minh.",
+        "B. Khi tài sản duy nhất của người phải thi hành án lớn hơn nhiều lần so với nghĩa vụ mà không thể phân chia.",
+        "C. Khi người phải thi hành án có nhiều tài sản ở nhiều nơi khác nhau.",
+        "D. Khi người được thi hành án yêu cầu kê biên một tài sản cụ thể."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 13, khoản 1 quy định trường hợp ngoại lệ cho phép kê biên tài sản có giá trị lớn hơn nghĩa vụ khi tài sản duy nhất lớn hơn nhiều lần và không thể phân chia.",
+      "topic": "Kê biên tài sản không thể phân chia"
+    },
+    {
+      "id": 39,
+      "question": "Trong trường hợp người phải thi hành án có tài sản khác ngoài tài sản là nhà ở duy nhất tại địa chỉ đang bị cưỡng chế, cơ quan thi hành án dân sự sẽ xử lý như thế nào?",
+      "options": [
+        "A. Ra quyết định hoãn thi hành án để người phải thi hành án tự nguyện thi hành.",
+        "B. Thông báo cho người phải thi hành án lựa chọn tài sản để thi hành án.",
+        "C. Chỉ xử lý tài sản khác nếu người được thi hành án có yêu cầu.",
+        "D. Xử lý tài sản đó để thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 14, khoản 2 quy định nếu người phải thi hành án có tài sản khác thì cơ quan thi hành án xử lý tài sản đó để thi hành án.",
+      "topic": "Xử lý tài sản thi hành án"
+    },
+    {
+      "id": 40,
+      "question": "Cơ quan thi hành án dân sự sẽ chuyển việc thi hành án chưa có điều kiện sang sổ theo dõi riêng khi đã hết thời hạn bao lâu kể từ ngày ra quyết định đối với trường hợp người phải thi hành án không xác định được địa chỉ?",
+      "options": [
+        "A. 06 tháng.",
+        "B. 01 năm.",
+        "C. 03 năm.",
+        "D. 02 năm."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 9, khoản 5, điểm a quy định thời hạn 01 năm đối với trường hợp không xác định được địa chỉ.",
+      "topic": "Theo dõi án chưa có điều kiện"
+    },
+    {
+      "id": 41,
+      "question": "Khi tiến hành xác minh điều kiện thi hành án, trường hợp người phải thi hành án không kê khai hoặc phát hiện việc kê khai không trung thực thì tùy theo mức độ vi phạm, Chấp hành viên có thể xử lý như thế nào?",
+      "options": [
+        "A. Áp dụng ngay biện pháp cưỡng chế kê biên toàn bộ tài sản nghi ngờ.",
+        "B. Xử phạt hoặc đề nghị người có thẩm quyền xử lý vi phạm hành chính.",
+        "C. Đề nghị Tòa án ra quyết định buộc kê khai tài sản.",
+        "D. Chuyển hồ sơ cho cơ quan điều tra để xử lý hình sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 9, khoản 1 quy định rõ Chấp hành viên có thể xử phạt hoặc đề nghị xử lý vi phạm hành chính tùy theo mức độ vi phạm.",
+      "topic": "Xử lý vi phạm kê khai tài sản"
+    },
+    {
+      "id": 42,
+      "question": "Theo Điều 9 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), Thủ trưởng cơ quan thi hành án dân sự ra quyết định về việc chưa có điều kiện thi hành án trong thời hạn nào kể từ ngày xác định có căn cứ?",
+      "options": [
+        "A. 05 ngày làm việc.",
+        "B. 15 ngày.",
+        "C. 10 ngày.",
+        "D. 03 ngày làm việc."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 9, khoản 4 nêu rõ thời hạn để Thủ trưởng cơ quan thi hành án ra quyết định là 05 ngày làm việc.",
+      "topic": "Quyết định chưa có điều kiện thi hành"
+    },
+    {
+      "id": 43,
+      "question": "Thông tin nào của người phải thi hành án được đăng tải công khai trên Trang thông tin điện tử khi có quyết định về việc chưa có điều kiện thi hành án?",
+      "options": [
+        "A. Chỉ có tên và nghĩa vụ thi hành án.",
+        "B. Tên, địa chỉ, nghĩa vụ thi hành án.",
+        "C. Tên, địa chỉ và toàn bộ thông tin tài sản đã xác minh.",
+        "D. Tên, số chứng minh nhân dân/căn cước công dân và nơi làm việc."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 11, khoản 1 liệt kê các thông tin bắt buộc phải công khai bao gồm tên, địa chỉ và nghĩa vụ phải thi hành.",
+      "topic": "Công khai thông tin thi hành án"
+    },
+    {
+      "id": 44,
+      "question": "Trường hợp tài sản đã được giao trên thực tế cho người được nhận và người đó đã ký nhận vào biên bản giao, nhận tài sản nhưng sau đó bị chiếm lại, cơ quan thi hành án dân sự có trách nhiệm gì?",
+      "options": [
+        "A. Tổ chức cưỡng chế để giao lại tài sản cho người đã nhận.",
+        "B. Hướng dẫn người đã nhận tài sản khởi kiện ra Tòa án.",
+        "C. Ra quyết định xử phạt vi phạm hành chính đối với người chiếm lại.",
+        "D. Không có trách nhiệm giao lại tài sản cho người được nhận tài sản."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 13, khoản 4 quy định rõ rằng cơ quan thi hành án không có trách nhiệm giao lại tài sản trong trường hợp này.",
+      "topic": "Trách nhiệm giao tài sản"
+    },
+    {
+      "id": 45,
+      "question": "Khi nào việc thông báo trực tiếp về thi hành án có thể được thực hiện qua email theo yêu cầu của đương sự?",
+      "options": [
+        "A. Khi đương sự cam kết chịu mọi rủi ro về việc không nhận được thông báo.",
+        "B. Chỉ khi người được thông báo đang ở nước ngoài.",
+        "C. Khi cơ quan thi hành án có đủ điều kiện về cơ sở vật chất.",
+        "D. Khi việc đó không gây trở ngại cho cơ quan thi hành án dân sự."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 12, khoản 2 nêu rõ điều kiện là việc thông báo qua hình thức này không được gây trở ngại cho hoạt động của cơ quan thi hành án.",
+      "topic": "Thông báo qua email"
+    },
+    {
+      "id": 46,
+      "question": "Theo Điều 9 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), khi nhận được thông tin mới về điều kiện thi hành án của người phải thi hành án (đối với vụ việc đã có quyết định chưa có điều kiện), Chấp hành viên phải tiến hành xác minh trong thời hạn nào?",
+      "options": [
+        "A. Trong thời hạn 15 ngày.",
+        "B. Ngay sau khi nhận được thông tin.",
+        "C. Trong thời hạn 05 ngày làm việc.",
+        "D. Trong thời hạn 10 ngày."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 9, khoản 4 quy định rõ thời hạn 10 ngày để Chấp hành viên tiến hành xác minh lại sau khi nhận được thông tin mới.",
+      "topic": "Xác minh lại điều kiện thi hành án"
+    },
+    {
+      "id": 47,
+      "question": "Trong thời hạn bao nhiêu ngày làm việc, kể từ ngày có quyết định đình chỉ thi hành án hoặc có văn bản xác nhận về việc người phải thi hành án đã thực hiện xong nghĩa vụ thi hành án, cơ quan thi hành án dân sự phải chấm dứt việc công khai thông tin trên Trang thông tin điện tử của Cục thi hành án dân sự để chấm dứt tích hợp trên Cổng thông tin điện tử của Tổng cục thi hành án dân sự?",
+      "options": [
+        "A. Ngay trong ngày có quyết định đình chỉ.",
+        "B. Trong thời hạn 05 ngày làm việc.",
+        "C. Trong thời hạn 02 ngày làm việc.",
+        "D. Trong thời hạn 03 ngày làm việc."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 11, khoản 3 quy định rõ thời hạn 02 ngày làm việc để cơ quan thi hành án chấm dứt việc công khai thông tin.",
+      "topic": "Chấm dứt công khai thông tin"
+    },
+    {
+      "id": 48,
+      "question": "Nếu đương sự không thông báo cho cơ quan thi hành án về việc thay đổi địa chỉ liên lạc, việc thông báo theo địa chỉ cũ sẽ được xử lý như thế nào?",
+      "options": [
+        "A. Cơ quan thi hành án phải tự xác minh địa chỉ mới.",
+        "B. Cơ quan thi hành án sẽ tạm dừng việc thi hành án.",
+        "C. Việc thông báo được coi là hợp lệ.",
+        "D. Việc thông báo được coi là không hợp lệ."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 12, khoản 3 nêu rõ, nếu đương sự không thông báo địa chỉ mới thì việc thông báo theo địa chỉ đã đăng ký trước đó được coi là hợp lệ.",
+      "topic": "Thông báo thi hành án"
+    },
+    {
+      "id": 49,
+      "question": "Chủ thể nào là người chịu trách nhiệm về kết quả xác minh theo nội dung ủy quyền xác minh điều kiện thi hành án?",
+      "options": [
+        "A. Cả Thủ trưởng cơ quan ủy quyền và Thủ trưởng cơ quan nhận ủy quyền.",
+        "B. Thủ trưởng cơ quan thi hành án dân sự đã ủy quyền.",
+        "C. Chấp hành viên của cơ quan thi hành án dân sự đã ủy quyền.",
+        "D. Thủ trưởng cơ quan thi hành án dân sự nơi nhận ủy quyền."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 9, khoản 2 quy định rõ Thủ trưởng cơ quan thi hành án dân sự nơi nhận ủy quyền phải chịu trách nhiệm về kết quả xác minh.",
+      "topic": "Trách nhiệm xác minh ủy quyền"
+    },
+    {
+      "id": 50,
+      "question": "Cơ quan thi hành án dân sự không tổ chức cưỡng chế thi hành án có huy động lực lượng đối với các đối tượng chính sách nếu họ là người phải thi hành án vào thời điểm nào?",
+      "options": [
+        "A. Vào các ngày lễ lớn của quốc gia.",
+        "B. Vào các ngày truyền thống đối với các đối tượng đó.",
+        "C. Chỉ khi họ có đơn xin hoãn.",
+        "D. Vào ngày cuối tuần."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 13, khoản 2 quy định đây là một trong những trường hợp không tổ chức cưỡng chế, thể hiện tính nhân đạo của pháp luật.",
+      "topic": "Đối tượng chính sách"
+    },
+    {
+      "id": 51,
+      "question": "Đối với các vụ án lớn, phức tạp, Thủ trưởng cơ quan thi hành án dân sự phải báo cáo Chủ tịch Ủy ban nhân dân cùng cấp ít nhất bao nhiêu ngày làm việc trước khi tổ chức cưỡng chế?",
+      "options": [
+        "A. Ít nhất là 05 ngày làm việc.",
+        "B. Ít nhất là 10 ngày làm việc.",
+        "C. Ít nhất là 07 ngày làm việc.",
+        "D. Ít nhất là 03 ngày làm việc."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 13, khoản 3 quy định rõ thời hạn báo cáo trước khi tổ chức cưỡng chế các vụ việc phức tạp là ít nhất 05 ngày làm việc.",
+      "topic": "Báo cáo cưỡng chế án phức tạp"
+    },
+    {
+      "id": 52,
+      "question": "Chấp hành viên có thể xác minh thông tin điều kiện thi hành án qua kênh nào theo quy định mới được bổ sung tại Điều 9 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Thông qua việc hỏi thăm người thân, hàng xóm của người phải thi hành án.",
+        "B. Thông qua mạng xã hội.",
+        "C. Thông qua các công ty cung cấp dịch vụ điều tra tư nhân.",
+        "D. Thông qua cơ sở dữ liệu quốc gia theo quy định của pháp luật."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 9, khoản 7 (được bổ sung) cho phép Chấp hành viên xác minh thông qua cơ sở dữ liệu quốc gia, thể hiện sự ứng dụng công nghệ thông tin.",
+      "topic": "Kênh xác minh thông tin"
+    },
+    {
+      "id": 53,
+      "question": "Nếu cơ quan thi hành án dân sự đã áp dụng biện pháp cưỡng chế mà không thể giao tài sản cho cá nhân, tổ chức khác bảo quản, Thủ trưởng cơ quan thi hành án dân sự sẽ làm gì?",
+      "options": [
+        "A. Bán đấu giá ngay tài sản đó để thu tiền.",
+        "B. Yêu cầu người được thi hành án tự bảo quản tài sản.",
+        "C. Có văn bản đề nghị Ủy ban nhân dân cấp xã phối hợp, hỗ trợ bảo quản.",
+        "D. Trả lại tài sản cho người phải thi hành án."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 13, khoản 1 quy định đây là biện pháp xử lý khi gặp khó khăn trong việc giao bảo quản tài sản đã cưỡng chế.",
+      "topic": "Bảo quản tài sản cưỡng chế"
+    },
+    {
+      "id": 54,
+      "question": "Việc thi hành án chưa có điều kiện sau khi được chuyển sang sổ theo dõi riêng sẽ được xử lý tiếp như thế nào khi có thông tin mới?",
+      "options": [
+        "A. Thông báo cho người phải thi hành án tự nguyện thi hành trong 30 ngày.",
+        "B. Cơ quan thi hành án sẽ ra quyết định thi hành án mới.",
+        "C. Chấp hành viên tiến hành xác minh và tổ chức thi hành án theo quy định.",
+        "D. Người được thi hành án phải làm đơn yêu cầu thi hành án lại từ đầu"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 9, khoản 6 quy định rõ rằng khi có thông tin mới, Chấp hành viên sẽ tiến hành xác minh và tổ chức thi hành án trở lại.",
+      "topic": "Xử lý án từ sổ theo dõi riêng"
+    },
+    {
+      "id": 55,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), trường hợp người phải thi hành nghĩa vụ về thanh toán tiền đã chết mà có để lại tài sản, cơ quan thi hành án dân sự ấn định thời hạn bao lâu để người thừa kế hoặc người quản lý di sản thỏa thuận thực hiện nghĩa vụ?",
+      "options": [
+        "A. 45 ngày, kể từ ngày được thông báo hợp lệ.",
+        "B. 60 ngày, kể từ ngày được thông báo hợp lệ.",
+        "C. 15 ngày, kể từ ngày được thông báo hợp lệ.",
+        "D. 30 ngày, kể từ ngày được thông báo hợp lệ."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 15, khoản 1, điểm b quy định cơ quan thi hành án dân sự thông báo, ấn định trong thời hạn 30 ngày để người thừa kế hoặc người quản lý di sản thỏa thuận thực hiện nghĩa vụ.",
+      "topic": "Người phải thi hành án chết"
+    },
+    {
+      "id": 56,
+      "question": "Trong trường hợp người phải thi hành án đã chết và chưa xác định được người thừa kế, cơ quan thi hành án dân sự phải thông báo công khai trong thời gian bao lâu để người thừa kế biết và thực hiện nghĩa vụ?",
+      "options": [
+        "A. 01 tháng, kể từ ngày thông báo, niêm yết.",
+        "B. 06 tháng, kể từ ngày thông báo, niêm yết.",
+        "C. 03 tháng, kể từ ngày thông báo, niêm yết.",
+        "D. 01 năm, kể từ ngày thông báo, niêm yết."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 15, khoản 1, điểm b nêu rõ cơ quan thi hành án dân sự thông báo công khai và niêm yết trong thời gian 03 tháng để người thừa kế biết.",
+      "topic": "Thông báo tìm người thừa kế"
+    },
+    {
+      "id": 57,
+      "question": "Theo Điều 15 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), khi người được thi hành án chuyển giao quyền được thi hành án của mình cho người thứ ba, việc chuyển giao này có cần sự đồng ý của người phải thi hành án không?",
+      "options": [
+        "A. Chỉ cần sự đồng ý nếu giá trị thi hành án lớn.",
+        "B. Luôn cần sự đồng ý của người phải thi hành án.",
+        "C. Không cần sự đồng ý, trừ trường hợp có thỏa thuận hoặc pháp luật có quy định khác.",
+        "D. Phải được sự đồng ý của cả người phải thi hành án và cơ quan thi hành án dân sự."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 2 Điều 15 quy định rõ việc chuyển giao quyền về thi hành án không cần có sự đồng ý của người phải thi hành án, trừ trường hợp có thỏa thuận hoặc quy định khác.",
+      "topic": "Chuyển giao quyền thi hành án"
+    },
+    {
+      "id": 58,
+      "question": "Khi người phải thi hành án chuyển giao nghĩa vụ thi hành án cho người thứ ba, điều kiện cần thiết là gì?",
+      "options": [
+        "A. Không cần sự đồng ý của bất kỳ ai.",
+        "B. Phải được sự đồng ý của người được thi hành án.",
+        "C. Chỉ cần thông báo bằng văn bản cho cơ quan thi hành án.",
+        "D. Phải được Tòa án ra quyết định công nhận."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2 Điều 15 nêu rõ, trường hợp người phải thi hành án chuyển giao nghĩa vụ thi hành án cho người thứ ba thì phải được sự đồng ý của người được thi hành án.",
+      "topic": "Chuyển giao nghĩa vụ thi hành án"
+    },
+    {
+      "id": 59,
+      "question": "Căn cứ nào sau đây KHÔNG phải là cơ sở để Thủ trưởng cơ quan thi hành án dân sự ủy thác thi hành án theo quy định tại Điều 16 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Yêu cầu bằng văn bản của người được thi hành án.",
+        "B. Kết quả xác minh điều kiện thi hành án.",
+        "C. Bản án, quyết định được thi hành.",
+        "D. Người phải thi hành án có tài sản, làm việc, cư trú hoặc có trụ sở ở nơi khác."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Mặc dù thỏa thuận của đương sự được ưu tiên khi chọn nơi ủy thác, nhưng yêu cầu đơn phương của người được thi hành án không phải là căn cứ bắt buộc để ra quyết định ủy thác.",
+      "topic": "Ủy thác thi hành án"
+    },
+    {
+      "id": 60,
+      "question": "Trường hợp người phải thi hành án có nhiều tài sản ở nhiều nơi, thứ tự ưu tiên để cơ quan thi hành án dân sự thực hiện ủy thác là gì?",
+      "options": [
+        "A. Nơi có tài sản giá trị lớn nhất; Nơi có tài sản đủ thi hành án; Theo thỏa thuận của đương sự.",
+        "B. Theo thỏa thuận của đương sự; Nơi có tài sản đủ để thi hành án; Nơi có tổng giá trị tài sản lớn nhất.",
+        "C. Nơi có tài sản gần trụ sở cơ quan thi hành án nhất; Theo thỏa thuận của đương sự; Nơi có tài sản đủ thi hành án.",
+        "D. Nơi có tài sản đủ để thi hành án; Theo thỏa thuận của đương sự; Nơi có tổng giá trị tài sản lớn nhất."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2 Điều 16 quy định rõ thứ tự ưu tiên khi ủy thác là: a) Theo thỏa thuận của đương sự; b) Nơi có tài sản đủ để thi hành án; c) Nơi có tổng giá trị tài sản lớn nhất.",
+      "topic": "Thứ tự ưu tiên ủy thác"
+    }
+  ]
+},
+{
+  "id": "NghiDinh_62_De_02",
+  "title": "Đề 02: Nghị định số 62/2015/NĐ-CP của chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi hành án dân sự (đã sửa đổi, bổ sung)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Chấp hành viên tổ chức định giá lại tài sản theo Điều 17 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung) khi có đủ các điều kiện nào sau đây?",
+      "options": [
+        "A. Khi người được thi hành án yêu cầu và có bằng chứng về việc giá tài sản thay đổi.",
+        "B. Khi cơ quan thi hành án nhận thấy giá thị trường biến động và tự ra quyết định định giá lại.",
+        "C. Khi người phải thi hành án yêu cầu và giá tài sản thay đổi từ 10% trở lên.",
+        "D. Khi người phải thi hành án không tự nguyện giao tài sản, có đương sự yêu cầu và giá tài sản thay đổi từ 20% trở lên."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 1 Điều 17 liệt kê đủ 3 điều kiện: a) Người phải thi hành án không tự nguyện giao tài sản; b) Có ít nhất một đương sự yêu cầu và nộp tạm ứng chi phí; c) Giá tài sản thay đổi từ 20% trở lên.",
+      "topic": "Định giá tài sản"
+    },
+    {
+      "id": 2,
+      "question": "Theo Điều 17 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), ai là người có trách nhiệm cung cấp tài liệu chứng minh có thay đổi giá tài sản?",
+      "options": [
+        "A. Chấp hành viên.",
+        "B. Cơ quan tài chính tại địa phương.",
+        "C. Tổ chức thẩm định giá.",
+        "D. Người có đơn yêu cầu định giá tài sản."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 2 Điều 17 quy định rõ: \"Người có đơn yêu cầu định giá tài sản có trách nhiệm cung cấp tài liệu chứng minh có thay đổi giá tài sản\".",
+      "topic": "Định giá tài sản"
+    },
+    {
+      "id": 3,
+      "question": "Chấp hành viên cao cấp, Thẩm tra viên cao cấp, Chuyên viên cao cấp được xếp lương công chức thuộc nhóm nào?",
+      "options": [
+        "A. Nhóm 2 của loại A2.",
+        "B. Nhóm 1 của loại A2 và A3.",
+        "C. Nhóm 1 của loại A0.",
+        "D. Nhóm 1 của loại A1."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Theo khoản 2, Điều 78, các ngạch Chấp hành viên, Thẩm tra viên được xếp lương công chức nhóm 1 của loại A1, A2 và A3, trong đó A3 tương ứng với ngạch cao cấp.",
+      "topic": "Chế độ chính sách"
+    },
+    {
+      "id": 4,
+      "question": "Thẩm quyền quyết định việc cấp phát, sử dụng trang phục, phù hiệu, cấp hiệu thi hành án dân sự phù hợp với quy định của pháp luật thuộc về ai?",
+      "options": [
+        "A. Bộ Tư pháp.",
+        "B. Cục trưởng Cục thi hành án dân sự.",
+        "C. Tổng Cục trưởng Tổng cục thi hành án dân sự.",
+        "D. Ủy ban nhân dân cấp tỉnh."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 4, Điều 83 quy định Bộ Tư pháp có thẩm quyền quyết định việc cấp phát, sử dụng trang phục, phù hiệu, cấp hiệu phù hợp với tình hình thực tế.",
+      "topic": "Trang phục, phù hiệu"
+    },
+    {
+      "id": 5,
+      "question": "Khi người phải thi hành án chuyển giao nghĩa vụ thi hành án cho người thứ ba, điều kiện cần thiết là gì?",
+      "options": [
+        "A. Không cần sự đồng ý của bất kỳ ai.",
+        "B. Phải được sự đồng ý của người được thi hành án.",
+        "C. Chỉ cần thông báo bằng văn bản cho cơ quan thi hành án.",
+        "D. Phải được Tòa án ra quyết định công nhận."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2 Điều 15 nêu rõ, trường hợp người phải thi hành án chuyển giao nghĩa vụ thi hành án cho người thứ ba thì phải được sự đồng ý của người được thi hành án.",
+      "topic": "Chuyển giao quyền và nghĩa vụ"
+    },
+    {
+      "id": 6,
+      "question": "Cơ quan nào quy định mẫu, màu sắc, nguyên tắc sử dụng trang phục của người làm công tác thi hành án dân sự để áp dụng thống nhất trong phạm vi toàn quốc?",
+      "options": [
+        "A. Bộ trưởng Bộ Quốc phòng.",
+        "B. Chính phủ.",
+        "C. Bộ trưởng Bộ Tư pháp.",
+        "D. Tổng Cục trưởng Tổng cục thi hành án dân sự."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 3, Điều 82 nêu rõ thẩm quyền này thuộc về Bộ trưởng Bộ Tư pháp, trừ hệ thống thi hành án trong quân đội.",
+      "topic": "Trang phục, phù hiệu"
+    },
+    {
+      "id": 7,
+      "question": "Niên hạn sử dụng của một bộ phù hiệu, cấp hiệu thi hành án dân sự là bao lâu?",
+      "options": [
+        "A. 03 năm.",
+        "B. 02 năm.",
+        "C. 05 năm.",
+        "D. 01 năm."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 3, Điều 83 quy định Chấp hành viên và các đối tượng khác được cấp phù hiệu, cấp hiệu để sử dụng trong niên hạn 03 năm 01 bộ.",
+      "topic": "Trang phục, phù hiệu"
+    },
+    {
+      "id": 8,
+      "question": "Đối với đối tượng nào sau đây được cấp phù hiệu, cấp hiệu thi hành án dân sự?",
+      "options": [
+        "A. Chấp hành viên, Thẩm tra viên, công chức khác và những người khác làm công tác thi hành án dân sự.",
+        "B. Chỉ những người có chức vụ lãnh đạo.",
+        "C. Chỉ Chấp hành viên và Thẩm tra viên.",
+        "D. Chỉ công chức thuộc Tổng cục thi hành án dân sự."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 1, Điều 80 quy định một cách bao quát rằng Chấp hành viên, Thẩm tra viên, công chức khác và những người khác làm công tác thi hành án dân sự đều được cấp phù hiệu, cấp hiệu.",
+      "topic": "Trang phục, phù hiệu"
+    },
+    {
+      "id": 9,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), Thư ký thi hành án được xếp lương công chức loại nào trong bảng lương chuyên môn nghiệp vụ đối với cán bộ, công chức trong các cơ quan nhà nước?",
+      "options": [
+        "A. Loại A1.",
+        "B. Loại A3.",
+        "C. Loại A0.",
+        "D. Loại A2."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 2, Điều 78 nêu rõ Thư ký thi hành án xếp lương công chức loại A1 bảng lương chuyên môn nghiệp vụ.",
+      "topic": "Chế độ chính sách"
+    },
+    {
+      "id": 10,
+      "question": "Khi lập biên bản tạm giữ tài sản là kim khí quý, đá quý, thủ tục bắt buộc nào phải được thực hiện theo Điều 18 Nghị định số 62/2015/NĐ-CP?",
+      "options": [
+        "A. Phải niêm phong trước mặt người bị tạm giữ tài sản hoặc thân nhân của họ.",
+        "B. Phải được định giá ngay tại thời điểm tạm giữ.",
+        "C. Phải có sự chứng kiến của đại diện Viện kiểm sát.",
+        "D. Phải được đưa về kho của Ngân hàng Nhà nước để bảo quản."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 2 Điều 18 quy định rõ: \"Tài sản tạm giữ là kim khí quý, đá quý phải niêm phong trước mặt người bị tạm giữ tài sản hoặc thân nhân của họ\".",
+      "topic": "Tạm giữ tài sản"
+    },
+    {
+      "id": 11,
+      "question": "Trường hợp người bị tạm giữ tài sản hoặc thân nhân của họ không đồng ý chứng kiến việc niêm phong kim khí quý, đá quý, Chấp hành viên phải làm gì?",
+      "options": [
+        "A. Dừng việc niêm phong và báo cáo Thủ trưởng cơ quan.",
+        "B. Yêu cầu công an cấp xã đến chứng kiến và hỗ trợ.",
+        "C. Phải có mặt của người làm chứng.",
+        "D. Vẫn tiến hành niêm phong và ghi rõ trong biên bản."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 2 Điều 18 quy định: \"Trường hợp người bị tạm giữ tài sản, giấy tờ hoặc thân nhân của họ không đồng ý chứng kiến việc niêm phong thì phải có mặt của người làm chứng\".",
+      "topic": "Tạm giữ tài sản"
+    },
+    {
+      "id": 12,
+      "question": "Theo Điều 20 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), quyết định phong tỏa tài khoản, tài sản ở nơi gửi giữ phải xác định rõ nội dung gì?",
+      "options": [
+        "A. Thời hạn tối đa của việc phong tỏa.",
+        "B. Họ tên của Chấp hành viên và Thủ trưởng cơ quan thi hành án.",
+        "C. Số tiền, tài sản bị phong tỏa.",
+        "D. Lý do cụ thể của việc phong tỏa."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 1 Điều 20 nêu rõ: \"Quyết định phong tỏa tài khoản, tài sản ở nơi gửi giữ phải xác định rõ số tiền, tài sản bị phong tỏa\".",
+      "topic": "Phong tỏa tài khoản"
+    },
+    {
+      "id": 13,
+      "question": "Nếu hết thời hạn thông báo về thực hiện quyền khởi kiện phân chia di sản thừa kế mà không có người khởi kiện, cơ quan thi hành án dân sự sẽ làm gì theo Điều 15?",
+      "options": [
+        "A. Yêu cầu Tòa án chỉ định người quản lý di sản.",
+        "B. Xử lý tài sản để thi hành án.",
+        "C. Chuyển toàn bộ tài sản cho người được thi hành án.",
+        "D. Ra quyết định tạm đình chỉ thi hành án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 1, điểm b Điều 15 quy định: \"Hết thời hạn... mà không có người khởi kiện thì cơ quan thi hành án dân sự xử lý tài sản để thi hành án\".",
+      "topic": "Chuyển giao quyền và nghĩa vụ"
+    },
+    {
+      "id": 14,
+      "question": "Trường hợp bản án tuyên tài sản bảo đảm cho khoản nợ ở một địa phương khác với nơi cơ quan thi hành án đang thụ lý, việc ủy thác được thực hiện như thế nào theo Điều 16?",
+      "options": [
+        "A. Chỉ ủy thác khi người phải thi hành án không còn tài sản nào khác tại nơi đang thi hành án.",
+        "B. Ủy thác toàn bộ vụ việc đến nơi có tài sản bảo đảm.",
+        "C. Cơ quan đang thụ lý có quyền yêu cầu di chuyển tài sản bảo đảm về địa phương mình để xử lý.",
+        "D. Phải ủy thác khoản phải thi hành án đó đến cơ quan thi hành án dân sự nơi có tài sản bảo đảm."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Theo quy định tại Điều 16, khi bản án tuyên tài sản bảo đảm nằm ở địa phương khác, cơ quan thi hành án phải thực hiện ủy thác đến nơi có tài sản đó để đảm bảo việc xử lý tài sản đúng thẩm quyền địa hạt.",
+      "topic": "Ủy thác thi hành án"
+    },
+    {
+      "id": 15,
+      "question": "Khi gửi quyết định ủy thác thi hành án, cơ quan thi hành án dân sự nơi ủy thác phải gửi kèm theo tài liệu nào sau đây?",
+      "options": [
+        "A. Bản án, quyết định và văn bản xác nhận của Viện kiểm sát về việc ủy thác.",
+        "B. Toàn bộ hồ sơ thi hành án gốc.",
+        "C. Chỉ cần quyết định ủy thác và bản án, quyết định.",
+        "D. Bản án, quyết định; bản sao biên bản kê biên, tạm giữ tài sản và các tài liệu khác có liên quan, nếu có."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 4 Điều 16 liệt kê đầy đủ các tài liệu phải gửi kèm, bao gồm: \"bản án, quyết định; bản sao biên bản kê biên, tạm giữ tài sản và các tài liệu khác có liên quan, nếu có\".",
+      "topic": "Ủy thác thi hành án"
+    },
+    {
+      "id": 16,
+      "question": "Điều kiện về mức độ thay đổi giá tài sản để Chấp hành viên tổ chức định giá lại theo Điều 17 Nghị định số 62/2015/NĐ-CP là bao nhiêu?",
+      "options": [
+        "A. Tăng hoặc giảm từ 10% trở lên.",
+        "B. Tăng hoặc giảm từ 25% trở lên.",
+        "C. Tăng hoặc giảm từ 20% trở lên.",
+        "D. Tăng hoặc giảm từ 15% trở lên."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điểm c Khoản 1 Điều 17 quy định rõ điều kiện là: \"giá tài sản thay đổi tăng hoặc giảm từ 20% trở lên so với giá trị tài sản khi bản án, quyết định có hiệu lực pháp luật\".",
+      "topic": "Định giá tài sản"
+    },
+    {
+      "id": 17,
+      "question": "Chi phí định giá lại tài sản theo Điều 17 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung) do chủ thể nào chịu?",
+      "options": [
+        "A. Người yêu cầu định giá.",
+        "B. Người được thi hành án.",
+        "C. Người phải thi hành án.",
+        "D. Ngân sách Nhà nước."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 2 Điều 17 quy định: \"Chi phí định giá do người yêu cầu định giá chịu\".",
+      "topic": "Định giá tài sản"
+    },
+    {
+      "id": 18,
+      "question": "Khi Chấp hành viên lập biên bản tạm giữ tài sản là tiền mặt, nội dung nào cần phải ghi rõ theo quy định tại Điều 18 Nghị định số 62/2015/NĐ-CP?",
+      "options": [
+        "A. Tên ngân hàng phát hành.",
+        "B. Số lượng tờ, mệnh giá, là tiền nước nào và có thể ghi cả số sê ri.",
+        "C. Dự định sử dụng số tiền đó để thi hành cho khoản nợ nào.",
+        "D. Nguồn gốc của số tiền."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2 Điều 18 quy định rất chi tiết: \"phải ghi rõ số lượng tờ, mệnh giá các loại tiền, nếu là ngoại tệ thì phải ghi là tiền nước nào và trong trường hợp cần thiết còn phải ghi cả số sê ri trên tiền\".",
+      "topic": "Tạm giữ tài sản"
+    },
+    {
+      "id": 19,
+      "question": "Theo Điều 18 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), khi trả lại tài sản, giấy tờ tạm giữ, Chấp hành viên yêu cầu người đến nhận xuất trình giấy tờ gì?",
+      "options": [
+        "A. Văn bản cam kết không khiếu nại về sau.",
+        "B. Chỉ cần xuất trình giấy chứng minh nhân dân hoặc căn cước công dân.",
+        "C. Bản án, quyết định của Tòa án liên quan đến vụ việc.",
+        "D. Giấy tờ chứng minh là người bị tạm giữ tài sản, giấy tờ hoặc là người được ủy quyền."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 3 Điều 18 quy định rõ Chấp hành viên yêu cầu người đến nhận xuất trình các giấy tờ chứng minh nhân thân hoặc tư cách đại diện hợp pháp.",
+      "topic": "Tạm giữ tài sản"
+    },
+    {
+      "id": 20,
+      "question": "Kể từ thời điểm nhận được quyết định về việc tạm dừng đăng ký, chuyển quyền sở hữu, sử dụng tài sản, các cơ quan, tổ chức, cá nhân có liên quan phải làm gì?",
+      "options": [
+        "A. Yêu cầu cơ quan thi hành án cung cấp thêm thông tin chi tiết về vụ việc.",
+        "B. Thông báo cho người phải thi hành án về quyết định này.",
+        "C. Không thực hiện việc đăng ký, chuyển quyền cho đến khi có quyết định mới của Chấp hành viên.",
+        "D. Tạm dừng trong 10 ngày làm việc để xác minh, sau đó tiếp tục nếu không có thông báo mới."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 19 quy định các cơ quan, tổ chức, cá nhân có liên quan không được thực hiện việc đăng ký, chuyển quyền sở hữu... cho đến khi nhận được quyết định chấm dứt việc tạm dừng.",
+      "topic": "Tạm dừng giao dịch tài sản"
+    },
+    {
+      "id": 21,
+      "question": "Trường hợp thi hành nghĩa vụ về trả tài sản mà người phải thi hành án đã chết nhưng có người đang trực tiếp quản lý, sử dụng tài sản đó, cơ quan thi hành án ấn định thời hạn bao lâu để người quản lý giao tài sản?",
+      "options": [
+        "A. 45 ngày, kể từ ngày được thông báo hợp lệ.",
+        "B. 15 ngày, kể từ ngày được thông báo hợp lệ.",
+        "C. Ngay sau khi được thông báo hợp lệ.",
+        "D. 30 ngày, kể từ ngày được thông báo hợp lệ."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điểm a Khoản 1 Điều 15 quy định: \"cơ quan thi hành án dân sự ấn định trong thời hạn 30 ngày, kể từ ngày được thông báo hợp lệ, để người quản lý, sử dụng tài sản... giao tài sản\".",
+      "topic": "Chuyển giao quyền và nghĩa vụ"
+    },
+    {
+      "id": 22,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), trong trường hợp đối tượng bị cưỡng chế có tài khoản tiền gửi tại nhiều Kho bạc Nhà nước hoặc tổ chức tín dụng khác nhau, Chấp hành viên sẽ quyết định áp dụng biện pháp khấu trừ tiền trong tài khoản như thế nào?",
+      "options": [
+        "A. Chỉ được khấu trừ tại tài khoản có số dư lớn nhất.",
+        "B. Căn cứ số dư tài khoản để quyết định khấu trừ tại một hoặc nhiều tài khoản nhằm đảm bảo thu đủ tiền thi hành án và chi phí.",
+        "C. Phải có sự đồng ý của người phải thi hành án về việc chọn tài khoản để khấu trừ.",
+        "D. Phải khấu trừ lần lượt theo thứ tự tài khoản được mở."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2 Điều 21 quy định rõ Chấp hành viên căn cứ vào số dư để quyết định khấu trừ tại một hoặc nhiều tài khoản để đảm bảo thu đủ nghĩa vụ.",
+      "topic": "Khấu trừ tiền trong tài khoản"
+    },
+    {
+      "id": 23,
+      "question": "Trách nhiệm của Kho bạc Nhà nước, tổ chức tín dụng khi nhận được quyết định khấu trừ tiền trong tài khoản là gì, và hậu quả nếu không thực hiện ngay dẫn đến việc tẩu tán tiền?",
+      "options": [
+        "A. Thực hiện trong vòng 03 ngày làm việc, nếu không sẽ bị cơ quan thi hành án phạt tiền.",
+        "B. Thông báo cho người phải thi hành án trước khi thực hiện; nếu không thực hiện thì không phải chịu trách nhiệm.",
+        "C. Thực hiện ngay quyết định; nếu không thực hiện ngay dẫn đến tẩu tán tiền thì phải bồi thường thiệt hại.",
+        "D. Chỉ thực hiện khi có đủ tiền trong tài khoản; nếu không đủ thì từ chối thực hiện và thông báo lại."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 3 Điều 21 nêu rõ trách nhiệm phải thực hiện ngay và nghĩa vụ bồi thường thiệt hại nếu không tuân thủ gây ra tẩu tán tài sản.",
+      "topic": "Khấu trừ tiền trong tài khoản"
+    },
+    {
+      "id": 24,
+      "question": "Khi thu tiền từ hoạt động kinh doanh của người phải thi hành án, Chấp hành viên phải để lại một mức tiền tối thiểu nhằm mục đích gì?",
+      "options": [
+        "A. Đảm bảo người phải thi hành án có đủ tiền để trả lãi cho các khoản vay khác.",
+        "B. Chỉ để lại tiền cho hoạt động sản xuất kinh doanh mà không cần quan tâm đến sinh hoạt cá nhân.",
+        "C. Đảm bảo người phải thi hành án có đủ tiền để nộp thuế và các nghĩa vụ tài chính khác với Nhà nước.",
+        "D. Đảm bảo điều kiện sinh hoạt tối thiểu cho người phải thi hành án và người mà họ có nghĩa vụ cấp dưỡng, nuôi dưỡng."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 2 Điều 22 quy định rõ mức tiền để lại phải đảm bảo điều kiện sinh hoạt tối thiểu cho người phải thi hành án và người phụ thuộc.",
+      "topic": "Thu tiền kinh doanh"
+    },
+    {
+      "id": 25,
+      "question": "Thủ trưởng cơ quan thi hành án dân sự giao công cụ hỗ trợ cho chủ thể nào sử dụng khi thi hành công vụ?",
+      "options": [
+        "A. Thư ký thi hành án.",
+        "B. Lực lượng công an phối hợp.",
+        "C. Chấp hành viên.",
+        "D. Thẩm tra viên."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Theo khoản 2, Điều 75, Thủ trưởng cơ quan thi hành án dân sự giao công cụ hỗ trợ cho Chấp hành viên sử dụng khi thi hành công vụ.",
+      "topic": "Công cụ hỗ trợ"
+    },
+    {
+      "id": 26,
+      "question": "Trường hợp người thứ ba đang giữ tiền, tài sản của người phải thi hành án mà không thực hiện yêu cầu của Chấp hành viên, họ sẽ phải chịu hậu quả pháp lý gì?",
+      "options": [
+        "A. Phải chịu một khoản tiền phạt tương đương với giá trị tài sản đang giữ.",
+        "B. Chỉ bị xử phạt vi phạm hành chính và không có trách nhiệm gì khác.",
+        "C. Bị áp dụng các biện pháp bảo đảm, biện pháp cưỡng chế để thi hành án.",
+        "D. Bị truy cứu trách nhiệm hình sự về tội không chấp hành án."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 1 Điều 23 quy định rõ nếu người thứ ba không thực hiện yêu cầu thì sẽ bị áp dụng các biện pháp bảo đảm, cưỡng chế.",
+      "topic": "Cưỡng chế người thứ ba"
+    },
+    {
+      "id": 27,
+      "question": "Chi phí cưỡng chế thi hành án trong trường hợp người thứ ba đang phải trả tiền, tài sản cho người phải thi hành án nhưng không thực hiện yêu cầu của Chấp hành viên sẽ do chủ thể nào chịu?",
+      "options": [
+        "A. Tổ chức, cá nhân bị cưỡng chế thi hành án (người thứ ba) chịu.",
+        "B. Ngân sách nhà nước chi trả.",
+        "C. Người được thi hành án chịu và sẽ được hoàn trả sau.",
+        "D. Người phải thi hành án chịu."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 3 Điều 23 quy định rất rõ chi phí cưỡng chế trong trường hợp này do tổ chức, cá nhân bị cưỡng chế thi hành án chịu.",
+      "topic": "Cưỡng chế người thứ ba"
+    },
+    {
+      "id": 28,
+      "question": "Khi một tài sản đã bị áp dụng biện pháp ngăn chặn mà phát sinh giao dịch liên quan đến tài sản đó, Chấp hành viên có quyền yêu cầu cơ quan nào tuyên bố giao dịch đó vô hiệu?",
+      "options": [
+        "A. Cơ quan đăng ký quyền sở hữu, sử dụng tài sản.",
+        "B. Ủy ban nhân dân cấp có thẩm quyền.",
+        "C. Tòa án.",
+        "D. Cơ quan công chứng đã chứng thực giao dịch."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 1 Điều 24 quy định Chấp hành viên có văn bản yêu cầu Tòa án tuyên bố giao dịch đối với tài sản đó vô hiệu.",
+      "topic": "Kê biên tài sản"
+    },
+    {
+      "id": 29,
+      "question": "Trường hợp người phải thi hành án có chung tài sản với người khác mà chưa xác định được phần tài sản của họ, Chấp hành viên sẽ xử lý như thế nào theo quy định?",
+      "options": [
+        "A. Từ chối kê biên tài sản đó và yêu cầu người được thi hành án tìm tài sản khác.",
+        "B. Kê biên toàn bộ tài sản chung và bán đấu giá, sau đó trả lại phần giá trị cho người đồng sở hữu.",
+        "C. Thực hiện theo quy định tại khoản 1 Điều 74 Luật Thi hành án dân sự.",
+        "D. Ước tính phần tài sản của người phải thi hành án và tiến hành kê biên phần đó."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điểm b Khoản 2 Điều 24 quy định trong trường hợp chưa xác định được phần quyền thì thực hiện theo quy định tại khoản 1 Điều 74 Luật Thi hành án dân sự, tức là yêu cầu Tòa án xác định.",
+      "topic": "Kê biên tài sản"
+    },
+    {
+      "id": 30,
+      "question": "Đối với tài sản đã được cầm cố, thế chấp hợp pháp mà giá trị tài sản bằng hoặc nhỏ hơn nghĩa vụ phải thanh toán, Chấp hành viên phải làm gì?",
+      "options": [
+        "A. Thông báo cho người nhận cầm cố, thế chấp và yêu cầu họ thông báo lại khi xử lý xong tài sản.",
+        "B. Ra quyết định chưa có điều kiện thi hành án đối với khoản nợ đó.",
+        "C. Kê biên ngay tài sản đó để thi hành án cho người được thi hành án.",
+        "D. Yêu cầu người nhận thế chấp hủy hợp đồng để ưu tiên thi hành án."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 3 Điều 24 quy định rõ Chấp hành viên phải thông báo cho bên nhận bảo đảm và yêu cầu họ thông báo lại sau khi xử lý xong tài sản hoặc thanh toán hết nghĩa vụ.",
+      "topic": "Kê biên tài sản"
+    },
+    {
+      "id": 31,
+      "question": "Khi người phải thi hành án tự nguyện giao nhà ở là tài sản duy nhất để thi hành án nhưng số tiền thu được không đủ thanh toán các nghĩa vụ và họ không còn đủ tiền thuê nhà, Chấp hành viên xử lý thế nào?",
+      "options": [
+        "A. Thực hiện theo quy định tại khoản 5 Điều 115 Luật Thi hành án dân sự.",
+        "B. Tạm dừng việc thi hành án cho đến khi người phải thi hành án có nơi ở mới.",
+        "C. Bán đấu giá tài sản và giao toàn bộ số tiền cho người được thi hành án.",
+        "D. Từ chối nhận tài sản và yêu cầu người phải thi hành án tìm tài sản khác."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 6 Điều 24 quy định rõ trong trường hợp này, Chấp hành viên thực hiện theo quy định tại khoản 5 Điều 115 Luật THADS (mua, thuê nhà ở cho người phải thi hành án).",
+      "topic": "Kê biên tài sản"
+    },
+    {
+      "id": 32,
+      "question": "Trường hợp các đương sự có thỏa thuận về việc lựa chọn tổ chức thẩm định giá trên địa bàn khác với nơi có tài sản kê biên, Chấp hành viên sẽ xử lý như thế nào?",
+      "options": [
+        "A. Báo cáo Thủ trưởng cơ quan thi hành án để xin ý kiến chỉ đạo.",
+        "B. Từ chối thỏa thuận vì không đúng quy định về địa bàn hoạt động.",
+        "C. Ký hợp đồng dịch vụ với tổ chức thẩm định giá do đương sự lựa chọn.",
+        "D. Yêu cầu các đương sự phải chọn một tổ chức thẩm định giá tại địa phương có tài sản."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 1 Điều 25 quy định rõ, Chấp hành viên ký hợp đồng với tổ chức thẩm định giá do đương sự lựa chọn, kể cả khi tổ chức đó ở địa bàn khác.",
+      "topic": "Định giá tài sản"
+    },
+    {
+      "id": 33,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), tài sản kê biên có giá trị nhỏ là tài sản như thế nào?",
+      "options": [
+        "A. Tài sản mà tại thời điểm xác định giá, giá mua bán trên thị trường không quá 5.000.000 đồng.",
+        "B. Tài sản mà tại thời điểm xác định giá, tài sản giống hệt hoặc tương tự chưa qua sử dụng có giá mua bán trên thị trường không quá 10.000.000 đồng.",
+        "C. Tài sản có giá trị bằng một tháng lương cơ sở đối với cán bộ, công chức.",
+        "D. Tài sản mà tại thời điểm xác định giá, giá mua bán trên thị trường không quá 20.000.000 đồng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2 Điều 26 định nghĩa rõ tài sản có giá trị nhỏ là tài sản có giá thị trường không quá 10.000.000 đồng.",
+      "topic": "Định giá tài sản"
+    },
+    {
+      "id": 34,
+      "question": "Trường hợp không ký được hợp đồng dịch vụ thẩm định giá, Chấp hành viên tham khảo ý kiến của cơ quan nào trước khi xác định giá của tài sản kê biên?",
+      "options": [
+        "A. Tòa án đã ra bản án, quyết định.",
+        "B. Ủy ban nhân dân cấp xã nơi có tài sản.",
+        "C. Chỉ tham khảo ý kiến của cơ quan tài chính cùng cấp.",
+        "D. Cơ quan tài chính cùng cấp hoặc cơ quan chuyên môn quản lý ngành, lĩnh vực của tài sản."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 1 Điều 26 quy định Chấp hành viên có thể tham khảo ý kiến của cơ quan tài chính hoặc cơ quan chuyên môn liên quan.",
+      "topic": "Định giá tài sản"
+    },
+    {
+      "id": 35,
+      "question": "Trong cùng một cuộc đấu giá có nhiều tài sản, cơ quan thi hành án dân sự yêu cầu tổ chức đấu giá thực hiện việc đấu giá theo thứ tự nào?",
+      "options": [
+        "A. Theo sự lựa chọn ngẫu nhiên của đấu giá viên.",
+        "B. Theo thứ tự từ tài sản có giá trị nhỏ nhất.",
+        "C. Theo thứ tự tài sản được kê biên trước.",
+        "D. Theo thứ tự từ tài sản có giá trị lớn nhất."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 3 Điều 27 quy định rõ việc đấu giá được thực hiện theo thứ tự từ tài sản có giá trị lớn nhất để nhanh chóng thu đủ tiền thi hành án.",
+      "topic": "Bán đấu giá tài sản"
+    },
+    {
+      "id": 36,
+      "question": "Người mua được tài sản bán đấu giá phải nộp tiền vào tài khoản của cơ quan thi hành án dân sự trong thời hạn tối đa là bao nhiêu ngày kể từ ngày đấu giá thành?",
+      "options": [
+        "A. 60 ngày và không được gia hạn thêm.",
+        "B. 15 ngày và có thể được gia hạn.",
+        "C. 30 ngày và không được gia hạn thêm.",
+        "D. 45 ngày và có thể được gia hạn không quá 15 ngày."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 3 Điều 27 quy định thời hạn nộp tiền là không quá 30 ngày và không được gia hạn thêm.",
+      "topic": "Bán đấu giá tài sản"
+    },
+    {
+      "id": 37,
+      "question": "Trong trường hợp không thu hồi được Giấy chứng nhận quyền sử dụng đất, nhà ở đã cấp, cơ quan có thẩm quyền phải ra quyết định thu hồi, hủy Giấy chứng nhận trong thời hạn bao lâu kể từ ngày nhận được văn bản của cơ quan thi hành án?",
+      "options": [
+        "A. 25 ngày làm việc.",
+        "B. Ngay sau khi nhận được văn bản.",
+        "C. 30 ngày làm việc.",
+        "D. 15 ngày làm việc."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điểm b Khoản 2 Điều 28 quy định thời hạn là 25 ngày làm việc để cơ quan có thẩm quyền ra quyết định thu hồi, hủy Giấy chứng nhận.",
+      "topic": "Đăng ký quyền sở hữu"
+    },
+    {
+      "id": 38,
+      "question": "Cơ quan thi hành án dân sự gửi văn bản kiến nghị thu hồi Giấy chứng nhận đã cấp khi thực hiện thủ tục đăng ký biến động đất đai đến cơ quan nào?",
+      "options": [
+        "A. Tòa án nhân dân cấp huyện nơi có đất.",
+        "B. Tổ chức đăng ký đất đai hoặc chi nhánh của tổ chức đăng ký đất đai.",
+        "C. Sở Tài nguyên và Môi trường.",
+        "D. Ủy ban nhân dân cấp tỉnh."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điểm a Khoản 2 Điều 28 nêu rõ đối với Giấy chứng nhận đã cấp khi đăng ký biến động thì gửi văn bản đến tổ chức đăng ký đất đai hoặc chi nhánh.",
+      "topic": "Đăng ký quyền sở hữu"
+    },
+    {
+      "id": 39,
+      "question": "Việc chuyển giao quyền sở hữu trí tuệ để thi hành án phải tuân thủ quy định của luật nào?",
+      "options": [
+        "A. Phù hợp với các quy định về chuyển giao quyền sở hữu trí tuệ của Luật Sở hữu trí tuệ.",
+        "B. Phải được sự đồng ý của cơ quan quản lý nhà nước về sở hữu trí tuệ.",
+        "C. Phải theo quy định của Bộ luật Dân sự về chuyển giao tài sản.",
+        "D. Chỉ cần tuân thủ Luật Thi hành án dân sự."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 29 quy định rõ việc chuyển giao quyền sở hữu trí tuệ phải phù hợp với các quy định của Luật Sở hữu trí tuệ.",
+      "topic": "Quyền sở hữu trí tuệ"
+    },
+    {
+      "id": 40,
+      "question": "Việc định giá quyền sở hữu trí tuệ để thi hành án được thực hiện theo quy định của pháp luật nào?",
+      "options": [
+        "A. Pháp luật về giá và pháp luật về thẩm định giá quyền sở hữu trí tuệ.",
+        "B. Theo quyết định của Chấp hành viên dựa trên giá thị trường.",
+        "C. Chỉ theo quy định của Luật Thi hành án dân sự.",
+        "D. Theo thỏa thuận của các đương sự mà không cần tuân thủ quy định khác."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 1 Điều 30 nêu rõ việc định giá quyền sở hữu trí tuệ thực hiện theo quy định của pháp luật về giá và pháp luật về thẩm định giá quyền sở hữu trí tuệ.",
+      "topic": "Quyền sở hữu trí tuệ"
+    },
+    {
+      "id": 41,
+      "question": "Chi phí cho việc định giá quyền sở hữu trí tuệ để thi hành án do ai thanh toán?",
+      "options": [
+        "A. Ngân sách nhà nước tạm ứng và người phải thi hành án hoàn trả.",
+        "B. Người được thi hành án nộp và không được hoàn lại.",
+        "C. Cơ quan, tổ chức, cá nhân có yêu cầu định giá quyền sở hữu trí tuệ.",
+        "D. Người phải thi hành án phải nộp trước khi tiến hành định giá."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 2 Điều 30 quy định rõ cơ quan, tổ chức, cá nhân có yêu cầu định giá phải thanh toán chi phí.",
+      "topic": "Quyền sở hữu trí tuệ"
+    },
+    {
+      "id": 42,
+      "question": "Trong trường hợp người thứ ba đang giữ tiền của người phải thi hành án không thực hiện yêu cầu giao nộp của Chấp hành viên và sau đó giao số tiền đó cho người phải thi hành án dẫn đến không thi hành được án, người thứ ba phải chịu trách nhiệm gì?",
+      "options": [
+        "A. Chỉ bị xử phạt vi phạm hành chính.",
+        "B. Bị áp dụng biện pháp kê biên tài sản của chính mình ngay lập tức.",
+        "C. Không phải chịu trách nhiệm gì vì đã trả tiền cho chủ sở hữu hợp pháp.",
+        "D. Bồi thường thiệt hại theo quy định của pháp luật."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 2 Điều 23 quy định rõ trường hợp này người thứ ba phải bồi thường thiệt hại do hành vi của mình gây ra.",
+      "topic": "Cưỡng chế người thứ ba"
+    },
+    {
+      "id": 43,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), Chấp hành viên chỉ kê biên tài sản khác của doanh nghiệp phải thi hành án trong điều kiện nào?",
+      "options": [
+        "A. Ngay sau khi có quyết định thi hành án.",
+        "B. Khi doanh nghiệp tự nguyện yêu cầu kê biên tài sản đó.",
+        "C. Khi người được thi hành án có yêu cầu kê biên một tài sản cụ thể của doanh nghiệp.",
+        "D. Sau khi đã khấu trừ tài khoản, xử lý vàng, bạc, giấy tờ có giá mà vẫn không đủ để thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 5 Điều 24 quy định rõ thứ tự ưu tiên xử lý tài sản của doanh nghiệp, tài sản khác chỉ bị kê biên sau khi các tài sản có tính thanh khoản cao đã được xử lý mà không đủ.",
+      "topic": "Kê biên tài sản doanh nghiệp"
+    },
+    {
+      "id": 44,
+      "question": "Trường hợp đương sự không thỏa thuận được việc lựa chọn tổ chức đấu giá tài sản, Chấp hành viên sẽ làm gì?",
+      "options": [
+        "A. Yêu cầu Tòa án chỉ định một tổ chức đấu giá.",
+        "B. Tạm dừng việc thi hành án cho đến khi đương sự thỏa thuận được.",
+        "C. Tự mình tổ chức bán đấu giá tài sản.",
+        "D. Lựa chọn tổ chức đấu giá theo pháp luật về đấu giá tài sản."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 1 Điều 27 quy định rõ khi đương sự không thỏa thuận được, Chấp hành viên sẽ lựa chọn tổ chức đấu giá theo quy định của pháp luật chuyên ngành.",
+      "topic": "Bán đấu giá tài sản"
+    },
+    {
+      "id": 45,
+      "question": "Cơ quan thi hành án dân sự thực hiện việc thanh toán tiền thi hành án trong thời hạn bao lâu kể từ ngày giao tài sản cho người mua được tài sản bán đấu giá?",
+      "options": [
+        "A. Trong thời hạn 10 ngày.",
+        "B. Ngay trong ngày giao tài sản.",
+        "C. Trong thời hạn 15 ngày.",
+        "D. Trong thời hạn 30 ngày."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 4 Điều 27 quy định rõ thời hạn thanh toán tiền thi hành án là 10 ngày kể từ ngày giao tài sản thành công.",
+      "topic": "Bán đấu giá tài sản"
+    },
+    {
+      "id": 46,
+      "question": "Khoản tiền đặt trước của người trúng đấu giá nhưng từ chối mua sẽ được xử lý như thế nào sau khi trừ chi phí đấu giá?",
+      "options": [
+        "A. Trả cho người được thi hành án.",
+        "B. Chia đều cho các bên đương sự.",
+        "C. Trả lại cho người phải thi hành án.",
+        "D. Thuộc về ngân sách nhà nước."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 5 Điều 27 quy định khoản tiền đặt trước sau khi trừ chi phí sẽ thuộc về ngân sách nhà nước.",
+      "topic": "Bán đấu giá tài sản"
+    },
+    {
+      "id": 47,
+      "question": "Trong trường hợp tài sản là quyền sử dụng đất, nhà ở không có Giấy chứng nhận nhưng đủ điều kiện cấp, cơ quan nào có trách nhiệm cấp Giấy chứng nhận?",
+      "options": [
+        "A. Tòa án đã ra bản án, quyết định.",
+        "B. Tổ chức bán đấu giá tài sản.",
+        "C. Cơ quan có thẩm quyền theo quy định của pháp luật về đất đai, nhà ở.",
+        "D. Cơ quan thi hành án dân sự."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 3 Điều 28 quy định rõ trách nhiệm này thuộc về cơ quan có thẩm quyền theo pháp luật chuyên ngành (về đất đai, nhà ở).",
+      "topic": "Đăng ký quyền sở hữu"
+    },
+    {
+      "id": 48,
+      "question": "Chủ thể nào có thẩm quyền bán đấu giá quyền sở hữu trí tuệ có giá trị trên 10.000.000 đồng?",
+      "options": [
+        "A. Hội đồng định giá tài sản.",
+        "B. Tổ chức bán đấu giá.",
+        "C. Chỉ có Chấp hành viên thực hiện.",
+        "D. Cơ quan quản lý nhà nước về sở hữu trí tuệ."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điểm a Khoản 1 Điều 31 quy định rõ thẩm quyền bán đấu giá quyền sở hữu trí tuệ có giá trị trên 10.000.000 đồng thuộc về tổ chức bán đấu giá.",
+      "topic": "Bán đấu giá tài sản"
+    },
+    {
+      "id": 49,
+      "question": "Chấp hành viên được thực hiện việc bán đấu giá quyền sở hữu trí tuệ trong trường hợp nào?",
+      "options": [
+        "A. Khi tài sản có giá trị trên 50.000.000 đồng.",
+        "B. Trong mọi trường hợp để đẩy nhanh tiến độ thi hành án.",
+        "C. Khi có giá trị đến 10.000.000 đồng hoặc tại địa phương không có tổ chức bán đấu giá.",
+        "D. Chỉ khi được người phải thi hành án đồng ý bằng văn bản."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điểm b Khoản 1 Điều 31 quy định hai trường hợp Chấp hành viên được bán đấu giá: tài sản có giá trị đến 10.000.000 đồng, hoặc địa phương không có/từ chối ký hợp đồng bán đấu giá.",
+      "topic": "Bán đấu giá tài sản"
+    },
+    {
+      "id": 50,
+      "question": "Khi kê biên tài sản để thi hành án, trong trường hợp có giao dịch về tài sản kể từ thời điểm bản án có hiệu lực pháp luật nhưng đã hoàn thành việc chuyển quyền sở hữu, Chấp hành viên xử lý như thế nào?",
+      "options": [
+        "A. Không kê biên tài sản và thực hiện theo quy định tại khoản 2 Điều 75 Luật Thi hành án dân sự.",
+        "B. Kê biên ngay tài sản đó vì giao dịch không hợp lệ.",
+        "C. Yêu cầu người nhận chuyển nhượng tự nguyện giao lại tài sản.",
+        "D. Báo cáo Thủ trưởng cơ quan thi hành án để đình chỉ thi hành án đối với tài sản đó."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điểm a Khoản 1 Điều 24 quy định rõ, trường hợp này Chấp hành viên không kê biên tài sản mà yêu cầu Tòa án tuyên giao dịch vô hiệu.",
+      "topic": "Kê biên tài sản"
+    },
+    {
+      "id": 51,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), trong trường hợp nào cơ quan thi hành án dân sự mới kê biên, xử lý tài sản chung là quyền sử dụng đất, nhà ở của người phải thi hành án với người khác?",
+      "options": [
+        "A. Ngay khi xác định người phải thi hành án có sở hữu chung đối với tài sản đó.",
+        "B. Khi người được thi hành án chỉ định đích danh tài sản đó để kê biên.",
+        "C. Khi tài sản chung đó có giá trị lớn nhất trong số các tài sản của người phải thi hành án.",
+        "D. Chỉ khi các tài sản khác không đủ để thi hành án hoặc khi có đề nghị của đương sự."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điểm a Khoản 2 Điều 24 quy định rõ điều kiện để kê biên tài sản chung là quyền sử dụng đất, nhà ở.",
+      "topic": "Kê biên tài sản chung"
+    },
+    {
+      "id": 52,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), cơ quan nào có thẩm quyền bán đấu giá quyền sở hữu trí tuệ có giá trị trên 10.000.000 đồng?",
+      "options": [
+        "A. Chấp hành viên cơ quan thi hành án dân sự.",
+        "B. Cơ quan tài chính cùng cấp.",
+        "C. Hội đồng định giá tài sản.",
+        "D. Tổ chức bán đấu giá."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điểm a khoản 1 Điều 31 quy định rõ tổ chức bán đấu giá thực hiện việc bán đấu giá quyền sở hữu trí tuệ có giá trị trên 10.000.000 đồng.",
+      "topic": "Bán đấu giá tài sản"
+    },
+    {
+      "id": 53,
+      "question": "Trong trường hợp nào Chấp hành viên được thực hiện việc bán đấu giá quyền sở hữu trí tuệ?",
+      "options": [
+        "A. Khi quyền sở hữu trí tuệ có giá trị đến 10.000.000 đồng hoặc tại địa phương không có tổ chức bán đấu giá.",
+        "B. Trong mọi trường hợp để đẩy nhanh tiến độ thi hành án.",
+        "C. Khi quyền sở hữu trí tuệ có giá trị trên 10.000.000 đồng.",
+        "D. Khi người được thi hành án yêu cầu Chấp hành viên trực tiếp bán đấu giá."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điểm b khoản 1 Điều 31 quy định Chấp hành viên bán đấu giá quyền sở hữu trí tuệ có giá trị đến 10.000.000 đồng hoặc khi không có tổ chức bán đấu giá, hoặc tổ chức đó từ chối ký hợp đồng.",
+      "topic": "Bán đấu giá tài sản"
+    },
+    {
+      "id": 54,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), cơ quan nào có trách nhiệm tiếp nhận vật chứng, tài sản bị tuyên tịch thu, sung quỹ nhà nước?",
+      "options": [
+        "A. Cơ quan công an cùng cấp.",
+        "B. Cơ quan tài chính cùng cấp với cơ quan thi hành án dân sự.",
+        "C. Viện kiểm sát nhân dân cùng cấp.",
+        "D. Cơ quan thi hành án dân sự đang tổ chức thi hành án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 1 Điều 32 nêu rõ cơ quan tài chính cùng cấp với cơ quan thi hành án dân sự có trách nhiệm tiếp nhận để xử lý vật chứng, tài sản bị tuyên tịch thu, sung quỹ nhà nước.",
+      "topic": "Xử lý vật chứng"
+    },
+    {
+      "id": 55,
+      "question": "Cơ quan có trách nhiệm tiếp nhận vật chứng, tài sản sung quỹ nhà nước phải tiếp nhận trong thời hạn bao lâu kể từ ngày được thông báo?",
+      "options": [
+        "A. 07 ngày.",
+        "B. 15 ngày.",
+        "C. 10 ngày.",
+        "D. 30 ngày."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 2 Điều 32 quy định rõ, cơ quan thi hành án dân sự thông báo và ấn định cho cơ quan có trách nhiệm tiếp nhận vật chứng, tài sản trong thời hạn 10 ngày.",
+      "topic": "Xử lý vật chứng"
+    },
+    {
+      "id": 56,
+      "question": "Việc thi hành án được coi là xong tại thời điểm nào đối với vật chứng, tài sản tạm giữ bị tuyên tịch thu, sung quỹ nhà nước?",
+      "options": [
+        "A. Tại thời điểm cơ quan tài chính hoàn tất việc xử lý tài sản.",
+        "B. Tại thời điểm cơ quan tài chính ban hành văn bản đồng ý tiếp nhận.",
+        "C. Tại thời điểm tiếp nhận vật chứng, tài sản.",
+        "D. Tại thời điểm cơ quan thi hành án dân sự ra quyết định thi hành án."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 2 Điều 32 quy định: \"việc thi hành án xong tại thời điểm tiếp nhận vật chứng, tài sản\".",
+      "topic": "Xử lý vật chứng"
+    },
+    {
+      "id": 57,
+      "question": "Hội đồng tiêu hủy vật chứng, tài sản phải thực hiện việc tiêu hủy trong thời hạn bao lâu kể từ ngày được thành lập?",
+      "options": [
+        "A. Ngay sau khi được thành lập.",
+        "B. 10 ngày.",
+        "C. 15 ngày.",
+        "D. 30 ngày."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 1 Điều 33 quy định: \"Hội đồng tiêu hủy vật chứng, tài sản thực hiện việc tiêu hủy vật chứng, tài sản trong thời hạn 10 ngày, kể từ ngày được thành lập\".",
+      "topic": "Xử lý vật chứng"
+    },
+    {
+      "id": 58,
+      "question": "Kinh phí để tiêu hủy vật chứng, tài sản do nguồn nào chi trả?",
+      "options": [
+        "A. Tạm ứng từ quỹ của cơ quan thi hành án dân sự.",
+        "B. Ngân sách nhà nước.",
+        "C. Người được thi hành án.",
+        "D. Người phải thi hành án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 3 Điều 33 nêu rõ: \"Kinh phí tiêu hủy vật chứng, tài sản do ngân sách nhà nước chi trả\".",
+      "topic": "Xử lý vật chứng"
+    },
+    {
+      "id": 59,
+      "question": "Trong trường hợp ủy thác thi hành nghĩa vụ liên đới, cơ quan thi hành án dân sự nơi nhận ủy thác có quyền áp dụng biện pháp bảo đảm thi hành án khi nào?",
+      "options": [
+        "A. Chỉ khi được cơ quan thi hành án nơi ủy thác cho phép.",
+        "B. Ngay khi nhận được quyết định ủy thác.",
+        "C. Khi có yêu cầu bằng văn bản của người được thi hành án.",
+        "D. Khi tài sản ở địa phương nhận ủy thác không đủ để thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 34 quy định rõ điều kiện này: \"...mà tài sản ở địa phương nhận ủy thác không đủ để thi hành án thì cơ quan thi hành án dân sự nơi nhận ủy thác có quyền áp dụng các biện pháp bảo đảm thi hành án...\".",
+      "topic": "Ủy thác thi hành án"
+    },
+    {
+      "id": 60,
+      "question": "Mục đích của việc áp dụng biện pháp bảo đảm thi hành án trong trường hợp ủy thác thi hành nghĩa vụ liên đới là gì?",
+      "options": [
+        "A. Để tránh trường hợp tẩu tán, trốn tránh việc thi hành án.",
+        "B. Để hoàn trả hồ sơ ủy thác cho nơi đã ủy thác.",
+        "C. Để gây áp lực buộc người phải thi hành án tự nguyện thi hành.",
+        "D. Để xác minh thêm tài sản của người phải thi hành án."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 34 nêu rõ mục đích của việc áp dụng biện pháp bảo đảm là \"để tránh trường hợp tẩu tán, trốn tránh việc thi hành án\".",
+      "topic": "Ủy thác thi hành án"
+    }
+  ]
+},
+{
+  "id": "NghiDinh_62_De_03",
+  "title": "Đề 03: Nghị định số 62/2015/NĐ-CP của chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi hành án dân sự (đã sửa đổi, bổ sung)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Thủ trưởng cơ quan thi hành án dân sự chỉ được ủy thác cho cơ quan thi hành án dân sự nơi người phải thi hành án cư trú hoặc có tài sản đối với các quyết định áp dụng biện pháp khẩn cấp tạm thời khi người phải thi hành án cư trú hoặc có tài sản ở tỉnh, thành phố trực thuộc Trung ương khác, trừ trường hợp nào sau đây?",
+      "options": [
+        "A. Kê biên tài sản đang tranh chấp.",
+        "B. Phong tỏa tài khoản tại ngân hàng.",
+        "C. Buộc thực hiện trước một phần nghĩa vụ cấp dưỡng.",
+        "D. Giao người chưa thành niên cho cá nhân hoặc tổ chức trông nom, nuôi dưỡng, chăm sóc, giáo dục."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Biện pháp phong tỏa tài khoản không nằm trong danh sách các biện pháp được phép ủy thác theo quy định tại khoản 1 Điều 35.",
+      "topic": "Ủy thác thi hành án"
+    },
+    {
+      "id": 2,
+      "question": "Thủ trưởng cơ quan thi hành án dân sự phải ra quyết định ủy thác thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời khi nào?",
+      "options": [
+        "A. Sau khi có ý kiến của Viện kiểm sát cùng cấp.",
+        "B. Trong thời hạn 05 ngày làm việc kể từ khi có căn cứ ủy thác.",
+        "C. Trong thời hạn 03 ngày làm việc kể từ khi có căn cứ ủy thác.",
+        "D. Ngay khi có căn cứ ủy thác."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 2 Điều 35 quy định: \"Thủ trưởng cơ quan thi hành án dân sự phải ra ngay quyết định ủy thác thi hành án khi có căn cứ ủy thác\".",
+      "topic": "Ủy thác thi hành án"
+    },
+    {
+      "id": 3,
+      "question": "Trách nhiệm của Thủ trưởng cơ quan thi hành án dân sự nơi nhận ủy thác thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời là gì?",
+      "options": [
+        "A. Ra quyết định thi hành án và phân công Chấp hành viên áp dụng ngay các biện pháp theo quy định.",
+        "B. Yêu cầu đương sự cung cấp thêm thông tin trước khi tổ chức thi hành.",
+        "C. Xác minh lại điều kiện thi hành án trong thời hạn 10 ngày.",
+        "D. Báo cáo cơ quan đã ủy thác và chờ chỉ đạo."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 2 Điều 35 quy định rõ: \"Thủ trưởng cơ quan thi hành án dân sự nhận ủy thác phải ra quyết định thi hành án và phân công Chấp hành viên áp dụng ngay các biện pháp theo quy định...\"",
+      "topic": "Ủy thác thi hành án"
+    },
+    {
+      "id": 4,
+      "question": "Điều kiện để Thủ trưởng cơ quan thi hành án dân sự ủy thác thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời là gì?",
+      "options": [
+        "A. Khi người phải thi hành án không có tài sản tại địa phương.",
+        "B. Khi người phải thi hành án cư trú hoặc có tài sản ở tỉnh, thành phố trực thuộc Trung ương khác.",
+        "C. Trong mọi trường hợp khi có quyết định áp dụng biện pháp khẩn cấp tạm thời.",
+        "D. Khi người phải thi hành án có yêu cầu được thi hành án tại nơi khác."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 1 Điều 35 nêu rõ điều kiện này khi quy định về việc ủy thác các biện pháp khẩn cấp tạm thời.",
+      "topic": "Ủy thác thi hành án"
+    },
+    {
+      "id": 5,
+      "question": "Hành vi nào sau đây là hình thức tiêu hủy vật chứng, tài sản được quy định trong Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Trả lại cho người phải thi hành án sau khi họ đã nộp phạt.",
+        "B. Bàn giao cho các cơ quan chuyên môn để sử dụng.",
+        "C. Bán thanh lý thu tiền nộp ngân sách nhà nước.",
+        "D. Đốt cháy, đập vỡ hoặc hình thức phù hợp khác."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 2 Điều 33 liệt kê rõ các hình thức tiêu hủy vật chứng, tài sản bao gồm đốt cháy, đập vỡ hoặc hình thức phù hợp khác.",
+      "topic": "Xử lý vật chứng, tài sản"
+    },
+    {
+      "id": 6,
+      "question": "Cơ quan nào có thẩm quyền xác nhận bằng văn bản về kết quả thực hiện quyền, nghĩa vụ thi hành án của đương sự khi có yêu cầu?",
+      "options": [
+        "A. Ủy ban nhân dân cấp xã nơi đương sự cư trú.",
+        "B. Chấp hành viên trực tiếp tổ chức thi hành án.",
+        "C. Thủ trưởng cơ quan thi hành án dân sự.",
+        "D. Tòa án đã ra bản án, quyết định."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 37, khoản 1 quy định rõ Thủ trưởng cơ quan thi hành án dân sự là người có thẩm quyền xác nhận kết quả thi hành án.",
+      "topic": "Xác nhận kết quả thi hành án"
+    },
+    {
+      "id": 7,
+      "question": "Trong trường hợp nào quyết định giải quyết khiếu nại lần đầu về thi hành án có hiệu lực thi hành ngay?",
+      "options": [
+        "A. Đối với mọi quyết định của Chấp hành viên.",
+        "B. Đối với quyết định cưỡng chế kê biên tài sản.",
+        "C. Đối với quyết định áp dụng biện pháp bảo đảm thi hành án.",
+        "D. Đối với quyết định đình chỉ thi hành án."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 38, khoản 3 nêu rõ rằng quyết định giải quyết khiếu nại lần đầu đối với quyết định áp dụng biện pháp bảo đảm thi hành án có hiệu lực thi hành.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 8,
+      "question": "Tổ chức nào sau đây KHÔNG thuộc đối tượng được ngân sách nhà nước bảo đảm tài chính để thực hiện nghĩa vụ thi hành án?",
+      "options": [
+        "A. Đơn vị thuộc lực lượng vũ trang được nhà nước bảo đảm toàn bộ kinh phí hoạt động.",
+        "B. Đơn vị sự nghiệp công lập tự chủ một phần chi thường xuyên.",
+        "C. Cơ quan nhà nước.",
+        "D. Tổ chức chính trị - xã hội hoạt động hoàn toàn bằng kinh phí do ngân sách nhà nước cấp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 39 chỉ liệt kê các đơn vị được ngân sách nhà nước bảo đảm toàn bộ kinh phí hoạt động, do đó đơn vị tự chủ một phần không thuộc đối tượng này.",
+      "topic": "Bảo đảm tài chính để thi hành án"
+    },
+    {
+      "id": 9,
+      "question": "Theo Điều 40 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), một cơ quan, tổ chức chỉ được ngân sách nhà nước bảo đảm tài chính để thi hành án sau khi đã thực hiện các điều kiện nào?",
+      "options": [
+        "A. Đã yêu cầu người có lỗi thực hiện nghĩa vụ và đã sử dụng kinh phí tiết kiệm được nhưng vẫn không đủ khả năng thi hành án.",
+        "B. Đã báo cáo với cơ quan quản lý cấp trên về việc không có khả năng thi hành án.",
+        "C. Đã yêu cầu người có lỗi thực hiện nghĩa vụ nhưng người đó từ chối thực hiện.",
+        "D. Đã có văn bản đề nghị gửi trực tiếp đến Bộ Tài chính và được phê duyệt."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 40 quy định rõ hai điều kiện tiên quyết là đã yêu cầu người có lỗi thực hiện và đã sử dụng nguồn kinh phí tiết kiệm được nhưng không đủ.",
+      "topic": "Bảo đảm tài chính để thi hành án"
+    },
+    {
+      "id": 10,
+      "question": "Thẩm quyền quyết định bảo đảm tài chính để thi hành án đối với tổ chức phải thi hành án là đơn vị thuộc địa phương quản lý do ngân sách nào bảo đảm?",
+      "options": [
+        "A. Ngân sách của Bộ Tư pháp.",
+        "B. Ngân sách nhà nước chung.",
+        "C. Ngân sách trung ương.",
+        "D. Ngân sách địa phương."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 41, khoản 1 quy định rõ kinh phí bảo đảm để thi hành án đối với đơn vị thuộc địa phương quản lý do ngân sách địa phương bảo đảm.",
+      "topic": "Bảo đảm tài chính để thi hành án"
+    },
+    {
+      "id": 11,
+      "question": "Cơ quan nào có trách nhiệm lập hồ sơ đề nghị bảo đảm tài chính để thi hành án?",
+      "options": [
+        "A. Bộ Tư pháp.",
+        "B. Cơ quan thi hành án dân sự đang thụ lý vụ việc.",
+        "C. Bộ Tài chính.",
+        "D. Cơ quan, tổ chức phải thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 42 quy định rõ trách nhiệm này thuộc về chính cơ quan, tổ chức phải thi hành án.",
+      "topic": "Bảo đảm tài chính để thi hành án"
+    },
+    {
+      "id": 12,
+      "question": "Khoản chi nào sau đây được tính là chi phí cần thiết khác trong chi phí cưỡng chế thi hành án theo Điều 43 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Chi phí đi lại của đương sự đến cơ quan thi hành án.",
+        "B. Chi phí cho việc bố trí phiên dịch trong trường hợp đương sự là người nước ngoài.",
+        "C. Tiền bồi thường thiệt hại do việc cưỡng chế gây ra.",
+        "D. Chi phí thuê luật sư cho người phải thi hành án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điểm đ, khoản 1, Điều 43 liệt kê rõ đây là một trong các chi phí cần thiết khác.",
+      "topic": "Chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 13,
+      "question": "Việc thanh lý, tiêu hủy công cụ hỗ trợ thi hành án đối với Phòng thi hành án cấp quân khu thực hiện theo quy định của cơ quan nào?",
+      "options": [
+        "A. Bộ Quốc phòng.",
+        "B. Tổng cục Thi hành án dân sự.",
+        "C. Cơ quan có thẩm quyền về quản lý vũ khí, vật liệu nổ.",
+        "D. Bộ Tư pháp."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 3, Điều 77 quy định rõ việc thanh lý, tiêu hủy công cụ hỗ trợ của Phòng thi hành án cấp quân khu do Bộ Quốc phòng quy định.",
+      "topic": "Công cụ hỗ trợ"
+    },
+    {
+      "id": 14,
+      "question": "Theo Điều 43 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), chi phí họp bàn cưỡng chế do chủ thể nào tổ chức họp với các cơ quan liên quan trước khi tiến hành cưỡng chế?",
+      "options": [
+        "A. Thủ trưởng chính phủ.",
+        "B. Chính phủ.",
+        "C. Bộ Tư pháp.",
+        "D. Chấp hành viên."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điểm a, khoản 1, Điều 43 quy định: a) Chi phí họp bàn cưỡng chế do Chấp hành viên tổ chức họp với các cơ quan liên quan trước khi tiến hành cưỡng chế;",
+      "topic": "Chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 15,
+      "question": "Đối tượng nào sau đây được hưởng chế độ bồi dưỡng khi trực tiếp tham gia cưỡng chế và bảo vệ cưỡng chế thi hành án?",
+      "options": [
+        "A. Kiểm sát viên, công an, dân quân tự vệ.",
+        "B. Phóng viên báo chí đến đưa tin về vụ việc.",
+        "C. Luật sư của các bên đương sự.",
+        "D. Người dân hiếu kỳ đến xem việc cưỡng chế."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điểm a, khoản 2, Điều 43 liệt kê rõ các đối tượng này trong lực lượng được huy động tham gia và được hưởng bồi dưỡng.",
+      "topic": "Chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 16,
+      "question": "Đương sự là cá nhân thuộc diện gia đình chính sách, có công với cách mạng có thể được xét miễn chi phí cưỡng chế thi hành án còn lại khi đã đáp ứng điều kiện gì?",
+      "options": [
+        "A. Có đơn đề nghị và xác nhận của chính quyền địa phương.",
+        "B. Đã thi hành được ít nhất 1/3 chi phí cưỡng chế.",
+        "C. Đã thi hành được ít nhất 1/2 chi phí cưỡng chế.",
+        "D. Đã thi hành xong toàn bộ nghĩa vụ chính theo bản án."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điểm b, khoản 3, Điều 44 quy định rõ điều kiện này để được xét miễn phần chi phí còn lại.",
+      "topic": "Miễn, giảm chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 17,
+      "question": "Trong thời hạn bao nhiêu ngày làm việc, kể từ ngày nhận được đơn đề nghị và tài liệu hợp lệ, cơ quan thi hành án dân sự phải xem xét, quyết định về việc miễn, giảm chi phí cưỡng chế?",
+      "options": [
+        "A. 10 ngày làm việc.",
+        "B. 03 ngày làm việc.",
+        "C. 15 ngày làm việc.",
+        "D. 05 ngày làm việc."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 2, Điều 44 quy định thời hạn xem xét, quyết định là 05 ngày làm việc.",
+      "topic": "Miễn, giảm chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 18,
+      "question": "Trường hợp nào sau đây, quyết định xét miễn, giảm chi phí cưỡng chế sẽ bị Thủ trưởng cơ quan thi hành án dân sự thu hồi hoặc hủy bỏ?",
+      "options": [
+        "A. Đối tượng được miễn, giảm không nộp phần chi phí còn lại đúng hạn.",
+        "B. Đối tượng được miễn, giảm có thu nhập tăng lên sau khi có quyết định.",
+        "C. Người được thi hành án không đồng ý với quyết định miễn, giảm.",
+        "D. Phát hiện đối tượng bị cưỡng chế có hành vi tẩu tán, cất giấu tài sản nhằm trốn tránh thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 4, Điều 44 quy định rõ đây là căn cứ để thu hồi, hủy bỏ quyết định miễn, giảm chi phí.",
+      "topic": "Miễn, giảm chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 19,
+      "question": "Trước khi tổ chức cưỡng chế, Chấp hành viên phải lập kế hoạch hoặc dự trù chi phí và trình ai phê duyệt?",
+      "options": [
+        "A. Chủ tịch Ủy ban nhân dân cùng cấp.",
+        "B. Viện trưởng Viện kiểm sát cùng cấp.",
+        "C. Giám đốc Sở Tài chính.",
+        "D. Thủ trưởng cơ quan thi hành án dân sự."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điểm b, khoản 1, Điều 45 quy định Chấp hành viên phải trình Thủ trưởng cơ quan thi hành án dân sự phê duyệt kế hoạch hoặc dự trù chi phí.",
+      "topic": "Thu, chi chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 20,
+      "question": "Nội dung của văn bản xác nhận kết quả thi hành án theo Điều 37 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung) phải thể hiện rõ những thông tin gì?",
+      "options": [
+        "A. Chỉ các khoản đã thi hành xong và các khoản chưa thi hành được.",
+        "B. Tóm tắt toàn bộ quá trình tổ chức thi hành án của Chấp hành viên.",
+        "C. Khoản nghĩa vụ theo bản án, quyết định, nghĩa vụ phải thi hành và kết quả thi hành án cho đến thời điểm xác nhận.",
+        "D. Lý do các khoản nghĩa vụ chưa được thi hành xong (nếu có)."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 2, Điều 37 liệt kê đầy đủ và chính xác các nội dung cần có trong văn bản xác nhận.",
+      "topic": "Xác nhận kết quả thi hành án"
+    },
+    {
+      "id": 21,
+      "question": "Đối với đơn khiếu nại không thuộc thẩm quyền giải quyết, cơ quan nhận đơn phải xử lý như thế nào trong thời hạn 05 ngày làm việc?",
+      "options": [
+        "A. Thụ lý và ra quyết định không chấp nhận khiếu nại.",
+        "B. Có văn bản chỉ dẫn, trả lời người khiếu nại.",
+        "C. Trả lại đơn mà không cần thông báo lý do.",
+        "D. Chuyển đơn đến cơ quan có thẩm quyền và thông báo cho người khiếu nại."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 1, Điều 38 quy định rõ cơ quan nhận đơn không thụ lý nhưng có văn bản chỉ dẫn, trả lời.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 22,
+      "question": "Trường hợp nào sau đây là căn cứ để xem xét lại quyết định giải quyết khiếu nại đã có hiệu lực thi hành?",
+      "options": [
+        "A. Có tình tiết mới làm thay đổi cơ bản kết quả giải quyết khiếu nại.",
+        "B. Người khiếu nại không đồng ý và tiếp tục gửi đơn.",
+        "C. Quyết định giải quyết khiếu nại gây bất lợi cho người phải thi hành án.",
+        "D. Viện kiểm sát nhân dân có kháng nghị."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điểm c, khoản 4, Điều 38 nêu rõ đây là một trong các căn cứ để xem xét lại quyết định.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 23,
+      "question": "Theo Điều 39 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), đơn vị sự nghiệp do nhà nước thành lập cần đáp ứng điều kiện gì về kinh phí để thuộc đối tượng được bảo đảm tài chính thi hành án?",
+      "options": [
+        "A. Là đơn vị sự nghiệp công lập phục vụ quản lý nhà nước.",
+        "B. Được ngân sách nhà nước bảo đảm từ 50% kinh phí hoạt động trở lên.",
+        "C. Được ngân sách nhà nước bảo đảm toàn bộ kinh phí hoạt động.",
+        "D. Có nguồn thu sự nghiệp không đủ để chi trả cho hoạt động."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 3, Điều 39 quy định rõ điều kiện là phải được ngân sách nhà nước bảo đảm toàn bộ kinh phí hoạt động.",
+      "topic": "Bảo đảm tài chính để thi hành án"
+    },
+    {
+      "id": 24,
+      "question": "Nghĩa vụ thi hành án của cơ quan, tổ chức phát sinh do người thi hành công vụ gây ra thuộc diện bồi thường Nhà nước thì được xử lý theo quy định nào?",
+      "options": [
+        "A. Theo quy định chung tại Nghị định này về bảo đảm tài chính.",
+        "B. Do người thi hành công vụ có lỗi trực tiếp bồi thường.",
+        "C. Do ngân sách của cơ quan quản lý trực tiếp người thi hành công vụ chi trả.",
+        "D. Theo quy định của pháp luật về trách nhiệm bồi thường của Nhà nước."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 40 quy định rõ trường hợp này sẽ được thực hiện theo luật chuyên ngành về trách nhiệm bồi thường của Nhà nước.",
+      "topic": "Bảo đảm tài chính để thi hành án"
+    },
+    {
+      "id": 25,
+      "question": "Cơ quan nào chủ trì, phối hợp hướng dẫn việc lập hồ sơ, thủ tục đề nghị, xem xét, quyết định việc bảo đảm tài chính để thi hành án?",
+      "options": [
+        "A. Bộ Tư pháp và Bộ Tài chính.",
+        "B. Chỉ Bộ Tư pháp.",
+        "C. Chỉ Bộ Tài chính.",
+        "D. Chính phủ."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 42 quy định rõ trách nhiệm hướng dẫn thuộc về Bộ Tư pháp và Bộ Tài chính.",
+      "topic": "Bảo đảm tài chính để thi hành án"
+    },
+    {
+      "id": 26,
+      "question": "Đối với đương sự là cá nhân thuộc diện neo đơn, tàn tật, ốm đau kéo dài, mức giảm chi phí cưỡng chế thi hành án được xét là bao nhiêu?",
+      "options": [
+        "A. Giảm 1/2 chi phí cưỡng chế thi hành án phải nộp.",
+        "B. Tùy thuộc vào quyết định của Chấp hành viên.",
+        "C. Miễn toàn bộ chi phí cưỡng chế thi hành án phải nộp.",
+        "D. Giảm 1/3 chi phí cưỡng chế thi hành án phải nộp."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điểm a, khoản 3, Điều 44 quy định mức giảm 1/2 cho các trường hợp tại điểm a và c khoản 1 của Điều này.",
+      "topic": "Miễn, giảm chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 27,
+      "question": "Chủ thể nào có trách nhiệm bồi hoàn cho ngân sách nhà nước khoản chi phí cưỡng chế trong trường hợp ra quyết định miễn, giảm chi phí sai quy định?",
+      "options": [
+        "A. Bộ Tư pháp.",
+        "B. Cơ quan thi hành án dân sự nơi ra quyết định sai.",
+        "C. Người được miễn, giảm sai quy định.",
+        "D. Người có lỗi trong việc ra quyết định miễn, giảm sai quy định."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 4, Điều 44 quy định rõ trách nhiệm bồi hoàn thuộc về người có lỗi.",
+      "topic": "Miễn, giảm chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 28,
+      "question": "Dự toán chi phục vụ cưỡng chế phải được thông báo cho đương sự biết trước thời điểm nào?",
+      "options": [
+        "A. Khi đương sự có yêu cầu bằng văn bản.",
+        "B. Sau khi kết thúc việc cưỡng chế.",
+        "C. Ngay tại buổi tiến hành cưỡng chế.",
+        "D. Trước ngày tiến hành cưỡng chế."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điểm b, khoản 1, Điều 45 quy định rõ việc thông báo dự toán chi phí cho đương sự phải được thực hiện trước ngày tiến hành cưỡng chế.",
+      "topic": "Thu, chi chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 29,
+      "question": "Khi chưa thu được chi phí cưỡng chế, cơ quan thi hành án dân sự có thể ứng trước kinh phí, trừ trường hợp nào?",
+      "options": [
+        "A. Trường hợp người được thi hành án là cơ quan nhà nước.",
+        "B. Trường hợp chi phí cưỡng chế dưới 5.000.000 đồng.",
+        "C. Trường hợp người phải thi hành án có tài sản nhưng chưa xử lý được.",
+        "D. Trường hợp đương sự tự nguyện nộp tạm ứng chi phí cưỡng chế."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điểm b, khoản 1, Điều 45 nêu rõ cơ quan thi hành án sẽ tạm ứng kinh phí, trừ trường hợp đương sự đã tự nguyện nộp tạm ứng.",
+      "topic": "Thu, chi chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 30,
+      "question": "Nội dung xác nhận kết quả thi hành án được thể hiện như thế nào đối với trường hợp việc thi hành án được tiến hành theo định kỳ?",
+      "options": [
+        "A. Thi hành xong nghĩa vụ thi hành án của từng định kỳ.",
+        "B. Chỉ xác nhận tổng số tiền đã thi hành được tính đến thời điểm yêu cầu.",
+        "C. Xác nhận việc đương sự có thiện chí thi hành án.",
+        "D. Phải chờ thi hành xong toàn bộ nghĩa vụ mới được xác nhận."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 2, Điều 37 quy định rõ việc xác nhận có thể thể hiện việc thi hành xong nghĩa vụ của từng định kỳ.",
+      "topic": "Xác nhận kết quả thi hành án"
+    },
+    {
+      "id": 31,
+      "question": "Khi đơn khiếu nại vừa có nội dung khiếu nại, vừa có nội dung tố cáo thì được giải quyết như thế nào?",
+      "options": [
+        "A. Nội dung khiếu nại giải quyết theo quy định về giải quyết khiếu nại, nội dung tố cáo giải quyết theo quy định về giải quyết tố cáo.",
+        "B. Gộp cả hai nội dung để giải quyết theo thủ tục giải quyết khiếu nại.",
+        "C. Yêu cầu người gửi đơn tách thành hai đơn riêng biệt.",
+        "D. Ưu tiên giải quyết nội dung tố cáo trước."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 1, Điều 38 quy định rõ việc tách hai nội dung ra để giải quyết theo các quy trình pháp luật tương ứng.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 32,
+      "question": "Trường hợp đơn khiếu nại thuộc thẩm quyền của cấp dưới nhưng quá thời hạn mà chưa giải quyết, Thủ trưởng cơ quan cấp trên sẽ làm gì?",
+      "options": [
+        "A. Yêu cầu cấp dưới giải quyết, đồng thời chỉ đạo, kiểm tra, đôn đốc.",
+        "B. Ra quyết định kỷ luật người đứng đầu cơ quan cấp dưới.",
+        "C. Rút hồ sơ lên để trực tiếp giải quyết thay cấp dưới.",
+        "D. Thông báo cho người khiếu nại rằng vụ việc đang được cấp dưới xử lý."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 2, Điều 38 quy định rõ trách nhiệm của cấp trên trong trường hợp này là yêu cầu, chỉ đạo, kiểm tra và đôn đốc.",
+      "topic": "Khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 33,
+      "question": "Kinh phí bảo đảm thi hành án đối với các đơn vị trong lực lượng vũ trang do ngân sách nào bảo đảm?",
+      "options": [
+        "A. Ngân sách nhà nước.",
+        "B. Ngân sách địa phương nơi đơn vị đóng quân.",
+        "C. Ngân sách Bộ Quốc phòng.",
+        "D. Ngân sách trung ương."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 1, Điều 41 quy định rõ kinh phí bảo đảm thi hành án đối với các đơn vị trong lực lượng vũ trang do ngân sách nhà nước bảo đảm.",
+      "topic": "Bảo đảm tài chính để thi hành án"
+    },
+    {
+      "id": 34,
+      "question": "Theo Điều 43 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), chi phí họp bàn cưỡng chế do ai tổ chức họp trước khi tiến hành cưỡng chế được tính là chi phí cưỡng chế thi hành án?",
+      "options": [
+        "A. Do Ban chỉ đạo thi hành án dân sự tổ chức.",
+        "B. Do Ủy ban nhân dân cấp xã tổ chức.",
+        "C. Do Thủ trưởng cơ quan thi hành án dân sự tổ chức.",
+        "D. Do Chấp hành viên tổ chức họp với các cơ quan liên quan."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điểm a, khoản 1, Điều 43 quy định rõ đây là chi phí cần thiết khác, và cuộc họp này do Chấp hành viên tổ chức.",
+      "topic": "Chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 35,
+      "question": "Cá nhân có đơn đề nghị xét miễn, giảm chi phí cưỡng chế vì lý do tàn tật, ốm đau kéo dài phải có giấy tờ gì kèm theo?",
+      "options": [
+        "A. Tóm tắt hồ sơ bệnh án được cơ sở khám bệnh, chữa bệnh từ cấp huyện trở lên xác nhận.",
+        "B. Đơn thuốc điều trị bệnh trong vòng 06 tháng gần nhất.",
+        "C. Xác nhận của Ủy ban nhân dân cấp xã về tình trạng sức khỏe.",
+        "D. Giấy chứng nhận người khuyết tật do cơ quan có thẩm quyền cấp."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 2, Điều 44 quy định rõ loại giấy tờ cần thiết để chứng minh cho trường hợp này.",
+      "topic": "Miễn, giảm chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 36,
+      "question": "Cơ quan nào quy định cụ thể mức chi phí bồi dưỡng và hướng dẫn cơ chế quản lý tài chính về kinh phí tổ chức cưỡng chế thi hành án dân sự?",
+      "options": [
+        "A. Chỉ Bộ Tài chính.",
+        "B. Chỉ Bộ Tư pháp.",
+        "C. Bộ Tài chính, Bộ Tư pháp.",
+        "D. Chính phủ."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 3, Điều 43 giao trách nhiệm này cho Bộ Tài chính và Bộ Tư pháp.",
+      "topic": "Chi phí cưỡng chế thi hành án"
+    },
+    {
+      "id": 37,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), trong trường hợp thanh toán tiền thi hành án mà không xác định được địa chỉ của người được nhận, cơ quan thi hành án dân sự sẽ xử lý khoản tiền đó như thế nào?",
+      "options": [
+        "A. Tạm giữ tại két sắt của cơ quan thi hành án dân sự cho đến khi người được nhận đến.",
+        "B. Làm thủ tục sung công quỹ nhà nước ngay lập tức.",
+        "C. Làm thủ tục gửi tiền vào ngân hàng, gửi tài sản bằng hình thức thuê bảo quản hoặc bảo quản tại kho cơ quan thi hành án dân sự.",
+        "D. Thông báo trên phương tiện thông tin đại chúng và trả lại cho người phải thi hành án nếu không có người nhận."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Đây là thủ tục đúng được quy định để bảo toàn khoản tiền, tài sản cho người được nhận trong khi chờ xác minh địa chỉ hoặc người đó đến nhận.",
+      "topic": "Thanh toán tiền, trả tài sản thi hành án"
+    },
+    {
+      "id": 38,
+      "question": "Cơ quan nào có thẩm quyền tiếp nhận và xử lý yêu cầu tương trợ tư pháp của cơ quan có thẩm quyền nước ngoài liên quan đến thi hành án dân sự?",
+      "options": [
+        "A. Tất cả các cơ quan thi hành án dân sự từ cấp huyện trở lên.",
+        "B. Chỉ có Tổng cục Thi hành án dân sự thuộc Bộ Tư pháp.",
+        "C. Cơ quan thi hành án dân sự cấp tỉnh và Phòng Thi hành án cấp quân khu.",
+        "D. Chỉ có Bộ Tư pháp là cơ quan đầu mối duy nhất."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 50 quy định rõ thẩm quyền này thuộc về các cơ quan thi hành án cấp tỉnh và cấp quân khu, là những đơn vị xử lý các vụ việc có yếu tố nước ngoài.",
+      "topic": "Ủy thác tư pháp"
+    },
+    {
+      "id": 39,
+      "question": "Trong trường hợp nào người phải thi hành án đang có nghĩa vụ về tiền, tài sản có thể không bị xem xét tạm hoãn xuất cảnh?",
+      "options": [
+        "A. Người phải thi hành án là người trên 60 tuổi hoặc đang bị bệnh.",
+        "B. Đã nộp được 50% tổng số nghĩa vụ phải thi hành.",
+        "C. Có đơn cam kết sẽ thực hiện nghĩa vụ sau khi về nước mà không cần bảo lãnh.",
+        "D. Có sự đồng ý bằng văn bản của người được thi hành án."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Sự đồng ý của người được thi hành án là một trong những căn cứ pháp lý rõ ràng để cơ quan có thẩm quyền không áp dụng biện pháp tạm hoãn xuất cảnh.",
+      "topic": "Tạm hoãn xuất cảnh"
+    },
+    {
+      "id": 40,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), hệ thống tổ chức thi hành án dân sự, trừ hệ thống trong quân đội, được tổ chức và quản lý theo nguyên tắc nào?",
+      "options": [
+        "A. Tự chủ, tự chịu trách nhiệm.",
+        "B. Tập trung, thống nhất.",
+        "C. Phối hợp, liên ngành.",
+        "D. Phân cấp, độc lập."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 52 khoản 1 nêu rõ hệ thống được tổ chức và quản lý tập trung, thống nhất, thể hiện sự chỉ đạo xuyên suốt từ trung ương đến địa phương.",
+      "topic": "Hệ thống tổ chức thi hành án dân sự"
+    },
+    {
+      "id": 41,
+      "question": "Cơ quan thi hành án dân sự cấp huyện (Chi cục thi hành án dân sự) là cơ quan trực thuộc đơn vị nào?",
+      "options": [
+        "A. Sở Tư pháp cấp tỉnh.",
+        "B. Ủy ban nhân dân cấp huyện.",
+        "C. Tổng cục thi hành án dân sự.",
+        "D. Cục thi hành án dân sự cấp tỉnh."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Theo sơ đồ tổ chức được quy định tại điểm c khoản 1 Điều 52, Chi cục Thi hành án dân sự trực thuộc Cục Thi hành án dân sự.",
+      "topic": "Hệ thống tổ chức thi hành án dân sự"
+    },
+    {
+      "id": 42,
+      "question": "Chức năng của Tổng cục thi hành án dân sự được quy định như thế nào tại Điều 53 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Trực tiếp tổ chức thi hành tất cả các bản án, quyết định của Tòa án nhân dân tối cao.",
+        "B. Giải quyết tất cả các khiếu nại, tố cáo về thi hành án trên toàn quốc.",
+        "C. Ban hành các văn bản quy phạm pháp luật về thi hành án dân sự.",
+        "D. Giúp Bộ trưởng Bộ Tư pháp quản lý nhà nước về công tác thi hành án dân sự và thi hành án hành chính."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Đây là chức năng chính được nêu rõ trong khoản 1 Điều 53, nhấn mạnh vai trò tham mưu, quản lý của Tổng cục.",
+      "topic": "Hệ thống tổ chức thi hành án dân sự"
+    },
+    {
+      "id": 43,
+      "question": "Hệ thống tổ chức thi hành án trong quân đội gồm những cơ quan nào?",
+      "options": [
+        "A. Cục Thi hành án Bộ Quốc phòng và Phòng Thi hành án cấp quân khu.",
+        "B. Cục Thi hành án Bộ Quốc phòng và Tòa án quân sự các cấp.",
+        "C. Tổng cục Thi hành án dân sự và Phòng Thi hành án cấp quân khu.",
+        "D. Phòng Thi hành án cấp quân khu và Ban chỉ huy quân sự cấp huyện."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 54 liệt kê rõ hai cấp tổ chức trong hệ thống thi hành án của quân đội là Cục ở Bộ Quốc phòng và Phòng ở cấp quân khu.",
+      "topic": "Hệ thống tổ chức thi hành án trong quân đội"
+    },
+    {
+      "id": 44,
+      "question": "Cơ quan quản lý thi hành án trực thuộc Bộ Quốc phòng là cơ quan nào?",
+      "options": [
+        "A. Bộ Tổng tham mưu Quân đội nhân dân Việt Nam.",
+        "B. Tổng cục Chính trị Quân đội nhân dân Việt Nam.",
+        "C. Cục Thi hành án Bộ Quốc phòng.",
+        "D. Phòng Thi hành án cấp quân khu."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 1 Điều 54 xác định rõ Cục Thi hành án Bộ Quốc phòng là cơ quan quản lý thi hành án trực thuộc Bộ Quốc phòng.",
+      "topic": "Hệ thống tổ chức thi hành án trong quân đội"
+    },
+    {
+      "id": 45,
+      "question": "Phòng Thi hành án cấp quân khu là cơ quan trực thuộc đơn vị nào?",
+      "options": [
+        "A. Bộ Quốc phòng.",
+        "B. Bộ Tư lệnh quân khu.",
+        "C. Quân khu và tương đương.",
+        "D. Cục Thi hành án Bộ Quốc phòng."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 2 Điều 54 nêu rõ Phòng Thi hành án cấp quân khu là cơ quan thi hành án trực thuộc quân khu và tương đương.",
+      "topic": "Hệ thống tổ chức thi hành án trong quân đội"
+    },
+    {
+      "id": 46,
+      "question": "Chức năng của Cục Thi hành án Bộ Quốc phòng là gì?",
+      "options": [
+        "A. Quyết định việc áp dụng biện pháp cưỡng chế trong các vụ án phức tạp.",
+        "B. Trực tiếp thi hành tất cả các bản án, quyết định do Tòa án quân sự các cấp tuyên.",
+        "C. Tham mưu, giúp Bộ trưởng Bộ Quốc phòng phối hợp với Bộ trưởng Bộ Tư pháp quản lý nhà nước về công tác thi hành án trong quân đội.",
+        "D. Bổ nhiệm, miễn nhiệm Chấp hành viên trong toàn quân đội."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 1 Điều 55 mô tả chính xác chức năng tham mưu và quản lý chuyên ngành của Cục Thi hành án Bộ Quốc phòng.",
+      "topic": "Hệ thống tổ chức thi hành án trong quân đội"
+    },
+    {
+      "id": 47,
+      "question": "Chức danh nào sau đây có trong cơ cấu tổ chức của Phòng Thi hành án cấp quân khu?",
+      "options": [
+        "A. Chấp hành viên sơ cấp, Chấp hành viên trung cấp, Chấp hành viên cao cấp.",
+        "B. Chỉ có Chấp hành viên sơ cấp và Chấp hành viên trung cấp.",
+        "C. Thẩm phán và Hội thẩm quân nhân.",
+        "D. Điều tra viên và Kiểm sát viên."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 2 Điều 55 liệt kê đầy đủ các ngạch Chấp hành viên trong cơ cấu tổ chức của Phòng Thi hành án cấp quân khu.",
+      "topic": "Hệ thống tổ chức thi hành án trong quân đội"
+    },
+    {
+      "id": 48,
+      "question": "Thủ trưởng cơ quan thi hành án cấp quân khu đồng thời giữ chức vụ gì?",
+      "options": [
+        "A. Phó Tư lệnh quân khu.",
+        "B. Trưởng phòng Thi hành án cấp quân khu.",
+        "C. Chánh án Tòa án quân sự quân khu.",
+        "D. Cục trưởng Cục Thi hành án Bộ Quốc phòng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2 Điều 55 quy định rõ: \"Phòng Thi hành án cấp quân khu có Thủ trưởng cơ quan thi hành án đồng thời là Trưởng phòng\".",
+      "topic": "Hệ thống tổ chức thi hành án trong quân đội"
+    },
+    {
+      "id": 49,
+      "question": "Cơ quan nào quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Thi hành án Bộ Quốc phòng và Phòng Thi hành án cấp quân khu?",
+      "options": [
+        "A. Bộ Quốc phòng.",
+        "B. Ủy ban Thường vụ Quốc hội.",
+        "C. Bộ Tư pháp.",
+        "D. Chính phủ."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 3 Điều 55 giao thẩm quyền này cho Bộ Quốc phòng, phù hợp với nguyên tắc quản lý nhà nước đối với các cơ quan trong quân đội.",
+      "topic": "Hệ thống tổ chức thi hành án trong quân đội"
+    },
+    {
+      "id": 50,
+      "question": "Trong trường hợp việc thi hành án do cơ quan thi hành án dân sự cấp huyện tổ chức cần yêu cầu tương trợ tư pháp, cơ quan này phải làm gì?",
+      "options": [
+        "A. Báo cáo Tổng cục Thi hành án dân sự để xin chỉ đạo.",
+        "B. Lập hồ sơ ủy thác tư pháp và gửi cơ quan thi hành án dân sự cấp tỉnh để thực hiện.",
+        "C. Chuyển toàn bộ hồ sơ vụ việc cho cơ quan thi hành án dân sự cấp tỉnh giải quyết.",
+        "D. Trực tiếp gửi yêu cầu tương trợ tư pháp đến cơ quan có thẩm quyền của nước ngoài."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 1 Điều 50 quy định rõ cơ chế ủy thác từ cấp huyện lên cấp tỉnh để thực hiện việc yêu cầu tương trợ tư pháp, đảm bảo đúng thẩm quyền.",
+      "topic": "Ủy thác tư pháp"
+    },
+    {
+      "id": 51,
+      "question": "Việc tạm hoãn xuất cảnh được áp dụng đối với người đại diện theo pháp luật của cơ quan, tổ chức đang có nghĩa vụ thi hành án, trừ trường hợp nào?",
+      "options": [
+        "A. Người đại diện theo pháp luật không phải là cổ đông sáng lập.",
+        "B. Nghĩa vụ thi hành án có giá trị dưới 100 triệu đồng.",
+        "C. Pháp luật có quy định khác.",
+        "D. Cơ quan, tổ chức đó có vốn đầu tư nước ngoài."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 1 Điều 51 nêu rõ nguyên tắc áp dụng với người đại diện theo pháp luật nhưng cũng mở ra khả năng có ngoại lệ nếu luật chuyên ngành quy định khác.",
+      "topic": "Tạm hoãn xuất cảnh"
+    },
+    {
+      "id": 52,
+      "question": "Trường hợp nào sau đây, một người nước ngoài phạm tội ít nghiêm trọng đang phải thi hành án có thể không bị xem xét tạm hoãn xuất cảnh?",
+      "options": [
+        "A. Có người thân là công dân Việt Nam đứng ra bảo lãnh bằng uy tín.",
+        "B. Người được thi hành án đồng ý cho về nước bằng lời nói.",
+        "C. Đã có vé máy bay về nước và cam kết sẽ quay lại Việt Nam.",
+        "D. Có đơn cam kết thực hiện nghĩa vụ sau khi về nước và có xác nhận của cơ quan đại diện ngoại giao tại Việt Nam."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điểm đ khoản 2 Điều 51 quy định rõ điều kiện này, đòi hỏi phải có sự bảo đảm từ phía cơ quan đại diện ngoại giao của nước người đó mang quốc tịch.",
+      "topic": "Tạm hoãn xuất cảnh"
+    },
+    {
+      "id": 53,
+      "question": "Các cơ quan trong hệ thống tổ chức thi hành án dân sự (cả trong và ngoài quân đội) có đặc điểm chung nào về tư cách pháp lý?",
+      "options": [
+        "A. Là đơn vị sự nghiệp có thu, tự chủ về tài chính.",
+        "B. Chỉ có tư cách pháp nhân và con dấu riêng.",
+        "C. Có tư cách pháp nhân, con dấu hình Quốc huy, trụ sở và tài khoản riêng.",
+        "D. Sử dụng tài khoản và con dấu chung với cơ quan tư pháp cùng cấp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 2 Điều 52 và khoản 2 Điều 54 đều khẳng định các cơ quan này có đầy đủ các thuộc tính của một pháp nhân công quyền độc lập.",
+      "topic": "Hệ thống tổ chức thi hành án dân sự"
+    },
+    {
+      "id": 54,
+      "question": "Thẩm quyền quy định việc phân cấp quản lý công chức, viên chức, người lao động thuộc hệ thống tổ chức thi hành án dân sự thuộc về ai?",
+      "options": [
+        "A. Bộ trưởng Bộ Tư pháp.",
+        "B. Thủ tướng Chính phủ.",
+        "C. Bộ trưởng Bộ Nội vụ.",
+        "D. Tổng Cục trưởng Tổng cục thi hành án dân sự."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 3 Điều 52 giao thẩm quyền này cho Bộ trưởng Bộ Tư pháp, người đứng đầu ngành quản lý hệ thống thi hành án dân sự.",
+      "topic": "Hệ thống tổ chức thi hành án dân sự"
+    },
+    {
+      "id": 55,
+      "question": "Cơ cấu tổ chức của Tổng cục thi hành án dân sự ở Trung ương bao gồm các đơn vị nào?",
+      "options": [
+        "A. Các phòng, ban chuyên môn.",
+        "B. Các cục, vụ và tương đương.",
+        "C. Các Cục thi hành án dân sự cấp tỉnh.",
+        "D. Các viện nghiên cứu và trung tâm đào tạo."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2 Điều 53 quy định rõ cơ cấu tổ chức của Tổng cục ở Trung ương gồm các đơn vị cấp cục, vụ.",
+      "topic": "Hệ thống tổ chức thi hành án dân sự"
+    },
+    {
+      "id": 56,
+      "question": "Việc giải tỏa, hủy bỏ tạm hoãn xuất cảnh được thực hiện khi nào?",
+      "options": [
+        "A. Khi người phải thi hành án đã thi hành được một nửa nghĩa vụ.",
+        "B. Khi có quyết định giám đốc thẩm, tái thẩm hủy bản án, quyết định đang thi hành.",
+        "C. Khi có yêu cầu của Viện kiểm sát nhân dân cùng cấp.",
+        "D. Sau thời hạn 1 năm kể từ ngày ra quyết định tạm hoãn xuất cảnh."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 4 Điều 51 quy định đây là một trong những căn cứ pháp lý để giải tỏa biện pháp tạm hoãn xuất cảnh vì cơ sở pháp lý của nghĩa vụ không còn.",
+      "topic": "Tạm hoãn xuất cảnh"
+    },
+    {
+      "id": 57,
+      "question": "Đối với khoản tiền, tài sản đã thu nhưng việc thi hành án bị hoãn để xem xét lại bản án theo thủ tục giám đốc thẩm, tái thẩm, cơ quan thi hành án xử lý như thế nào?",
+      "options": [
+        "A. Làm thủ tục gửi tiền vào ngân hàng hoặc thuê bảo quản tài sản.",
+        "B. Chi trả ngay cho người được thi hành án.",
+        "C. Sử dụng để tạm ứng chi phí thi hành án cho các vụ việc khác.",
+        "D. Trả lại ngay cho người phải thi hành án."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điểm b khoản 5 Điều 49 quy định rõ việc phải bảo quản an toàn số tiền, tài sản này trong thời gian chờ kết quả xét xử giám đốc thẩm, tái thẩm.",
+      "topic": "Thanh toán tiền, trả tài sản thi hành án"
+    },
+    {
+      "id": 58,
+      "question": "Cước phí chuyển tiền qua bưu điện, chuyển khoản hoặc thuê bảo quản tài sản để chi trả cho người được thi hành án do ai chịu?",
+      "options": [
+        "A. Người phải thi hành án.",
+        "B. Ngân sách nhà nước.",
+        "C. Cơ quan thi hành án dân sự.",
+        "D. Người được nhận tiền, tài sản."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 6 Điều 49 quy định rõ người được hưởng quyền lợi sẽ phải chịu các chi phí phát sinh để nhận được quyền lợi đó.",
+      "topic": "Thanh toán tiền, trả tài sản thi hành án"
+    },
+    {
+      "id": 59,
+      "question": "Đối với việc thi hành án có yêu cầu ủy thác tư pháp, trong thời hạn bao lâu, kể từ ngày Bộ Tư pháp gửi hồ sơ ủy thác tư pháp hợp lệ mà nhận được đủ kết quả theo yêu cầu thì cơ quan thi hành án dân sự thực hiện việc thi hành án theo quy định của pháp luật?",
+      "options": [
+        "A. 30 ngày.",
+        "B. 01 năm.",
+        "C. 06 tháng.",
+        "D. 03 tháng."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điểm a khoản 3 Điều 50 quy định thời hạn 06 tháng đối với các trường hợp hồ sơ ủy thác tư pháp hợp lệ nhận được kết quả.",
+      "topic": "Ủy thác tư pháp"
+    },
+    {
+      "id": 60,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), cơ quan nào có thẩm quyền tổ chức thi tuyển Chấp hành viên?",
+      "options": [
+        "A. Tổng cục Thi hành án dân sự.",
+        "B. Bộ Tư pháp.",
+        "C. Cục Thi hành án dân sự cấp tỉnh.",
+        "D. Bộ Nội vụ."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2 Điều 56 quy định rõ Bộ Tư pháp có trách nhiệm tổ chức thi tuyển Chấp hành viên.",
+      "topic": "Chấp hành viên, Thẩm tra viên, Thư ký thi hành án"
+    }
+  ]
 }
 ]

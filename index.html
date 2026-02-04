@@ -690,11 +690,11 @@
 
       // 1. Đề ngẫu nhiên hoàn toàn
       function createCustomExam() {
-       const thadsExams = DB.filter(
+        const thadsExams = DB.filter(
           (ex) => ex.id && ex.id.toUpperCase().includes("KTC_THADS"),
         );
         if (thadsExams.length === 0)
-          return alert("Không tìm thấy bộ đề TH_THADS nào!");
+          return alert("Không tìm thấy bộ đề KTC_THADS nào!");
 
         let combinedQ = [];
         const perExam = Math.ceil(60 / thadsExams.length);
@@ -709,7 +709,7 @@
         const finalQ = combinedQ.sort(() => 0.5 - Math.random()).slice(0, 60);
         const newExam = {
           id: `thads_mix_${Date.now()}`,
-          title: `⚖️ Đề Tổng Hợp THADS (${new Date().toLocaleTimeString()})`,
+          title: `⚖️ Đề Kiến thức chung THADS (${new Date().toLocaleTimeString()})`,
           questions: finalQ,
         };
         DB.push(newExam);
