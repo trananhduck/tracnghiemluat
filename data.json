@@ -29664,5 +29664,2038 @@
       "topic": "Chế độ chính sách"
     }
   ]
+},
+{
+  "id": "TH_TOCAO_DE_01",
+  "title": "Đề 01: Luật Tố cáo năm 2018 (đã sửa đổi, bổ sung)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo Luật Tố cáo, nội dung nào sau đây là đúng khi định nghĩa về \"Tố cáo\"?",
+      "options": [
+        "A. là việc cá nhân hoặc tổ chức theo thủ tục quy định của Luật Tố cáo báo cho cơ quan, tổ chức, cá nhân có thẩm quyền biết về hành vi vi phạm pháp luật của bất kỳ cơ quan, tổ chức, cá nhân nào.",
+        "B. là việc cá nhân theo thủ tục quy định của Luật Tố cáo báo cho cơ quan, tổ chức, cá nhân có thẩm quyền biết về hành vi vi phạm pháp luật của bất kỳ cơ quan, tổ chức, cá nhân nào gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.",
+        "C. là việc công dân báo cho cơ quan, tổ chức, cá nhân có thẩm quyền biết về hành vi vi phạm pháp luật của cán bộ, công chức, viên chức khi thực hiện nhiệm vụ, công vụ.",
+        "D. là việc cá nhân báo cho cơ quan, tổ chức, cá nhân có thẩm quyền biết về hành vi vi phạm pháp luật của bất kỳ cơ quan, tổ chức, cá nhân nào, không bao gồm hành vi vi phạm pháp luật về quản lý nhà nước trong các lĩnh vực."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 2 Luật Tố cáo quy định tố cáo bao gồm tố cáo hành vi vi phạm trong thực hiện nhiệm vụ, công vụ và quản lý nhà nước. Đáp án A sai vì chủ thể chỉ là cá nhân. Đáp án C, D thu hẹp đối tượng so với luật định.",
+      "topic": "Giải thích từ ngữ"
+    },
+    {
+      "id": 2,
+      "question": "Theo Luật Tố cáo, đâu là định nghĩa về \"Người tố cáo\"?",
+      "options": [
+        "A. là cá nhân hoặc tổ chức thực hiện việc tố cáo.",
+        "B. là cá nhân thực hiện việc tố cáo.",
+        "C. là công dân Việt Nam thực hiện việc tố cáo.",
+        "D. là cá nhân, tổ chức bị thiệt hại bởi hành vi vi phạm pháp luật và thực hiện việc tố cáo."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 4 Điều 2 Luật Tố cáo quy định: \"4. Người tố cáo là cá nhân thực hiện việc tố cáo.\" Luật quy định rõ người tố cáo là cá nhân, không bao gồm tổ chức.",
+      "topic": "Giải thích từ ngữ"
+    },
+    {
+      "id": 3,
+      "question": "Theo Luật Tố cáo, \"Giải quyết tố cáo\" được hiểu là gì?",
+      "options": [
+        "A. là việc thụ lý, xác minh và kết luận nội dung tố cáo của người giải quyết tố cáo.",
+        "B. là việc thụ lý, xác minh, kết luận nội dung tố cáo và xử lý kỷ luật người bị tố cáo.",
+        "C. là việc tiếp nhận, xác minh, kết luận nội dung tố cáo và xử lý kết luận nội dung tố cáo của người giải quyết tố cáo.",
+        "D. là việc thụ lý, xác minh, kết luận nội dung tố cáo và xử lý kết luận nội dung tố cáo của người giải quyết tố cáo."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ khoản 7 Điều 2 Luật Tố cáo quy định đầy đủ các công đoạn: thụ lý, xác minh, kết luận và xử lý kết luận.",
+      "topic": "Giải thích từ ngữ"
+    },
+    {
+      "id": 4,
+      "question": "Theo Luật Tố cáo, đâu không phải là nguyên tắc giải quyết tố cáo?",
+      "options": [
+        "A. Việc giải quyết tố cáo phải kịp thời, chính xác, khách quan, đúng thẩm quyền, trình tự, thủ tục và thời hạn theo quy định của pháp luật.",
+        "B. Việc giải quyết tố cáo phải bảo đảm an toàn cho người tố cáo; bảo đảm quyền và lợi ích hợp pháp của người bị tố cáo trong quá trình giải quyết tố cáo.",
+        "C. Việc giải quyết tố cáo phải công khai, minh bạch, có sự tham gia của người dân.",
+        "D. Việc giải quyết tố cáo phải bảo đảm quyền và lợi ích hợp pháp của người bị tố cáo trong quá trình giải quyết tố cáo."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ Điều 4 Luật Tố cáo. Luật không quy định nguyên tắc giải quyết tố cáo phải \"công khai, minh bạch, có sự tham gia của người dân\".",
+      "topic": "Nguyên tắc giải quyết"
+    },
+    {
+      "id": 5,
+      "question": "Theo Luật Tố cáo, cơ quan, tổ chức, cá nhân có thẩm quyền trong việc tiếp nhận, giải quyết tố cáo có trách nhiệm nào sau đây?",
+      "options": [
+        "A. Bảo đảm quyền và lợi ích hợp pháp của người bị tố cáo ngay cả khi đã có kết luận nội dung tố cáo.",
+        "B. Bảo đảm quyền và lợi ích hợp pháp của người bị tố cáo khi chưa có kết luận nội dung tố cáo của người giải quyết tố cáo.",
+        "C. Ưu tiên bảo vệ quyền lợi của người tố cáo hơn người bị tố cáo trong mọi trường hợp.",
+        "D. Công khai danh tính người bị tố cáo ngay khi tiếp nhận đơn tố cáo để đảm bảo tính răn đe."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ điểm b khoản 1 Điều 5 Luật Tố cáo quy định trách nhiệm bảo đảm quyền lợi người bị tố cáo trong giai đoạn \"chưa có kết luận\".",
+      "topic": "Trách nhiệm cơ quan có thẩm quyền"
+    },
+    {
+      "id": 6,
+      "question": "Theo Luật Tố cáo, hành vi nào sau đây bị nghiêm cấm trong tố cáo và giải quyết tố cáo?",
+      "options": [
+        "A. Tiết lộ họ tên, địa chỉ của người tố cáo khi được người đó đồng ý bằng văn bản.",
+        "B. Cố ý tố cáo sai sự thật; cưỡng ép, lôi kéo, kích động, dụ dỗ, mua chuộc người khác tố cáo sai sự thật.",
+        "C. Công khai kết luận nội dung tố cáo và quyết định xử lý hành vi vi phạm.",
+        "D. Yêu cầu người tố cáo cung cấp thông tin, tài liệu liên quan đến nội dung tố cáo."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 10 Điều 8 Luật Tố cáo quy định hành vi cố ý tố cáo sai sự thật hoặc lôi kéo người khác tố cáo sai sự thật là bị nghiêm cấm.",
+      "topic": "Các hành vi bị nghiêm cấm"
+    },
+    {
+      "id": 7,
+      "question": "Theo Luật Tố cáo, đâu không phải là hành vi bị nghiêm cấm trong tố cáo và giải quyết tố cáo?",
+      "options": [
+        "A. Bao che người bị tố cáo.",
+        "B. Can thiệp trái pháp luật, cản trở việc giải quyết tố cáo.",
+        "C. Rút một phần hoặc toàn bộ nội dung tố cáo.",
+        "D. Đe dọa, mua chuộc, trả thù, trù dập, xúc phạm người tố cáo."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Rút tố cáo là quyền của người tố cáo theo quy định tại điểm đ khoản 1 Điều 9 Luật Tố cáo, không phải hành vi bị cấm.",
+      "topic": "Các hành vi bị nghiêm cấm"
+    },
+    {
+      "id": 8,
+      "question": "Theo Luật Tố cáo, người tố cáo có quyền nào sau đây?",
+      "options": [
+        "A. Được thông báo về tất cả các buổi làm việc giữa người giải quyết tố cáo và người bị tố cáo.",
+        "B. Yêu cầu thay đổi người giải quyết tố cáo nếu cho rằng người đó không khách quan.",
+        "C. Rút tố cáo.",
+        "D. Được nhận bồi thường thiệt hại ngay cả khi tố cáo sai sự thật nhưng không cố ý."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ điểm đ khoản 1 Điều 9 Luật Tố cáo quy định người tố cáo có quyền rút tố cáo.",
+      "topic": "Quyền và nghĩa vụ người tố cáo"
+    },
+    {
+      "id": 9,
+      "question": "Theo Luật Tố cáo, người tố cáo có nghĩa vụ nào sau đây?",
+      "options": [
+        "A. Chịu trách nhiệm trước pháp luật về nội dung tố cáo.",
+        "B. Phải có bằng chứng xác thực kèm theo đơn tố cáo.",
+        "C. Chỉ hợp tác với người giải quyết tố cáo khi thấy cần thiết.",
+        "D. Bồi thường thiệt hại do hành vi tố cáo gây ra trong mọi trường hợp."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ điểm c khoản 2 Điều 9 Luật Tố cáo quy định người tố cáo phải chịu trách nhiệm trước pháp luật về nội dung tố cáo.",
+      "topic": "Quyền và nghĩa vụ người tố cáo"
+    },
+    {
+      "id": 10,
+      "question": "Theo Luật Tố cáo, nội dung nào sau đây là đúng khi nói về quyền của người bị tố cáo?",
+      "options": [
+        "A. Được biết toàn bộ hồ sơ, tài liệu xác minh của người giải quyết tố cáo.",
+        "B. Được yêu cầu người giải quyết tố cáo tạm đình chỉ việc giải quyết tố cáo.",
+        "C. Được bảo đảm quyền và lợi ích hợp pháp khi chưa có kết luận nội dung tố cáo của người giải quyết tố cáo.",
+        "D. Được từ chối làm việc với người giải quyết tố cáo."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ điểm d khoản 1 Điều 10 Luật Tố cáo quy định quyền được bảo đảm quyền lợi hợp pháp khi chưa có kết luận.",
+      "topic": "Quyền và nghĩa vụ người bị tố cáo"
+    },
+    {
+      "id": 11,
+      "question": "Theo Luật Tố cáo, người bị tố cáo có nghĩa vụ nào?",
+      "options": [
+        "A. Chấp hành nghiêm chỉnh quyết định xử lý theo kết luận nội dung tố cáo của cơ quan, tổ chức, cá nhân có thẩm quyền.",
+        "B. Tự thu thập chứng cứ để chứng minh mình không vi phạm.",
+        "C. Phải bồi thường thiệt hại ngay khi có đơn tố cáo.",
+        "D. Phải tạm thời đình chỉ công tác để phục vụ việc giải quyết tố cáo."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ điểm c khoản 2 Điều 10 Luật Tố cáo quy định nghĩa vụ chấp hành quyết định xử lý theo kết luận tố cáo.",
+      "topic": "Quyền và nghĩa vụ người bị tố cáo"
+    },
+    {
+      "id": 12,
+      "question": "Theo Luật Tố cáo, người giải quyết tố cáo có quyền nào sau đây?",
+      "options": [
+        "A. Yêu cầu người tố cáo phải cung bằng chứng vật chất cụ thể.",
+        "B. Bắt buộc người bị tố cáo phải thừa nhận hành vi vi phạm.",
+        "C. Yêu cầu người bị tố cáo đến làm việc, giải trình về hành vi bị tố cáo.",
+        "D. Quyết định xử lý kỷ luật người bị tố cáo trong mọi trường hợp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ điểm b khoản 1 Điều 11 Luật Tố cáo quy định quyền yêu cầu người bị tố cáo làm việc và giải trình.",
+      "topic": "Quyền và nghĩa vụ người giải quyết tố cáo"
+    },
+    {
+      "id": 13,
+      "question": "Theo Luật Tố cáo, đâu là nghĩa vụ của người giải quyết tố cáo?",
+      "options": [
+        "A. Thông báo cho người tố cáo về mọi diễn biến của quá trình xác minh.",
+        "B. Gửi kết luận nội dung tố cáo cho người bị tố cáo.",
+        "C. Công khai danh tính người tố cáo để đảm bảo tính minh bạch.",
+        "D. Bồi thường thiệt hại do hành vi giải quyết tố cáo trái pháp luật của mình gây ra, ngay cả khi không có lỗi."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ điểm đ khoản 2 Điều 11 Luật Tố cáo quy định nghĩa vụ gửi kết luận nội dung tố cáo cho người bị tố cáo.",
+      "topic": "Quyền và nghĩa vụ người giải quyết tố cáo"
+    },
+    {
+      "id": 14,
+      "question": "Theo Luật Tố cáo, tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của người đứng đầu cơ quan, tổ chức do ai giải quyết?",
+      "options": [
+        "A. Do cấp phó của người đứng đầu cơ quan, tổ chức đó giải quyết.",
+        "B. Do người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của cơ quan, tổ chức đó giải quyết.",
+        "C. Do cơ quan thanh tra cùng cấp giải quyết.",
+        "D. Do người đứng đầu cơ quan, tổ chức đó tự giải quyết."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 12 Luật Tố cáo, thẩm quyền giải quyết thuộc về người đứng đầu cơ quan cấp trên trực tiếp.",
+      "topic": "Thẩm quyền giải quyết"
+    },
+    {
+      "id": 15,
+      "question": "Theo Luật Tố cáo, trong trường hợp người bị tố cáo đã chuyển công tác sang cơ quan khác và giữ chức vụ cao hơn, ai sẽ chủ trì giải quyết tố cáo?",
+      "options": [
+        "A. Người đứng đầu cơ quan, tổ chức quản lý người bị tố cáo tại thời điểm có hành vi vi phạm.",
+        "B. Người đứng đầu cơ quan, tổ chức đang quản lý người bị tố cáo.",
+        "C. Người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của cơ quan đang quản lý người bị tố cáo.",
+        "D. Cả hai người đứng đầu cơ quan cũ và mới cùng đồng chủ trì giải quyết."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ điểm b khoản 3 Điều 12 Luật Tố cáo quy định cơ quan đang quản lý chủ trì, cơ quan cũ phối hợp.",
+      "topic": "Thẩm quyền giải quyết"
+    },
+    {
+      "id": 16,
+      "question": "Theo Luật Tố cáo, tố cáo cơ quan, tổ chức trong việc thực hiện nhiệm vụ, công vụ do ai giải quyết?",
+      "options": [
+        "A. Do người đứng đầu chính cơ quan, tổ chức đó giải quyết.",
+        "B. Do cơ quan thanh tra nhà nước cấp trên trực tiếp giải quyết.",
+        "C. Do người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của cơ quan, tổ chức đó giải quyết.",
+        "D. Do Tòa án nhân dân có thẩm quyền giải quyết."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 6 Điều 12 Luật Tố cáo, thẩm quyền thuộc về người đứng đầu cơ quan cấp trên trực tiếp.",
+      "topic": "Thẩm quyền giải quyết"
+    },
+    {
+      "id": 17,
+      "question": "Theo Luật Tố cáo, ai có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện công vụ của công chức do Chủ tịch Ủy ban nhân dân cấp xã quản lý trực tiếp?",
+      "options": [
+        "A. Chủ tịch Ủy ban nhân dân cấp tỉnh.",
+        "B. Chủ tịch Hội đồng nhân dân cấp xã.",
+        "C. Chủ tịch Ủy ban nhân dân cấp xã.",
+        "D. Chánh Thanh tra cấp tỉnh."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 13 Luật Tố cáo quy định Chủ tịch UBND cấp xã giải quyết tố cáo đối với công chức mình quản lý trực tiếp.",
+      "topic": "Thẩm quyền giải quyết"
+    },
+    {
+      "id": 18,
+      "question": "Theo Luật Tố cáo, Chủ tịch Ủy ban nhân dân cấp tỉnh không có thẩm quyền giải quyết tố cáo đối với đối tượng nào sau đây?",
+      "options": [
+        "A. Phó Chủ tịch Ủy ban nhân dân cấp tỉnh.",
+        "B. Người đứng đầu cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh.",
+        "C. Người đứng đầu, cấp phó của người đứng đầu cơ quan, đơn vị thuộc Tổng cục, Cục và cấp tương đương, công chức, viên chức khác",
+        "D. Giám đốc, Phó Giám đốc Sở."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Đối tượng tại đáp án C thuộc thẩm quyền của Tổng cục trưởng, Cục trưởng thuộc Bộ theo khoản 5 Điều 13 Luật Tố cáo.",
+      "topic": "Thẩm quyền giải quyết"
+    },
+    {
+      "id": 19,
+      "question": "Theo Luật Tố cáo, ai có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của Chủ tịch Ủy ban nhân dân cấp tỉnh?",
+      "options": [
+        "A. Bộ trưởng Bộ Nội vụ.",
+        "B. Tổng Thanh tra Chính phủ.",
+        "C. Chủ tịch Quốc hội.",
+        "D. Thủ tướng Chính phủ."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Căn cứ điểm a khoản 8 Điều 13 Luật Tố cáo quy định Thủ tướng Chính phủ giải quyết tố cáo đối với Chủ tịch UBND cấp tỉnh.",
+      "topic": "Thẩm quyền giải quyết"
+    },
+    {
+      "id": 20,
+      "question": "Theo Luật Tố cáo, ai có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện công vụ của Chánh án Tòa án nhân dân cấp tỉnh?",
+      "options": [
+        "A. Chánh án Tòa án nhân dân cấp cao.",
+        "B. Chánh án Tòa án nhân dân tối cao.",
+        "C. Hội đồng Thẩm phán Tòa án nhân dân tối cao.",
+        "D. Chủ tịch nước."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ điểm a khoản 3 Điều 14 Luật Tố cáo quy định Chánh án Tòa án nhân dân tối cao giải quyết tố cáo đối với Chánh án TAND cấp tỉnh.",
+      "topic": "Thẩm quyền giải quyết"
+    },
+    {
+      "id": 21,
+      "question": "Theo Luật Tố cáo, đâu không phải là hành vi bị nghiêm cấm trong tố cáo và giải quyết tố cáo?",
+      "options": [
+        "A. Thiếu trách nhiệm, phân biệt đối xử trong việc giải quyết tố cáo.",
+        "B. Làm mất, làm sai lệch hồ sơ, tài liệu vụ việc tố cáo trong quá trình giải quyết tố cáo.",
+        "C. Cung cấp thông tin, tài liệu không chính xác cho người giải quyết tố cáo.",
+        "D. Tiết lộ họ tên, địa chỉ, bút tích của người tố cáo và thông tin khác làm lộ danh tính của người tố cáo."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Các phương án A, B, D là hành vi bị cấm (Điều 8). Phương án C là vi phạm nghĩa vụ người tố cáo chứ không được liệt kê là hành vi bị nghiêm cấm tại Điều 8.",
+      "topic": "Các hành vi bị nghiêm cấm"
+    },
+    {
+      "id": 22,
+      "question": "Theo Luật Tố cáo, ai có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của đại biểu Quốc hội hoạt động chuyên trách?",
+      "options": [
+        "A. Chủ tịch Quốc hội.",
+        "B. Tổng Thư ký Quốc hội.",
+        "C. Ủy ban Thường vụ Quốc hội.",
+        "D. Trưởng Đoàn đại biểu Quốc hội."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 17 Luật Tố cáo quy định Ủy ban Thường vụ Quốc hội giải quyết tố cáo với đại biểu Quốc hội chuyên trách.",
+      "topic": "Thẩm quyền giải quyết"
+    },
+    {
+      "id": 23,
+      "question": "Theo Luật Tố cáo, cơ quan nào có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của Chủ tịch Hội đồng nhân dân?",
+      "options": [
+        "A. Thường trực Hội đồng nhân dân cùng cấp.",
+        "B. Ủy ban Thường vụ Quốc hội.",
+        "C. Cơ quan có thẩm quyền phê chuẩn việc bầu Chủ tịch, Phó Chủ tịch Hội đồng nhân dân.",
+        "D. Người đứng đầu cơ quan hành chính nhà nước cùng cấp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 2 Điều 17 Luật Tố cáo, thẩm quyền thuộc về cơ quan phê chuẩn việc bầu chức danh đó.",
+      "topic": "Thẩm quyền giải quyết"
+    },
+    {
+      "id": 24,
+      "question": "Theo Luật Tố cáo, người đứng đầu đơn vị sự nghiệp công lập có thẩm quyền giải quyết tố cáo đối với hành vi vi phạm pháp luật của ai?",
+      "options": [
+        "A. Người đứng đầu cơ quan nhà nước quản lý đơn vị sự nghiệp đó.",
+        "B. Bất kỳ viên chức nào trong đơn vị sự nghiệp công lập.",
+        "C. Người đứng đầu, cấp phó của người đứng đầu tổ chức, đơn vị trực thuộc.",
+        "D. Cấp phó của chính người đứng đầu đơn vị sự nghiệp công lập đó."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ điểm a khoản 1 Điều 18 Luật Tố cáo quy định thẩm quyền đối với lãnh đạo đơn vị trực thuộc.",
+      "topic": "Thẩm quyền giải quyết"
+    },
+    {
+      "id": 25,
+      "question": "Theo Luật Tố cáo, ai có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của Chủ tịch Hội đồng thành viên trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ?",
+      "options": [
+        "A. Người đứng đầu doanh nghiệp đó.",
+        "B. Hội đồng thành viên của doanh nghiệp.",
+        "C. Người đứng đầu cơ quan nhà nước được giao quản lý doanh nghiệp.",
+        "D. Cơ quan thanh tra của cơ quan quản lý doanh nghiệp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 2 Điều 19 Luật Tố cáo quy định người đứng đầu cơ quan nhà nước quản lý doanh nghiệp giải quyết.",
+      "topic": "Thẩm quyền giải quyết"
+    },
+    {
+      "id": 26,
+      "question": "Theo Luật Tố cáo, hình thức tố cáo được quy định như thế nào?",
+      "options": [
+        "A. Bằng đơn hoặc qua điện thoại.",
+        "B. Chỉ được thực hiện bằng đơn có ký tên hoặc điểm chỉ.",
+        "C. Được thực hiện bằng đơn hoặc được trình bày trực tiếp tại cơ quan, tổ chức có thẩm quyền.",
+        "D. Trình bày trực tiếp hoặc gửi qua thư điện tử."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ Điều 22 Luật Tố cáo quy định hai hình thức là bằng đơn hoặc trình bày trực tiếp.",
+      "topic": "Tiếp nhận, xử lý tố cáo"
+    },
+    {
+      "id": 27,
+      "question": "Theo Luật Tố cáo, trường hợp nhiều người cùng tố cáo về cùng một nội dung thì đơn tố cáo phải có nội dung gì đặc biệt?",
+      "options": [
+        "A. Phải có chữ ký của ít nhất 2/3 số người tố cáo.",
+        "B. Phải ghi rõ họ tên, địa chỉ, cách thức liên hệ với từng người tố cáo; họ tên của người đại diện cho những người tố cáo.",
+        "C. Phải được công chứng hoặc chứng thực chữ ký của những người tố cáo.",
+        "D. Phải có biên bản họp cử người đại diện tố cáo."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 23 Luật Tố cáo yêu cầu thông tin của từng người và người đại diện.",
+      "topic": "Tiếp nhận, xử lý tố cáo"
+    },
+    {
+      "id": 28,
+      "question": "Theo Luật Tố cáo, thời hạn để cơ quan, tổ chức, cá nhân có trách nhiệm xử lý ban đầu thông tin tố cáo là bao lâu kể từ ngày nhận được tố cáo?",
+      "options": [
+        "A. 05 ngày làm việc.",
+        "B. 07 ngày làm việc.",
+        "C. 10 ngày làm việc.",
+        "D. 15 ngày."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 24 Luật Tố cáo quy định thời hạn là 07 ngày làm việc.",
+      "topic": "Tiếp nhận, xử lý tố cáo"
+    },
+    {
+      "id": 29,
+      "question": "Theo Luật Tố cáo, trường hợp tố cáo không thuộc thẩm quyền giải quyết của mình, cơ quan nhận được đơn phải làm gì trong thời hạn quy định?",
+      "options": [
+        "A. Trả lại đơn và hướng dẫn người tố cáo gửi đến đúng cơ quan có thẩm quyền.",
+        "B. Chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết và thông báo cho người tố cáo.",
+        "C. Báo cáo cơ quan cấp trên để xin ý kiến chỉ đạo.",
+        "D. Không xử lý và lưu đơn."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 2 Điều 24 Luật Tố cáo quy định thời hạn 05 ngày làm việc phải chuyển đến cơ quan có thẩm quyền.",
+      "topic": "Tiếp nhận, xử lý tố cáo"
+    },
+    {
+      "id": 30,
+      "question": "Theo Luật Tố cáo, trường hợp nào sau đây cơ quan, tổ chức, cá nhân có thẩm quyền không xử lý thông tin có nội dung tố cáo theo quy định của Luật này?",
+      "options": [
+        "A. Tố cáo không có tài liệu, chứng cứ kèm theo.",
+        "B. Tố cáo có nội dung liên quan đến bí mật nhà nước.",
+        "C. Tố cáo không rõ họ tên, địa chỉ của người tố cáo.",
+        "D. Tố cáo đối với người đã nghỉ hưu."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 25 Luật Tố cáo quy định thông tin không rõ họ tên, địa chỉ sẽ không xử lý.",
+      "topic": "Tiếp nhận, xử lý tố cáo"
+    },
+    {
+      "id": 31,
+      "question": "Theo Luật Tố cáo, trong quá trình tiếp nhận, xử lý tố cáo, nếu thấy hành vi bị tố cáo có dấu hiệu của tội phạm thì cơ quan nhận được tố cáo phải làm gì?",
+      "options": [
+        "A. Tạm dừng việc giải quyết tố cáo để chờ kết luận của cơ quan điều tra.",
+        "B. Chuyển ngay hồ sơ, tài liệu đến Cơ quan điều tra hoặc Viện kiểm sát nhân dân có thẩm quyền.",
+        "C. Tiếp tục giải quyết tố cáo theo thẩm quyền và gửi kiến nghị xử lý hình sự sau khi có kết luận.",
+        "D. Yêu cầu người tố cáo gửi đơn đến Cơ quan điều tra."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 27 Luật Tố cáo quy định phải chuyển ngay hồ sơ cho cơ quan chức năng hình sự.",
+      "topic": "Tiếp nhận, xử lý tố cáo"
+    },
+    {
+      "id": 32,
+      "question": "Theo Luật Tố cáo, trình tự giải quyết tố cáo bao gồm bao nhiêu bước?",
+      "options": [
+        "A. 3 bước: Thụ lý, Xác minh, Xử lý.",
+        "B. 4 bước: Thụ lý, Xác minh, Kết luận, Xử lý kết luận.",
+        "C. 5 bước: Tiếp nhận, Thụ lý, Xác minh, Kết luận, Xử lý kết luận.",
+        "D. 4 bước: Tiếp nhận, Xác minh, Kết luận, Công khai kết luận."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 28 Luật Tố cáo quy định 04 bước chính thức trong trình tự giải quyết.",
+      "topic": "Trình tự giải quyết tố cáo"
+    },
+    {
+      "id": 33,
+      "question": "Theo Luật Tố cáo, đâu không phải là điều kiện để thụ lý tố cáo?",
+      "options": [
+        "A. Tố cáo được thực hiện bằng đơn theo đúng quy định.",
+        "B. Người tố cáo phải cung cấp được chứng cứ có xác nhận của cơ quan chức năng về hành vi vi phạm.",
+        "C. Vụ việc thuộc thẩm quyền giải quyết của cơ quan tiếp nhận tố cáo.",
+        "D. Nội dung tố cáo có cơ sở để xác định người vi phạm, hành vi vi phạm pháp luật."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 29, luật chỉ yêu cầu thông tin mình có được, không yêu cầu chứng cứ có xác nhận cơ quan chức năng.",
+      "topic": "Thụ lý tố cáo"
+    },
+    {
+      "id": 34,
+      "question": "Theo Luật Tố cáo, trong thời hạn bao nhiêu ngày làm việc kể từ ngày ra quyết định thụ lý, người giải quyết tố cáo phải thông báo cho người tố cáo?",
+      "options": [
+        "A. 03 ngày làm việc.",
+        "B. 05 ngày làm việc.",
+        "C. 07 ngày làm việc.",
+        "D. 10 ngày làm việc."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 3 Điều 29 Luật Tố cáo quy định thời hạn là 05 ngày làm việc.",
+      "topic": "Thụ lý tố cáo"
+    },
+    {
+      "id": 35,
+      "question": "Theo Luật Tố cáo, thời hạn giải quyết tố cáo là bao lâu kể từ ngày thụ lý?",
+      "options": [
+        "A. Không quá 15 ngày.",
+        "B. Không quá 30 ngày.",
+        "C. Không quá 45 ngày.",
+        "D. Không quá 60 ngày."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 30 Luật Tố cáo quy định thời hạn thông thường là 30 ngày.",
+      "topic": "Thời hạn giải quyết"
+    },
+    {
+      "id": 36,
+      "question": "Theo Luật Tố cáo, đối với vụ việc đặc biệt phức tạp, có thể gia hạn giải quyết tố cáo tối đa bao nhiêu lần?",
+      "options": [
+        "A. Một lần, không quá 30 ngày.",
+        "B. Một lần, không quá 60 ngày.",
+        "C. Hai lần, mỗi lần không quá 30 ngày.",
+        "D. Hai lần, mỗi lần không quá 60 ngày."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 3 Điều 30 Luật Tố cáo quy định gia hạn tối đa 02 lần, mỗi lần không quá 30 ngày.",
+      "topic": "Thời hạn giải quyết"
+    },
+    {
+      "id": 37,
+      "question": "Theo Luật Tố cáo, khi tiến hành xác minh nội dung tố cáo, người xác minh phải làm gì để đảm bảo quyền lợi của người bị tố cáo?",
+      "options": [
+        "A. Chỉ làm việc với người bị tố cáo khi có mặt người tố cáo.",
+        "B. Yêu cầu người bị tố cáo cung cấp văn bản giải trình trong thời hạn 24 giờ.",
+        "C. Tạo điều kiện để người bị tố cáo giải trình, đưa ra các chứng cứ.",
+        "D. Giữ bí mật tuyệt đối nội dung tố cáo đối với người bị tố cáo cho đến khi có kết luận."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 4 Điều 31 Luật Tố cáo yêu cầu tạo điều kiện cho người bị tố cáo giải trình.",
+      "topic": "Xác minh nội dung tố cáo"
+    },
+    {
+      "id": 38,
+      "question": "Theo Luật Tố cáo, Chánh thanh tra cấp tỉnh có trách nhiệm nào sau đây?",
+      "options": [
+        "A. Giải quyết tất cả các tố cáo thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh.",
+        "B. Xem xét việc giải quyết tố cáo của người đứng đầu cơ quan, tổ chức cấp dưới trực tiếp của cơ quan hành chính nhà nước cùng cấp đã giải quyết nhưng có dấu hiệu vi phạm pháp luật.",
+        "C. Ra quyết định cuối cùng về việc giải quyết tố cáo.",
+        "D. Trực tiếp xử lý kỷ luật cán bộ, công chức vi phạm."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ điểm b khoản 1 Điều 32 Luật Tố cáo quy định trách nhiệm giám sát việc giải quyết tố cáo của cấp dưới.",
+      "topic": "Xác minh nội dung tố cáo"
+    },
+    {
+      "id": 39,
+      "question": "Theo Luật Tố cáo, Tổng Thanh tra Chính phủ có trách nhiệm xem xét việc giải quyết tố cáo của đối tượng nào đã giải quyết nhưng có dấu hiệu vi phạm pháp luật?",
+      "options": [
+        "A. Chánh thanh tra các Bộ.",
+        "B. Bộ trưởng, người đứng đầu cơ quan ngang Bộ, cơ quan thuộc chính phủ, Chủ tịch Ủy ban nhân dân cấp tỉnh.",
+        "C. Thủ trưởng các cơ quan thuộc Chính phủ.",
+        "D. Chủ tịch Ủy ban nhân dân cấp huyện."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ điểm c khoản 2 Điều 32 Luật Tố cáo quy định trách nhiệm giám sát các lãnh đạo đầu ngành.",
+      "topic": "Xác minh nội dung tố cáo"
+    },
+    {
+      "id": 40,
+      "question": "Theo Luật Tố cáo, người tố cáo có quyền rút tố cáo vào thời điểm nào?",
+      "options": [
+        "A. Bất kỳ lúc nào trong quá trình giải quyết tố cáo.",
+        "B. Trước khi người giải quyết tố cáo ra quyết định thụ lý.",
+        "C. Trước khi người giải quyết tố cáo ra kết luận nội dung tố cáo.",
+        "D. Sau khi có kết luận nội dung tố cáo nhưng trước khi có quyết định xử lý."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 33 Luật Tố cáo quy định việc rút phải thực hiện trước khi ra kết luận.",
+      "topic": "Rút tố cáo"
+    },
+    {
+      "id": 41,
+      "question": "Theo Luật Tố cáo, trong trường hợp nào sau đây vụ việc tố cáo vẫn phải được giải quyết mặc dù người tố cáo rút tố cáo?",
+      "options": [
+        "A. Khi người bị tố cáo không đồng ý với việc rút tố cáo.",
+        "B. Khi người giải quyết tố cáo xét thấy hành vi bị tố cáo có dấu hiệu vi phạm pháp luật.",
+        "C. Khi người tố cáo rút tố cáo nhưng không nêu rõ lý do.",
+        "D. Khi vụ việc tố cáo đã được thụ lý giải quyết quá một nửa thời gian."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 3 Điều 33 Luật Tố cáo, nếu có dấu hiệu vi phạm pháp luật thì vẫn phải giải quyết tiếp.",
+      "topic": "Rút tố cáo"
+    },
+    {
+      "id": 42,
+      "question": "Theo Luật Tố cáo, người giải quyết tố cáo ra quyết định tạm đình chỉ việc giải quyết tố cáo khi có căn cứ nào sau đây?",
+      "options": [
+        "A. Người tố cáo bị ốm đau, không thể tiếp tục làm việc.",
+        "B. Người bị tố cáo đi công tác nước ngoài dài ngày.",
+        "C. Cần đợi kết quả giải quyết của cơ quan, tổ chức, cá nhân khác hoặc đợi kết quả giải quyết vụ việc khác có liên quan.",
+        "D. Hồ sơ, tài liệu của vụ việc bị thất lạc."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ điểm a khoản 1 Điều 34 Luật Tố cáo quy định về lý do tạm đình chỉ.",
+      "topic": "Tạm đình chỉ, đình chỉ việc giải quyết tố cáo"
+    },
+    {
+      "id": 43,
+      "question": "Theo Luật Tố cáo, trường hợp nào sau đây người giải quyết tố cáo ra quyết định đình chỉ việc giải quyết tố cáo?",
+      "options": [
+        "A. Người tố cáo rút toàn bộ nội dung tố cáo.",
+        "B. Người tố cáo chết.",
+        "C. Người bị tố cáo là cá nhân chết và nội dung tố cáo chỉ liên quan đến trách nhiệm của người bị tố cáo.",
+        "D. Vụ việc đã được cơ quan thanh tra tiến hành thanh tra và có kết luận."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ điểm b khoản 3 Điều 34 Luật Tố cáo quy định về lý do đình chỉ giải quyết.",
+      "topic": "Tạm đình chỉ, đình chỉ việc giải quyết tố cáo"
+    },
+    {
+      "id": 44,
+      "question": "Theo Luật Tố cáo, trong thời hạn bao nhiêu ngày làm việc kể từ ngày ban hành kết luận nội dung tố cáo, người giải quyết tố cáo phải gửi kết luận đến người bị tố cáo?",
+      "options": [
+        "A. 03 ngày làm việc.",
+        "B. 05 ngày làm việc.",
+        "C. 07 ngày làm việc.",
+        "D. 10 ngày làm việc."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 3 Điều 35 Luật Tố cáo quy định thời hạn gửi kết luận.",
+      "topic": "Kết luận nội dung tố cáo"
+    },
+    {
+      "id": 45,
+      "question": "Theo Luật Tố cáo, khi có kết luận người bị tố cáo không vi phạm pháp luật, người giải quyết tố cáo phải làm gì?",
+      "options": [
+        "A. Yêu cầu người tố cáo phải xin lỗi công khai người bị tố cáo.",
+        "B. Xử lý theo thẩm quyền hoặc kiến nghị xử lý người cố ý tố cáo sai sự thật.",
+        "C. Thông báo kết quả cho người tố cáo và kết thúc vụ việc.",
+        "D. Phạt tiền người tố cáo để bồi thường danh dự cho người bị tố cáo."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ điểm a khoản 1 Điều 36 Luật Tố cáo quy định về việc khôi phục quyền lợi người bị tố cáo và xử lý người cố ý tố cáo sai.",
+      "topic": "Việc xử lý tố cáo của người giải quyết"
+    },
+    {
+      "id": 46,
+      "question": "Theo Luật Tố cáo, người tố cáo có quyền tố cáo tiếp khi nào?",
+      "options": [
+        "A. Khi không đồng ý với bất kỳ nội dung nào trong kết luận giải quyết tố cáo.",
+        "B. Khi có căn cứ cho rằng việc giải quyết tố cáo là không đúng quy định của pháp luật.",
+        "C. Khi kết luận giải quyết tố cáo không có lợi cho mình.",
+        "D. Khi có thêm chứng cứ mới mà trước đó chưa cung cấp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 37 Luật Tố cáo quy định về điều kiện để được tố cáo tiếp.",
+      "topic": "Giải quyết tố cáo tiếp, giải quyết lại vụ việc tố cáo"
+    },
+    {
+      "id": 47,
+      "question": "Theo Luật Tố cáo, việc giải quyết lại vụ việc tố cáo được thực hiện khi có căn cứ nào sau đây?",
+      "options": [
+        "A. Người tố cáo cung cấp thêm nhân chứng mới.",
+        "B. Kết quả xác minh hoặc kết luận nội dung tố cáo thiếu chính xác hoặc thiếu khách quan.",
+        "C. Có sự chỉ đạo của cơ quan cấp trên mà không cần lý do.",
+        "D. Người bị tố cáo khiếu nại về kết luận nội dung tố cáo."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ điểm a khoản 3 Điều 37 Luật Tố cáo quy định căn cứ để giải quyết lại.",
+      "topic": "Giải quyết tố cáo tiếp, giải quyết lại vụ việc tố cáo"
+    },
+    {
+      "id": 48,
+      "question": "Theo Luật Tố cáo, trường hợp quá thời hạn quy định mà tố cáo chưa được giải quyết, người tố cáo có quyền làm gì?",
+      "options": [
+        "A. Gửi đơn khởi kiện ra Tòa án hành chính.",
+        "B. Khiếu nại lên cơ quan thanh tra cùng cấp với người giải quyết tố cáo.",
+        "C. Tố cáo tiếp với người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của người giải quyết tố cáo.",
+        "D. Gửi đơn đến các cơ quan báo chí để phản ánh."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 38 Luật Tố cáo về quyền tố cáo tiếp khi quá hạn.",
+      "topic": "Giải quyết tố cáo tiếp, giải quyết lại vụ việc tố cáo"
+    },
+    {
+      "id": 49,
+      "question": "Theo Luật Tố cáo, tài liệu nào sau đây không bắt buộc phải có trong hồ sơ giải quyết vụ việc tố cáo?",
+      "options": [
+        "A. Đơn tố cáo hoặc văn bản ghi nội dung tố cáo.",
+        "B. Quyết định thụ lý tố cáo.",
+        "C. Biên bản hòa giải giữa người tố cáo và người bị tố cáo.",
+        "D. Kết luận nội dung tố cáo hoặc quyết định đình chỉ việc giải quyết tố cáo."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Theo Điều 39, luật không quy định thủ tục hòa giải trong tố cáo.",
+      "topic": "Hồ sơ giải quyết vụ việc tố cáo"
+    },
+    {
+      "id": 50,
+      "question": "Theo Luật Tố cáo, việc công khai kết luận nội dung tố cáo phải được thực hiện trong thời hạn bao lâu kể từ ngày ra kết luận?",
+      "options": [
+        "A. 03 ngày làm việc.",
+        "B. 05 ngày làm việc.",
+        "C. 07 ngày làm việc.",
+        "D. 10 ngày làm việc."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 40 Luật Tố cáo quy định thời hạn là 07 ngày làm việc.",
+      "topic": "Công khai kết luận nội dung tố cáo, quyết định xử lý"
+    },
+    {
+      "id": 51,
+      "question": "Theo Luật Tố cáo, đâu không phải là hình thức công khai kết luận nội dung tố cáo?",
+      "options": [
+        "A. Công bố tại cuộc họp cơ quan, tổ chức nơi người bị tố cáo công tác.",
+        "B. Gửi văn bản đến từng cá nhân trong cơ quan, tổ chức nơi người bị tố cáo công tác.",
+        "C. Niêm yết tại trụ sở làm việc hoặc nơi tiếp công dân của người đã giải quyết tố cáo.",
+        "D. Đăng tải trên cổng thông tin điện tử của người đã giải quyết tố cáo."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Theo khoản 2 Điều 40, luật không quy định hình thức gửi văn bản đến từng cá nhân.",
+      "topic": "Công khai kết luận nội dung tố cáo, quyết định xử lý"
+    },
+    {
+      "id": 52,
+      "question": "Theo Luật Tố cáo, nguyên tắc xác định thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong các lĩnh vực là gì?",
+      "options": [
+        "A. Cơ quan tiếp nhận đơn đầu tiên có thẩm quyền giải quyết.",
+        "B. Cơ quan quản lý nhà nước cấp trên trực tiếp có thẩm quyền giải quyết.",
+        "C. Tố cáo liên quan đến chức năng quản lý nhà nước của cơ quan nào thì cơ quan đó có trách nhiệm giải quyết.",
+        "D. Cơ quan thanh tra nhà nước có thẩm quyền giải quyết tất cả các tố cáo loại này."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 41 Luật Tố cáo xác định theo chức năng quản lý nhà nước.",
+      "topic": "Thẩm quyền giải quyết tố cáo đối với hành vi vi phạm pháp luật về quản lý nhà nước"
+    },
+    {
+      "id": 53,
+      "question": "Theo Luật Tố cáo, trường hợp tố cáo về hành vi vi phạm pháp luật thuộc thẩm quyền giải quyết của nhiều cơ quan thì cơ quan nào có thẩm quyền giải quyết?",
+      "options": [
+        "A. Cơ quan có cấp bậc cao nhất.",
+        "B. Cơ quan thụ lý đầu tiên.",
+        "C. Cơ quan quản lý nhà nước cấp trên quyết định.",
+        "D. Các cơ quan cùng phối hợp giải quyết."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ khoản 3 Điều 41 Luật Tố cáo quy định cơ quan thụ lý đầu tiên có thẩm quyền.",
+      "topic": "Thẩm quyền giải quyết tố cáo đối với hành vi vi phạm pháp luật về quản lý nhà nước"
+    },
+    {
+      "id": 54,
+      "question": "Theo Luật Tố cáo, đối với tố cáo hành vi vi phạm pháp luật về quản lý nhà nước có nội dung rõ ràng, chứng cứ cụ thể, thuộc lĩnh vực mình quản lý thì người giải quyết tố cáo phải làm gì?",
+      "options": [
+        "A. Thực hiện giải quyết theo trình tự thông thường để đảm bảo đầy đủ các bước.",
+        "B. Chuyển ngay cho cơ quan điều tra vì có chứng cứ cụ thể.",
+        "C. Tiến hành ngay việc xác minh, áp dụng biện pháp ngăn chặn, chấm dứt hành vi vi phạm và lập biên bản.",
+        "D. Yêu cầu người tố cáo phải làm cam đoan về tính xác thực của chứng cứ."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ điểm b khoản 1 Điều 43 Luật Tố cáo quy định trình tự rút gọn.",
+      "topic": "Trình tự, thủ tục giải quyết tố cáo đối với hành vi vi phạm về quản lý nhà nước"
+    },
+    {
+      "id": 55,
+      "question": "Theo Luật Tố cáo, sau khi có kết luận nội dung tố cáo, người giải quyết tố cáo có trách nhiệm gì?",
+      "options": [
+        "A. Chỉ xử lý kỷ luật đối với người bị tố cáo.",
+        "B. Chuyển toàn bộ hồ sơ cho Tòa án để xét xử.",
+        "C. Xử lý theo thẩm quyền hoặc kiến nghị cơ quan có thẩm quyền xử lý kỷ luật, buộc khắc phục hậu quả, xử phạt vi phạm hành chính.",
+        "D. Giao cho người bị tố cáo tự kiểm điểm và rút kinh nghiệm."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ khoản 1 Điều 44 Luật Tố cáo quy định trách nhiệm xử lý toàn diện vi phạm.",
+      "topic": "Xử lý kết luận nội dung tố cáo đối với hành vi vi phạm về quản lý nhà nước"
+    }
+  ]
+},
+{
+  "id": "TH_KHIEUNAI_DE_01",
+  "title": "Đề 01: Luật Khiếu nại năm 2011 (đã sửa đổi, bổ sung)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo Luật Khiếu nại, đâu không phải là trường hợp khiếu nại bị từ chối thụ lý giải quyết?",
+      "options": [
+        "A. Người khiếu nại có năng lực hành vi dân sự đầy đủ.",
+        "B. Đơn khiếu nại không có chữ ký hoặc điểm chỉ của người khiếu nại.",
+        "C. Thời hiệu khiếu nại đã hết mà không có lý do chính đáng.",
+        "D. Việc khiếu nại đã được Tòa án thụ lý hoặc đã được giải quyết bằng bản án, quyết định của Tòa án."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Người khiếu nại có năng lực hành vi dân sự đầy đủ là điều kiện cần thiết để thực hiện quyền khiếu nại, không phải là lý do từ chối thụ lý. Căn cứ: Khoản 3, Điều 11 Luật Khiếu nại.",
+      "topic": "Thụ lý khiếu nại"
+    },
+    {
+      "id": 2,
+      "question": "Theo Luật Khiếu nại, người khiếu nại có quyền nào sau đây?",
+      "options": [
+        "A. Được biết, đọc, sao chụp, sao chép tài liệu, chứng cứ do người giải quyết khiếu nại thu thập, trừ thông tin, tài liệu thuộc bí mật nhà nước.",
+        "B. Yêu cầu người giải quyết khiếu nại cung cấp mọi thông tin, tài liệu, kể cả thông tin thuộc bí mật nhà nước.",
+        "C. Không chấp hành quyết định hành chính bị khiếu nại trong thời gian khiếu nại mà không cần quyết định tạm đình chỉ.",
+        "D. Được yêu cầu mọi cá nhân, cơ quan cung cấp thông tin liên quan mà không có giới hạn về thời gian."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là quyền được tiếp cận hồ sơ vụ việc của người khiếu nại được pháp luật bảo vệ. Căn cứ: Điểm d, Khoản 1, Điều 12 Luật Khiếu nại.",
+      "topic": "Quyền và nghĩa vụ của người khiếu nại"
+    },
+    {
+      "id": 3,
+      "question": "Theo Luật Khiếu nại, đâu là nghĩa vụ của người khiếu nại?",
+      "options": [
+        "A. Chấp hành quyết định hành chính, hành vi hành chính mà mình khiếu nại trong thời gian khiếu nại, trừ trường hợp bị tạm đình chỉ thi hành.",
+        "B. Chỉ cung cấp thông tin, tài liệu có lợi cho mình cho người giải quyết khiếu nại.",
+        "C. Có thể khiếu nại đến bất kỳ cơ quan nào mà mình cho là có thẩm quyền.",
+        "D. Không cần phải trình bày trung thực sự việc nếu thấy không có lợi."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là một nghĩa vụ quan trọng của người khiếu nại để đảm bảo trật tự quản lý hành chính. Căn cứ: Điểm c, Khoản 2, Điều 12 Luật Khiếu nại.",
+      "topic": "Quyền và nghĩa vụ của người khiếu nại"
+    },
+    {
+      "id": 4,
+      "question": "Theo Luật Khiếu nại, người khiếu nại được ủy quyền cho ai thực hiện việc khiếu nại khi bị ốm đau, già yếu?",
+      "options": [
+        "A. Cha, mẹ, vợ, chồng, anh, chị, em ruột, con đã thành niên hoặc người khác có năng lực hành vi dân sự đầy đủ.",
+        "B. Chỉ có thể ủy quyền cho cha, mẹ, vợ, chồng, con đã thành niên.",
+        "C. Bất kỳ ai, chỉ cần có văn bản xác nhận việc ủy quyền.",
+        "D. Chỉ có thể ủy quyền cho luật sư hoặc trợ giúp viên pháp lý."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Luật quy định cụ thể và mở rộng phạm vi người có thể được ủy quyền. Căn cứ: Điểm a, Khoản 1, Điều 12 Luật Khiếu nại.",
+      "topic": "Ủy quyền khiếu nại"
+    },
+    {
+      "id": 5,
+      "question": "Theo Luật Khiếu nại, người bị khiếu nại có nghĩa vụ cung cấp thông tin, tài liệu liên quan đến nội dung khiếu nại trong thời hạn bao lâu kể từ ngày có yêu cầu của người giải quyết khiếu nại?",
+      "options": [
+        "A. 7 ngày.",
+        "B. 10 ngày.",
+        "C. 15 ngày.",
+        "D. 30 ngày."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Luật quy định thời hạn cụ thể là 7 ngày để người bị khiếu nại thực hiện nghĩa vụ cung cấp thông tin. Căn cứ: Điểm c, Khoản 2, Điều 13 Luật Khiếu nại.",
+      "topic": "Quyền và nghĩa vụ của người bị khiếu nại"
+    },
+    {
+      "id": 6,
+      "question": "Theo Luật Khiếu nại, đâu không phải là quyền của người bị khiếu nại?",
+      "options": [
+        "A. Yêu cầu người giải quyết khiếu nại áp dụng biện pháp khẩn cấp.",
+        "B. Đưa ra chứng cứ về tính hợp pháp của quyết định hành chính, hành vi hành chính bị khiếu nại.",
+        "C. Được biết, đọc, sao chụp, sao chép các tài liệu, chứng cứ do người giải quyết khiếu nại thu thập.",
+        "D. Nhận quyết định giải quyết khiếu nại lần hai."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Yêu cầu áp dụng biện pháp khẩn cấp là quyền của người khiếu nại, không phải của người bị khiếu nại. Căn cứ: Điểm e, Khoản 1, Điều 12 và Điều 13 Luật Khiếu nại.",
+      "topic": "Quyền và nghĩa vụ của người bị khiếu nại"
+    },
+    {
+      "id": 7,
+      "question": "Theo Luật Khiếu nại, người giải quyết khiếu nại lần đầu có quyền nào sau đây?",
+      "options": [
+        "A. Yêu cầu người khiếu nại, cơ quan, tổ chức, cá nhân có liên quan cung cấp thông tin, tài liệu, chứng cứ.",
+        "B. Trưng cầu giám định và tham khảo ý kiến của Hội đồng tư vấn.",
+        "C. Triệu tập bất kỳ ai để tham gia đối thoại mà không cần liên quan đến vụ việc.",
+        "D. Ra quyết định giải quyết khiếu nại lần hai nếu thấy cần thiết."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là quyền cơ bản để người giải quyết khiếu nại lần đầu có cơ sở giải quyết vụ việc. Căn cứ: Điểm a, Khoản 1, Điều 14 Luật Khiếu nại.",
+      "topic": "Quyền và nghĩa vụ của người giải quyết khiếu nại"
+    },
+    {
+      "id": 8,
+      "question": "Theo Luật Khiếu nại, đâu là nghĩa vụ của người giải quyết khiếu nại lần đầu?",
+      "options": [
+        "A. Tổ chức đối thoại với người khiếu nại, người bị khiếu nại và cơ quan, tổ chức, cá nhân có liên quan.",
+        "B. Công bố công khai quyết định giải quyết khiếu nại trên phương tiện thông tin đại chúng.",
+        "C. Thành lập Hội đồng tư vấn để giải quyết các vụ việc phức tạp.",
+        "D. Ra quyết định giải quyết khiếu nại và gửi cho Tổng Thanh tra Chính phủ."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Tổ chức đối thoại là một nghĩa vụ quan trọng trong quá trình giải quyết khiếu nại lần đầu. Căn cứ: Điểm c, Khoản 2, Điều 14 Luật Khiếu nại.",
+      "topic": "Quyền và nghĩa vụ của người giải quyết khiếu nại"
+    },
+    {
+      "id": 9,
+      "question": "Theo Luật Khiếu nại, người giải quyết khiếu nại lần hai có quyền nào mà người giải quyết khiếu nại lần đầu không có?",
+      "options": [
+        "A. Trưng cầu giám định.",
+        "B. Quyết định áp dụng, hủy bỏ biện pháp khẩn cấp.",
+        "C. Yêu cầu các bên cung cấp thông tin, tài liệu, chứng cứ.",
+        "D. Yêu cầu người khiếu nại trình bày trung thực sự việc."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Quyền trưng cầu giám định và tham khảo ý kiến Hội đồng tư vấn là những quyền đặc thù của người giải quyết khiếu nại lần hai. Căn cứ: Điểm d, Khoản 1, Điều 15 và Điều 14 Luật Khiếu nại.",
+      "topic": "Quyền và nghĩa vụ của người giải quyết khiếu nại"
+    },
+    {
+      "id": 10,
+      "question": "Theo Luật Khiếu nại, đâu không phải là nghĩa vụ của người giải quyết khiếu nại lần hai?",
+      "options": [
+        "A. Báo cáo kết quả giải quyết cho thủ trưởng cấp trên trực tiếp.",
+        "B. Tiếp nhận, thụ lý, lập hồ sơ vụ việc khiếu nại thuộc thẩm quyền giải quyết.",
+        "C. Ra quyết định giải quyết khiếu nại và công bố quyết định giải quyết khiếu nại.",
+        "D. Tổ chức đối thoại với người khiếu nại, người bị khiếu nại và các bên liên quan."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Luật không quy định người giải quyết khiếu nại lần hai có nghĩa vụ báo cáo kết quả cho thủ trưởng cấp trên trực tiếp. Căn cứ: Khoản 2, Điều 15 và Điều 41 Luật Khiếu nại.",
+      "topic": "Quyền và nghĩa vụ của người giải quyết khiếu nại"
+    },
+    {
+      "id": 11,
+      "question": "Theo Luật Khiếu nại, luật sư, trợ giúp viên pháp lý có quyền nào sau đây khi tham gia vào quá trình giải quyết khiếu nại?",
+      "options": [
+        "A. Nghiên cứu hồ sơ vụ việc, sao chụp, sao chép tài liệu, chứng cứ có liên quan, trừ thông tin, tài liệu thuộc bí mật nhà nước.",
+        "B. Quyết định thay người khiếu nại về việc rút khiếu nại mà không cần sự đồng ý.",
+        "C. Yêu cầu người giải quyết khiếu nại phải chấp nhận mọi chứng cứ do mình thu thập.",
+        "D. Tham gia vào quá trình giải quyết khiếu nại ngay cả khi không có đề nghị của người khiếu nại."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là quyền cần thiết để luật sư bảo vệ quyền và lợi ích hợp pháp cho người khiếu nại. Căn cứ: Điểm d, Khoản 1, Điều 16 Luật Khiếu nại.",
+      "topic": "Quyền và nghĩa vụ của luật sư, trợ giúp viên pháp lý"
+    },
+    {
+      "id": 12,
+      "question": "Theo Luật Khiếu nại, Chủ tịch Ủy ban nhân dân cấp xã có thẩm quyền gì?",
+      "options": [
+        "A. Giải quyết khiếu nại lần đầu đối với quyết định hành chính, hành vi hành chính của mình, của người có trách nhiệm do mình quản lý trực tiếp.",
+        "B. Giải quyết khiếu nại lần hai đối với quyết định hành chính, hành vi hành chính của công chức xã.",
+        "C. Giải quyết khiếu nại lần đầu đối với quyết định hành chính, hành vi hành chính của Chủ tịch Ủy ban nhân dân cấp huyện.",
+        "D. Giải quyết mọi khiếu nại phát sinh trên địa bàn xã."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là thẩm quyền giải quyết khiếu nại lần đầu của Chủ tịch UBND cấp xã. Căn cứ: Điều 17 Luật Khiếu nại.",
+      "topic": "Thẩm quyền giải quyết khiếu nại"
+    },
+    {
+      "id": 13,
+      "question": "Theo Luật Khiếu nại, Thủ trưởng cơ quan thuộc sở và cấp tương đương có thẩm quyền giải quyết khiếu nại đối với đối tượng nào?",
+      "options": [
+        "A. Quyết định hành chính, hành vi hành chính của mình, của cán bộ, công chức do mình quản lý trực tiếp.",
+        "B. Quyết định hành chính, hành vi hành chính của Giám đốc sở.",
+        "C. Quyết định hành chính, hành vi hành chính của Chủ tịch UBND cấp huyện.",
+        "D. Mọi quyết định hành chính, hành vi hành chính của cán bộ, công chức thuộc sở."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Thẩm quyền của Thủ trưởng cơ quan thuộc sở được giới hạn trong phạm vi quản lý trực tiếp. Căn cứ: Điều 19 Luật Khiếu nại.",
+      "topic": "Thẩm quyền giải quyết khiếu nại"
+    },
+    {
+      "id": 14,
+      "question": "Theo Luật Khiếu nại, Giám đốc sở và cấp tương đương giải quyết khiếu nại lần hai trong trường hợp nào?",
+      "options": [
+        "A. Đối với quyết định hành chính của Thủ trưởng cơ quan thuộc sở đã giải quyết lần đầu nhưng còn khiếu nại.",
+        "B. Đối với quyết định hành chính của Chủ tịch UBND cấp huyện đã giải quyết lần đầu nhưng còn khiếu nại.",
+        "C. Đối với quyết định hành chính của mình đã giải quyết lần đầu nhưng còn khiếu nại.",
+        "D. Đối với quyết định hành chính của Chủ tịch UBND cấp xã đã giải quyết lần đầu nhưng còn khiếu nại."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Giám đốc sở là cấp trên trực tiếp của Thủ trưởng cơ quan thuộc sở. Căn cứ: Khoản 2, Điều 20 Luật Khiếu nại.",
+      "topic": "Thẩm quyền giải quyết khiếu nại"
+    },
+    {
+      "id": 15,
+      "question": "Theo Luật Khiếu nại, ngoài việc giải quyết khiếu nại lần đầu và lần hai, Chủ tịch Ủy ban nhân dân cấp tỉnh còn có thẩm quyền gì?",
+      "options": [
+        "A. Giải quyết tranh chấp về thẩm quyền giải quyết khiếu nại giữa các cơ quan, đơn vị thuộc phạm vi quản lý của mình.",
+        "B. Giải quyết tranh chấp về thẩm quyền giải quyết khiếu nại giữa UBND cấp huyện và một cơ quan thuộc Bộ.",
+        "C. Ban hành văn bản hướng dẫn nghiệp vụ giải quyết khiếu nại cho toàn tỉnh.",
+        "D. Đình chỉ việc giải quyết khiếu nại của Giám đốc sở nếu thấy không cần thiết."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là thẩm quyền đặc thù của Chủ tịch UBND cấp tỉnh. Căn cứ: Khoản 3, Điều 21 Luật Khiếu nại.",
+      "topic": "Thẩm quyền giải quyết khiếu nại"
+    },
+    {
+      "id": 16,
+      "question": "Theo Luật Khiếu nại, đâu là định nghĩa đúng về \"Khiếu nại\"?",
+      "options": [
+        "A. Là việc công dân, cơ quan, tổ chức đề nghị cơ quan có thẩm quyền xem xét lại quyết định hành chính khi có căn cứ cho rằng quyết định đó là trái pháp luật.",
+        "B. Là việc công dân, cơ quan, tổ chức đề nghị cơ quan có thẩm quyền xem xét lại hành vi hành chính.",
+        "C. Là việc công dân, cơ quan, tổ chức hoặc cán bộ, công chức đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền xem xét lại quyết định hành chính, hành vi hành chính hoặc quyết định kỷ luật khi có căn cứ cho rằng quyết định hoặc hành vi đó là trái pháp luật, xâm phạm quyền, lợi ích hợp pháp của mình.",
+        "D. Là việc cán bộ, công chức đề nghị cơ quan có thẩm quyền xem xét lại quyết định kỷ luật."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Đây là định nghĩa đầy đủ và chính xác nhất theo quy định. Căn cứ Khoản 1, Điều 2 Luật Khiếu nại.",
+      "topic": "Giải thích từ ngữ"
+    },
+    {
+      "id": 17,
+      "question": "Theo Luật Khiếu nại, \"Hành vi hành chính\" được định nghĩa như thế nào?",
+      "options": [
+        "A. Là hành vi của cơ quan hành chính nhà nước thực hiện nhiệm vụ theo quy định.",
+        "B. Là hành vi của người có thẩm quyền trong cơ quan hành chính nhà nước không thực hiện nhiệm vụ.",
+        "C. Là hành vi của cơ quan hành chính nhà nước, của người có thẩm quyền trong cơ quan hành chính nhà nước thực hiện hoặc không thực hiện nhiệm vụ, công vụ theo quy định của pháp luật.",
+        "D. Là hành vi của cán bộ, công chức khi thi hành công vụ."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Định nghĩa bao gồm cả việc 'thực hiện' và 'không thực hiện' nhiệm vụ. Căn cứ Khoản 9, Điều 2 Luật Khiếu nại.",
+      "topic": "Giải thích từ ngữ"
+    },
+    {
+      "id": 18,
+      "question": "Theo Luật Khiếu nại, việc khiếu nại và giải quyết khiếu nại phải bảo đảm các nguyên tắc nào?",
+      "options": [
+        "A. Thống nhất, phối hợp, công khai, kịp thời.",
+        "B. Công bằng, công khai, thống nhất, kịp thời.",
+        "C. Khách quan, công khai, dân chủ, kịp thời.",
+        "D. Thống nhất, công khai, dân chủ, kịp thời."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Căn cứ Điều 4 Luật Khiếu nại quy định về nguyên tắc khiếu nại và giải quyết khiếu nại.",
+      "topic": "Nguyên tắc khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 19,
+      "question": "Theo Luật Khiếu nại, nội dung nào sau đây là đúng về trách nhiệm của cơ quan, tổ chức trong việc giải quyết khiếu nại?",
+      "options": [
+        "A. Cơ quan, tổ chức, cá nhân trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình có trách nhiệm tiếp nhận, giải quyết kịp thời, đúng pháp luật các khiếu nại, xử lý nghiêm minh người vi phạm.",
+        "B. Chỉ cơ quan thanh tra nhà nước mới có trách nhiệm tiếp nhận, giải quyết khiếu nại.",
+        "C. Cơ quan hữu quan không có trách nhiệm phải phối hợp trong việc giải quyết khiếu nại.",
+        "D. Việc kiểm tra lại quyết định hành chính chỉ được thực hiện khi có yêu cầu của cấp trên."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là trách nhiệm chung được quy định tại Khoản 1, Điều 5 Luật Khiếu nại.",
+      "topic": "Trách nhiệm giải quyết khiếu nại và phối hợp giải quyết khiếu nại"
+    },
+    {
+      "id": 20,
+      "question": "Theo Luật Khiếu nại, Nhà nước có khuyến khích việc gì trước khi cơ quan có thẩm quyền giải quyết tranh chấp?",
+      "options": [
+        "A. Khuyến khích việc hòa giải tranh chấp giữa các cơ quan, tổ chức, cá nhân.",
+        "B. Khuyến khích việc khởi kiện ra tòa án.",
+        "C. Khuyến khích việc gửi đơn khiếu nại đến nhiều cấp.",
+        "D. Khuyến khích việc thỏa thuận bồi thường để kết thúc tranh chấp."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Luật Khiếu nại nêu rõ việc Nhà nước khuyến khích hòa giải. Căn cứ: Điều 5 Luật Khiếu nại.",
+      "topic": "Trách nhiệm giải quyết khiếu nại và phối hợp giải quyết khiếu nại"
+    },
+    {
+      "id": 21,
+      "question": "Theo Luật Khiếu nại, đâu là một trong những hành vi bị nghiêm cấm?",
+      "options": [
+        "A. Cố tình khiếu nại sai sự thật.",
+        "B. Ủy quyền cho người khác khiếu nại.",
+        "C. Rút đơn khiếu nại trong quá trình giải quyết.",
+        "D. Khởi kiện vụ án hành chính tại Tòa án."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Cố tình khiếu nại sai sự thật bị nghiêm cấm theo Khoản 5, Điều 6 Luật Khiếu nại.",
+      "topic": "Các hành vi bị nghiêm cấm"
+    },
+    {
+      "id": 22,
+      "question": "Theo Luật Khiếu nại, hành vi nào sau đây không bị nghiêm cấm?",
+      "options": [
+        "A. Thiếu trách nhiệm trong việc giải quyết khiếu nại.",
+        "B. Bao che cho người bị khiếu nại.",
+        "C. Ra quyết định giải quyết khiếu nại bằng hình thức văn bản.",
+        "D. Kích động, xúi giục người khác tập trung đông người khiếu nại."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Ra quyết định bằng văn bản là hình thức bắt buộc, không phải hành vi bị cấm. Căn cứ Điều 6 Luật Khiếu nại.",
+      "topic": "Các hành vi bị nghiêm cấm"
+    },
+    {
+      "id": 23,
+      "question": "Theo Luật Khiếu nại, khi không đồng ý với quyết định giải quyết khiếu nại lần đầu, người khiếu nại có quyền gì?",
+      "options": [
+        "A. Khiếu nại lần hai đến Thủ trưởng cấp trên trực tiếp của người giải quyết lần đầu hoặc khởi kiện vụ án hành chính tại Tòa án.",
+        "B. Chỉ được quyền khiếu nại lần hai.",
+        "C. Chỉ được quyền khởi kiện vụ án hành chính.",
+        "D. Phải chấp hành ngay quyết định và không có quyền khiếu nại tiếp."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Luật quy định người khiếu nại có hai sự lựa chọn. Căn cứ: Khoản 1, Điều 7 Luật Khiếu nại.",
+      "topic": "Trình tự khiếu nại"
+    },
+    {
+      "id": 24,
+      "question": "Theo Luật Khiếu nại, trình tự khiếu nại đối với quyết định hành chính của Chủ tịch UBND cấp tỉnh được quy định như thế nào?",
+      "options": [
+        "A. Khiếu nại lần đầu đến Chủ tịch UBND cấp tỉnh, lần hai đến Bộ trưởng quản lý ngành, lĩnh vực.",
+        "B. Khiếu nại lần đầu đến Giám đốc Sở, lần hai đến Chủ tịch UBND cấp tỉnh.",
+        "C. Khiếu nại lần đầu đến Chủ tịch UBND cấp tỉnh, lần hai đến Thủ tướng Chính phủ.",
+        "D. Khiếu nại lần đầu đến Chủ tịch UBND cấp tỉnh, lần hai đến Tổng Thanh tra Chính phủ."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là trình tự đặc thù theo Khoản 3, Điều 7 Luật Khiếu nại.",
+      "topic": "Trình tự khiếu nại"
+    },
+    {
+      "id": 25,
+      "question": "Theo Luật Khiếu nại, khiếu nại có thể được thực hiện bằng những hình thức nào?",
+      "options": [
+        "A. Bằng đơn khiếu nại hoặc khiếu nại trực tiếp.",
+        "B. Chỉ bằng đơn khiếu nại.",
+        "C. Bằng đơn khiếu nại, trực tiếp hoặc qua điện thoại.",
+        "D. Bằng đơn khiếu nại, trực tiếp hoặc qua phương tiện thông tin."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Luật quy định hai hình thức chính thức tại Khoản 1, Điều 8 Luật Khiếu nại.",
+      "topic": "Hình thức khiếu nại"
+    },
+    {
+      "id": 26,
+      "question": "Theo Luật Khiếu nại, nội dung nào sau đây là bắt buộc phải có trong đơn khiếu nại?",
+      "options": [
+        "A. Ngày, tháng, năm; tên, địa chỉ người khiếu nại; tên, địa chỉ cơ quan bị khiếu nại; nội dung, lý do; yêu cầu và chữ ký hoặc điểm chỉ.",
+        "B. Ngày, tháng, năm; nội dung khiếu nại nhưng không bắt buộc có chữ ký.",
+        "C. Tên, địa chỉ người khiếu nại; nội dung khiếu nại và yêu cầu giải quyết.",
+        "D. Ngày, tháng, năm; nội dung, lý do khiếu nại và yêu cầu giải quyết."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là các nội dung bắt buộc theo Khoản 2, Điều 8 Luật Khiếu nại.",
+      "topic": "Hình thức khiếu nại"
+    },
+    {
+      "id": 27,
+      "question": "Theo Luật Khiếu nại, thời hiệu khiếu nại đối với quyết định hành chính là bao nhiêu ngày?",
+      "options": [
+        "A. 90 ngày.",
+        "B. 60 ngày.",
+        "C. 45 ngày.",
+        "D. 30 ngày."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Luật quy định rõ thời hiệu là 90 ngày tại Điều 9 Luật Khiếu nại.",
+      "topic": "Thời hiệu khiếu nại"
+    },
+    {
+      "id": 28,
+      "question": "Điền từ vào chỗ trống: “_______ là văn bản ban hành để quyết định về một vấn đề cụ thể được áp dụng một lần đối với một hoặc một số đối tượng cụ thể.”",
+      "options": [
+        "A. Quyết định hành chính.",
+        "B. Quyết định kỷ luật.",
+        "C. Quyết định giải quyết khiếu nại.",
+        "D. Quyết định thụ lý."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Căn cứ theo định nghĩa tại Khoản 8, Điều 2 Luật Khiếu nại.",
+      "topic": "Giải thích từ ngữ"
+    },
+    {
+      "id": 29,
+      "question": "Theo Luật Khiếu nại, người khiếu nại có thể rút khiếu nại vào thời điểm nào?",
+      "options": [
+        "A. Tại bất cứ thời điểm nào trong quá trình khiếu nại và giải quyết khiếu nại.",
+        "B. Chỉ trước khi có quyết định giải quyết.",
+        "C. Chỉ trong thời hạn 10 ngày.",
+        "D. Chỉ sau khi đã đối thoại."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Luật cho phép rút khiếu nại bất cứ lúc nào. Căn cứ: Điều 10 Luật Khiếu nại.",
+      "topic": "Rút khiếu nại"
+    },
+    {
+      "id": 30,
+      "question": "Theo Luật Khiếu nại, trường hợp nào sau đây khiếu nại không được thụ lý giải quyết?",
+      "options": [
+        "A. Quyết định hành chính bị khiếu nại không liên quan trực tiếp đến quyền, lợi ích hợp pháp của người khiếu nại.",
+        "B. Người khiếu nại không đồng ý với quyết định giải quyết.",
+        "C. Người khiếu nại ủy quyền cho luật sư.",
+        "D. Người khiếu nại cung cấp thêm chứng cứ mới."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là căn cứ không thụ lý theo Khoản 2, Điều 11 Luật Khiếu nại.",
+      "topic": "Thụ lý khiếu nại"
+    },
+    {
+      "id": 31,
+      "question": "Theo Luật Khiếu nại, Thủ trưởng cơ quan thuộc bộ có thẩm quyền giải quyết khiếu nại đối với đối tượng nào?",
+      "options": [
+        "A. Quyết định hành chính, hành vi hành chính của mình, của cán bộ, công chức do mình quản lý trực tiếp.",
+        "B. Quyết định hành chính của Bộ trưởng.",
+        "C. Quyết định hành chính của Giám đốc sở.",
+        "D. Quyết định hành chính của Chủ tịch UBND cấp tỉnh."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Thẩm quyền được giới hạn trong phạm vi quản lý trực tiếp. Căn cứ: Điều 22 Luật Khiếu nại.",
+      "topic": "Thẩm quyền giải quyết khiếu nại"
+    },
+    {
+      "id": 32,
+      "question": "Theo Luật Khiếu nại, Bộ trưởng giải quyết khiếu nại lần hai trong trường hợp nào sau đây?",
+      "options": [
+        "A. Đối với quyết định hành chính của Chủ tịch UBND cấp huyện.",
+        "B. Đối với quyết định hành chính của Chủ tịch UBND cấp tỉnh có nội dung thuộc thẩm quyền quản lý nhà nước của bộ đã giải quyết lần đầu nhưng còn khiếu nại.",
+        "C. Đối với quyết định hành chính của một Bộ trưởng khác.",
+        "D. Đối với quyết định hành chính của mình."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Đây là thẩm quyền giải quyết lần hai theo Khoản 3, Điều 23 Luật Khiếu nại.",
+      "topic": "Thẩm quyền giải quyết khiếu nại"
+    },
+    {
+      "id": 33,
+      "question": "Theo Luật Khiếu nại, Tổng Thanh tra Chính phủ có thẩm quyền nào sau đây?",
+      "options": [
+        "A. Giúp Thủ tướng Chính phủ theo dõi, kiểm tra, đôn đốc các cơ quan trong việc tiếp công dân, giải quyết khiếu nại.",
+        "B. Trực tiếp giải quyết khiếu nại lần hai đối với quyết định của Bộ trưởng.",
+        "C. Ra quyết định giải quyết cuối cùng cho mọi vụ việc.",
+        "D. Chỉ đạo công tác giải quyết khiếu nại của các bộ."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Luật quy định vai trò giúp Thủ tướng tại Khoản 1, Điều 24 Luật Khiếu nại.",
+      "topic": "Thẩm quyền giải quyết khiếu nại"
+    },
+    {
+      "id": 34,
+      "question": "Theo Luật Khiếu nại, Chánh thanh tra các cấp có thẩm quyền gì?",
+      "options": [
+        "A. Thay mặt thủ trưởng để đối thoại.",
+        "B. Trực tiếp ra quyết định giải quyết khiếu nại.",
+        "C. Giải quyết tranh chấp thẩm quyền giữa các cơ quan.",
+        "D. Giúp thủ trưởng tiến hành kiểm tra, xác minh, kết luận, kiến nghị việc giải quyết khiếu nại khi được giao."
+      ],
+      "correct": 3,
+      "rationale": "Chọn đáp án D. Bởi: Chánh thanh tra có vai trò tham mưu. Căn cứ: Khoản 1, Điều 25 Luật Khiếu nại.",
+      "topic": "Thẩm quyền giải quyết khiếu nại"
+    },
+    {
+      "id": 35,
+      "question": "Theo Luật Khiếu nại, Thủ tướng Chính phủ có thẩm quyền nào sau đây?",
+      "options": [
+        "A. Giải quyết khiếu nại lần hai đối với quyết định của Bộ trưởng.",
+        "B. Chỉ đạo, xử lý tranh chấp về thẩm quyền giải quyết khiếu nại giữa các bộ hoặc giữa UBND cấp tỉnh.",
+        "C. Trực tiếp giải quyết các vụ việc khiếu nại đông người.",
+        "D. Ra quyết định giải quyết khiếu nại cuối cùng."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Đây là thẩm quyền của Thủ tướng theo Khoản 3, Điều 26 Luật Khiếu nại.",
+      "topic": "Thẩm quyền giải quyết khiếu nại"
+    },
+    {
+      "id": 36,
+      "question": "Theo Luật Khiếu nại, trong thời hạn bao nhiêu ngày kể từ ngày nhận được khiếu nại thuộc thẩm quyền, người có thẩm quyền phải thụ lý?",
+      "options": [
+        "A. 15 ngày.",
+        "B. 07 ngày.",
+        "C. 10 ngày.",
+        "D. 03 ngày làm việc."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Đây là thời hạn thụ lý vụ việc theo Điều 27 Luật Khiếu nại.",
+      "topic": "Thụ lý khiếu nại"
+    },
+    {
+      "id": 37,
+      "question": "Theo Luật Khiếu nại, thời hạn giải quyết khiếu nại lần đầu là bao lâu đối với vụ việc phức tạp?",
+      "options": [
+        "A. Không quá 30 ngày.",
+        "B. Không quá 45 ngày.",
+        "C. Không quá 60 ngày.",
+        "D. Không quá 70 ngày."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Luật cho phép kéo dài đến 45 ngày cho vụ việc phức tạp. Căn cứ: Điều 28 Luật Khiếu nại.",
+      "topic": "Thời hạn giải quyết khiếu nại"
+    },
+    {
+      "id": 38,
+      "question": "Theo Luật Khiếu nại, thời hạn giải quyết khiếu nại lần đầu ở vùng sâu, vùng xa là bao lâu?",
+      "options": [
+        "A. Không quá 30 ngày.",
+        "B. Không quá 45 ngày.",
+        "C. Không quá 60 ngày.",
+        "D. Không quá 90 ngày."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Thời hạn vùng sâu, vùng xa là 45 ngày (phức tạp là 60 ngày). Căn cứ: Điều 28 Luật Khiếu nại.",
+      "topic": "Thời hạn giải quyết khiếu nại"
+    },
+    {
+      "id": 39,
+      "question": "Theo Luật Khiếu nại, người giải quyết khiếu nại lần đầu phải làm gì nếu nội dung khiếu nại là đúng?",
+      "options": [
+        "A. Tổ chức đối thoại.",
+        "B. Giao cơ quan thanh tra xác minh lại.",
+        "C. Kiểm tra lại quyết định của mình và ra quyết định giải quyết ngay.",
+        "D. Chờ hết thời hạn mới giải quyết."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Đây là trách nhiệm giải quyết nhanh chóng theo Điểm a, Khoản 1, Điều 29 Luật Khiếu nại.",
+      "topic": "Xác minh nội dung khiếu nại"
+    },
+    {
+      "id": 40,
+      "question": "Theo Luật Khiếu nại, đâu không phải là quyền của người có trách nhiệm xác minh nội dung khiếu nại?",
+      "options": [
+        "A. Ra quyết định xử phạt vi phạm hành chính.",
+        "B. Yêu cầu cung cấp thông tin, chứng cứ.",
+        "C. Triệu tập người khiếu nại, người bị khiếu nại.",
+        "D. Trưng cầu giám định."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Người xác minh không có thẩm quyền xử phạt hành chính. Căn cứ: Khoản 3, Điều 29 Luật Khiếu nại.",
+      "topic": "Xác minh nội dung khiếu nại"
+    },
+    {
+      "id": 41,
+      "question": "Theo Luật Khiếu nại, báo cáo kết quả xác minh nội dung khiếu nại phải có bao nhiêu nội dung?",
+      "options": [
+        "A. 4 nội dung.",
+        "B. 5 nội dung.",
+        "C. 6 nội dung.",
+        "D. 7 nội dung."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Luật quy định rõ 6 nội dung tại Khoản 4, Điều 29 Luật Khiếu nại.",
+      "topic": "Xác minh nội dung khiếu nại"
+    },
+    {
+      "id": 42,
+      "question": "Theo Luật Khiếu nại, người giải quyết khiếu nại lần đầu tổ chức đối thoại trong trường hợp nào?",
+      "options": [
+        "A. Trong mọi trường hợp.",
+        "B. Khi yêu cầu của người khiếu nại và kết quả xác minh còn khác nhau.",
+        "C. Chỉ khi người khiếu nại có đơn yêu cầu.",
+        "D. Khi người bị khiếu nại không đồng ý."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Đối thoại để làm rõ những điểm mâu thuẫn. Căn cứ: Khoản 1, Điều 30 Luật Khiếu nại.",
+      "topic": "Đối thoại"
+    },
+    {
+      "id": 43,
+      "question": "Theo Luật Khiếu nại, nội dung nào không bắt buộc có trong quyết định giải quyết khiếu nại lần đầu?",
+      "options": [
+        "A. Kết luận nội dung và quyền khiếu nại lần hai.",
+        "B. Ngày, tháng, năm; tên, địa chỉ các bên.",
+        "C. Kết quả xác minh và kết quả đối thoại.",
+        "D. Ý kiến của Hội đồng tư vấn."
+      ],
+      "correct": 3,
+      "rationale": "Chọn đáp án D. Bởi: Hội đồng tư vấn áp dụng cho lần hai, không phải lần đầu. Căn cứ: Điều 31 và Điều 36 Luật Khiếu nại.",
+      "topic": "Quyết định giải quyết khiếu nại lần đầu"
+    },
+    {
+      "id": 44,
+      "question": "Trong thời hạn bao lâu kể từ ngày có quyết định, người giải quyết lần đầu phải gửi quyết định cho các bên liên quan?",
+      "options": [
+        "A. 05 ngày làm việc.",
+        "B. 03 ngày làm việc.",
+        "C. 07 ngày làm việc.",
+        "D. 10 ngày làm việc."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Luật quy định thời hạn 03 ngày làm việc tại Điều 32 Luật Khiếu nại.",
+      "topic": "Gửi quyết định giải quyết khiếu nại lần đầu"
+    },
+    {
+      "id": 45,
+      "question": "Theo Luật Khiếu nại, thời hạn khiếu nại lần hai là bao lâu kể từ khi nhận được quyết định giải quyết lần đầu?",
+      "options": [
+        "A. 45 ngày.",
+        "B. 30 ngày.",
+        "C. 60 ngày.",
+        "D. 90 ngày."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Đây là thời hiệu khiếu nại lần hai. Căn cứ: Khoản 1, Điều 33 Luật Khiếu nại.",
+      "topic": "Khiếu nại lần hai"
+    },
+    {
+      "id": 46,
+      "question": "Theo Luật Khiếu nại, hồ sơ giải quyết khiếu nại bao gồm những tài liệu nào?",
+      "options": [
+        "A. Đơn khiếu nại, tài liệu các bên cung cấp, biên bản xác minh, biên bản đối thoại, quyết định giải quyết.",
+        "B. Chỉ đơn khiếu nại và quyết định.",
+        "C. Đơn khiếu nại và ý kiến báo chí.",
+        "D. Kết luận xác minh và quyết định."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là những thành phần cơ bản quy định tại Khoản 1, Điều 34 Luật Khiếu nại.",
+      "topic": "Hồ sơ giải quyết khiếu nại"
+    },
+    {
+      "id": 47,
+      "question": "Người giải quyết khiếu nại ra quyết định tạm đình chỉ việc thi hành quyết định bị khiếu nại khi nào?",
+      "options": [
+        "A. Ngay khi nhận đơn.",
+        "B. Khi xét thấy việc thi hành sẽ gây hậu quả khó khắc phục.",
+        "C. Khi có yêu cầu của người bị khiếu nại.",
+        "D. Khi vụ việc phức tạp."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Để ngăn chặn thiệt hại không thể hồi phục. Căn cứ: Điều 35 Luật Khiếu nại.",
+      "topic": "Tạm đình chỉ việc thi hành quyết định hành chính bị khiếu nại"
+    },
+    {
+      "id": 48,
+      "question": "Thời hạn tạm đình chỉ việc thi hành quyết định bị khiếu nại được quy định thế nào?",
+      "options": [
+        "A. Tối đa là 30 ngày.",
+        "B. Không vượt quá thời gian còn lại của thời hạn giải quyết.",
+        "C. Cho đến khi có quyết định cuối cùng.",
+        "D. Không quá 15 ngày."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Căn cứ quy định tại Điều 35 Luật Khiếu nại.",
+      "topic": "Tạm đình chỉ việc thi hành quyết định hành chính bị khiếu nại"
+    },
+    {
+      "id": 49,
+      "question": "Người giải quyết khiếu nại lần hai có thể thành lập Hội đồng tư vấn trong trường hợp nào?",
+      "options": [
+        "A. Khi có luật sư tham gia.",
+        "B. Mọi vụ việc lần hai.",
+        "C. Khi người khiếu nại yêu cầu.",
+        "D. Đối với vụ việc khiếu nại phức tạp, nếu thấy cần thiết."
+      ],
+      "correct": 3,
+      "rationale": "Chọn đáp án D. Bởi: Hội đồng tư vấn hỗ trợ vụ việc khó. Căn cứ: Khoản 2, Điều 36 Luật Khiếu nại.",
+      "topic": "Thủ tục giải quyết khiếu nại lần hai"
+    },
+    {
+      "id": 50,
+      "question": "Thời hạn giải quyết khiếu nại lần hai không quá bao nhiêu ngày đối với vụ việc thông thường?",
+      "options": [
+        "A. 30 ngày.",
+        "B. 45 ngày.",
+        "C. 60 ngày.",
+        "D. 70 ngày."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Thời hạn quy định tại Điều 37 Luật Khiếu nại là không quá 45 ngày.",
+      "topic": "Thời hạn giải quyết khiếu nại lần hai"
+    }
+  ]
+},
+{
+  "id": "TH_KHIEUNAI_DE_02",
+  "title": "Đề 02: Luật khiếu nại năm 2011 (đã sửa đổi, bổ sung)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo Luật Khiếu nại, thời hạn giải quyết khiếu nại lần hai đối với vụ việc phức tạp ở vùng sâu, vùng xa đi lại khó khăn là bao lâu?",
+      "options": [
+        "A. Không quá 60 ngày, kể từ ngày thụ lý.",
+        "B. Không quá 70 ngày, kể từ ngày thụ lý.",
+        "C. Không quá 90 ngày, kể từ ngày thụ lý.",
+        "D. Không quá 45 ngày, kể từ ngày thụ lý."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Đây là thời hạn tối đa được quy định cho những trường hợp đặc biệt khó khăn và phức tạp. Căn cứ: Điều 37 Luật Khiếu nại.",
+      "topic": "Thời hạn giải quyết khiếu nại"
+    },
+    {
+      "id": 2,
+      "question": "Theo Luật Khiếu nại, nội dung nào sau đây là điểm khác biệt trong quyết định giải quyết khiếu nại lần hai so với lần đầu?",
+      "options": [
+        "A. Phải có nội dung về kết quả giải quyết khiếu nại của người giải quyết khiếu nại lần đầu.",
+        "B. Phải có ngày, tháng, năm ra quyết định.",
+        "C. Phải có căn cứ pháp luật để giải quyết khiếu nại.",
+        "D. Phải có nội dung về việc bồi thường thiệt hại (nếu có)."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Quyết định giải quyết lần hai phải xem xét lại toàn bộ quá trình giải quyết trước đó, bao gồm cả kết quả giải quyết lần đầu. Căn cứ: Điểm d, Khoản 2, Điều 40 và Điều 31 Luật Khiếu nại.",
+      "topic": "Quyết định giải quyết khiếu nại"
+    },
+    {
+      "id": 3,
+      "question": "Theo Luật Khiếu nại, người giải quyết khiếu nại lần hai phải gửi quyết định giải quyết trong thời hạn bao lâu kể từ ngày ban hành?",
+      "options": [
+        "A. 02 ngày.",
+        "B. 03 ngày.",
+        "C. 07 ngày.",
+        "D. 15 ngày."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Luật quy định thời hạn 07 ngày để gửi quyết định giải quyết lần hai. Căn cứ: Khoản 1, Điều 41 Luật Khiếu nại.",
+      "topic": "Gửi, công khai quyết định giải quyết khiếu nại"
+    },
+    {
+      "id": 4,
+      "question": "Theo Luật Khiếu nại, đâu không phải là hình thức công khai quyết định giải quyết khiếu nại lần hai?",
+      "options": [
+        "A. Niêm yết tại trụ sở làm việc hoặc nơi tiếp công dân của cơ quan đã giải quyết khiếu nại.",
+        "B. Công bố tại cuộc họp cơ quan, tổ chức nơi người bị khiếu nại công tác.",
+        "C. Gửi văn bản đến từng hộ dân trong khu vực có liên quan.",
+        "D. Thông báo trên phương tiện thông tin đại chúng."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Luật không quy định hình thức công khai bằng cách gửi văn bản đến từng hộ dân. Căn cứ: Khoản 2, Điều 41 Luật Khiếu nại.",
+      "topic": "Gửi, công khai quyết định giải quyết khiếu nại"
+    },
+    {
+      "id": 5,
+      "question": "Theo Luật Khiếu nại, người khiếu nại có quyền khởi kiện vụ án hành chính tại Tòa án khi nào?",
+      "options": [
+        "A. Ngay sau khi nộp đơn khiếu nại lần đầu.",
+        "B. Khi hết thời hạn giải quyết khiếu nại lần hai mà khiếu nại không được giải quyết hoặc không đồng ý với quyết định giải quyết lần hai.",
+        "C. Chỉ khi có sự đồng ý của người giải quyết khiếu nại lần hai.",
+        "D. Sau khi quyết định giải quyết khiếu nại lần hai có hiệu lực pháp luật."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Đây là thời điểm pháp luật cho phép người khiếu nại chuyển sang thủ tục tố tụng hành chính. Căn cứ: Điều 42 Luật Khiếu nại.",
+      "topic": "Khởi kiện vụ án hành chính"
+    },
+    {
+      "id": 6,
+      "question": "Theo Luật Khiếu nại, quyết định giải quyết khiếu nại lần đầu có hiệu lực pháp luật sau bao lâu kể từ ngày ban hành mà người khiếu nại không khiếu nại lần hai?",
+      "options": [
+        "A. 15 ngày.",
+        "B. 45 ngày.",
+        "C. 30 ngày.",
+        "D. Ngay sau khi ban hành."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Luật quy định một khoảng thời gian chờ để người khiếu nại thực hiện quyền khiếu nại lần hai. Căn cứ: Khoản 1, Điều 44 Luật Khiếu nại.",
+      "topic": "Hiệu lực của quyết định giải quyết khiếu nại"
+    },
+    {
+      "id": 7,
+      "question": "Theo Luật Khiếu nại, quyết định giải quyết khiếu nại lần hai có hiệu lực pháp luật khi nào ở vùng sâu, vùng xa?",
+      "options": [
+        "A. Sau 30 ngày, kể từ ngày ban hành.",
+        "B. Sau 45 ngày, kể từ ngày ban hành.",
+        "C. Sau 60 ngày, kể từ ngày ban hành.",
+        "D. Có hiệu lực ngay sau khi ban hành."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Luật quy định thời hạn có hiệu lực pháp luật dài hơn cho các khu vực đi lại khó khăn. Căn cứ: Khoản 2, Điều 44 Luật Khiếu nại.",
+      "topic": "Hiệu lực của quyết định giải quyết khiếu nại"
+    },
+    {
+      "id": 8,
+      "question": "Theo Luật Khiếu nại, đâu không phải là người có trách nhiệm thực hiện quyết định giải quyết khiếu nại có hiệu lực pháp luật?",
+      "options": [
+        "A. Người có quyền, nghĩa vụ liên quan.",
+        "B. Người giải quyết khiếu nại.",
+        "C. Người khiếu nại và người bị khiếu nại.",
+        "D. Cơ quan báo chí đưa tin về vụ việc."
+      ],
+      "correct": 3,
+      "rationale": "Chọn đáp án D. Bởi: Cơ quan báo chí không phải là chủ thể có trách nhiệm thi hành quyết định giải quyết khiếu nại. Căn cứ: Điều 45 Luật Khiếu nại.",
+      "topic": "Thi hành quyết định giải quyết khiếu nại"
+    },
+    {
+      "id": 9,
+      "question": "Theo Luật Khiếu nại, người giải quyết khiếu nại có trách nhiệm gì trong việc thi hành quyết định giải quyết khiếu nại có hiệu lực pháp luật?",
+      "options": [
+        "A. Chỉ đạo cơ quan, tổ chức, cá nhân thuộc quyền quản lý tổ chức thi hành.",
+        "B. Trực tiếp bồi thường thiệt hại cho người khiếu nại bằng kinh phí cá nhân.",
+        "C. Yêu cầu Tòa án ra quyết định buộc thi hành.",
+        "D. Đề nghị cơ quan công an áp dụng biện pháp cưỡng chế ngay khi quyết định có hiệu lực."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là trách nhiệm quản lý, chỉ đạo của người giải quyết khiếu nại để đảm bảo quyết định được thực thi. Căn cứ: Khoản 1, Điều 46 Luật Khiếu nại.",
+      "topic": "Thi hành quyết định giải quyết khiếu nại"
+    },
+    {
+      "id": 10,
+      "question": "Theo Luật Khiếu nại, \"Khiếu nại quyết định kỷ luật\" được hiểu như thế nào?",
+      "options": [
+        "A. Là việc cán bộ, công chức theo thủ tục quy định đề nghị cơ quan có thẩm quyền xem xét lại quyết định kỷ luật khi có căn cứ cho rằng quyết định đó là trái pháp luật, xâm phạm quyền, lợi ích hợp pháp của mình.",
+        "B. Là việc công dân đề nghị cơ quan có thẩm quyền xem xét lại quyết định kỷ luật đối với một cán bộ, công chức.",
+        "C. Là việc cán bộ, công chức đề nghị Tòa án xem xét lại quyết định kỷ luật đối với mình.",
+        "D. Là việc cán bộ, công chức đề nghị cơ quan thanh tra xem xét lại quyết định kỷ luật của người đứng đầu cơ quan."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là định nghĩa chính xác, nêu rõ chủ thể, đối tượng và căn cứ của việc khiếu nại quyết định kỷ luật. Căn cứ: Điều 47 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 11,
+      "question": "Theo Luật Khiếu nại, thời hiệu khiếu nại lần đầu đối với quyết định kỷ luật cán bộ, công chức là bao nhiêu ngày?",
+      "options": [
+        "A. 10 ngày, kể từ ngày cán bộ, công chức nhận được quyết định kỷ luật.",
+        "B. 15 ngày, kể từ ngày cán bộ, công chức nhận được quyết định kỷ luật.",
+        "C. 30 ngày, kể từ ngày cán bộ, công chức nhận được quyết định kỷ luật.",
+        "D. 45 ngày, kể từ ngày cán bộ, công chức nhận được quyết định kỷ luật."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Thời hiệu khiếu nại quyết định kỷ luật ngắn hơn so với khiếu nại quyết định hành chính. Căn cứ: Điều 48 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 12,
+      "question": "Theo Luật Khiếu nại, thời hiệu khiếu nại lần hai đối với quyết định kỷ luật buộc thôi việc là bao lâu?",
+      "options": [
+        "A. 10 ngày, kể từ ngày nhận được quyết định giải quyết khiếu nại lần đầu.",
+        "B. 15 ngày, kể từ ngày nhận được quyết định giải quyết khiếu nại lần đầu.",
+        "C. 20 ngày, kể từ ngày nhận được quyết định giải quyết khiếu nại lần đầu.",
+        "D. 30 ngày, kể từ ngày nhận được quyết định giải quyết khiếu nại lần đầu."
+      ],
+      "correct": 3,
+      "rationale": "Chọn đáp án D. Bởi: Luật có quy định riêng về thời hiệu khiếu nại lần hai đối với hình thức kỷ luật cao nhất là buộc thôi việc. Căn cứ: Điều 48 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 13,
+      "question": "Theo Luật Khiếu nại, hình thức khiếu nại quyết định kỷ luật được quy định như thế nào?",
+      "options": [
+        "A. Có thể thực hiện bằng đơn hoặc khiếu nại trực tiếp.",
+        "B. Phải được thực hiện bằng đơn.",
+        "C. Chỉ cần khiếu nại trực tiếp với người ra quyết định kỷ luật.",
+        "D. Có thể thực hiện bằng đơn, trực tiếp hoặc qua điện thoại."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Khác với khiếu nại hành chính, khiếu nại quyết định kỷ luật bắt buộc phải bằng hình thức đơn. Căn cứ: Điều 49 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 14,
+      "question": "Theo Luật Khiếu nại, thời hạn giải quyết khiếu nại quyết định kỷ luật là bao lâu đối với vụ việc thông thường?",
+      "options": [
+        "A. Không quá 20 ngày, kể từ ngày thụ lý.",
+        "B. Không quá 45 ngày, kể từ ngày thụ lý.",
+        "C. Không quá 30 ngày, kể từ ngày thụ lý.",
+        "D. Không quá 60 ngày, kể từ ngày thụ lý."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Đây là thời hạn giải quyết chung cho cả lần đầu và lần hai đối với vụ việc thông thường. Căn cứ: Điều 50 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 15,
+      "question": "Theo Luật Khiếu nại, ai có thẩm quyền giải quyết khiếu nại lần hai đối với quyết định kỷ luật?",
+      "options": [
+        "A. Tòa án hành chính cấp tỉnh.",
+        "B. Người đã giải quyết khiếu nại lần đầu.",
+        "C. Bộ trưởng Bộ Nội vụ trong mọi trường hợp.",
+        "D. Người đứng đầu cơ quan, tổ chức cấp trên trực tiếp của cơ quan, tổ chức quản lý cán bộ, công chức."
+      ],
+      "correct": 3,
+      "rationale": "Chọn đáp án D. Bởi: Thẩm quyền giải quyết lần hai thuộc về cấp trên trực tiếp của người giải quyết lần đầu. Căn cứ: Khoản 2, Điều 51 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 16,
+      "question": "Theo Luật Khiếu nại, Bộ trưởng Bộ Nội vụ có thẩm quyền giải quyết khiếu nại quyết định kỷ luật trong trường hợp nào?",
+      "options": [
+        "A. Đối với quyết định kỷ luật mà Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch UBND cấp tỉnh đã giải quyết lần đầu nhưng còn khiếu nại.",
+        "B. Đối với mọi quyết định kỷ luật mà người khiếu nại không đồng ý với kết quả giải quyết lần hai.",
+        "C. Đối với quyết định kỷ luật của cán bộ, công chức do Thủ tướng Chính phủ quản lý.",
+        "D. Đối với quyết định kỷ luật đã được giải quyết lần hai nhưng người khiếu nại vẫn tiếp tục khiếu nại."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là thẩm quyền đặc thù của Bộ trưởng Bộ Nội vụ với vai trò là cơ quan quản lý nhà nước về cán bộ, công chức. Căn cứ: Khoản 3, Điều 51 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 17,
+      "question": "Theo Luật Khiếu nại, trong quá trình giải quyết khiếu nại quyết định kỷ luật, sau khi có kết quả xác minh, kết luận những nội dung khiếu nại chưa được xác định rõ, người có thẩm quyền giải quyết khiếu nại phải làm gì?",
+      "options": [
+        "A. Tổ chức đối thoại ngay với người khiếu nại.",
+        "B. Ra ngay quyết định giải quyết khiếu nại dựa trên kết quả xác minh.",
+        "C. Yêu cầu Hội đồng kỷ luật cán bộ, công chức xem xét để đề nghị người có thẩm quyền giải quyết khiếu nại.",
+        "D. Gửi kết quả xác minh cho cơ quan cấp trên để xin ý kiến chỉ đạo."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Hội đồng kỷ luật có vai trò tư vấn, đề nghị hướng giải quyết cho người có thẩm quyền. Căn cứ: Khoản 2, Điều 52 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 18,
+      "question": "Theo Luật Khiếu nại, quyết định giải quyết khiếu nại quyết định kỷ luật lần đầu phải có nội dung nào sau đây?",
+      "options": [
+        "A. Quyền khiếu nại lần hai hoặc quyền khởi kiện vụ án hành chính tại Tòa án đối với quyết định kỷ luật buộc thôi việc.",
+        "B. Quyền khởi kiện vụ án hành chính đối với tất cả các hình thức kỷ luật.",
+        "C. Ý kiến của người đứng đầu cơ quan cấp trên trực tiếp.",
+        "D. Kết luận về trách nhiệm của Hội đồng kỷ luật."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Quyết định giải quyết phải chỉ rõ hướng xử lý tiếp theo cho người khiếu nại. Căn cứ: Điểm k, Khoản 1, Điều 54 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 19,
+      "question": "Theo Luật Khiếu nại, khi giải quyết khiếu nại quyết định kỷ luật lần hai, người có thẩm quyền phải làm gì?",
+      "options": [
+        "A. Ra quyết định giữ nguyên quyết định giải quyết lần đầu trong mọi trường hợp.",
+        "B. Không cần xác minh lại nội dung khiếu nại mà chỉ dựa vào hồ sơ giải quyết lần đầu.",
+        "C. Chỉ tổ chức đối thoại nếu người khiếu nại yêu cầu.",
+        "D. Yêu cầu người ban hành quyết định kỷ luật báo cáo việc xem xét kỷ luật và giải quyết khiếu nại lần đầu."
+      ],
+      "correct": 3,
+      "rationale": "Chọn đáp án D. Bởi: Đây là bước cần thiết để người giải quyết lần hai có cái nhìn toàn diện về quá trình trước đó. Căn cứ: Khoản 1, Điều 55 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 20,
+      "question": "Theo Luật Khiếu nại, thành phần tham gia đối thoại khi giải quyết khiếu nại kỷ luật lần hai gồm những ai?",
+      "options": [
+        "A. Người khiếu nại, người bị khiếu nại, và luật sư của hai bên.",
+        "B. Người khiếu nại, người có trách nhiệm xác minh nội dung khiếu nại, người bị khiếu nại.",
+        "C. Người giải quyết khiếu nại, người khiếu nại, và đại diện công đoàn cơ quan.",
+        "D. Người khiếu nại, người bị khiếu nại, và đại diện Hội đồng kỷ luật."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Luật quy định 3 thành phần chính tham gia đối thoại lần hai do người có thẩm quyền chủ trì. Căn cứ: Khoản 3, Điều 55 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 21,
+      "question": "Theo Luật Khiếu nại, quyết định giải quyết khiếu nại kỷ luật lần hai của Chủ tịch Ủy ban nhân dân cấp tỉnh phải được gửi cho những cơ quan nào ở trung ương?",
+      "options": [
+        "A. Tổng Thanh tra Chính phủ và Bộ trưởng Bộ Nội vụ.",
+        "B. Thủ tướng Chính phủ và Chánh án Tòa án nhân dân tối cao.",
+        "C. Văn phòng Chính phủ và Ban Tổ chức Trung ương.",
+        "D. Thanh tra Chính phủ và Viện kiểm sát nhân dân tối cao."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Việc gửi cho hai cơ quan này nhằm mục đích quản lý nhà nước. Căn cứ: Khoản 2, Điều 56 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 22,
+      "question": "Theo Luật Khiếu nại, quyết định giải quyết khiếu nại quyết định kỷ luật lần hai có hiệu lực pháp luật sau bao lâu kể từ ngày ban hành?",
+      "options": [
+        "A. 15 ngày.",
+        "B. 30 ngày.",
+        "C. 45 ngày.",
+        "D. Có hiệu lực ngay."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Đây là khoảng thời gian chờ để các bên chuẩn bị thi hành và được quy định thống nhất. Căn cứ: Điểm b, Khoản 1, Điều 57 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 23,
+      "question": "Theo Luật Khiếu nại, đối tượng công chức nào bị kỷ luật buộc thôi việc có quyền khởi kiện vụ án hành chính tại Tòa án?",
+      "options": [
+        "A. Công chức giữ chức vụ từ Thứ trưởng và tương đương trở lên.",
+        "B. Mọi cán bộ, công chức bị kỷ luật buộc thôi việc.",
+        "C. Chỉ công chức không giữ chức vụ lãnh đạo, quản lý.",
+        "D. Công chức giữ chức vụ từ Tổng Cục trưởng và tương đương trở xuống."
+      ],
+      "correct": 3,
+      "rationale": "Chọn đáp án D. Bởi: Luật giới hạn phạm vi đối tượng công chức được quyền khởi kiện quyết định kỷ luật buộc thôi việc. Căn cứ: Khoản 3, Điều 57 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 24,
+      "question": "Theo Luật Khiếu nại, khi đến trụ sở tiếp công dân, người khiếu nại có nghĩa vụ gì?",
+      "options": [
+        "A. Xuất trình giấy tờ tùy thân, tuân thủ quy chế tiếp công dân.",
+        "B. Phải có luật sư đi cùng để trình bày sự việc.",
+        "C. Chỉ được trình bày những thông tin có lợi cho mình.",
+        "D. Phải nộp một khoản phí tiếp công dân theo quy định."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là những nghĩa vụ cơ bản để đảm bảo trật tự, kỷ cương tại nơi tiếp công dân. Căn cứ: Khoản 1, Điều 60 Luật Khiếu nại.",
+      "topic": "Tiếp công dân"
+    },
+    {
+      "id": 25,
+      "question": "Theo Luật Khiếu nại, người khiếu nại có quyền nào sau đây tại trụ sở tiếp công dân?",
+      "options": [
+        "A. Được từ chối ký hoặc điểm chỉ vào biên bản nếu không đồng ý.",
+        "B. Yêu cầu người tiếp công dân phải giải quyết ngay lập tức vụ việc của mình.",
+        "C. Được khiếu nại, tố cáo về những hành vi sai trái, cản trở, gây phiền hà của người tiếp công dân.",
+        "D. Yêu cầu được gặp trực tiếp người đứng đầu cơ quan trong mọi trường hợp."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Đây là quyền giám sát của công dân đối với cán bộ thi hành công vụ. Căn cứ: Khoản 5, Điều 60 Luật Khiếu nại.",
+      "topic": "Tiếp công dân"
+    },
+    {
+      "id": 26,
+      "question": "Theo Luật Khiếu nại, Chánh Thanh tra các cấp có trách nhiệm tổ chức tiếp công dân như thế nào?",
+      "options": [
+        "A. Mỗi tháng ít nhất hai ngày.",
+        "B. Mỗi tuần ít nhất một ngày.",
+        "C. Mỗi tháng ít nhất một ngày.",
+        "D. Thường xuyên"
+      ],
+      "correct": 3,
+      "rationale": "Chọn đáp án D. Căn cứ: Điểm khoản 3, Điều 61 Luật Khiếu nại.",
+      "topic": "Tiếp công dân"
+    },
+    {
+      "id": 27,
+      "question": "Theo Luật Khiếu nại, Chủ tịch Ủy ban nhân dân cấp tỉnh phải trực tiếp tiếp công dân định kỳ như thế nào?",
+      "options": [
+        "A. Mỗi tháng ít nhất một ngày.",
+        "B. Mỗi tháng ít nhất hai ngày.",
+        "C. Mỗi tuần ít nhất một ngày.",
+        "D. Mỗi quý ít nhất một ngày."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Luật quy định tần suất tiếp công dân định kỳ của từng cấp lãnh đạo. Căn cứ: Điểm c, Khoản 1, Điều 61 Luật Khiếu nại.",
+      "topic": "Tiếp công dân"
+    },
+    {
+      "id": 28,
+      "question": "Theo Luật Khiếu nại, ngoài việc tiếp công dân định kỳ, người đứng đầu cơ quan, tổ chức phải tiếp công dân khi nào?",
+      "options": [
+        "A. Khi có trên 5 người cùng khiếu nại một nội dung.",
+        "B. Khi có yêu cầu cấp thiết.",
+        "C. Khi có chỉ đạo của cơ quan cấp trên.",
+        "D. Khi vụ việc được báo chí phản ánh."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Luật quy định về việc tiếp công dân đột xuất đối với những trường hợp cấp bách. Căn cứ: Khoản 5, Điều 61 Luật Khiếu nại.",
+      "topic": "Tiếp công dân"
+    },
+    {
+      "id": 29,
+      "question": "Theo Luật Khiếu nại, cán bộ tiếp công dân có quyền từ chối tiếp trong trường hợp nào?",
+      "options": [
+        "A. Người khiếu nại không có hộ khẩu thường trú tại địa phương.",
+        "B. Người đến khiếu nại về vụ việc đã được giải quyết đúng pháp luật và đã được trả lời đầy đủ.",
+        "C. Người khiếu nại là người cao tuổi, sức khỏe yếu.",
+        "D. Người khiếu nại không đồng ý với hướng dẫn của cán bộ tiếp công dân."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Việc từ chối tiếp trong trường hợp này nhằm tránh việc khiếu nại tràn lan. Căn cứ: Điểm a, Khoản 3, Điều 62 Luật Khiếu nại.",
+      "topic": "Tiếp công dân"
+    },
+    {
+      "id": 30,
+      "question": "Theo Luật Khiếu nại, cơ quan nào chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về công tác giải quyết khiếu nại trong phạm vi cả nước?",
+      "options": [
+        "A. Thanh tra Chính phủ.",
+        "B. Văn phòng Chính phủ.",
+        "C. Bộ Tư pháp.",
+        "D. Bộ Nội vụ."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Thanh tra Chính phủ là cơ quan chuyên môn giúp Chính phủ quản lý nhà nước. Căn cứ: Khoản 1, Điều 63 Luật Khiếu nại.",
+      "topic": "Quản lý nhà nước về công tác giải quyết khiếu nại"
+    },
+    {
+      "id": 31,
+      "question": "Theo Luật Khiếu nại, cơ quan nào giúp thủ trưởng cơ quan quản lý nhà nước cùng cấp quản lý công tác giải quyết khiếu nại?",
+      "options": [
+        "A. Văn phòng của cơ quan quản lý nhà nước cùng cấp.",
+        "B. Thanh tra bộ, cơ quan ngang bộ, thanh tra tỉnh, thành phố trực thuộc trung ương.",
+        "C. Phòng pháp chế của cơ quan quản lý nhà nước cùng cấp.",
+        "D. Ban tiếp công dân của cơ quan quản lý nhà nước cùng cấp."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Các cơ quan thanh tra có chức năng tham mưu. Căn cứ: Khoản 3, Điều 63 Luật Khiếu nại.",
+      "topic": "Quản lý nhà nước về công tác giải quyết khiếu nại"
+    },
+    {
+      "id": 32,
+      "question": "Theo Luật Khiếu nại, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao có trách nhiệm báo cáo định kỳ về công tác giải quyết khiếu nại cho cơ quan nào?",
+      "options": [
+        "A. Báo cáo cho Ban Chấp hành Trung ương Đảng.",
+        "B. Chỉ báo cáo cho Quốc hội tại kỳ họp cuối năm.",
+        "C. Quốc hội, Ủy ban Thường vụ Quốc hội, Chủ tịch nước.",
+        "D. Chỉ báo cáo cho Chủ tịch nước."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Đây là cơ chế báo cáo, giám sát của các cơ quan quyền lực nhà nước cao nhất. Căn cứ: Khoản 2, Điều 65 Luật Khiếu nại.",
+      "topic": "Quản lý nhà nước về công tác giải quyết khiếu nại"
+    },
+    {
+      "id": 33,
+      "question": "Theo Luật Khiếu nại, nội dung nào sau đây là đúng về nguyên tắc khiếu nại và giải quyết khiếu nại?",
+      "options": [
+        "A. Việc khiếu nại và giải quyết khiếu nại phải được thực hiện theo quy định của pháp luật; bảo đảm khách quan, công khai, dân chủ và kịp thời.",
+        "B. Việc khiếu nại và giải quyết khiếu nại phải ưu tiên bảo vệ lợi ích của cơ quan nhà nước, bảo đảm khách quan, kịp thời.",
+        "C. Việc khiếu nại và giải quyết khiếu nại có thể không cần tuân thủ quy định pháp luật trong trường hợp đặc biệt, nhưng phải bảo đảm dân chủ, công bằng.",
+        "D. Việc khiếu nại và giải quyết khiếu nại phải được thực hiện theo chỉ đạo của cấp trên, bảo đảm nhanh chóng, dứt điểm."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là nội dung đầy đủ và chính xác về các nguyên tắc cơ bản. Căn cứ: Điều 4 Luật Khiếu nại.",
+      "topic": "Nguyên tắc khiếu nại và giải quyết khiếu nại"
+    },
+    {
+      "id": 34,
+      "question": "Theo Luật Khiếu nại, điền từ còn thiếu vào chỗ trống sau: “Cản trở, gây phiền hà cho người thực hiện quyền khiếu nại; ______,________,________ người khiếu nại.”",
+      "options": [
+        "A. xúc phạm, làm khó, gây áp lực",
+        "B. làm sai lệch, che giấu, xúc phạm",
+        "C. hạn chế, kiểm soát, can thiệp",
+        "D. đe dọa, trả thù, trù dập"
+      ],
+      "correct": 3,
+      "rationale": "Chọn đáp án D. Bởi: Căn cứ: Khoản 1, Điều 6 Luật Khiếu nại.",
+      "topic": "Các hành vi bị nghiêm cấm"
+    },
+    {
+      "id": 35,
+      "question": "Theo Luật Khiếu nại, khi nhiều người cùng khiếu nại về một nội dung bằng đơn, yêu cầu đối với đơn khiếu nại là gì?",
+      "options": [
+        "A. Trong đơn phải có chữ ký của những người khiếu nại và phải cử người đại diện.",
+        "B. Mỗi người phải làm một đơn riêng có nội dung giống nhau.",
+        "C. Chỉ cần chữ ký của người đại diện, không cần chữ ký của những người khác.",
+        "D. Đơn phải được công chứng hoặc chứng thực chữ ký của tất cả người khiếu nại."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là yêu cầu để đảm bảo tính xác thực. Căn cứ: Điểm b, Khoản 4, Điều 8 Luật Khiếu nại.",
+      "topic": "Hình thức khiếu nại"
+    },
+    {
+      "id": 36,
+      "question": "Theo Luật Khiếu nại, trường hợp khiếu nại đã có quyết định giải quyết khiếu nại lần hai thì có được thụ lý giải quyết lại không?",
+      "options": [
+        "A. Vẫn được thụ lý nếu người khiếu nại cung cấp được tình tiết mới.",
+        "B. Không được thụ lý giải quyết.",
+        "C. Được thụ lý giải quyết bởi cơ quan cấp trên của người giải quyết lần hai.",
+        "D. Được thụ lý nếu có chỉ đạo của Thủ tướng Chính phủ."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Quyết định lần hai là quyết định cuối cùng trong thủ tục hành chính. Căn cứ: Khoản 7, Điều 11 Luật Khiếu nại.",
+      "topic": "Các trường hợp khiếu nại không được thụ lý giải quyết"
+    },
+    {
+      "id": 37,
+      "question": "Theo Luật Khiếu nại, người khiếu nại có quyền yêu cầu cá nhân, cơ quan đang lưu giữ thông tin liên quan đến nội dung khiếu nại cung cấp cho mình trong thời hạn bao lâu?",
+      "options": [
+        "A. 05 ngày, kể từ ngày có yêu cầu.",
+        "B. 07 ngày, kể từ ngày có yêu cầu.",
+        "C. 15 ngày, kể từ ngày có yêu cầu.",
+        "D. Ngay lập tức khi có yêu cầu."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Luật quy định thời hạn cụ thể 07 ngày. Căn cứ: Điểm đ, Khoản 1, Điều 12 Luật Khiếu nại.",
+      "topic": "Quyền và nghĩa vụ của người khiếu nại"
+    },
+    {
+      "id": 38,
+      "question": "Theo Luật Khiếu nại, nghĩa vụ nào sau đây không phải của người bị khiếu nại?",
+      "options": [
+        "A. Tham gia đối thoại hoặc ủy quyền cho người đại diện hợp pháp tham gia đối thoại.",
+        "B. Báo cáo kết quả xác minh cho người khiếu nại.",
+        "C. Chấp hành nghiêm chỉnh quyết định giải quyết khiếu nại đã có hiệu lực pháp luật.",
+        "D. Bồi thường, bồi hoàn thiệt hại do quyết định hành chính, hành vi hành chính trái pháp luật của mình gây ra."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Báo cáo kết quả xác minh là nghĩa vụ của người xác minh đối với người giải quyết. Căn cứ: Điều 13 và Khoản 3, Điều 29 Luật Khiếu nại.",
+      "topic": "Quyền và nghĩa vụ của người bị khiếu nại"
+    },
+    {
+      "id": 39,
+      "question": "Theo Luật Khiếu nại, khi thụ lý giải quyết khiếu nại, người giải quyết khiếu nại lần đầu phải thông báo bằng văn bản cho những đối tượng nào?",
+      "options": [
+        "A. Người khiếu nại, cơ quan có thẩm quyền chuyển khiếu nại đến và cơ quan thanh tra nhà nước cùng cấp.",
+        "B. Chỉ thông báo cho người khiếu nại.",
+        "C. Người khiếu nại và người bị khiếu nại.",
+        "D. Người khiếu nại và thủ trưởng cơ quan cấp trên trực tiếp."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Việc thông báo nhằm đảm bảo tính công khai và phối hợp. Căn cứ: Điều 27 Luật Khiếu nại.",
+      "topic": "Trình tự giải quyết khiếu nại lần đầu"
+    },
+    {
+      "id": 40,
+      "question": "Theo Luật Khiếu nại, nội dung nào sau đây là đúng về biên bản đối thoại?",
+      "options": [
+        "A. Biên bản đối thoại là tài liệu mật, không được lưu vào hồ sơ vụ việc.",
+        "B. Chỉ cần ghi kết quả cuối cùng của buổi đối thoại và có chữ ký của người chủ trì.",
+        "C. Phải ghi rõ ý kiến của những người tham gia, kết quả đối thoại, có chữ ký hoặc điểm chỉ của người tham gia.",
+        "D. Nếu người tham gia không ký, biên bản không có giá trị pháp lý."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Đây là yêu cầu về hình thức và nội dung của biên bản. Căn cứ: Khoản 4, Điều 30 Luật Khiếu nại.",
+      "topic": "Trình tự giải quyết khiếu nại lần đầu"
+    },
+    {
+      "id": 41,
+      "question": "Theo Luật Khiếu nại, khi khiếu nại lần hai, người khiếu nại phải gửi kèm tài liệu gì cùng với đơn?",
+      "options": [
+        "A. Quyết định giải quyết khiếu nại lần đầu và các tài liệu có liên quan.",
+        "B. Bản tường trình chi tiết toàn bộ sự việc từ đầu.",
+        "C. Sơ yếu lý lịch có xác nhận của chính quyền địa phương.",
+        "D. Bằng chứng về việc người giải quyết lần đầu có hành vi tiêu cực."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Việc cung cấp quyết định giải quyết lần đầu là cơ sở để thụ lý. Căn cứ: Khoản 1, Điều 33 Luật Khiếu nại.",
+      "topic": "Trình tự khiếu nại lần hai"
+    },
+    {
+      "id": 42,
+      "question": "Theo Luật Khiếu nại, trong trường hợp nào thì phải hủy bỏ ngay quyết định tạm đình chỉ việc thi hành quyết định hành chính?",
+      "options": [
+        "A. Khi người bị khiếu nại đã khắc phục một phần hậu quả.",
+        "B. Khi người khiếu nại có đơn xin hủy bỏ.",
+        "C. Khi hết thời hạn giải quyết khiếu nại.",
+        "D. Khi xét thấy lý do của việc tạm đình chỉ không còn"
+      ],
+      "correct": 3,
+      "rationale": "Chọn đáp án D. Bởi: Việc duy trì hay hủy bỏ phải dựa trên căn cứ ban hành. Căn cứ: Điều 35 Luật Khiếu nại.",
+      "topic": "Tạm đình chỉ việc thi hành quyết định hành chính bị khiếu nại"
+    },
+    {
+      "id": 43,
+      "question": "Theo Luật Khiếu nại, kết luận nội dung khiếu nại trong quyết định giải quyết khiếu nại lần hai có thể là gì?",
+      "options": [
+        "A. Chỉ có thể là khiếu nại đúng hoặc khiếu nại sai.",
+        "B. Khiếu nại là đúng, đúng một phần hoặc sai toàn bộ.",
+        "C. Chuyển hồ sơ sang cơ quan điều tra nếu có dấu hiệu tội phạm.",
+        "D. Yêu cầu người khiếu nại và người bị khiếu nại tự hòa giải."
+      ],
+      "correct": 1,
+      "rationale": "Chọn đáp án B. Bởi: Đây là các kết luận phản ánh đúng bản chất sau xác minh. Căn cứ: Điểm h, Khoản 2, Điều 40 Luật Khiếu nại.",
+      "topic": "Quyết định giải quyết khiếu nại lần hai"
+    },
+    {
+      "id": 44,
+      "question": "Theo Luật Khiếu nại, quyết định giải quyết khiếu nại có hiệu lực pháp luật có hiệu lực thi hành khi nào?",
+      "options": [
+        "A. Sau khi được công bố công khai.",
+        "B. Sau 10 ngày kể từ ngày có hiệu lực pháp luật.",
+        "C. Thi hành ngay.",
+        "D. Khi người phải thi hành nhận được quyết định."
+      ],
+      "correct": 2,
+      "rationale": "Chọn đáp án C. Bởi: Luật quy định rõ hiệu lực thi hành ngay. Căn cứ: Khoản 4, Điều 44 Luật Khiếu nại.",
+      "topic": "Hiệu lực của quyết định giải quyết khiếu nại"
+    },
+    {
+      "id": 45,
+      "question": "Theo Luật Khiếu nại, trách nhiệm của người khiếu nại khi quyết định giải quyết khiếu nại có hiệu lực pháp luật là gì?",
+      "options": [
+        "A. Cộng tác với cơ quan có thẩm quyền trong việc khôi phục quyền, lợi ích hợp pháp của mình.",
+        "B. Yêu cầu bồi thường thêm các khoản thiệt hại không có trong quyết định.",
+        "C. Có quyền tiếp tục khiếu nại lên cấp cao hơn.",
+        "D. Không cần thực hiện nghĩa vụ gì nếu không đồng ý với quyết định."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là trách nhiệm để việc thi hành được thuận lợi. Căn cứ: Điểm a, Khoản 2, Điều 46 Luật Khiếu nại.",
+      "topic": "Thi hành quyết định giải quyết khiếu nại"
+    },
+    {
+      "id": 46,
+      "question": "Theo Luật Khiếu nại, thời hiệu khiếu nại lần hai đối với quyết định kỷ luật (trừ hình thức buộc thôi việc) là bao lâu?",
+      "options": [
+        "A. 10 ngày, kể từ ngày nhận được quyết định giải quyết khiếu nại lần đầu.",
+        "B. 15 ngày, kể từ ngày nhận được quyết định giải quyết khiếu nại lần đầu.",
+        "C. 30 ngày, kể từ ngày nhận được quyết định giải quyết khiếu nại lần đầu.",
+        "D. 07 ngày, kể từ ngày nhận được quyết định giải quyết khiếu nại lần đầu."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Luật quy định thời hiệu 10 ngày cho các hình thức thông thường. Căn cứ: Điều 48 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 47,
+      "question": "Theo Luật Khiếu nại, đơn khiếu nại quyết định kỷ luật lần đầu phải được gửi đến đâu?",
+      "options": [
+        "A. Người đã ra quyết định kỷ luật.",
+        "B. Cơ quan cấp trên trực tiếp của người đã ra quyết định kỷ luật.",
+        "C. Cơ quan thanh tra cùng cấp.",
+        "D. Tòa án nhân dân cấp huyện nơi cơ quan đặt trụ sở."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Khiếu nại lần đầu được gửi đến chính người ra quyết định. Căn cứ: Điều 49 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 48,
+      "question": "Theo Luật Khiếu nại, trong thời hạn bao lâu kể từ ngày nhận đơn khiếu nại quyết định kỷ luật, người có thẩm quyền phải thụ lý để giải quyết?",
+      "options": [
+        "A. 10 ngày.",
+        "B. 15 ngày.",
+        "C. 07 ngày.",
+        "D. 05 ngày làm việc."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đây là thời hạn thụ lý chung đối với quyết định kỷ luật. Căn cứ: Điều 50 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 49,
+      "question": "Theo Luật Khiếu nại, ai có thẩm quyền giải quyết khiếu nại lần đầu đối với quyết định kỷ luật?",
+      "options": [
+        "A. Người đứng đầu cơ quan, tổ chức có thẩm quyền quản lý cán bộ, công chức theo phân cấp đã ban hành quyết định đó.",
+        "B. Hội đồng kỷ luật của cơ quan, tổ chức.",
+        "C. Cơ quan thanh tra của cơ quan, tổ chức.",
+        "D. Người đứng đầu cơ quan cấp trên trực tiếp."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Người ra quyết định có thẩm quyền giải quyết lần đầu. Căn cứ: Khoản 1, Điều 51 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    },
+    {
+      "id": 50,
+      "question": "Theo Luật Khiếu nại, việc tổ chức đối thoại khi giải quyết khiếu nại quyết định kỷ luật được quy định như thế nào?",
+      "options": [
+        "A. Người có thẩm quyền giải quyết khiếu nại, trước khi ra quyết định giải quyết phải tổ chức đối thoại.",
+        "B. Chỉ tổ chức đối thoại khi nội dung khiếu nại và kết quả xác minh còn khác nhau.",
+        "C. Việc tổ chức đối thoại là không bắt buộc.",
+        "D. Chỉ tổ chức đối thoại khi người khiếu nại có đơn yêu cầu."
+      ],
+      "correct": 0,
+      "rationale": "Chọn đáp án A. Bởi: Đối với quyết định kỷ luật, đối thoại là thủ tục bắt buộc. Căn cứ: Khoản 1, Điều 53 Luật Khiếu nại.",
+      "topic": "Khiếu nại quyết định kỷ luật"
+    }
+  ]
 }
 ]
