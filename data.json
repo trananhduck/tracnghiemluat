@@ -34516,6 +34516,1972 @@
       "topic": "Thừa kế"
     }
   ]
+},
+{
+  "id": "TTDS_DE_01",
+  "title": "Đề 01: Bộ luật Tố tụng dân sự năm 2015 (đã sửa đổi, bổ sung)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), nội dung nào sau đây là đúng khi nói về việc Tòa án giải quyết vụ việc dân sự trong trường hợp chưa có điều luật để áp dụng?",
+      "options": [
+        "A. Tòa án được quyền từ chối giải quyết nếu tại thời điểm phát sinh chưa có điều luật cụ thể để áp dụng.",
+        "B. Tòa án không được từ chối giải quyết vụ việc dân sự vì lý do chưa có điều luật để áp dụng.",
+        "C. Tòa án chỉ thụ lý giải quyết sau khi đã xin ý kiến hướng dẫn của Tòa án nhân dân tối cao.",
+        "D. Tòa án yêu cầu các bên đương sự tự thỏa thuận, nếu không thỏa thuận được mới xem xét giải quyết."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 4 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung) quy định: 'Tòa án không được từ chối giải quyết vụ việc dân sự vì lý do chưa có điều luật để áp dụng.'",
+      "topic": "Nguyên tắc cơ bản"
+    },
+    {
+      "id": 2,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), đâu là phạm vi giải quyết của Tòa án đối với vụ việc dân sự?",
+      "options": [
+        "A. Tòa án giải quyết tất cả các vấn đề liên quan đến đương sự dù họ có yêu cầu hay không.",
+        "B. Tòa án chỉ giải quyết trong phạm vi đơn khởi kiện, đơn yêu cầu của đương sự.",
+        "C. Tòa án giải quyết mở rộng hơn phạm vi đơn khởi kiện nếu thấy cần thiết để bảo vệ lợi ích Nhà nước.",
+        "D. Tòa án chỉ giải quyết các vấn đề mà các bên đương sự không thể tự thỏa thuận được với nhau."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 5 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung) quy định: 'Tòa án chỉ thụ lý giải quyết vụ việc dân sự khi có đơn khởi kiện, đơn yêu cầu của đương sự và chỉ giải quyết trong phạm vi đơn khởi kiện, đơn yêu cầu đó.'",
+      "topic": "Nguyên tắc cơ bản"
+    },
+    {
+      "id": 3,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), nội dung nào sau đây là đúng về nghĩa vụ chứng minh của đương sự?",
+      "options": [
+        "A. Đương sự chỉ có quyền thu thập chứng cứ, việc cung cấp cho Tòa án là không bắt buộc.",
+        "B. Đương sự có quyền và nghĩa vụ chủ động thu thập, giao nộp chứng cứ cho Tòa án và chứng minh cho yêu cầu của mình.",
+        "C. Tòa án có nghĩa vụ thay mặt đương sự thu thập toàn bộ chứng cứ trong mọi vụ án dân sự.",
+        "D. Đương sự không có nghĩa vụ chứng minh nếu đối phương không có ý kiến phản đối."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 6 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung) quy định: 'Đương sự có quyền và nghĩa vụ chủ động thu thập, giao nộp chứng cứ cho Tòa án và chứng minh cho yêu cầu của mình là có căn cứ và hợp pháp.'",
+      "topic": "Chứng cứ và chứng minh"
+    },
+    {
+      "id": 4,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), khi có yêu cầu của đương sự, Tòa án hoặc Viện kiểm sát, cơ quan đang lưu giữ tài liệu, chứng cứ phải có trách nhiệm gì?",
+      "options": [
+        "A. Cung cấp đầy đủ và đúng thời hạn cho người yêu cầu trong mọi trường hợp mà không cần nêu lý do.",
+        "B. Chỉ cung cấp nếu được sự đồng ý của cấp trên trực tiếp quản lý cơ quan đó.",
+        "C. Cung cấp đầy đủ, đúng thời hạn; trường hợp không cung cấp được thì phải thông báo bằng văn bản và nêu rõ lý do.",
+        "D. Có quyền từ chối cung cấp nếu thấy tài liệu đó ảnh hưởng đến hoạt động nội bộ của cơ quan."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 7 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung) quy định trách nhiệm cung cấp tài liệu, chứng cứ của cơ quan, tổ chức, cá nhân.",
+      "topic": "Chứng cứ và chứng minh"
+    },
+    {
+      "id": 5,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), yếu tố nào sau đây không thuộc các tiêu chí được bảo đảm bình đẳng trong tố tụng dân sự?",
+      "options": [
+        "A. Thành phần xã hội, nghề nghiệp, địa vị xã hội.",
+        "B. Dân tộc, giới tính, tín ngưỡng, tôn giáo.",
+        "C. Trình độ văn hoá, quan điểm chính trị của đương sự.",
+        "D. Điều kiện kinh tế và khả năng tài chính của các bên đương sự."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích Chọn đáp án D. Bởi: Căn cứ Khoản 1 Điều 8 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung) liệt kê các tiêu chí bình đẳng nhưng không bao gồm điều kiện kinh tế và khả năng tài chính.",
+      "topic": "Nguyên tắc cơ bản"
+    },
+    {
+      "id": 6,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Nhà nước có trách nhiệm gì để bảo đảm quyền bảo vệ quyền và lợi ích hợp pháp của đương sự?",
+      "options": [
+        "A. Cử luật sư chỉ định cho tất cả các đương sự tham gia tố tụng dân sự.",
+        "B. Bảo đảm trợ giúp pháp lý cho các đối tượng theo quy định của pháp luật.",
+        "C. Miễn toàn bộ án phí và lệ phí cho đương sự khi họ có yêu cầu bảo vệ quyền lợi.",
+        "D. Trực tiếp thu thập toàn bộ chứng cứ thay cho đương sự để bảo đảm công bằng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 3 Điều 9 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung) quy định trách nhiệm của Nhà nước trong việc bảo đảm trợ giúp pháp lý.",
+      "topic": "Nguyên tắc cơ bản"
+    },
+    {
+      "id": 7,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Tòa án có trách nhiệm gì đối với việc thỏa thuận của các đương sự?",
+      "options": [
+        "A. Trong trường hợp các đương sự không đạt được thỏa thuận trong thời hạn luật định, Tòa án được quyền đưa ra phương án giải quyết thay thế.",
+        "B. Tiến hành hòa giải và tạo điều kiện thuận lợi để các đương sự thoả thuận với nhau.",
+        "C. Tòa án chỉ tiến hành hòa giải khi các đương sự đã hoàn thành đầy đủ nghĩa vụ nộp tạm ứng án phí.",
+        "D. Tòa án áp dụng các biện pháp tố tụng cần thiết để định hướng các đương sự đi đến thỏa thuận."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 10 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung) quy định Tòa án có trách nhiệm hòa giải và tạo điều kiện cho các đương sự thỏa thuận.",
+      "topic": "Hòa giải"
+    },
+    {
+      "id": 8,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), điền từ còn thiếu vào chỗ trống sau: “Cơ quan tiến hành tố tụng, người tiến hành tố tụng phải giữ ______ nhà nước, ______ công tác theo quy định của pháp luật; đồng thời bảo vệ bí mật cá nhân, bí mật gia đình của đương sự theo ______ chính đáng của họ.”",
+      "options": [
+        "A. Bí mật, bí mật, yêu cầu",
+        "B. Bí mật, bí mật, đề nghị",
+        "C. Bí mật, bí mật, nguyện vọng",
+        "D. Bí mật, bí mật, thỏa thuận"
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Khoản 3 Điều 13 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Bảo đảm bí mật"
+    },
+    {
+      "id": 9,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), trường hợp người tiến hành tố tụng có hành vi trái pháp luật gây thiệt hại thì ai có trách nhiệm bồi thường cho người bị thiệt hại?",
+      "options": [
+        "A. Cá nhân người tiến hành tố tụng đó phải tự bồi thường bằng tài sản riêng.",
+        "B. Cơ quan trực tiếp quản lý người thi hành công vụ có hành vi trái pháp luật đó.",
+        "C. Tòa án nhân dân tối cao bồi thường trong mọi trường hợp sai sót tố tụng.",
+        "D. Ngân sách nhà nước chi trả trực tiếp thông qua Bộ Tài chính."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 5 Điều 13 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung) quy định về trách nhiệm bồi thường của Nhà nước.",
+      "topic": "Trách nhiệm bồi thường"
+    },
+    {
+      "id": 10,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Tòa án xét xử vụ án dân sự theo nguyên tắc nào về số lượng người tham gia quyết định?",
+      "options": [
+        "A. Tòa án xét xử theo chế độ Thẩm phán chủ tọa chịu trách nhiệm chính và quyết định cuối cùng.",
+        "B. Tòa án xét xử tập thể và quyết định theo đa số, trừ trường hợp xét xử theo thủ tục rút gọn.",
+        "C. Tòa án xét xử tập thể, các thành viên Hội đồng xét xử phải thống nhất ý kiến tuyệt đối.",
+        "D. Hội đồng xét xử làm việc theo chế độ tập thể, trong đó ý kiến của Thẩm phán được ưu tiên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 14 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Nguyên tắc xét xử"
+    },
+    {
+      "id": 11,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), trường hợp nào Tòa án có thể xét xử kín?",
+      "options": [
+        "A. Khi vụ án có sự tham gia của đương sự là cơ quan nhà nước.",
+        "B. Khi cần giữ bí mật nhà nước, thuần phong mỹ tục, bảo vệ người chưa thành niên hoặc theo yêu cầu chính đáng về bí mật đời tư.",
+        "C. Khi Tòa án nhận thấy vụ án quá phức tạp và việc xét xử công khai có thể gây tranh cãi dư luận.",
+        "D. Khi các bên đương sự cùng thỏa thuận yêu cầu không công khai nội dung tranh chấp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 15 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Nguyên tắc xét xử"
+    },
+    {
+      "id": 12,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), đối tượng nào sau đây không thuộc nhóm người tiến hành tố tụng phải từ chối hoặc bị thay đổi nếu có căn cứ không vô tư, khách quan?",
+      "options": [
+        "A. Thẩm phán, Hội thẩm nhân dân, Thư ký Tòa án.",
+        "B. Kiểm sát viên, Kiểm tra viên, Thẩm tra viên Tòa án.",
+        "C. Người bảo vệ quyền và lợi ích hợp pháp của đương sự.",
+        "D. Viện trưởng Viện kiểm sát, Kiểm sát viên, Kiểm tra viên"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Người bảo vệ quyền và lợi ích hợp pháp của đương sự là người tham gia tố tụng, không phải người tiến hành tố tụng theo Điều 46.",
+      "topic": "Người tiến hành tố tụng"
+    },
+    {
+      "id": 13,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), nội dung nào sau đây là đúng về chế độ xét xử của Việt Nam?",
+      "options": [
+        "A. Việt Nam thực hiện chế độ xét xử ba cấp: Sơ thẩm, Phúc thẩm và Giám đốc thẩm.",
+        "B. Chế độ xét xử sơ thẩm, phúc thẩm được bảo đảm.",
+        "C. Mọi bản án sơ thẩm đều phải được xét xử phúc thẩm thì mới có hiệu lực pháp luật.",
+        "D. Tái thẩm là cấp xét xử thứ ba sau khi bản án phúc thẩm bị kháng cáo."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 17 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung). Giám đốc thẩm và Tái thẩm là thủ tục xem xét lại, không phải cấp xét xử.",
+      "topic": "Chế độ xét xử"
+    },
+    {
+      "id": 14,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), bản án, quyết định của Tòa án đã có hiệu lực pháp luật phải được thực hiện như thế nào?",
+      "options": [
+        "A. Chỉ phải thi hành trong trường hợp các đương sự có văn bản thể hiện sự tự nguyện.",
+        "B. Phải được thi hành và phải được cơ quan, tổ chức, cá nhân tôn trọng.",
+        "C. Tòa án có thể xem xét điều chỉnh nội dung bản án đã có hiệu lực khi thấy không còn phù hợp.",
+        "D. Cơ quan thi hành án dân sự được quyền tạm đình chỉ thi hành nếu thấy thiếu tính công bằng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 19 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Hiệu lực bản án"
+    },
+    {
+      "id": 15,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Tòa án có quyền hạn gì đối với cơ quan thi hành án trong việc thực hiện bản án?",
+      "options": [
+        "A. Tòa án có quyền ban hành quyết định cưỡng chế thi hành bản án thay cho cơ quan thi hành án.",
+        "B. Tòa án có quyền yêu cầu cơ quan thi hành án thông báo tiến độ, kết quả thi hành bản án.",
+        "C. Tòa án chịu trách nhiệm pháp lý đối với toàn bộ sai sót phát sinh trong quá trình tổ chức thi hành án.",
+        "D. Tòa án có thẩm quyền chỉ định hoặc thay đổi Chấp hành viên trực tiếp tổ chức thi hành án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 3 Điều 19 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Hiệu lực bản án"
+    },
+    {
+      "id": 16,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), đâu là tiếng nói và chữ viết dùng trong tố tụng dân sự?",
+      "options": [
+        "A. Tiếng Việt và tiếng dân tộc thiểu số tại địa phương.",
+        "B. Tiếng Việt là ngôn ngữ duy nhất và bắt buộc.",
+        "C. Tiếng nói và chữ viết dùng trong tố tụng dân sự là tiếng Việt.",
+        "D. Tiếng Việt và tiếng Anh đối với các vụ việc có yếu tố nước ngoài."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 20 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Ngôn ngữ trong tố tụng"
+    },
+    {
+      "id": 17,
+      "question": "Nội dung nào sau đây là đúng khi nói về quyền dùng ngôn ngữ của người khuyết tật theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Người khuyết tật nhìn có quyền dùng chữ dành riêng cho người khuyết tật và phải có người biết chữ đó để dịch lại.",
+        "B. Người khuyết tật chỉ được dùng tiếng Việt trong mọi hoạt động tố tụng tại Tòa án.",
+        "C. Người khuyết tật nghe, nói không được dùng ký hiệu riêng khi tham gia tố tụng.",
+        "D. Tòa án chỉ chấp nhận ngôn ngữ ký hiệu nếu đương sự có người đại diện đi kèm."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điều 20 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Ngôn ngữ trong tố tụng"
+    },
+    {
+      "id": 18,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Viện kiểm sát tham gia phiên tòa sơ thẩm đối với những vụ án nào sau đây?",
+      "options": [
+        "A. Tranh chấp về thừa kế tài sản có giá trị trên 1 tỷ đồng.",
+        "B. Tranh chấp về quyền sử dụng đất, nhà ở.",
+        "C. Tranh chấp về thay đổi người trực tiếp nuôi con sau khi ly hôn.",
+        "D. Tranh chấp về bồi thường thiệt hại ngoài hợp đồng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 21 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Kiểm sát việc tuân theo pháp luật"
+    },
+    {
+      "id": 19,
+      "question": "Đâu là cơ quan chủ trì phối hợp với Tòa án nhân dân tối cao hướng dẫn thi hành việc kiểm sát tuân theo pháp luật theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Bộ Tư pháp.",
+        "B. Viện kiểm sát nhân dân tối cao.",
+        "C. Ủy ban Tư pháp của Quốc hội.",
+        "D. Chính phủ."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 4 Điều 21 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Kiểm sát việc tuân theo pháp luật"
+    },
+    {
+      "id": 20,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), cơ quan nào có trách nhiệm tống đạt, chuyển giao bản án, quyết định của Tòa án?",
+      "options": [
+        "A. Chỉ duy nhất Ủy ban nhân dân cấp xã nơi đương sự cư trú.",
+        "B. Tòa án nhân dân nơi đang giải quyết vụ việc.",
+        "C. Viện kiểm sát nhân dân cùng cấp với Tòa án.",
+        "D. Cơ quan công an nơi có đối tượng cần tống đạt."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 22 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Tống đạt văn bản tố tụng"
+    },
+    {
+      "id": 21,
+      "question": "Nội dung nào sau đây là đúng khi nói về việc bảo đảm tranh tụng của đương sự theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Đương sự chỉ được quyền giao nộp tài liệu, chứng cứ kể từ thời điểm phiên tòa sơ thẩm được khai mạc.",
+        "B. Tòa án chỉ có trách nhiệm bảo đảm quyền tranh tụng trong giai đoạn xét xử phúc thẩm.",
+        "C. Đương sự có quyền thu thập, giao nộp tài liệu, chứng cứ kể từ khi Tòa án thụ lý vụ án dân sự.",
+        "D. Tất cả tài liệu, chứng cứ do các bên giao nộp đều phải được công khai, không phân biệt độ bảo mật."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 24 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Bảo đảm tranh tụng"
+    },
+    {
+      "id": 22,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), ai có quyền tố cáo những hành vi trái pháp luật của người tiến hành tố tụng?",
+      "options": [
+        "A. Chỉ đương sự trực tiếp tham gia vụ án dân sự mới có quyền tố cáo.",
+        "B. Cơ quan, tổ chức và cá nhân có quyền tố cáo các hành vi trái pháp luật.",
+        "C. Cá nhân có quyền tố cáo.",
+        "D. Pháp nhân và cá nhân đều có quyền tố cáo hành vi trái pháp luật."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 25 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung). Khiếu nại dành cho cả cơ quan, tổ chức, cá nhân; nhưng tố cáo chỉ dành cho cá nhân.",
+      "topic": "Khiếu nại, tố cáo"
+    },
+    {
+      "id": 23,
+      "question": "Đâu là tranh chấp về dân sự thuộc thẩm quyền giải quyết của Tòa án theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Tranh chấp về bồi thường thiệt hại do đình công bất hợp pháp.",
+        "B. Tranh chấp về thay đổi người trực tiếp nuôi con sau khi ly hôn.",
+        "C. Tranh chấp về giao dịch dân sự, hợp đồng dân sự.",
+        "D. Tranh chấp phát sinh trong hoạt động kinh doanh giữa các tổ chức."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 3 Điều 26 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền của Tòa án"
+    },
+    {
+      "id": 24,
+      "question": "Đâu là yêu cầu về dân sự thuộc thẩm quyền giải quyết của Tòa án theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Yêu cầu tuyên bố văn bản công chứng vô hiệu.",
+        "B. Yêu cầu hủy việc kết hôn trái pháp luật.",
+        "C. Yêu cầu hủy bỏ nghị quyết của Hội đồng thành viên doanh nghiệp.",
+        "D. Yêu cầu công nhận thuận tình ly hôn."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Khoản 6 Điều 27 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung). Các phương án còn lại thuộc nhóm hôn nhân gia đình hoặc kinh doanh thương mại.",
+      "topic": "Thẩm quyền của Tòa án"
+    },
+    {
+      "id": 25,
+      "question": "Đâu là tranh chấp về hôn nhân và gia đình thuộc thẩm quyền giải quyết của Tòa án theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Tranh chấp về quyền sở hữu trí tuệ giữa vợ và chồng nhằm mục đích lợi nhuận.",
+        "B. Tranh chấp về sinh con bằng kỹ thuật hỗ trợ sinh sản, mang thai hộ vì mục đích nhân đạo.",
+        "C. Tranh chấp về thừa kế tài sản giữa các thành viên trong gia đình.",
+        "D. Tranh chấp về hợp đồng tặng cho nhà ở giữa cha mẹ và con cái."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 6 Điều 28 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền của Tòa án"
+    },
+    {
+      "id": 26,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), yêu cầu công nhận thuận tình ly hôn, thỏa thuận nuôi con thuộc loại nào?",
+      "options": [
+        "A. Tranh chấp về hôn nhân và gia đình.",
+        "B. Tranh chấp về dân sự.",
+        "C. Yêu cầu về hôn nhân và gia đình.",
+        "D. Việc dân sự tự nguyện."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 29 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền của Tòa án"
+    },
+    {
+      "id": 27,
+      "question": "Nội dung nào sau đây là tranh chấp về kinh doanh, thương mại theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Tranh chấp giữa công ty với người quản lý trong công ty TNHH liên quan đến hoạt động của công ty.",
+        "B. Tranh chấp về học nghề, tập nghề giữa doanh nghiệp và người lao động.",
+        "C. Tranh chấp về bồi thường thiệt hại do áp dụng biện pháp ngăn chặn hành chính không đúng.",
+        "D. Tranh chấp về quyền sở hữu tài sản là phần vốn góp giữa các thành viên gia đình."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Khoản 4 Điều 30 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền của Tòa án"
+    },
+    {
+      "id": 28,
+      "question": "Đâu là yêu cầu về kinh doanh, thương mại thuộc thẩm quyền giải quyết của Tòa án theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Yêu cầu công nhận kết quả hòa giải thành ngoài Tòa án về tranh chấp hợp đồng kinh tế.",
+        "B. Yêu cầu bắt giữ tàu bay, tàu biển theo quy định của pháp luật về hàng không, hàng hải.",
+        "C. Yêu cầu tuyên bố văn bản công chứng hợp đồng thế chấp tài sản vô hiệu.",
+        "D. Yêu cầu hủy bỏ nghị quyết của Đại hội đồng cổ đông vì lý do trái đạo đức xã hội."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 3 Điều 31 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền của Tòa án"
+    },
+    {
+      "id": 29,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), tranh chấp lao động cá nhân nào sau đây không bắt buộc phải qua thủ tục hòa giải tại cơ sở?",
+      "options": [
+        "A. Tranh chấp về tiền lương hưu trí.",
+        "B. Tranh chấp về xử lý kỷ luật lao động theo hình thức sa thải.",
+        "C. Tranh chấp về thời giờ làm việc, thời giờ nghỉ ngơi.",
+        "D. Tranh chấp về trang bị bảo hộ lao động."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điểm a Khoản 1 Điều 32 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền của Tòa án"
+    },
+    {
+      "id": 30,
+      "question": "Đâu là tranh chấp liên quan đến lao động thuộc thẩm quyền của Tòa án theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Tranh chấp về quyền công đoàn, kinh phí công đoàn.",
+        "B. Tranh chấp về việc đóng thuế thu nhập cá nhân của người lao động.",
+        "C. Tranh chấp về việc phân chia lợi nhuận của chủ sở hữu doanh nghiệp.",
+        "D. Tranh chấp về giao dịch nhà ở của người lao động."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điểm c Khoản 3 Điều 32 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền của Tòa án"
+    },
+    {
+      "id": 31,
+      "question": "Nội dung nào sau đây là yêu cầu về lao động theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Yêu cầu bồi thường thiệt hại do đình công bất hợp pháp.",
+        "B. Yêu cầu xét tính hợp pháp của cuộc đình công.",
+        "C. Yêu cầu giải quyết tranh chấp về học nghề.",
+        "D. Yêu cầu thanh toán nợ lương khi doanh nghiệp phá sản."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 33 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền của Tòa án"
+    },
+    {
+      "id": 32,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Tòa án có thẩm quyền hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức khi nào?",
+      "options": [
+        "A. Khi quyết định đó ảnh hưởng đến an ninh quốc gia.",
+        "B. Khi giải quyết vụ việc dân sự mà quyết định đó xâm phạm quyền lợi hợp pháp của đương sự.",
+        "C. Khi có yêu cầu của Viện kiểm sát nhân dân tối cao.",
+        "D. Khi quyết định đó được ban hành bởi Ủy ban nhân dân cấp tỉnh trở lên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 34 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Hủy quyết định cá biệt"
+    },
+    {
+      "id": 33,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Tòa chuyên trách nào của Tòa án nhân dân khu vực giải quyết vụ việc về quyền sở hữu trí tuệ?",
+      "options": [
+        "A. Tòa Dân sự.",
+        "B. Tòa Kinh tế.",
+        "C. Tòa Sở hữu trí tuệ.",
+        "D. Tòa Gia đình và người chưa thành niên."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 3 Điều 36 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo cấp Tòa án"
+    },
+    {
+      "id": 34,
+      "question": "Nội dung nào sau đây là đúng về thẩm quyền của Tòa án nhân dân cấp tỉnh theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Giải quyết theo thủ tục sơ thẩm tất cả các vụ án lao động có yếu tố nước ngoài.",
+        "B. Giải quyết phúc thẩm vụ việc mà bản án sơ thẩm của Tòa án nhân dân khu vực bị kháng cáo.",
+        "C. Chỉ giải quyết các yêu cầu tuyên bố một người mất năng lực hành vi dân sự.",
+        "D. Giám đốc việc xét xử của Tòa án nhân dân tối cao."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1 Điều 37 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo cấp Tòa án"
+    },
+    {
+      "id": 35,
+      "question": "Tòa chuyên trách nào thuộc Tòa án nhân dân cấp tỉnh có thẩm quyền giải quyết yêu cầu hủy phán quyết trọng tài theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Tòa Dân sự.",
+        "B. Tòa Kinh tế.",
+        "C. Tòa Lao động.",
+        "D. Tòa Hành chính."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 3 Điều 38 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo cấp Tòa án"
+    },
+    {
+      "id": 36,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Tòa án nào có thẩm quyền giải quyết sơ thẩm vụ án dân sự nếu đối tượng tranh chấp là bất động sản?",
+      "options": [
+        "A. Tòa án nơi nguyên đơn cư trú hoặc làm việc.",
+        "B. Tòa án nơi bị đơn cư trú hoặc có trụ sở.",
+        "C. Chỉ Tòa án nơi có bất động sản.",
+        "D. Tòa án do hai bên đương sự thỏa thuận lựa chọn bằng văn bản."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điểm c Khoản 1 Điều 39 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo lãnh thổ"
+    },
+    {
+      "id": 37,
+      "question": "Đâu là Tòa án có thẩm quyền giải quyết yêu cầu tuyên bố một người mất tích theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Tòa án nơi người yêu cầu cư trú.",
+        "B. Tòa án nơi người bị yêu cầu tuyên bố mất tích có nơi cư trú cuối cùng.",
+        "C. Tòa án nơi có tài sản của người bị yêu cầu tuyên bố mất tích.",
+        "D. Tòa án nhân dân cấp tỉnh nơi người đó đăng ký hộ khẩu thường trú."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điểm b Khoản 2 Điều 39 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo lãnh thổ"
+    },
+    {
+      "id": 38,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Tòa án nào có thẩm quyền giải quyết yêu cầu hủy việc kết hôn trái pháp luật?",
+      "options": [
+        "A. Tòa án nơi người vợ cư trú.",
+        "B. Tòa án nơi người chồng cư trú.",
+        "C. Tòa án nơi việc đăng ký kết hôn trái pháp luật được thực hiện.",
+        "D. Tòa án nơi có trụ sở của cơ quan cấp giấy chứng nhận kết hôn."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điểm g Khoản 2 Điều 39 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo lãnh thổ"
+    },
+    {
+      "id": 39,
+      "question": "Nội dung nào sau đây là đúng về thẩm quyền giải quyết yêu cầu liên quan đến việc mang thai hộ theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Tòa án nơi người nhờ mang thai hộ tạm trú.",
+        "B. Tòa án nơi người mang thai hộ cư trú, làm việc.",
+        "C. Tòa án nơi đứa trẻ được sinh ra.",
+        "D. Tòa án nơi có bệnh viện thực hiện kỹ thuật hỗ trợ sinh sản."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điểm q Khoản 2 Điều 39 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo lãnh thổ"
+    },
+    {
+      "id": 40,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Tòa án nào có thẩm quyền giải quyết yêu cầu tuyên bố văn bản công chứng vô hiệu?",
+      "options": [
+        "A. Tòa án nơi người yêu cầu cư trú.",
+        "B. Tòa án nơi có tài sản được công chứng.",
+        "C. Tòa án nơi tổ chức hành nghề công chứng đã thực hiện việc công chứng có trụ sở.",
+        "D. Tòa án nhân dân cấp tỉnh nơi có văn phòng công chứng."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điểm m Khoản 2 Điều 39 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo lãnh thổ"
+    },
+    {
+      "id": 41,
+      "question": "Đâu là Tòa án có thẩm quyền giải quyết yêu cầu xác định quyền sở hữu tài sản để thi hành án theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Tòa án nơi người phải thi hành án cư trú hoặc có trụ sở.",
+        "B. Tòa án nơi cơ quan thi hành án có thẩm quyền thi hành án có trụ sở hoặc nơi có tài sản liên quan.",
+        "C. Tòa án nơi cơ quan thi hành án cư trú hoặc có trụ sở.",
+        "D. Tòa án đã ban hành bản án, quyết định đang được tổ chức thi hành án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điểm n Khoản 2 Điều 39 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo lãnh thổ"
+    },
+    {
+      "id": 42,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), trường hợp vụ án dân sự đã được thụ lý mà đương sự thay đổi nơi cư trú thì giải quyết như thế nào?",
+      "options": [
+        "A. Phải chuyển hồ sơ cho Tòa án nơi cư trú mới của đương sự.",
+        "B. Phải đình chỉ giải quyết vụ án và hướng dẫn đương sự khởi kiện lại.",
+        "C. Tòa án đã thụ lý phải tiếp tục giải quyết vụ án.",
+        "D. Tòa án cấp trên sẽ quyết định việc chuyển thẩm quyền."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 3 Điều 39 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo lãnh thổ"
+    },
+    {
+      "id": 43,
+      "question": "Nội dung nào sau đây là đúng về thẩm quyền giải quyết yêu cầu xét tính hợp pháp của cuộc đình công theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Tòa án nơi doanh nghiệp có trụ sở chính.",
+        "B. Tòa án nơi xảy ra cuộc đình công.",
+        "C. Tòa án nơi có tổ chức công đoàn cấp trên trực tiếp.",
+        "D. Tòa án nhân dân cấp tỉnh nơi có tranh chấp lao động tập thể."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điểm x Khoản 2 Điều 39 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo lãnh thổ"
+    },
+    {
+      "id": 44,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Tòa án nào giải quyết yêu cầu hủy bỏ nghị quyết của Hội đồng thành viên doanh nghiệp?",
+      "options": [
+        "A. Tòa án nơi có bất động sản của doanh nghiệp.",
+        "B. Tòa án nơi có trụ sở của doanh nghiệp.",
+        "C. Tòa án nơi người đại diện theo pháp luật cư trú.",
+        "D. Tòa án nơi đa số thành viên Hội đồng thành viên cư trú."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điểm u Khoản 2 Điều 39 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo lãnh thổ"
+    },
+    {
+      "id": 45,
+      "question": "Đâu là Tòa án có thẩm quyền giải quyết yêu cầu tuyên bố vô hiệu thỏa thuận về chế độ tài sản của vợ chồng theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Tòa án nơi đăng ký kết hôn.",
+        "B. Tòa án nơi cư trú, làm việc của người yêu cầu.",
+        "C. Tòa án nơi có tài sản chung của vợ chồng.",
+        "D. Tòa án nhân dân cấp tỉnh nơi có trụ sở tổ chức hành nghề công chứng thỏa thuận đó."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điểm t Khoản 2 Điều 39 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo lãnh thổ"
+    },
+    {
+      "id": 46,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), thẩm quyền giải quyết yêu cầu công nhận tài sản vô chủ trên lãnh thổ Việt Nam thuộc về Tòa án nào?",
+      "options": [
+        "A. Tòa án nhân dân tối cao.",
+        "B. Tòa án nơi có trụ sở của cơ quan quản lý nhà nước về tài sản đó.",
+        "C. Tòa án nơi có tài sản.",
+        "D. Tòa án nơi người đang quản lý tài sản cư trú."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điểm p Khoản 2 Điều 39 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Thẩm quyền theo lãnh thổ"
+    },
+    {
+      "id": 47,
+      "question": "Đâu là trách nhiệm của Ủy ban nhân dân cấp xã trong việc chuyển giao văn bản tố tụng theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Ủy ban nhân dân cấp xã có thẩm quyền ban hành quyết định tống đạt văn bản tố tụng.",
+        "B. Chuyển giao văn bản của Tòa án khi có yêu cầu và thông báo kết quả cho Tòa án.",
+        "C. Ủy ban nhân dân cấp xã chỉ thực hiện chuyển giao đối với đương sự cư trú ổn định từ 6 tháng.",
+        "D. Ủy ban nhân dân cấp xã được quyền từ chối việc chuyển giao văn bản tố tụng nếu không có kinh phí."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 2 Điều 22 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Tống đạt văn bản tố tụng"
+    },
+    {
+      "id": 48,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), trường hợp không biết nơi cư trú, làm việc, trụ sở của bị đơn thì nguyên đơn có quyền lựa chọn Tòa án nào để giải quyết tranh chấp?",
+      "options": [
+        "A. Tòa án nơi nguyên đơn cư trú, làm việc hoặc có trụ sở.",
+        "B. Tòa án nơi bị đơn cư trú, làm việc, có trụ sở cuối cùng hoặc nơi bị đơn có tài sản.",
+        "C. Tòa án nhân dân cấp tỉnh nơi nguyên đơn đăng ký thường trú.",
+        "D. Tòa án nhân dân tối cao có thẩm quyền giải quyết nếu bị đơn là người nước ngoài."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điểm a Khoản 1 Điều 40 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Sự lựa chọn Tòa án của đương sự"
+    },
+    {
+      "id": 49,
+      "question": "Nội dung nào sau đây là đúng khi nói về quyền lựa chọn Tòa án của nguyên đơn trong tranh chấp về bồi thường thiệt hại ngoài hợp đồng theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Nguyên đơn chỉ được khởi kiện tại Tòa án nơi bị đơn cư trú.",
+        "B. Nguyên đơn chỉ được khởi kiện tại Tòa án nơi xảy ra việc gây thiệt hại.",
+        "C. Nguyên đơn có thể yêu cầu Tòa án nơi mình cư trú, làm việc, có trụ sở hoặc nơi xảy ra việc gây thiệt hại giải quyết.",
+        "D. Nguyên đơn có thể yêu cầu bất kỳ Tòa án nào trên lãnh thổ Việt Nam giải quyết."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điểm d Khoản 1 Điều 40 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung).",
+      "topic": "Sự lựa chọn Tòa án của đương sự"
+    },
+    {
+      "id": 50,
+      "question": "Đâu không phải là người tiến hành tố tụng dân sự theo quy định của Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Chánh án Tòa án, Thẩm phán, Hội thẩm nhân dân.",
+        "B. Thẩm tra viên Tòa án, Thư ký Tòa án.",
+        "C. Viện trưởng Viện kiểm sát, Kiểm sát viên, Kiểm tra viên.",
+        "D. Người bảo vệ quyền và lợi ích hợp pháp của đương sự."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích Chọn đáp án D. Bởi: Căn cứ Điều 46 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung). Người bảo vệ quyền và lợi ích hợp pháp của đương sự là người tham gia tố tụng.",
+      "topic": "Người tiến hành tố tụng"
+    }
+  ]
+},{
+  "id": "TTDS_DE_02",
+  "title": "Đề 02: Bộ luật Tố tụng dân sự năm 2015 (đã sửa đổi, bổ sung)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Hội đồng xét xử sơ thẩm vụ án dân sự thông thường gồm những thành phần nào?",
+      "options": [
+        "A. Hai Thẩm phán và ba Hội thẩm nhân dân.",
+        "B. Một Thẩm phán và hai Hội thẩm nhân dân.",
+        "C. Một Thẩm phán và Ba Hội thẩm nhân dân.",
+        "D. Một Thẩm phán và một Thư ký Tòa án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Khoản 1 Điều 63 Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung) quy định về Hội đồng xét xử sơ thẩm vụ án dân sự: 'Hội đồng xét xử sơ thẩm vụ án dân sự gồm một Thẩm phán và hai Hội thẩm nhân dân...'",
+      "topic": "Hội đồng xét xử"
+    },
+    {
+      "id": 2,
+      "question": "Đối với vụ án dân sự có đương sự là người chưa thành niên, đâu là quy định đúng về thành phần Hội thẩm nhân dân theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Phải có ít nhất một Hội thẩm nhân dân là người đã hoặc đang công tác trong lĩnh vực giáo dục.",
+        "B. Phải có Hội thẩm nhân dân là người đã hoặc đang công tác tại Đoàn thanh niên Cộng sản Hồ Chí Minh, Hội liên hiệp phụ nữ Việt Nam, cơ quan quản lý nhà nước về gia đình, trẻ em.",
+        "C. Phải có Hội thẩm nhân dân là người có kinh nghiệm thực tế trong việc chăm sóc, nuôi dưỡng người chưa thành niên.",
+        "D. Phải có Hội thẩm nhân dân là người có trình độ chuyên môn về pháp luật đối với người chưa thành niên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Khoản 2 Điều 63 Bộ luật Tố tụng dân sự năm 2015 quy định về thành phần Hội thẩm nhân dân đặc thù cho vụ án có người chưa thành niên.",
+      "topic": "Hội đồng xét xử"
+    },
+    {
+      "id": 3,
+      "question": "Nội dung nào sau đây là đúng khi nói về Hội đồng xét xử phúc thẩm vụ án dân sự theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Gồm một Thẩm phán và hai Hội thẩm nhân dân.",
+        "B. Gồm ba Thẩm phán và hai Hội thẩm nhân dân.",
+        "C. Gồm ba Thẩm phán, trừ trường hợp xét xử theo thủ tục rút gọn.",
+        "D. Gồm toàn thể Ủy ban Thẩm phán Tòa án nhân dân cấp tỉnh."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ vào Điều 64 Bộ luật Tố tụng dân sự năm 2015 quy định Hội đồng xét xử phúc thẩm gồm ba Thẩm phán.",
+      "topic": "Hội đồng xét xử"
+    },
+    {
+      "id": 4,
+      "question": "Việc xét xử sơ thẩm, phúc thẩm vụ án dân sự theo thủ tục rút gọn do bao nhiêu Thẩm phán tiến hành theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Do một Thẩm phán tiến hành.",
+        "B. Do hai Thẩm phán tiến hành.",
+        "C. Do một Thẩm phán và một Hội thẩm nhân dân tiến hành.",
+        "D. Do ba Thẩm phán tiến hành."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ vào Điều 65 Bộ luật Tố tụng dân sự năm 2015 quy định thủ tục rút gọn do một Thẩm phán tiến hành.",
+      "topic": "Thủ tục rút gọn"
+    },
+    {
+      "id": 5,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Hội đồng Thẩm phán Tòa án nhân dân tối cao xét xử giám đốc thẩm, tái thẩm bằng Hội đồng xét xử gồm bao nhiêu thành viên?",
+      "options": [
+        "A. Gồm toàn thể Thẩm phán Tòa án nhân dân tối cao.",
+        "B. Gồm ba Thẩm phán hoặc năm Thẩm phán Tòa án nhân dân tối cao.",
+        "C. Gồm năm Thẩm phán hoặc toàn thể Thẩm phán Tòa án nhân dân tối cao.",
+        "D. Gồm bảy Thẩm phán được Chánh án Tòa án nhân dân tối cao chỉ định."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ vào Khoản 2 Điều 66 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Giám đốc thẩm, tái thẩm"
+    },
+    {
+      "id": 6,
+      "question": "Thành phần giải quyết việc dân sự thông thường do bao nhiêu Thẩm phán thực hiện theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Do một Thẩm phán giải quyết.",
+        "B. Do tập thể gồm ba Thẩm phán giải quyết.",
+        "C. Do một Thẩm phán và hai Hội thẩm nhân dân giải quyết.",
+        "D. Do một Thẩm phán và Thư ký Tòa án giải quyết."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ vào Khoản 2 Điều 67 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Giải quyết việc dân sự"
+    },
+    {
+      "id": 7,
+      "question": "Đâu không phải là đương sự trong vụ án dân sự theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Nguyên đơn.",
+        "B. Bị đơn.",
+        "C. Người có quyền lợi, nghĩa vụ liên quan.",
+        "D. Người làm chứng."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích Chọn đáp án D. Bởi: Căn cứ vào Khoản 1 Điều 68. Người làm chứng là người tham gia tố tụng khác, không phải là đương sự.",
+      "topic": "Đương sự"
+    },
+    {
+      "id": 8,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), đương sự là người từ đủ bao nhiêu tuổi trở lên có đầy đủ năng lực hành vi tố tụng dân sự?",
+      "options": [
+        "A. Từ đủ 15 tuổi trở lên.",
+        "B. Từ đủ 16 tuổi trở lên.",
+        "C. Từ đủ 18 tuổi trở lên.",
+        "D. Từ đủ 21 tuổi trở lên."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ vào Khoản 3 Điều 69 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Năng lực hành vi tố tụng"
+    },
+    {
+      "id": 9,
+      "question": "Trường hợp đương sự là người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi đã tham gia lao động theo hợp đồng lao động thì họ có quyền gì?",
+      "options": [
+        "A. Được tự mình tham gia tố tụng về những việc có liên quan đến quan hệ lao động đó.",
+        "B. Phải có người đại diện theo pháp luật tham gia tố tụng đồng thời trong mọi trường hợp.",
+        "C. Chỉ được tham gia tố tụng thông qua người bảo vệ quyền và lợi ích hợp pháp.",
+        "D. Không được tự mình tham gia tố tụng dân sự cho đến khi đủ mười tám tuổi."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ vào Khoản 6 Điều 69 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Năng lực hành vi tố tụng"
+    },
+    {
+      "id": 10,
+      "question": "Đâu là quy định đúng về việc sử dụng quyền của đương sự theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Đương sự có quyền lựa chọn và áp dụng tất cả các biện pháp bảo vệ quyền lợi.",
+        "B. Đương sự sử dụng quyền của đương sự một cách thiện chí, không được lạm dụng để gây cản trở hoạt động tố tụng.",
+        "C. Đương sự có thể vắng mặt theo giấy triệu tập nếu không ảnh hưởng đến việc giải quyết.",
+        "D. Đương sự có quyền đề nghị Tòa án áp dụng biện pháp bảo mật thông tin tài liệu."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Khoản 25 Điều 70 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Quyền và nghĩa vụ của đương sự"
+    },
+    {
+      "id": 11,
+      "question": "Nội dung nào sau đây là đúng khi nói về nghĩa vụ chứng minh của người tiêu dùng khi khởi kiện theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Người tiêu dùng phải chứng minh lỗi của tổ chức, cá nhân kinh doanh hàng hóa.",
+        "B. Người tiêu dùng không có nghĩa vụ chứng minh lỗi của tổ chức, cá nhân kinh doanh hàng hóa, dịch vụ.",
+        "C. Người tiêu dùng phải chứng minh mình không có lỗi trong việc sử dụng hàng hóa.",
+        "D. Nghĩa vụ chứng minh chia đều cho người tiêu dùng và tổ chức kinh doanh."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Điểm a Khoản 1 Điều 91 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Chứng minh và chứng cứ"
+    },
+    {
+      "id": 12,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), nghĩa vụ chứng minh trong vụ án đơn phương chấm dứt hợp đồng lao động trái pháp luật thuộc về ai?",
+      "options": [
+        "A. Nghĩa vụ chứng minh thuộc về người lao động với tư cách là nguyên đơn.",
+        "B. Nghĩa vụ chứng minh thuộc về người làm chứng.",
+        "C. Nghĩa vụ chứng minh thuộc về người sử dụng lao động.",
+        "D. Nghĩa vụ chứng minh thuộc về tổ chức đại diện tập thể lao động"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ vào Điểm b Khoản 1 Điều 91 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Chứng minh và chứng cứ"
+    },
+    {
+      "id": 13,
+      "question": "Tình tiết, sự kiện nào sau đây không phải chứng minh theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Những tình tiết do đương sự trình bày và được bên kia không phản đối nhưng chưa được ghi nhận.",
+        "B. Những tình tiết đã được ghi trong văn bản và được công chứng, chứng thực hợp pháp.",
+        "C. Lời khai của người làm chứng đã được lập thành văn bản nhưng chưa đối chất.",
+        "D. Các sự kiện xảy ra ở nước ngoài chưa được hợp pháp hóa lãnh sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Điểm c Khoản 1 Điều 92 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Chứng minh và chứng cứ"
+    },
+    {
+      "id": 14,
+      "question": "Đâu là định nghĩa đúng về Chứng cứ theo quy định của Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Là những thông tin, tài liệu do nguyên đơn cung cấp trong quá trình tố tụng.",
+        "B. Là những gì có thật được giao nộp, xuất trình cho Tòa án hoặc do Tòa án thu thập theo trình tự và được dùng làm căn cứ xác định các tình tiết.",
+        "C. Là các văn bản, giấy tờ do cơ quan nhà nước có thẩm quyền ban hành.",
+        "D. Là những tài liệu, chứng cứ đã được Viện kiểm sát xem xét, phê chuẩn."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Điều 93 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Chứng minh và chứng cứ"
+    },
+    {
+      "id": 15,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), nguồn nào sau đây không được dùng để thu thập chứng cứ?",
+      "options": [
+        "A. Tài liệu đọc được, nghe được, nhìn được, dữ liệu điện tử.",
+        "B. Kết luận giám định, kết quả định giá tài sản.",
+        "C. Ý kiến chủ quan của người tiến hành tố tụng không dựa trên tài liệu thực tế.",
+        "D. Văn bản được lập thành văn bản, có công chứng hoặc chứng thực hợp pháp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ vào Điều 94 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Chứng minh và chứng cứ"
+    },
+    {
+      "id": 16,
+      "question": "Tài liệu nghe được, nhìn được được coi là chứng cứ khi nào theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Khi tài liệu được đăng tải công khai trên môi trường mạng.",
+        "B. Khi được xuất trình kèm theo văn bản trình bày về xuất xứ hoặc văn bản xác nhận của người cung cấp.",
+        "C. Khi tài liệu đã được cơ quan có thẩm quyền tiến hành giám định kỹ thuật.",
+        "D. Khi tài liệu được nhiều người cùng trực tiếp nghe, nhìn và xác nhận."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Khoản 2 Điều 95 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Chứng minh và chứng cứ"
+    },
+    {
+      "id": 17,
+      "question": "Việc đương sự giao nộp tài liệu, chứng cứ cho Tòa án phải được thực hiện như thế nào theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Đương sự có thể giao nộp bằng hình thức gửi qua bưu điện hoặc phương tiện điện tử.",
+        "B. Phải được lập biên bản ghi rõ tên gọi, hình thức, nội dung, đặc điểm, số bản, số trang và thời gian nhận.",
+        "C. Việc giao nộp tài liệu phải được thực hiện dưới sự giám sát của Viện kiểm sát.",
+        "D. Đương sự được nộp bản sao tài liệu và tự lưu giữ bản chính."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Khoản 2 Điều 96 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Chứng minh và chứng cứ"
+    },
+    {
+      "id": 18,
+      "question": "Trong thời hạn bao nhiêu ngày làm việc kể từ ngày thu thập được tài liệu, chứng cứ, Tòa án phải thông báo cho đương sự?",
+      "options": [
+        "A. Trong thời hạn 03 ngày làm việc.",
+        "B. Trong thời hạn 05 ngày làm việc.",
+        "C. Trong thời hạn 07 ngày làm việc.",
+        "D. Trong thời hạn 10 ngày làm việc."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ vào Khoản 5 Điều 97 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Chứng minh và chứng cứ"
+    },
+    {
+      "id": 19,
+      "question": "Đâu là quy định đúng về việc lấy lời khai của đương sự theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Thẩm phán có thể lấy lời khai trong mọi trường hợp dù đương sự đã có bản khai.",
+        "B. Đương sự phải tự viết bản khai và ký tên; trường hợp không tự viết được thì Thẩm phán lấy lời khai.",
+        "C. Biên bản ghi lời khai ngoài trụ sở Tòa án chỉ cần chữ ký của Thẩm phán và đương sự.",
+        "D. Thư ký Tòa án được chủ động lấy lời khai của đương sự nhằm hỗ trợ Thẩm phán."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Khoản 1 Điều 98 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Chứng minh và chứng cứ"
+    },
+    {
+      "id": 20,
+      "question": "Việc lấy lời khai của người làm chứng chưa đủ mười tám tuổi phải có mặt của ai?",
+      "options": [
+        "A. Phải có sự tham gia của luật sư.",
+        "B. Có mặt của người đại diện theo pháp luật hoặc người đang thực hiện việc quản lý, trông nom.",
+        "C. Phải có sự chứng kiến của đại diện cơ quan công an cấp xã.",
+        "D. Phải được tiến hành với sự có mặt đồng thời của Thẩm phán và Kiểm sát viên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ vào Khoản 3 Điều 99 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Chứng minh và chứng cứ"
+    },
+    {
+      "id": 21,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), đâu là trường hợp Thẩm phán tiến hành đối chất?",
+      "options": [
+        "A. Khi có sự yêu cầu của Viện kiểm sát nhân dân cùng cấp.",
+        "B. Khi xét thấy có mâu thuẫn trong lời khai của các đương sự, người làm chứng.",
+        "C. Khi một bên đương sự vắng mặt không có lý do chính đáng.",
+        "D. Khi các bên đương sự đã tự thỏa thuận được với nhau."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ quy định tại Khoản 1 Điều 100 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Chứng minh và chứng cứ"
+    },
+    {
+      "id": 22,
+      "question": "Nội dung nào sau đây là đúng khi nói về thành phần ký tên vào biên bản xem xét, thẩm định tại chỗ?",
+      "options": [
+        "A. Chỉ cần chữ ký của Thẩm phán và thư ký ghi biên bản.",
+        "B. Chỉ cần chữ ký của người xem xét và đại diện UBND cấp xã.",
+        "C. Phải có chữ ký của người xem xét; đương sự (nếu có mặt); đại diện UBND hoặc Công an cấp xã hoặc cơ quan quản lý nơi có đối tượng.",
+        "D. Phải có chữ ký của tất cả những người dân cư trú xung quanh."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ quy định tại Khoản 2 Điều 101 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Chứng minh và chứng cứ"
+    },
+    {
+      "id": 23,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), đương sự có quyền tự mình yêu cầu giám định khi nào?",
+      "options": [
+        "A. Đương sự có quyền tự mình yêu cầu giám định trong suốt quá trình giải quyết vụ án.",
+        "B. Sau khi đã đề nghị Tòa án trưng cầu giám định nhưng Tòa án từ chối.",
+        "C. Đương sự được tự mình yêu cầu giám định ngay khi phát sinh tranh chấp.",
+        "D. Đương sự có quyền tự mình yêu cầu giám định sau khi có sự chấp thuận của Viện kiểm sát."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ quy định tại Khoản 1 Điều 102 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Giám định"
+    },
+    {
+      "id": 24,
+      "question": "Đâu không phải là trường hợp Tòa án ra quyết định trưng cầu giám định bổ sung?",
+      "options": [
+        "A. Khi nội dung kết luận giám định lần đầu chưa rõ ràng.",
+        "B. Khi nội dung kết luận giám định lần đầu chưa phản ánh đầy đủ các vấn đề.",
+        "C. Khi phát sinh tình tiết, vấn đề mới liên quan trực tiếp đến nội dung đã giám định.",
+        "D. Khi có căn cứ cho rằng kết luận giám định lần đầu không chính xác."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích Chọn đáp án D. Bởi: Căn cứ Khoản 5 Điều 102 quy định trường hợp không chính xác là căn cứ 'giám định lại', không phải 'giám định bổ sung'.",
+      "topic": "Giám định"
+    },
+    {
+      "id": 25,
+      "question": "Trường hợp chứng cứ bị tố cáo là giả mạo mà người đưa ra không rút lại thì người tố cáo có quyền gì?",
+      "options": [
+        "A. Yêu cầu Tòa án chuyển hồ sơ cho cơ quan điều tra hình sự.",
+        "B. Yêu cầu Tòa án hoặc Tòa án có quyền quyết định trưng cầu giám định.",
+        "C. Yêu cầu Tòa án bác bỏ toàn bộ các yêu cầu khởi kiện của bên kia.",
+        "D. Tự mình mang chứng cứ đi giám định tại nước ngoài."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ quy định tại Khoản 1 Điều 103 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Chứng minh và chứng cứ"
+    },
+    {
+      "id": 26,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Tòa án ra quyết định định giá tài sản và thành lập Hội đồng định giá khi nào?",
+      "options": [
+        "A. Khi có văn bản yêu cầu của Viện kiểm sát nhân dân cùng cấp.",
+        "B. Khi các bên đương sự không thỏa thuận lựa chọn tổ chức thẩm định giá hoặc đưa ra giá khác nhau hoặc không thỏa thuận được giá.",
+        "C. Khi vụ án liên quan đến tài sản của tổ chức nước ngoài.",
+        "D. Khi giá trị do các bên thỏa thuận chênh lệch quá nhiều so với thị trường."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ quy định tại Điểm b Khoản 3 Điều 104 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Định giá tài sản"
+    },
+    {
+      "id": 27,
+      "question": "Thành phần Hội đồng định giá do Tòa án thành lập theo Bộ luật Tố tụng dân sự năm 2015 bao gồm những ai?",
+      "options": [
+        "A. Chủ tịch Hội đồng là Thẩm phán và thành viên là đại diện các cơ quan chuyên môn.",
+        "B. Chủ tịch Hội đồng là đại diện cơ quan tài chính và thành viên là đại diện các cơ quan chuyên môn.",
+        "C. Chủ tịch Hội đồng là đại diện tổ chức thẩm định giá và các bên đương sự.",
+        "D. Chủ tịch Hội đồng là Lãnh đạo Tòa án và các thành viên là Kiểm sát viên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ quy định tại Điểm a Khoản 4 Điều 104 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Định giá tài sản"
+    },
+    {
+      "id": 28,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), đương sự có quyền đề nghị Tòa án áp dụng biện pháp bảo vệ chứng cứ khi nào?",
+      "options": [
+        "A. Khi xét thấy quyền lợi của mình có khả năng bị xâm hại nghiêm trọng.",
+        "B. Trường hợp chứng cứ đang bị tiêu hủy, có nguy cơ bị tiêu hủy hoặc sau này khó có thể thu thập được.",
+        "C. Khi người làm chứng không hợp tác gây khó khăn cho việc thu thập.",
+        "D. Khi bên đối phương giao nộp tài liệu ảnh hưởng bất lợi cho mình."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ quy định tại Khoản 1 Điều 110 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Bảo vệ chứng cứ"
+    },
+    {
+      "id": 29,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), thẩm quyền quyết định áp dụng biện pháp khẩn cấp tạm thời trước khi mở phiên tòa thuộc về ai?",
+      "options": [
+        "A. Hội đồng xét xử sơ thẩm.",
+        "B. Một Thẩm phán được phân công giải quyết vụ án.",
+        "C. Chánh án Tòa án nhân dân cấp trên trực tiếp.",
+        "D. Viện trưởng Viện kiểm sát nhân dân cùng cấp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ quy định tại Khoản 1 Điều 112 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 30,
+      "question": "Trường hợp nào Tòa án phải bồi thường thiệt hại do áp dụng biện pháp khẩn cấp tạm thời không đúng?",
+      "options": [
+        "A. Khi Tòa án áp dụng đúng theo yêu cầu của đương sự nhưng đương sự đó thua kiện.",
+        "B. Khi Tòa án tự mình áp dụng biện pháp khẩn cấp tạm thời không đúng gây thiệt hại.",
+        "C. Khi đương sự không nộp biện pháp bảo đảm tài chính.",
+        "D. Khi bên bị áp dụng có khiếu nại nhưng chưa được giải quyết."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ quy định tại Điểm a Khoản 2 Điều 113 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 31,
+      "question": "Đâu không phải là một trong các biện pháp khẩn cấp tạm thời được quy định tại Bộ luật Tố tụng dân sự năm 2015?",
+      "options": [
+        "A. Kê biên tài sản đang tranh chấp.",
+        "B. Cấm xuất cảnh đối với người có nghĩa vụ.",
+        "C. Tạm giam bị đơn để đảm bảo sự có mặt tại phiên tòa.",
+        "D. Phong tỏa tài khoản tại ngân hàng."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Tố tụng dân sự không có biện pháp 'Tạm giam'. Căn cứ Điều 114.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 32,
+      "question": "Biện pháp tạm đình chỉ thi hành quyết định sa thải người lao động được áp dụng khi nào?",
+      "options": [
+        "A. Khi người lao động có đơn cam kết chấp hành nội quy.",
+        "B. Nếu người sử dụng lao động không được thực hiện quyền đơn phương chấm dứt hoặc không được xử lý kỷ luật sa thải.",
+        "C. Khi có văn bản đề nghị của tổ chức Công đoàn cơ sở.",
+        "D. Trong mọi vụ án liên quan đến kỷ luật lao động."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ quy định tại Điều 119 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 33,
+      "question": "Đâu là căn cứ để Tòa án áp dụng biện pháp kê biên tài sản đang tranh chấp?",
+      "options": [
+        "A. Khi người giữ làm thay đổi hình dáng, kết cấu tài sản.",
+        "B. Khi có căn cứ cho thấy người giữ tài sản đang tranh chấp có hành vi tẩu tán, hủy hoại tài sản.",
+        "C. Khi người giữ sử dụng tài sản vào kinh doanh gây giảm giá trị.",
+        "D. Khi người giữ cho tổ chức, cá nhân khác mượn tài sản."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 1, Điều 120, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 34,
+      "question": "Nội dung nào sau đây là đúng khi nói về việc quản lý tài sản bị kê biên theo Bộ luật Tố tụng dân sự năm 2015?",
+      "options": [
+        "A. Chỉ được bảo quản tại kho bãi của người khởi kiện.",
+        "B. Phải được bán đấu giá ngay.",
+        "C. Có thể được thu giữ tại cơ quan THADS hoặc giao cho đương sự, người thứ ba quản lý.",
+        "D. Mặc nhiên giao cho người đang chiếm hữu quản lý không cần biên bản."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2, Điều 120, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 35,
+      "question": "Đâu là căn cứ để áp dụng biện pháp cấm chuyển dịch quyền về tài sản đối với tài sản đang tranh chấp?",
+      "options": [
+        "A. Khi người chiếm hữu có hành vi tháo gỡ làm thay đổi hiện trạng.",
+        "B. Khi có căn cứ cho thấy người giữ có hành vi chuyển dịch quyền về tài sản cho người khác.",
+        "C. Khi tài sản bị hư hỏng do thời tiết.",
+        "D. Khi người giữ đang khai thác công dụng tài sản."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 121, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 36,
+      "question": "Biện pháp cấm thay đổi hiện trạng tài sản đang tranh chấp được áp dụng trong trường hợp nào?",
+      "options": [
+        "A. Khi người giữ có hành vi bán tài sản cho người thứ ba.",
+        "B. Khi người giữ có hành vi tẩu tán tài sản.",
+        "C. Khi người đang chiếm hữu có hành vi tháo gỡ, lắp ghép, xây dựng thêm làm thay đổi hiện trạng.",
+        "D. Khi người đang chiếm hữu thực hiện việc đăng ký quyền sở hữu."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 122, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 37,
+      "question": "Đâu là điều kiện để Tòa án cho phép thu hoạch, cho bán hoa màu hoặc sản phẩm, hàng hoá khác?",
+      "options": [
+        "A. Khi tài sản có giá trị kinh tế cao.",
+        "B. Khi tài sản là hoa màu ở thời kỳ thu hoạch hoặc không thể bảo quản được lâu dài.",
+        "C. Khi đương sự có nhu cầu tiêu dùng sản phẩm đó.",
+        "D. Khi có sự đồng ý của cơ quan quản lý thị trường."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 123, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 38,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), biện pháp phong tỏa tài khoản được áp dụng đối với cơ quan nào?",
+      "options": [
+        "A. Ngân hàng, tổ chức tín dụng khác, kho bạc nhà nước.",
+        "B. Cơ quan thuế, công ty bảo hiểm.",
+        "C. Văn phòng công chứng, doanh nghiệp xã hội.",
+        "D. UBND cấp xã, Công an phường."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích Chọn đáp án A. Bởi: Căn cứ Điều 124, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 39,
+      "question": "Mục đích chính của việc áp dụng biện pháp phong tỏa tài khoản tại ngân hàng là gì?",
+      "options": [
+        "A. Kiểm tra tính hợp pháp của nguồn tiền.",
+        "B. Thực hiện thu thuế thu nhập.",
+        "C. Bảo đảm cho việc giải quyết vụ án hoặc việc thi hành án.",
+        "D. Hỗ trợ xác minh hành vi rửa tiền."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điều 124, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 40,
+      "question": "Biện pháp phong tỏa tài sản ở nơi gửi giữ được áp dụng khi nào?",
+      "options": [
+        "A. Khi người có nghĩa vụ chuyển nhượng tài sản cho người nhận giữ.",
+        "B. Khi có căn cứ cho thấy người có nghĩa vụ có tài sản đang gửi giữ và việc áp dụng là cần thiết.",
+        "C. Khi người gửi thông báo tài sản có nguy cơ hư hỏng.",
+        "D. Khi không thanh toán phí lưu kho."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 125, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 41,
+      "question": "Nội dung nào sau đây mô tả đúng về biện pháp phong tỏa tài sản của người có nghĩa vụ?",
+      "options": [
+        "A. Chỉ áp dụng đối với tài sản là bất động sản.",
+        "B. Áp dụng khi có căn cứ cho thấy người có nghĩa vụ có tài sản và việc áp dụng là cần thiết.",
+        "C. Chỉ áp dụng đối với tài sản trực tiếp chiếm hữu tại nơi cư trú.",
+        "D. Áp dụng đối với mọi loại tài sản kể cả tài sản thiết yếu sinh hoạt."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 126, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 42,
+      "question": "Đâu là căn cứ để Tòa án quyết định cấm xuất cảnh đối với người có nghĩa vụ?",
+      "options": [
+        "A. Khi người đó có kế hoạch ra nước ngoài ảnh hưởng việc triệu tập.",
+        "B. Khi việc xuất cảnh ảnh hưởng đến giải quyết vụ án, lợi ích Nhà nước, quyền lợi người khác hoặc để bảo đảm THA.",
+        "C. Khi không xuất trình được hộ chiếu hợp lệ.",
+        "D. Khi người đó có ý định định cư lâu dài ở nước ngoài."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 128, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 43,
+      "question": "Biện pháp tạm dừng việc đóng thầu và các hoạt động liên quan đến đấu thầu được áp dụng khi nào?",
+      "options": [
+        "A. Khi bên mời thầu điều chỉnh thời gian đóng thầu.",
+        "B. Khi quá trình giải quyết cho thấy việc áp dụng là cần thiết để bảo đảm giải quyết vụ án đúng pháp luật.",
+        "C. Khi phát sinh tranh chấp mua hồ sơ mời thầu.",
+        "D. Khi có kiến nghị của Hội đồng tư vấn."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 130, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 44,
+      "question": "Nội dung nào không thuộc phạm vi của biện pháp tạm dừng liên quan đến đấu thầu?",
+      "options": [
+        "A. Tạm dừng phê duyệt danh sách ngắn.",
+        "B. Tạm dừng ký kết, thực hiện hợp đồng.",
+        "C. Tạm dừng việc đóng thầu.",
+        "D. Tạm dừng việc đăng ký kinh doanh của các nhà thầu."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích Chọn đáp án D. Bởi: Căn cứ Điều 130, 'tạm dừng đăng ký kinh doanh' không được liệt kê.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 45,
+      "question": "Khi áp dụng biện pháp kê biên tài sản đang tranh chấp, tài sản đó có thể được bảo quản tại đâu?",
+      "options": [
+        "A. Chỉ tại cơ quan THADS cấp tỉnh.",
+        "B. Tại cơ quan THADS hoặc giao cho đương sự, người thứ ba quản lý.",
+        "C. Tại trụ sở Tòa án nhân dân.",
+        "D. Tại văn phòng luật sư bảo vệ nguyên đơn."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Khoản 2, Điều 120, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 46,
+      "question": "Biện pháp phong tỏa tài khoản tại kho bạc nhà nước được áp dụng đối với đối tượng nào?",
+      "options": [
+        "A. Chỉ áp dụng đối với cơ quan hành chính vi phạm.",
+        "B. Người có nghĩa vụ có tài khoản tại kho bạc nhà nước.",
+        "C. Tất cả nhà thầu tham gia dự án đầu tư công.",
+        "D. Những người hưởng lương ngân sách bị kiện dân sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 124, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 47,
+      "question": "Trường hợp nào áp dụng biện pháp cấm hoặc buộc thực hiện hành vi nhất định?",
+      "options": [
+        "A. Chỉ đối với nguyên đơn và bị đơn.",
+        "B. Đương sự hoặc cơ quan, tổ chức, cá nhân khác thực hiện hoặc không thực hiện hành vi làm ảnh hưởng đến vụ án.",
+        "C. Đối với người có quyền lợi nghĩa vụ liên quan có hành vi ảnh hưởng.",
+        "D. Đối với cán bộ, công chức làm nhiệm vụ liên quan vụ việc."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích Chọn đáp án B. Bởi: Căn cứ Điều 127, Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 48,
+      "question": "Nội dung nào đúng khi nói về thẩm quyền bắt giữ tàu biển?",
+      "options": [
+        "A. Chỉ bắt giữ nếu chủ tàu là người có quyền lợi liên quan.",
+        "B. Bắt giữ nếu tranh chấp phát sinh từ việc cầm cố tàu biển.",
+        "C. Bắt giữ nếu người thuê tàu trần là người có nghĩa vụ về tài sản trong vụ án phát sinh từ khiếu nại hàng hải.",
+        "D. Bắt giữ trong mọi trường hợp khi có khiếu nại."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 2 Điều 131. Đáp án B sai vì là 'thế chấp' chứ không phải 'cầm cố'.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 49,
+      "question": "Thời hạn Thẩm phán ra quyết định áp dụng biện pháp khẩn cấp tạm thời trước khi mở phiên tòa (không phải bảo đảm)?",
+      "options": [
+        "A. Trong thời hạn 01 ngày làm việc.",
+        "B. Trong thời hạn 02 ngày làm việc.",
+        "C. Trong thời hạn 03 ngày làm việc.",
+        "D. Trong thời hạn 05 ngày làm việc."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Điểm a Khoản 2 Điều 133 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": 50,
+      "question": "Thời hạn Thẩm phán ra quyết định áp dụng biện pháp khẩn cấp tạm thời khi nộp cùng đơn khởi kiện?",
+      "options": [
+        "A. Trong thời hạn 12 giờ.",
+        "B. Trong thời hạn 24 giờ.",
+        "C. Trong thời hạn 48 giờ.",
+        "D. Trong thời hạn 72 giờ."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích Chọn đáp án C. Bởi: Căn cứ Khoản 3 Điều 133 Bộ luật Tố tụng dân sự năm 2015.",
+      "topic": "Biện pháp khẩn cấp tạm thời"
+    }
+  ]
+}, 
+{
+  "id": "TTDS_DE_04",
+  "title": "Đề 04: Bộ luật Tố tụng dân sự năm 2015 (đã sửa đổi, bổ sung)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Nội dung nào sau đây phải có trong quyết định của Tòa án khi tuyên bố một người là đã chết theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Xác định ngày chết của người đó và hậu quả pháp lý theo quy định của Bộ luật Dân sự.",
+        "B. Xác định danh mục tài sản còn lại và người thừa kế duy nhất.",
+        "C. Quyết định việc mai táng và các chi phí liên quan đến tang lễ.",
+        "D. Tuyên bố đình chỉ mọi giao dịch dân sự mà người đó đã tham gia trước khi mất tích."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ Điều 393 Bộ luật Tố tụng dân sự năm 2015. Tòa án phải xác định ngày chết và hậu quả pháp lý theo Bộ luật Dân sự để làm căn cứ mở thừa kế.",
+      "topic": "Tuyên bố một người là đã chết"
+    },
+    {
+      "id": 2,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), ai có quyền yêu cầu Tòa án hủy bỏ quyết định tuyên bố một người là đã chết?",
+      "options": [
+        "A. Chỉ có người đã bị tuyên bố là đã chết sau khi trở về mới có quyền yêu cầu.",
+        "B. Người bị tuyên bố đã chết trở về hoặc người có quyền, lợi ích liên quan.",
+        "C. Cơ quan thi hành án dân sự đang giải quyết các vấn đề tài sản của người đó.",
+        "D. Chỉ có Viện kiểm sát cấp trên mới có quyền kháng nghị yêu cầu hủy bỏ."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 1 Điều 394 Bộ luật Tố tụng dân sự năm 2015. Người bị tuyên bố chết trở về hoặc bất kỳ ai có quyền lợi liên quan đều có quyền yêu cầu.",
+      "topic": "Tuyên bố một người là đã chết"
+    },
+    {
+      "id": 3,
+      "question": "Trong quyết định hủy bỏ quyết định tuyên bố một người là đã chết, Tòa án phải quyết định nội dung gì theo quy định của Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Quyết định phạt vi phạm hành chính đối với người đã biệt tích quá lâu.",
+        "B. Quyết định về hậu quả pháp lý của việc hủy bỏ theo quy định của Bộ luật Dân sự.",
+        "C. Quyết định khôi phục ngay lập tức quan hệ hôn nhân dù người vợ/chồng đã kết hôn mới.",
+        "D. Quyết định yêu cầu các chủ nợ phải trả lại số tiền đã nhận từ việc phát mại tài sản."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 395 Bộ luật Tố tụng dân sự năm 2015. Tòa án phải xử lý các hậu quả pháp lý về nhân thân và tài sản phát sinh khi người đó 'sống lại' về mặt pháp lý.",
+      "topic": "Tuyên bố một người là đã chết"
+    },
+    {
+      "id": 4,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), đâu là những bản án, quyết định dân sự của Tòa án được thi hành?",
+      "options": [
+        "A. Tất cả các bản án, quyết định sơ thẩm của Tòa án khi vừa mới tuyên xong.",
+        "B. Bản án, quyết định đã có hiệu lực pháp luật theo quy định tại Điều 482.",
+        "C. Bản án, quyết định dân sự của Tòa án nước ngoài chưa qua thủ tục công nhận.",
+        "D. Bản án, quyết định sơ thẩm đang bị kháng cáo, kháng nghị."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 1 Điều 482 Bộ luật Tố tụng dân sự năm 2015. Chỉ những bản án, quyết định đã có hiệu lực pháp luật (hoặc thi hành ngay theo luật) mới được thi hành.",
+      "topic": "Thi hành bản án, quyết định"
+    },
+    {
+      "id": 5,
+      "question": "Bản án, quyết định dân sự nào của Tòa án nước ngoài được thi hành tại Việt Nam theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Mọi bản án dân sự của Tòa án nước ngoài khi đương sự gửi đơn trực tiếp đến cơ quan thi hành án.",
+        "B. Bản án, quyết định đã được Tòa án Việt Nam công nhận và cho thi hành tại Việt Nam.",
+        "C. Bản án của nước có quan hệ ngoại giao với Việt Nam mà không cần thủ tục công nhận.",
+        "D. Quyết định của Trọng tài nước ngoài có tài sản của đương sự tại Việt Nam."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điểm d Khoản 1 Điều 482. Bản án nước ngoài bắt buộc phải qua thủ tục công nhận của Tòa án Việt Nam mới có giá trị thi hành.",
+      "topic": "Thi hành bản án, quyết định"
+    },
+    {
+      "id": 6,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), đâu là bản án của Tòa án cấp sơ thẩm được thi hành ngay mặc dù có thể bị kháng cáo, kháng nghị?",
+      "options": [
+        "A. Bản án về tranh chấp quyền sử dụng đất giữa cá nhân với cá nhân.",
+        "B. Bản án về cấp dưỡng, trả công lao động, nhận người lao động trở lại làm việc.",
+        "C. Bản án về chia tài sản sau khi ly hôn có giá trị trên 01 tỷ đồng.",
+        "D. Bản án về tranh chấp hợp đồng mua bán hàng hóa giữa các doanh nghiệp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điểm a Khoản 2 Điều 482. Đây là các trường hợp cấp bách liên quan đến quyền lợi sinh kế tối thiểu nên luật ưu tiên thi hành ngay.",
+      "topic": "Thi hành bản án, quyết định"
+    },
+    {
+      "id": 7,
+      "question": "Quyết định nào sau đây của Tòa án cấp sơ thẩm được thi hành ngay theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Quyết định công nhận kết quả hòa giải thành ngoài Tòa án.",
+        "B. Quyết định về việc áp dụng biện pháp khẩn cấp tạm thời.",
+        "C. Quyết định đình chỉ giải quyết vụ án dân sự do nguyên đơn rút đơn.",
+        "D. Quyết định chuyển hồ sơ vụ án cho Tòa án khác có thẩm quyền."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điểm b Khoản 2 Điều 482. Quyết định BPKCTT phải được thi hành ngay để ngăn chặn kịp thời các rủi ro tẩu tán tài sản hoặc thay đổi hiện trạng.",
+      "topic": "Thi hành bản án, quyết định"
+    },
+    {
+      "id": 8,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), trong phần quyết định của bản án, Tòa án phải ghi rõ nội dung nào để giải thích về quyền yêu cầu thi hành án?",
+      "options": [
+        "A. Chỉ ghi tên cơ quan thi hành án dân sự có thẩm quyền.",
+        "B. Quyền yêu cầu thi hành án, nghĩa vụ thi hành án, thời hiệu yêu cầu thi hành án.",
+        "C. Các biện pháp cưỡng chế mà cơ quan thi hành án sẽ áp dụng.",
+        "D. Danh sách các loại tài sản mà người phải thi hành án đang sở hữu."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 1 Điều 483. Tòa án có nghĩa vụ hướng dẫn đương sự về quyền, nghĩa vụ và thời hiệu thi hành án ngay trong bản án.",
+      "topic": "Thi hành bản án, quyết định"
+    },
+    {
+      "id": 9,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Tòa án phải làm gì khi cấp bản án, quyết định thuộc trường hợp được thi hành cho các đương sự?",
+      "options": [
+        "A. Đóng dấu \"Đã có hiệu lực pháp luật\" lên góc trái bản án.",
+        "B. Ghi dòng chữ “để thi hành” vào bản án hoặc quyết định đó.",
+        "C. Gửi kèm theo một biểu mẫu đơn yêu cầu thi hành án dân sự.",
+        "D. Yêu cầu đương sự phải nộp biên lai đã đóng án phí mới cấp bản án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 484. Dòng chữ 'để thi hành' là dấu hiệu pháp lý để cơ quan thi hành án chấp nhận thụ lý đơn yêu cầu.",
+      "topic": "Thi hành bản án, quyết định"
+    },
+    {
+      "id": 10,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), thời hạn chuyển giao bản án đã có hiệu lực pháp luật cho cơ quan thi hành án dân sự là bao lâu?",
+      "options": [
+        "A. Trong thời hạn 15 ngày, kể từ ngày bản án có hiệu lực.",
+        "B. Trong thời hạn 01 tháng, kể từ ngày bản án có hiệu lực.",
+        "C. Trong thời hạn 02 tháng, kể từ ngày bản án có hiệu lực.",
+        "D. Ngay trong ngày bản án có hiệu lực pháp luật."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 1 Điều 485. Đây là thời hạn tối đa để Tòa án thực hiện việc chuyển giao hồ sơ cho cơ quan thi hành án.",
+      "topic": "Thi hành bản án, quyết định"
+    },
+    {
+      "id": 11,
+      "question": "Đối với bản án cấp sơ thẩm về trả lương, bảo hiểm xã hội được thi hành ngay, thời hạn Tòa án phải chuyển giao cho cơ quan thi hành án là bao lâu theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Trong thời hạn 05 ngày làm việc.",
+        "B. Trong thời hạn 10 ngày.",
+        "C. Trong thời hạn 15 ngày.",
+        "D. Ngay sau khi ra bản án."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ Khoản 2 Điều 485. Với các án thi hành ngay, thời hạn rút ngắn xuống còn 15 ngày.",
+      "topic": "Thi hành bản án, quyết định"
+    },
+    {
+      "id": 12,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Tòa án chuyển giao quyết định áp dụng biện pháp khẩn cấp tạm thời cho cơ quan thi hành án khi nào?",
+      "options": [
+        "A. Trong thời hạn 03 ngày làm việc kể từ ngày ra quyết định.",
+        "B. Ngay sau khi ra quyết định.",
+        "C. Sau khi người yêu cầu thực hiện xong biện pháp bảo đảm tài chính.",
+        "D. Sau khi đã tống đạt xong quyết định cho người bị áp dụng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 3 Điều 485. Tính chất khẩn cấp đòi hỏi việc chuyển giao phải thực hiện ngay lập tức.",
+      "topic": "Thi hành bản án, quyết định"
+    },
+    {
+      "id": 13,
+      "question": "Khi chuyển giao bản án cho cơ quan thi hành án trong trường hợp đã có tài sản bị kê biên, Tòa án phải gửi kèm tài liệu gì theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Bản chính quyết định khởi tố vụ án dân sự.",
+        "B. Bản sao biên bản về việc kê biên, tạm giữ tài sản.",
+        "C. Giấy chứng nhận quyền sở hữu tài sản của người phải thi hành án.",
+        "D. Bản tự khai về tình trạng tài sản của người bị kê biên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 4 Điều 485. Việc gửi biên bản kê biên giúp cơ quan thi hành án tiếp nhận hiện trạng tài sản đã bị cưỡng chế trước đó.",
+      "topic": "Thi hành bản án, quyết định"
+    },
+    {
+      "id": 14,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), ai có quyền yêu cầu Tòa án giải thích những điểm chưa rõ trong bản án để thi hành?",
+      "options": [
+        "A. Chỉ có cơ quan thi hành án dân sự có thẩm quyền yêu cầu.",
+        "B. Người được thi hành án, người phải thi hành án, người liên quan và cơ quan thi hành án.",
+        "C. Chỉ có Viện kiểm sát nhân dân cùng cấp.",
+        "D. Chỉ có Chánh án Tòa án cấp trên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 1 Điều 486. Tất cả đương sự và cơ quan trực tiếp tổ chức thi hành đều có quyền yêu cầu giải thích để đảm bảo thi hành đúng phán quyết.",
+      "topic": "Giải thích bản án, quyết định"
+    },
+    {
+      "id": 15,
+      "question": "Ai có trách nhiệm giải thích bản án nếu Thẩm phán là chủ tọa phiên tòa đó không còn là Thẩm phán của Tòa án nữa theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Thẩm phán mới được phân công tiếp quản hồ sơ thi hành án.",
+        "B. Chánh án Tòa án đó có trách nhiệm giải thích, sửa chữa.",
+        "C. Hội đồng Thẩm phán của Tòa án nhân dân cấp tỉnh.",
+        "D. Viện trưởng Viện kiểm sát nhân dân cùng cấp với Tòa án đã tuyên án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 2 Điều 486. Trách nhiệm thuộc về người đứng đầu Tòa án đã tuyên bản án đó.",
+      "topic": "Giải thích bản án, quyết định"
+    },
+    {
+      "id": 16,
+      "question": "Việc giải thích bản án của Tòa án phải căn cứ vào đâu theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Căn cứ vào ý kiến chủ quan của Thẩm phán giải thích tại thời điểm đó.",
+        "B. Căn cứ vào biên bản phiên tòa, biên bản phiên họp, biên bản nghị án.",
+        "C. Căn cứ vào đơn đề nghị và các tài liệu mới do người thi hành án cung cấp.",
+        "D. Căn cứ vào tình hình thực tế khả năng tài chính của người phải thi hành án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 3 Điều 486. Giải thích phải dựa trên nội dung khách quan đã được ghi chép trong hồ sơ gốc.",
+      "topic": "Giải thích bản án, quyết định"
+    },
+    {
+      "id": 17,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), thời hạn Tòa án phải trả lời kiến nghị xem xét lại bản án theo thủ tục giám đốc thẩm của cơ quan thi hành án là bao lâu?",
+      "options": [
+        "A. Trong thời hạn 01 tháng.",
+        "B. Trong thời hạn 02 tháng.",
+        "C. Trong thời hạn 03 tháng.",
+        "D. Trong thời hạn 06 tháng."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ Điều 487. Đây là thời hạn luật định để Tòa án trả lời cơ quan thi hành án về hướng xử lý bản án đang bị kiến nghị.",
+      "topic": "Xem xét lại bản án, quyết định"
+    },
+    {
+      "id": 18,
+      "question": "Trong vụ việc phức tạp, thời hạn Tòa án trả lời kiến nghị xem xét lại bản án theo thủ tục giám đốc thẩm là bao lâu theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Không quá 04 tháng.",
+        "B. Không quá 05 tháng.",
+        "C. Không quá 15 ngày kể từ khi hết hạn cũ.",
+        "D. Tùy vào tính chất phức tạp mà không quy định thời hạn cụ thể."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ Điều 487. Đối với các vụ việc phức tạp, thời hạn được kéo dài thêm tối đa là 04 tháng.",
+      "topic": "Xem xét lại bản án, quyết định"
+    },
+    {
+      "id": 19,
+      "question": "Tòa án nào có thẩm quyền xét đề nghị miễn, giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Tòa án nhân dân khu vực nơi cơ quan thi hành án dân sự đang tổ chức việc thi hành án có trụ sở.",
+        "B. Tòa án nhân dân cấp tỉnh nơi người phải thi hành án đang có hộ khẩu thường trú.",
+        "C. Tòa án đã ra bản án sơ thẩm ban đầu không phân biệt địa giới hành chính.",
+        "D. Tòa án nhân dân tối cao nếu số tiền đề nghị miễn giảm trên 500 triệu đồng."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ Điểm a Khoản 1 Điều 488. Thẩm quyền thuộc về Tòa án cùng địa bàn với cơ quan đang trực tiếp thi hành án.",
+      "topic": "Miễn, giảm nghĩa vụ thi hành án"
+    },
+    {
+      "id": 20,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), Tòa án nhân dân cấp tỉnh có thẩm quyền gì trong việc xét miễn, giảm nghĩa vụ thi hành án?",
+      "options": [
+        "A. Xét miễn giảm lần đầu cho tất cả các bản án do Tòa án cấp tỉnh tuyên.",
+        "B. Xem xét theo thủ tục phúc thẩm quyết định miễn, giảm bị Viện kiểm sát kháng nghị.",
+        "C. Phê duyệt kết quả xét miễn giảm của Tòa án nhân dân khu vực trước khi có hiệu lực.",
+        "D. Đình chỉ việc xét miễn giảm nếu thấy người phải thi hành án có khả năng thanh toán."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điểm b Khoản 1 Điều 488. Tòa án cấp tỉnh đóng vai trò kiểm soát cấp dưới thông qua thủ tục phúc thẩm khi có kháng nghị.",
+      "topic": "Miễn, giảm nghĩa vụ thi hành án"
+    },
+    {
+      "id": 21,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), hành vi nào sau đây có thể bị xử lý kỷ luật, phạt hành chính hoặc truy cứu trách nhiệm hình sự khi cản trở hoạt động xác minh chứng cứ?",
+      "options": [
+        "A. Người làm chứng từ chối ký tên vào biên bản lấy lời khai vì lý do sức khỏe.",
+        "B. Làm giả, hủy hoại chứng cứ quan trọng gây trở ngại cho việc giải quyết vụ án.",
+        "C. Đương sự không cung cấp được địa chỉ của người có quyền lợi liên quan do không biết.",
+        "D. Luật sư đề nghị tạm hoãn việc định giá tài sản để chờ kết quả giám định khác."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 1 Điều 489. Hành vi làm giả hoặc hủy hoại chứng cứ là vi phạm nghiêm trọng tính khách quan của tố tụng.",
+      "topic": "Xử lý hành vi cản trở hoạt động tố tụng"
+    },
+    {
+      "id": 22,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), hành vi nào sau đây là vi phạm trong hoạt động giám định, phiên dịch?",
+      "options": [
+        "A. Người phiên dịch từ chối dịch các thuật ngữ chuyên ngành quá khó.",
+        "B. Lừa dối, mua chuộc, đe dọa nhằm buộc người giám định kết luận sai với sự thật khách quan.",
+        "C. Người giám định đề nghị kéo dài thời hạn giám định do máy móc hỏng.",
+        "D. Đương sự yêu cầu thay đổi người giám định vì có căn cứ cho thấy không khách quan."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 8 Điều 489. Các hành vi tác động tiêu cực đến tính trung thực của kết quả giám định bị nghiêm cấm.",
+      "topic": "Xử lý hành vi cản trở hoạt động tố tụng"
+    },
+    {
+      "id": 23,
+      "question": "Đối với người làm chứng cố ý không đến Tòa án theo giấy triệu tập mà gây trở ngại cho việc giải quyết vụ việc, Tòa án có quyền xử lý như thế nào theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Ra quyết định dẫn giải người làm chứng đến phiên tòa, trừ người chưa thành niên.",
+        "B. Ra quyết định phạt tù từ 01 tháng đến 03 tháng về tội không chấp hành triệu tập.",
+        "C. Hủy tư cách làm chứng của người đó và không sử dụng lời khai cũ.",
+        "D. Yêu cầu người làm chứng phải chịu toàn bộ án phí của vụ án dân sự đó."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Căn cứ Khoản 2 Điều 490. Dẫn giải là biện pháp cưỡng chế để đảm bảo sự có mặt của người làm chứng tại Tòa.",
+      "topic": "Xử lý hành vi cản trở hoạt động tố tụng"
+    },
+    {
+      "id": 24,
+      "question": "Cơ quan nào có nhiệm vụ thi hành quyết định dẫn giải người làm chứng của Tòa án theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Lực lượng bảo vệ trật tự tại phiên tòa của Tòa án.",
+        "B. Cơ quan thi hành án dân sự cùng cấp.",
+        "C. Cơ quan Công an có nhiệm vụ thi hành quyết định.",
+        "D. Viện kiểm sát nhân dân cùng cấp với Tòa án ra quyết định."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ Khoản 3 Điều 490. Việc cưỡng chế con người trong tố tụng dân sự được giao cho cơ quan Công an.",
+      "topic": "Xử lý hành vi cản trở hoạt động tố tụng"
+    },
+    {
+      "id": 25,
+      "question": "Chủ tọa phiên tòa có thẩm quyền gì đối với người có hành vi vi phạm nội quy phiên tòa theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Đình chỉ quyền khởi kiện của đương sự nếu đương sự vi phạm.",
+        "B. Ra quyết định buộc người vi phạm rời khỏi phòng xử án.",
+        "C. Quyết định tạm giữ người vi phạm tại trụ sở Tòa án trong 24 giờ.",
+        "D. Tuyên bố người vi phạm bị mất quyền tham gia các phiên tòa trong 01 năm."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 2 Điều 491. Đây là quyền hạn trực tiếp của Chủ tọa để duy trì trật tự và tôn nghiêm của phiên tòa.",
+      "topic": "Xử lý hành vi cản trở hoạt động tố tụng"
+    },
+    {
+      "id": 26,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), người có hành vi xúc phạm danh dự của người tiến hành tố tụng bị xử lý như thế nào?",
+      "options": [
+        "A. Chỉ bị phê bình nghiêm khắc trước phiên tòa.",
+        "B. Phải công khai xin lỗi trên các phương tiện thông tin đại chúng.",
+        "C. Tùy tính chất, mức độ vi phạm mà bị xử phạt hành chính hoặc truy cứu trách nhiệm hình sự.",
+        "D. Bị tước quyền đại diện tham gia tố tụng trong vụ án đó."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ Điều 492. Hành vi xúc phạm sự tôn nghiêm của Tòa án bị chế tài theo luật hành chính hoặc hình sự.",
+      "topic": "Xử lý hành vi cản trở hoạt động tố tụng"
+    },
+    {
+      "id": 27,
+      "question": "Đâu là hành vi vi phạm về cấp, tống đạt văn bản tố tụng theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Đương sự từ chối nhận thông báo thụ lý do địa chỉ ghi sai tên lót.",
+        "B. Giả mạo kết quả thực hiện việc tống đạt văn bản tố tụng của Tòa án.",
+        "C. Ủy ban nhân dân cấp xã đề nghị tống đạt văn bản vào giờ hành chính.",
+        "D. Nhân viên bưu điện trả lại thư tống đạt do đương sự đã chuyển nơi cư trú."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 3 Điều 493. Giả mạo kết quả tống đạt là hành vi bị nghiêm cấm vì làm sai lệch quá trình tố tụng.",
+      "topic": "Xử lý hành vi cản trở hoạt động tố tụng"
+    },
+    {
+      "id": 28,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), người có hành vi đe dọa nhằm cản trở đại diện của cơ quan tham gia phiên tòa bị xử lý theo hình thức nào?",
+      "options": [
+        "A. Phạt vi phạm hợp đồng lao động nếu là nhân viên của cơ quan đó.",
+        "B. Bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự.",
+        "C. Bị buộc phải thay thế người đại diện khác tham gia phiên tòa.",
+        "D. Bị công khai danh tính trên trang thông tin của Bộ Tư pháp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 494. Mọi hành vi dùng vũ lực hoặc đe dọa để cản trở tham gia tố tụng đều bị xử lý nghiêm.",
+      "topic": "Xử lý hành vi cản trở hoạt động tố tụng"
+    },
+    {
+      "id": 29,
+      "question": "Cơ quan đang quản lý tài liệu mà không thi hành quyết định của Tòa án về cung cấp tài liệu đó thì bị xử lý như thế nào theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Bị Thẩm phán ra lệnh khám xét trụ sở để thu hồi tài liệu.",
+        "B. Có thể bị Tòa án xử phạt hành chính theo quy định của pháp luật.",
+        "C. Người đứng đầu cơ quan đó bị đình chỉ công tác ngay lập tức.",
+        "D. Cơ quan đó phải chịu mức án phí gấp đôi trong vụ án dân sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 1 Điều 495. Tòa án có quyền xử phạt hành chính đối với chủ thể không cung cấp tài liệu chứng cứ khi có yêu cầu.",
+      "topic": "Xử lý hành vi cản trở hoạt động tố tụng"
+    },
+    {
+      "id": 30,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), hành vi đưa tin sai sự thật nhằm cản trở việc giải quyết vụ án bị xử lý như thế nào?",
+      "options": [
+        "A. Bị cơ quan báo chí chủ quản đình chỉ hoạt động của phóng viên.",
+        "B. Tùy tính chất, mức độ vi phạm mà bị xử phạt hành chính hoặc truy cứu trách nhiệm hình sự.",
+        "C. Buộc phải đăng tin cải chính ngay trên trang cá nhân trong 24 giờ.",
+        "D. Bị tịch thu phương tiện dùng để đăng tải tin sai sự thật."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 2 Điều 495. Tin tức giả gây áp lực dư luận hoặc sai lệch bản chất vụ án sẽ bị chế tài hành chính hoặc hình sự.",
+      "topic": "Xử lý hành vi cản trở hoạt động tố tụng"
+    },
+    {
+      "id": 31,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), hành vi nào sau đây được coi là can thiệp vào việc giải quyết vụ việc dân sự?",
+      "options": [
+        "A. Luật sư trình bày lập luận bảo vệ đương sự dựa trên quy định pháp luật.",
+        "B. Dùng ảnh hưởng tác động đến Thẩm phán nhằm làm việc giải quyết không khách quan.",
+        "C. Viện kiểm sát phát biểu quan điểm về việc tuân theo pháp luật tố tụng.",
+        "D. Người có quyền lợi liên quan gửi văn bản bày tỏ nguyện vọng cho Tòa án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 496. Can thiệp trái pháp luật vào hoạt động xét xử độc lập của Thẩm phán là hành vi bị xử lý tùy mức độ.",
+      "topic": "Xử lý hành vi cản trở hoạt động tố tụng"
+    },
+    {
+      "id": 32,
+      "question": "Hình thức xử phạt hành chính đối với các hành vi cản trở hoạt động tố tụng dân sự được thực hiện theo quy định của pháp luật nào theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Theo quy định riêng của Hội đồng Thẩm phán Tòa án nhân dân tối cao.",
+        "B. Theo quy định của Luật Xử lý vi phạm hành chính và pháp luật liên quan.",
+        "C. Theo quy chuẩn đạo đức nghề nghiệp của cán bộ ngành Tòa án.",
+        "D. Theo Pháp lệnh xử phạt vi phạm hành chính trong lĩnh vực tư pháp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 498. Đảm bảo tính thống nhất trong hệ thống pháp luật về xử lý vi phạm hành chính.",
+      "topic": "Xử lý hành vi cản trở hoạt động tố tụng"
+    },
+    {
+      "id": 33,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), cơ quan nào có quyền khiếu nại quyết định, hành vi trong tố tụng dân sự của người tiến hành tố tụng?",
+      "options": [
+        "A. Chỉ cá nhân bị thiệt hại trực tiếp mới có quyền khiếu nại.",
+        "B. Cơ quan, tổ chức, cá nhân khi có căn cứ cho rằng quyết định đó trái pháp luật.",
+        "C. Chỉ có các cơ quan quản lý nhà nước cùng cấp với Tòa án.",
+        "D. Các cơ quan thông tấn báo chí khi phát hiện sai phạm trong tố tụng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 1 Điều 499. Mọi chủ thể bị ảnh hưởng trực tiếp bởi các quyết định tố tụng trái pháp luật đều có quyền khiếu nại.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 34,
+      "question": "Đâu là thời hạn giải quyết tố cáo thông thường theo quy định tại Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Không quá 15 ngày, kể từ ngày thụ lý.",
+        "B. Không quá 30 ngày, kể từ ngày nhận đơn.",
+        "C. Không quá 02 tháng, kể từ ngày thụ lý.",
+        "D. Không quá 03 tháng, kể từ ngày nhận đơn"
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ Khoản 1 Điều 512. Thời hạn chuẩn là 02 tháng, trường hợp phức tạp có thể gia hạn đến 03 tháng.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 35,
+      "question": "Một trong những nghĩa vụ của người khiếu nại theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung) là gì?",
+      "options": [
+        "A. Phải nộp một khoản phí tạm ứng giải quyết khiếu nại cho Tòa án.",
+        "B. Phải cung cấp tài liệu chứng minh mình hoàn toàn không có lỗi trong vụ án.",
+        "C. Chấp hành quyết định, hành vi của người tiến hành tố tụng mà mình đang khiếu nại trong thời gian khiếu nại.",
+        "D. Phải gửi đơn khiếu nại đồng thời cho cả Tòa án nhân dân và Viện kiểm sát nhân dân."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ Điểm d Khoản 2 Điều 500. Việc khiếu nại không làm dừng ngay hiệu lực của các quyết định đang bị khiếu nại để tránh gián đoạn tiến độ vụ việc.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 36,
+      "question": "Người bị khiếu nại có nghĩa vụ gì theo quy định của Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Phải xin lỗi công khai người khiếu nại ngay sau khi nhận được đơn.",
+        "B. Giải trình về quyết định, hành vi trong tố tụng dân sự bị khiếu nại.",
+        "C. Tự mình ra quyết định đình chỉ giải quyết vụ án để chờ kết quả khiếu nại.",
+        "D. Phải trả phí luật sư cho người khiếu nại nếu mình thua cuộc."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điểm a Khoản 2 Điều 501. Giải trình là cơ sở để người có thẩm quyền kiểm tra tính đúng đắn của hành vi công vụ.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 37,
+      "question": "Đâu là nghĩa vụ bồi thường của người bị khiếu nại theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Bồi thường mọi chi phí đi lại của người khiếu nại trong suốt quá trình khiếu nại.",
+        "B. Bồi thường thiệt hại do quyết định, hành vi tố tụng dân sự trái pháp luật của mình gây ra.",
+        "C. Bồi thường danh dự cho gia đình người khiếu nại theo yêu cầu của họ.",
+        "D. Nộp phạt vào ngân sách nhà nước số tiền gấp đôi giá trị tài sản tranh chấp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điểm c Khoản 2 Điều 501. Trách nhiệm bồi thường phát sinh theo luật bồi thường nhà nước khi có hành vi sai phạm thực tế.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 38,
+      "question": "Đâu là thời hiệu khiếu nại theo quy định của Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. 10 ngày, kể từ ngày người khiếu nại nhận được hoặc biết được quyết định, hành vi tố tụng.",
+        "B. 15 ngày, kể từ ngày người khiếu nại nhận được hoặc biết được quyết định, hành vi tố tụng.",
+        "C. 30 ngày, kể từ ngày người khiếu nại nhận được hoặc biết được quyết định, hành vi tố tụng.",
+        "D. 45 ngày, kể từ ngày người khiếu nại nhận được hoặc biết được quyết định, hành vi tố tụng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 502. Thời hiệu 15 ngày để đảm bảo tính kịp thời trong giải quyết các vướng mắc tố tụng.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 39,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), trường hợp có sự kiện bất khả kháng mà người khiếu nại không thực hiện được quyền khiếu nại đúng thời hạn thì xử lý như thế nào?",
+      "options": [
+        "A. Thời hiệu khiếu nại vẫn được tính bình thường không có ngoại lệ.",
+        "B. Thời gian có sự kiện bất khả kháng không tính vào thời hiệu khiếu nại.",
+        "C. Người khiếu nại bị mất quyền khiếu nại và phải chuyển sang tố cáo.",
+        "D. Thời hiệu khiếu nại được mặc định kéo dài thêm 15 ngày."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 502. Đây là quy định bảo vệ quyền lợi chính đáng cho đương sự khi gặp trở ngại khách quan.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 40,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), thẩm quyền giải quyết khiếu nại đối với hành vi của Thư ký Tòa án thuộc về ai?",
+      "options": [
+        "A. Chánh án Tòa án cấp trên trực tiếp của Tòa án đó.",
+        "B. Chánh án Tòa án đang giải quyết vụ việc dân sự đó.",
+        "C. Viện trưởng Viện kiểm sát cùng cấp với Tòa án đó.",
+        "D. Thẩm phán được phân công thụ lý vụ việc dân sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 1 Điều 504. Thư ký Tòa án chịu sự quản lý của Chánh án tại đơn vị đang thụ lý vụ án.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 41,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), ai có thẩm quyền giải quyết khiếu nại quyết định, hành vi tố tụng của Chánh án Tòa án?",
+      "options": [
+        "A. Chánh án Tòa án đó tự giải quyết lần đầu.",
+        "B. Viện trưởng Viện kiểm sát cùng cấp.",
+        "C. Chánh án Tòa án trên một cấp trực tiếp.",
+        "D. Hội đồng Thẩm phán Tòa án nhân dân tối cao."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ Khoản 1 Điều 504. Khi bị khiếu nại là người đứng đầu cơ quan, thẩm quyền giải quyết thuộc về cấp trên trực tiếp.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 42,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), khiếu nại hành vi của Kiểm sát viên do ai giải quyết?",
+      "options": [
+        "A. Chánh án Tòa án cùng cấp.",
+        "B. Viện trưởng Viện kiểm sát cùng cấp.",
+        "C. Viện trưởng Viện kiểm sát cấp trên trực tiếp.",
+        "D. Ủy ban kiểm sát của Viện kiểm sát cùng cấp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 2 Điều 504. Viện trưởng trực tiếp quản lý Kiểm sát viên có thẩm quyền xem xét hành vi của thuộc cấp.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 43,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), thẩm quyền giải quyết khiếu nại quyết định giải quyết khiếu nại lần đầu của Chánh án Tòa án thuộc về ai?",
+      "options": [
+        "A. Viện trưởng Viện kiểm sát cùng cấp.",
+        "B. Chánh án Tòa án đó xem xét lại lần hai.",
+        "C. Chánh án Tòa án trên một cấp trực tiếp.",
+        "D. Bộ trưởng Bộ Tư pháp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ Khoản 3 Điều 504. Đây là quy trình giải quyết khiếu nại lần hai theo hệ thống ngành dọc.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 44,
+      "question": "Đâu là thời hạn giải quyết khiếu nại lần đầu theo quy định tại Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. 07 ngày, kể từ ngày Tòa án, Viện kiểm sát nhận được khiếu nại.",
+        "B. 15 ngày, kể từ ngày Tòa án, Viện kiểm sát nhận được khiếu nại.",
+        "C. 30 ngày, kể từ ngày Tòa án, Viện kiểm sát nhận được khiếu nại.",
+        "D. 10 ngày, kể từ ngày Tòa án, Viện kiểm sát nhận được khiếu nại."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 505. Thời hạn này bắt đầu tính từ lúc cơ quan có thẩm quyền tiếp nhận đơn.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 45,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), đối với vụ việc phức tạp, thời hạn giải quyết khiếu nại lần đầu có thể được kéo dài thêm bao lâu?",
+      "options": [
+        "A. Không quá 10 ngày, kể từ ngày hết thời hạn giải quyết khiếu nại.",
+        "B. Không quá 30 ngày, kể từ ngày hết thời hạn giải quyết khiếu nại.",
+        "C. Không quá 15 ngày, kể từ ngày hết thời hạn giải quyết khiếu nại.",
+        "D. Không quá 20 ngày, kể từ ngày hết thời hạn giải quyết khiếu nại."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Căn cứ Điều 505. Tổng thời gian giải quyết tối đa cho vụ việc phức tạp là 30 ngày (15 ngày chính thức + 15 ngày gia hạn).",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 46,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), quyết định giải quyết khiếu nại lần đầu của Chánh án Tòa án phải được gửi cho chủ thể nào sau đây?",
+      "options": [
+        "A. Bộ Tư pháp.",
+        "B. Viện kiểm sát cùng cấp.",
+        "C. Tòa án nhân dân tối cao.",
+        "D. Cơ quan thi hành án dân sự tỉnh."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 2 Điều 506. Gửi cho Viện kiểm sát để phục vụ chức năng kiểm sát hoạt động tư pháp.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 47,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), thời hạn để người khiếu nại thực hiện quyền khiếu nại lần hai là bao lâu?",
+      "options": [
+        "A. 03 ngày làm việc, kể từ ngày nhận được quyết định giải quyết khiếu nại lần đầu.",
+        "B. 05 ngày làm việc, kể từ ngày người khiếu nại nhận được quyết định giải quyết khiếu nại lần đầu.",
+        "C. 10 ngày làm việc, kể từ ngày người khiếu nại nhận được quyết định giải quyết khiếu nại lần đầu.",
+        "D. 15 ngày làm việc, kể từ ngày người khiếu nại nhận được quyết định giải quyết khiếu nại lần đầu."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 1 Điều 507. Đương sự chỉ có 05 ngày làm việc để quyết định việc khiếu nại tiếp lên cấp cao hơn.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 48,
+      "question": "Nội dung nào sau đây là đúng khi nói về quyết định giải quyết khiếu nại lần hai theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung)?",
+      "options": [
+        "A. Quyết định giải quyết khiếu nại lần hai chưa có hiệu lực thi hành ngay.",
+        "B. Quyết định giải quyết khiếu nại lần hai có hiệu lực thi hành.",
+        "C. Người khiếu nại có quyền khiếu nại lần ba lên Tòa án cấp cao hơn.",
+        "D. Quyết định giải quyết khiếu nại lần hai phải được gửi cho Bộ Công an."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 5 Điều 507. Đây là quyết định có hiệu lực pháp luật cuối cùng trong trình tự khiếu nại hành vi tố tụng.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 49,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), việc giải quyết khiếu nại về hoạt động giám định trong tố tụng dân sự được thực hiện theo quy định nào?",
+      "options": [
+        "A. Chỉ thực hiện theo quy định của Bộ luật Tố tụng dân sự.",
+        "B. Thực hiện theo quy định của pháp luật về giám định tư pháp và pháp luật có liên quan.",
+        "C. Thực hiện theo quy định của Luật Khiếu nại, tố cáo hành chính.",
+        "D. Thực hiện theo quy định của Bộ luật Tố tụng hình sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Điều 508. Do giám định là hoạt động chuyên môn bổ trợ tư pháp nên áp dụng luật chuyên ngành về giám định.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    },
+    {
+      "id": 50,
+      "question": "Theo Bộ luật Tố tụng dân sự năm 2015 (sửa đổi, bổ sung), đâu là quyền của người bị tố cáo?",
+      "options": [
+        "A. Được giữ bí mật về hành vi vi phạm của mình.",
+        "B. Được khôi phục quyền lợi và phục hồi danh dự khi tố cáo không đúng.",
+        "C. Được quyền từ chối giải trình nếu thấy nội dung tố cáo không đúng.",
+        "D. Được quyền yêu cầu Tòa án đình chỉ vụ án dân sự đang giải quyết."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Căn cứ Khoản 1 Điều 511. Người bị tố cáo có quyền được bảo vệ trước các tố cáo sai sự thật gây thiệt hại đến uy tín cá nhân.",
+      "topic": "Khiếu nại và tố cáo trong tố tụng dân sự"
+    }
+  ]
 }
-
 ]
