@@ -28956,5 +28956,713 @@
       "topic": "Chấp hành viên, Thẩm tra viên, Thư ký thi hành án"
     }
   ]
+},
+{
+  "id": "NghiDinh_62_De_04",
+  "title": "Đề 04: Nghị định số 62/2015/NĐ-CP của chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi hành án dân sự (đã sửa đổi, bổ sung)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Một trong các điều kiện để tham dự thi tuyển Chấp hành viên là không thuộc trường hợp nào sau đây?",
+      "options": [
+        "A. Đang trong thời gian tập sự công chức.",
+        "B. Có bằng cử nhân luật nhưng không phải hệ chính quy.",
+        "C. Đang bị truy cứu trách nhiệm hình sự.",
+        "D. Đã bị xử lý kỷ luật nhưng đã hết thời hạn."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 2 Điều 57 nêu rõ người đang bị truy cứu trách nhiệm hình sự thì không đủ điều kiện tham dự thi tuyển.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 2,
+      "question": "Chủ thể nào có thẩm quyền cử người tham dự thi tuyển Chấp hành viên đối với công chức thuộc Chi cục thi hành án dân sự trực thuộc?",
+      "options": [
+        "A. Cục trưởng Cục thi hành án dân sự.",
+        "B. Bộ trưởng Bộ Tư pháp.",
+        "C. Chi cục trưởng Chi cục thi hành án dân sự.",
+        "D. Tổng Cục trưởng Tổng cục thi hành án dân sự."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 2 Điều 58 quy định Cục trưởng Cục thi hành án dân sự cử người tham dự thi tuyển đối với công chức thuộc Cục và các Chi cục trực thuộc.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 3,
+      "question": "Hồ sơ đề nghị tham dự thi tuyển Chấp hành viên bắt buộc phải có loại văn bản nào sau đây?",
+      "options": [
+        "A. Sơ yếu lý lịch có xác nhận của địa phương.",
+        "B. Văn bản đề nghị của Cục trưởng Cục thi hành án dân sự.",
+        "C. Bản sao công chứng bằng cử nhân luật.",
+        "D. Giấy khám sức khỏe."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2 Điều 59 quy định rõ hồ sơ phải có văn bản đề nghị của Cục trưởng Cục thi hành án dân sự (đối với cơ quan THADS) hoặc Cục trưởng Cục Thi hành án Bộ Quốc phòng (đối với Phòng THA cấp quân khu).",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 4,
+      "question": "Cơ quan nào có trách nhiệm tiếp nhận và xét hồ sơ dự thi Chấp hành viên của các cơ quan thi hành án dân sự?",
+      "options": [
+        "A. Cục Thi hành án Bộ Quốc phòng.",
+        "B. Tổng cục thi hành án dân sự.",
+        "C. Hội đồng thi tuyển Chấp hành viên.",
+        "D. Vụ Tổ chức cán bộ - Bộ Tư pháp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 1 Điều 60 quy định Tổng cục thi hành án dân sự tiếp nhận và xét hồ sơ dự thi của các cơ quan thi hành án dân sự.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 5,
+      "question": "Chủ thể nào có thẩm quyền quyết định thành lập Hội đồng thi tuyển Chấp hành viên sơ cấp?",
+      "options": [
+        "A. Tổng Cục trưởng Tổng cục thi hành án dân sự.",
+        "B. Thủ tướng Chính phủ.",
+        "C. Chủ tịch Hội đồng thi tuyển công chức quốc gia.",
+        "D. Bộ trưởng Bộ Tư pháp."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 1 Điều 61 quy định Bộ trưởng Bộ Tư pháp quyết định thành lập Hội đồng thi tuyển Chấp hành viên sơ cấp theo đề nghị của Tổng Cục trưởng Tổng cục thi hành án dân sự.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 6,
+      "question": "Một trong những nhiệm vụ, quyền hạn của Hội đồng thi tuyển Chấp hành viên sơ cấp là gì?",
+      "options": [
+        "A. Giải quyết khiếu nại, tố cáo của người dự thi.",
+        "B. Xây dựng ngân hàng đề thi.",
+        "C. Quyết định bổ nhiệm Chấp hành viên.",
+        "D. Xét duyệt hồ sơ dự thi."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điểm d Khoản 2 Điều 61 nêu rõ Hội đồng có nhiệm vụ, quyền hạn giải quyết khiếu nại, tố cáo của người dự thi.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 7,
+      "question": "Căn cứ vào đâu Bộ trưởng Bộ Tư pháp xem xét, quyết định bổ nhiệm Chấp hành viên?",
+      "options": [
+        "A. Số năm công tác trong ngành thi hành án.",
+        "B. Biên bản họp của Hội đồng thi tuyển.",
+        "C. Đề nghị của Cục trưởng Cục thi hành án dân sự.",
+        "D. Kết quả kỳ thi tuyển Chấp hành viên."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 1 Điều 62 nêu rõ: 'Căn cứ kết quả kỳ thi, Tổng cục thi hành án dân sự tổng hợp báo cáo Bộ trưởng Bộ Tư pháp xem xét, quyết định bổ nhiệm Chấp hành viên'.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 8,
+      "question": "Người được tuyển chọn để bổ nhiệm Chấp hành viên không qua thi tuyển phải có đơn cam kết tình nguyện công tác tại địa bàn đặc biệt khó khăn trong thời gian tối thiểu là bao nhiêu năm?",
+      "options": [
+        "A. 10 năm trở lên.",
+        "B. 03 năm trở lên.",
+        "C. 05 năm trở lên.",
+        "D. 07 năm trở lên."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điểm b Khoản 1 Điều 63 yêu cầu người được tuyển chọn phải có đơn cam kết công tác 'từ 05 năm trở lên'.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 9,
+      "question": "Chủ tịch Hội đồng tuyển chọn Chấp hành viên không qua thi tuyển được thành lập ở cấp tỉnh là chủ thể nào?",
+      "options": [
+        "A. Cục trưởng Cục thi hành án dân sự.",
+        "B. Giám đốc Sở Nội vụ.",
+        "C. Giám đốc Sở Tư pháp.",
+        "D. Chủ tịch hoặc 01 Phó Chủ tịch Ủy ban nhân dân cấp tỉnh."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 4 Điều 63 quy định rõ Chủ tịch Hội đồng là Chủ tịch hoặc 01 Phó Chủ tịch Ủy ban nhân dân cấp tỉnh.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 10,
+      "question": "Phiên họp của Hội đồng tuyển chọn Chấp hành viên chỉ được tiến hành khi có ít nhất bao nhiêu thành viên tham gia?",
+      "options": [
+        "A. Hai phần ba số thành viên trở lên.",
+        "B. Quá nửa tổng số thành viên.",
+        "C. Tất cả các thành viên.",
+        "D. Một nửa số thành viên trở lên."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 4 Điều 63 nêu rõ: 'Hội đồng chỉ tiến hành phiên họp khi có ít nhất hai phần ba số thành viên trở lên tham gia'.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 11,
+      "question": "Quyết định của Hội đồng tuyển chọn Chấp hành viên được thông qua khi nào?",
+      "options": [
+        "A. Khi có hai phần ba số thành viên có mặt biểu quyết tán thành.",
+        "B. Khi được Chủ tịch Hội đồng biểu quyết tán thành.",
+        "C. Khi có quá nửa tổng số thành viên biểu quyết tán thành.",
+        "D. Khi có quá nửa số thành viên có mặt biểu quyết tán thành."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 4 Điều 63 quy định: 'Mọi quyết định của Hội đồng được thông qua tại phiên họp của Hội đồng; thông qua quyết định khi có quá nửa tổng số thành viên biểu quyết tán thành'.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 12,
+      "question": "Chủ thể nào có trách nhiệm chuẩn bị hồ sơ đề nghị miễn nhiệm Chấp hành viên của Phòng Thi hành án cấp quân khu?",
+      "options": [
+        "A. Tổng Cục trưởng Tổng cục thi hành án dân sự.",
+        "B. Cục trưởng Cục Thi hành án Bộ Quốc phòng.",
+        "C. Trưởng Phòng Thi hành án cấp quân khu.",
+        "D. Bộ trưởng Bộ Quốc phòng."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 1 Điều 64 quy định Cục trưởng Cục Thi hành án Bộ Quốc phòng chuẩn bị hồ sơ đề nghị miễn nhiệm Chấp hành viên Phòng Thi hành án cấp quân khu.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 13,
+      "question": "Hồ sơ đề nghị miễn nhiệm Chấp hành viên gồm những thành phần nào?",
+      "options": [
+        "A. Đơn xin miễn nhiệm và Bản kiểm điểm cá nhân.",
+        "B. Đơn xin miễn nhiệm và Sơ yếu lý lịch.",
+        "C. Đơn xin miễn nhiệm (nếu có) và Văn bản đề nghị miễn nhiệm của người có thẩm quyền.",
+        "D. Văn bản đề nghị miễn nhiệm và Quyết định kỷ luật."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 2 Điều 64 liệt kê hai thành phần của hồ sơ là: đơn xin miễn nhiệm (nếu có) và văn bản đề nghị miễn nhiệm của Cục trưởng có thẩm quyền.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 14,
+      "question": "Chấp hành viên có thể bị cách chức khi vi phạm quy định của pháp luật trong quá trình tổ chức thi hành án ở mức độ nào?",
+      "options": [
+        "A. Bị truy cứu trách nhiệm hình sự.",
+        "B. Bị người được thi hành án khiếu nại và khiếu nại được xác định là có cơ sở.",
+        "C. Chưa đến mức bị buộc thôi việc hoặc truy cứu trách nhiệm hình sự nhưng xét thấy cần áp dụng hình thức kỷ luật cách chức.",
+        "D. Bị kỷ luật khiển trách từ hai lần trở lên."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 1 Điều 65 mô tả rõ mức độ vi phạm là 'chưa đến mức bị buộc thôi việc hoặc truy cứu trách nhiệm hình sự nhưng xét thấy cần phải áp dụng hình thức kỷ luật cách chức'.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 15,
+      "question": "Việc bổ nhiệm vào ngạch Chấp hành viên, trừ các trường hợp được quy định riêng, phải qua hình thức nào?",
+      "options": [
+        "A. Kỳ thi tuyển.",
+        "B. Bổ nhiệm theo niên hạn công tác.",
+        "C. Phỏng vấn trực tiếp.",
+        "D. Xét tuyển hồ sơ."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 1 Điều 56 quy định rõ việc bổ nhiệm vào ngạch Chấp hành viên phải qua kỳ thi tuyển, trừ các trường hợp bổ nhiệm không qua thi tuyển.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 16,
+      "question": "Đối với Chấp hành viên trong quân đội, ai có trách nhiệm lập danh sách người của đơn vị mình tham dự thi tuyển Chấp hành viên?",
+      "options": [
+        "A. Cục trưởng Cục Thi hành án Bộ Quốc phòng.",
+        "B. Tư lệnh quân khu.",
+        "C. Trưởng Phòng Thi hành án cấp quân khu.",
+        "D. Chủ nhiệm Chính trị quân khu."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 1 Điều 58 quy định Trưởng Phòng Thi hành án cấp quân khu lập danh sách người của đơn vị mình gửi Cục trưởng Cục Thi hành án Bộ Quốc phòng.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 17,
+      "question": "Cơ quan nào có thẩm quyền sơ tuyển đối với những người được đề nghị tham dự thi tuyển Chấp hành viên của Phòng Thi hành án cấp quân khu?",
+      "options": [
+        "A. Trưởng phòng, các Phó trưởng phòng Thi hành án cấp quân khu.",
+        "B. Hội đồng sơ tuyển của Bộ Quốc phòng.",
+        "C. Cục trưởng, các Phó Cục trưởng Cục Thi hành án Bộ Quốc phòng.",
+        "D. Tổng cục thi hành án dân sự."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 3 Điều 58 quy định rõ Cục trưởng, các Phó Cục trưởng Cục Thi hành án Bộ Quốc phòng thực hiện sơ tuyển đối với các trường hợp này.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 18,
+      "question": "Thành phần nào không có trong Hội đồng tuyển chọn Chấp hành viên không qua thi tuyển được thành lập ở cấp tỉnh?",
+      "options": [
+        "A. Cục trưởng Cục thi hành án dân sự.",
+        "B. Đại diện lãnh đạo Sở Nội vụ.",
+        "C. Thường trực Ban Chấp hành Hội Luật gia cấp tỉnh.",
+        "D. Đại diện lãnh đạo Viện Kiểm sát nhân dân cấp tỉnh."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 4 Điều 63 liệt kê thành phần Hội đồng gồm đại diện UBND, Cục THADS, Sở Nội vụ, Sở Tư pháp, Hội Luật gia nhưng không có đại diện Viện Kiểm sát.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 19,
+      "question": "Trong trường hợp nào, người không phải là công chức có thể tham gia thi tuyển Chấp hành viên?",
+      "options": [
+        "A. Khi Bộ Tư pháp có quy định về điều kiện, việc sơ tuyển, hồ sơ thi tuyển.",
+        "B. Không có trường hợp nào, chỉ công chức mới được dự thi.",
+        "C. Khi có ít nhất 5 năm kinh nghiệm làm luật sư.",
+        "D. Chỉ áp dụng cho các địa bàn biên giới, hải đảo."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 4 Điều 58 giao Bộ Tư pháp quy định cụ thể về việc người không phải là công chức tham gia thi tuyển, cho thấy khả năng này là có.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 20,
+      "question": "Chủ thể nào có thẩm quyền quy định mã số, tiêu chuẩn chuyên môn nghiệp vụ và xếp lương đối với các ngạch Chấp hành viên?",
+      "options": [
+        "A. Bộ trưởng Bộ Tài chính.",
+        "B. Chính phủ.",
+        "C. Bộ trưởng Bộ Tư pháp sau khi có ý kiến thống nhất của Bộ Nội vụ.",
+        "D. Bộ trưởng Bộ Nội vụ sau khi có ý kiến thống nhất của Bộ Tư pháp."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Khoản 3 Điều 56 quy định rõ thẩm quyền này thuộc về Bộ trưởng Bộ Tư pháp và cần có sự thống nhất ý kiến của Bộ Nội vụ.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 21,
+      "question": "Hồ sơ đề nghị tham dự thi tuyển Chấp hành viên, ngoài đơn tham dự thi, còn phải có văn bản nào?",
+      "options": [
+        "A. Văn bản đề nghị của Cục trưởng Cục thi hành án dân sự hoặc Cục trưởng Cục Thi hành án Bộ Quốc phòng.",
+        "B. Văn bản đồng ý của Chi cục trưởng Chi cục thi hành án dân sự.",
+        "C. Báo cáo thành tích công tác.",
+        "D. Văn bản giới thiệu của tổ chức Đảng tại đơn vị."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 59 quy định hồ sơ gồm hai thành phần: Đơn tham dự thi và Văn bản đề nghị của người đứng đầu cơ quan có thẩm quyền.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 22,
+      "question": "Hội đồng thi tuyển Chấp hành viên sơ cấp có nhiệm vụ thành lập các ban nào để phục vụ kỳ thi?",
+      "options": [
+        "A. Ban coi thi, Ban chấm thi.",
+        "B. Ban đề thi, Ban phúc khảo.",
+        "C. Ban coi thi, Ban giám sát.",
+        "D. Ban tổ chức, Ban an ninh."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điểm b Khoản 2 Điều 61 quy định Hội đồng có nhiệm vụ 'thành lập Ban coi thi, Ban chấm thi'.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 23,
+      "question": "Việc tuyển chọn Chấp hành viên không qua thi tuyển áp dụng cho cơ quan thi hành án dân sự cấp huyện có hệ số phụ cấp khu vực từ bao nhiêu trở lên?",
+      "options": [
+        "A. Bất kỳ hệ số phụ cấp nào, miễn là thuộc vùng đặc biệt khó khăn.",
+        "B. 0,3 trở lên.",
+        "C. 0,7 trở lên.",
+        "D. 0,5 trở lên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điểm a Khoản 1 Điều 63 quy định rõ điều kiện là 'có hệ số phụ cấp khu vực từ 0,3 trở lên'.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 24,
+      "question": "Thành viên nào giữ vai trò thư ký giúp việc cho Hội đồng tuyển chọn Chấp hành viên không qua thi tuyển ở cấp tỉnh?",
+      "options": [
+        "A. Trưởng Phòng Tổ chức cán bộ Cục thi hành án dân sự.",
+        "B. Chánh Văn phòng Cục thi hành án dân sự.",
+        "C. Một chuyên viên của Sở Nội vụ.",
+        "D. Chánh Văn phòng Ủy ban nhân dân cấp tỉnh."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 4 Điều 63 quy định: 'thư ký giúp việc là Trưởng Phòng Tổ chức cán bộ Cục thi hành án dân sự'.",
+      "topic": "Chấp hành viên"
+    },
+    {
+      "id": 25,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), Thẩm tra viên trong quân đội là những đối tượng nào?",
+      "options": [
+        "A. Sĩ quan và quân nhân chuyên nghiệp trong Quân đội nhân dân Việt Nam.",
+        "B. Hạ sĩ quan và quân nhân chuyên nghiệp.",
+        "C. Công chức quốc phòng và quân nhân chuyên nghiệp.",
+        "D. Sĩ quan và công chức quốc phòng."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 66, Khoản 2 nêu rõ: \"Thẩm tra viên trong quân đội là sĩ quan và quân nhân chuyên nghiệp trong Quân đội nhân dân Việt Nam.\"",
+      "topic": "Thẩm tra viên"
+    },
+    {
+      "id": 26,
+      "question": "Cơ quan nào có thẩm quyền quy định mã số, tiêu chuẩn chuyên môn nghiệp vụ và xếp lương đối với các ngạch Thẩm tra viên sau khi có ý kiến thống nhất của Bộ Nội vụ?",
+      "options": [
+        "A. Bộ trưởng Bộ Tư pháp.",
+        "B. Chính phủ.",
+        "C. Tổng cục Thi hành án dân sự.",
+        "D. Bộ Nội vụ."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 66, Khoản 3 quy định: \"Bộ trưởng Bộ Tư pháp quy định mã số, tiêu chuẩn chuyên môn nghiệp vụ và xếp lương đối với các ngạch Thẩm tra viên sau khi có ý kiến thống nhất của Bộ Nội vụ.\"",
+      "topic": "Thẩm tra viên"
+    },
+    {
+      "id": 27,
+      "question": "Một trong những nhiệm vụ của Thẩm tra viên theo quy định tại Điều 67 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung) là gì?",
+      "options": [
+        "A. Bổ nhiệm, miễn nhiệm Chấp hành viên.",
+        "B. Ra quyết định thi hành án đối với các vụ việc phức tạp.",
+        "C. Trực tiếp tổ chức cưỡng chế thi hành án.",
+        "D. Tham mưu cho Thủ trưởng cơ quan trả lời kháng nghị, kiến nghị của Viện Kiểm sát nhân dân theo thẩm quyền."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 67, Khoản 3 nêu rõ nhiệm vụ này của Thẩm tra viên.",
+      "topic": "Thẩm tra viên"
+    },
+    {
+      "id": 28,
+      "question": "Hành vi nào sau đây Thẩm tra viên không được làm theo quy định tại Điều 68 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Đề xuất biện pháp giải quyết các vụ việc thi hành án đã và đang thi hành.",
+        "B. Tiết lộ, cung cấp thông tin, tài liệu thẩm tra, kiểm tra cho những người không có trách nhiệm khi chưa có kết luận.",
+        "C. Lập kế hoạch thẩm tra, xác minh các vụ việc có đơn thư khiếu nại, tố cáo.",
+        "D. Phối hợp với các cơ quan có liên quan để xác minh, kiểm tra theo nhiệm vụ được phân công."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 68, Khoản 3, Điểm e nghiêm cấm hành vi này để đảm bảo tính bảo mật và khách quan của quá trình thẩm tra.",
+      "topic": "Thẩm tra viên"
+    },
+    {
+      "id": 29,
+      "question": "Thẩm tra viên không được tham gia thẩm tra, kiểm tra trong trường hợp liên quan trực tiếp đến quyền lợi, nghĩa vụ của đối tượng nào sau đây?",
+      "options": [
+        "A. Đồng nghiệp cũ tại cơ quan trước đây.",
+        "B. Cháu ruột mà Thẩm tra viên là ông, bà, bác, chú, cậu, cô, dì.",
+        "C. Hàng xóm hoặc bạn bè thân thiết.",
+        "D. Người có mâu thuẫn cá nhân với Thẩm tra viên."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 68, Khoản 4, Điểm c quy định rõ đây là trường hợp Thẩm tra viên phải từ chối tham gia thẩm tra để đảm bảo tính khách quan.",
+      "topic": "Thẩm tra viên"
+    },
+    {
+      "id": 30,
+      "question": "Cơ quan nào tổ chức Hội đồng xét, duyệt những người đủ điều kiện, đề nghị Bộ trưởng Bộ Tư pháp bổ nhiệm Thẩm tra viên trong quân đội?",
+      "options": [
+        "A. Tổng cục Thi hành án dân sự.",
+        "B. Cục Thi hành án Bộ Quốc phòng.",
+        "C. Bộ Tư pháp.",
+        "D. Bộ Quốc phòng."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 69, Khoản 2 quy định: \"Bộ Quốc phòng tổ chức Hội đồng xét, duyệt những người đủ điều kiện, đề nghị Bộ trưởng Bộ Tư pháp bổ nhiệm Thẩm tra viên trong quân đội.\"",
+      "topic": "Thẩm tra viên"
+    },
+    {
+      "id": 31,
+      "question": "Chủ thể nào có thẩm quyền quyết định điều động, luân chuyển, biệt phái Chấp hành viên, Thẩm tra viên từ tỉnh này sang tỉnh khác?",
+      "options": [
+        "A. Vụ trưởng Vụ Tổ chức cán bộ, Bộ Tư pháp.",
+        "B. Tổng Cục trưởng Tổng cục thi hành án dân sự.",
+        "C. Cục trưởng Cục thi hành án dân sự.",
+        "D. Bộ trưởng Bộ Tư pháp."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 70, Khoản 1, Điểm b quy định đây là thẩm quyền của Tổng Cục trưởng Tổng cục thi hành án dân sự.",
+      "topic": "Điều động, luân chuyển, biệt phái"
+    },
+    {
+      "id": 32,
+      "question": "Cục trưởng Cục thi hành án dân sự có thẩm quyền quyết định điều động, luân chuyển, biệt phái Chấp hành viên, Thẩm tra viên trong phạm vi nào?",
+      "options": [
+        "A. Từ tỉnh này sang tỉnh khác.",
+        "B. Từ cơ quan thi hành án dân sự sang cơ quan quản lý thi hành án dân sự cấp trên.",
+        "C. Trên phạm vi toàn quốc theo ủy quyền của Bộ trưởng.",
+        "D. Trong địa bàn do mình quản lý."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 70, Khoản 1, Điểm c nêu rõ: \"Cục trưởng Cục thi hành án dân sự quyết định điều động, luân chuyển, biệt phái Chấp hành viên, Thẩm tra viên trong địa bàn do mình quản lý.\"",
+      "topic": "Điều động, luân chuyển, biệt phái"
+    },
+    {
+      "id": 33,
+      "question": "Theo quy định tại Điều 70 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), trình tự, thủ tục điều động Chấp hành viên cơ quan thi hành án cấp quân khu thực hiện theo quy định của cơ quan nào?",
+      "options": [
+        "A. Bộ Tư pháp.",
+        "B. Tổng cục Thi hành án dân sự.",
+        "C. Pháp luật về cán bộ, công chức nói chung.",
+        "D. Bộ Quốc phòng."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 70, Khoản 2 quy định: \"...đối với Chấp hành viên cơ quan thi hành án cấp quân khu, Thẩm tra viên trong quân đội thực hiện theo quy định của Bộ Quốc phòng.\"",
+      "topic": "Điều động, luân chuyển, biệt phái"
+    },
+    {
+      "id": 34,
+      "question": "Thư ký thi hành án có trách nhiệm chính là gì?",
+      "options": [
+        "A. Quyết định áp dụng các biện pháp cưỡng chế thi hành án.",
+        "B. Giúp Chấp hành viên thực hiện các trình tự, thủ tục thi hành án dân sự.",
+        "C. Thẩm tra, xác minh các vụ việc có khiếu nại, tố cáo.",
+        "D. Ký các văn bản, quyết định về thi hành án."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 71, Khoản 1 định nghĩa rõ trách nhiệm của Thư ký thi hành án là giúp Chấp hành viên và Thẩm tra viên thực hiện nhiệm vụ.",
+      "topic": "Thư ký thi hành án"
+    },
+    {
+      "id": 35,
+      "question": "Cơ quan nào quy định tiêu chuẩn, điều kiện, quy trình, thủ tục bổ nhiệm, miễn nhiệm Thư ký thi hành án trong quân đội?",
+      "options": [
+        "A. Chính phủ.",
+        "B. Bộ trưởng Bộ Tư pháp.",
+        "C. Bộ trưởng Bộ Quốc phòng.",
+        "D. Tổng Cục trưởng Tổng cục thi hành án dân sự."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 71, Khoản 3 quy định: \"Việc quy định tiêu chuẩn, điều kiện, quy trình, thủ tục bổ nhiệm, miễn nhiệm Thư ký thi hành án trong quân đội do Bộ trưởng Bộ Quốc phòng quy định.\"",
+      "topic": "Thư ký thi hành án"
+    },
+    {
+      "id": 36,
+      "question": "Một trong những tiêu chuẩn để được bổ nhiệm Chi Cục trưởng Chi cục thi hành án dân sự là gì?",
+      "options": [
+        "A. Là Chấp hành viên sơ cấp trở lên.",
+        "B. Phải là Chấp hành viên trung cấp trở lên.",
+        "C. Có ít nhất 10 năm kinh nghiệm công tác trong ngành.",
+        "D. Có bằng Thạc sĩ Luật trở lên."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 72, Khoản 1, Điểm a quy định rõ tiêu chuẩn này đối với Chi Cục trưởng, Phó Chi cục trưởng Chi cục thi hành án dân sự.",
+      "topic": "Thủ trưởng cơ quan thi hành án"
+    },
+    {
+      "id": 37,
+      "question": "Một trong những tiêu chuẩn để được bổ nhiệm Chi Cục trưởng Chi cục thi hành án dân sự là gì?",
+      "options": [
+        "A. Là Chấp hành viên sơ cấp trở lên.",
+        "B. Phải là Chấp hành viên trung cấp trở lên.",
+        "C. Có ít nhất 10 năm kinh nghiệm công tác trong ngành.",
+        "D. Có bằng Thạc sĩ Luật trở lên."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 72, Khoản 1, Điểm a quy định rõ tiêu chuẩn này đối với Chi Cục trưởng, Phó Chi cục trưởng Chi cục thi hành án dân sự.",
+      "topic": "Thủ trưởng cơ quan thi hành án"
+    },
+    {
+      "id": 38,
+      "question": "Niên hạn cấp phát đối với quần áo thu đông mặc ngoài của người làm công tác thi hành án dân sự là bao nhiêu lâu?",
+      "options": [
+        "A. 01 bộ 02 năm.",
+        "B. 02 bộ 03 năm.",
+        "C. 01 bộ 05 năm.",
+        "D. 01 bộ 03 năm."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điểm a, khoản 1, Điều 83 quy định rõ niên hạn cấp phát quần áo thu đông mặc ngoài là 01 bộ trong 03 năm.",
+      "topic": "Trang phục, phù hiệu"
+    },
+    {
+      "id": 39,
+      "question": "Theo quy định tại Điều 72 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), Cục trưởng, Phó Cục trưởng Cục thi hành án dân sự phải là Chấp hành viên từ ngạch nào trở lên?",
+      "options": [
+        "A. Chấp hành viên trung cấp.",
+        "B. Chấp hành viên sơ cấp.",
+        "C. Không quy định ngạch Chấp hành viên cụ thể.",
+        "D. Chấp hành viên cao cấp."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 72, Khoản 2, Điểm a quy định: \"Là Chấp hành viên trung cấp trở lên\".",
+      "topic": "Thủ trưởng cơ quan thi hành án"
+    },
+    {
+      "id": 40,
+      "question": "Chủ thể nào có thẩm quyền bổ nhiệm, bổ nhiệm lại, luân chuyển, miễn nhiệm, cho từ chức, giáng chức, cách chức Cục trưởng Cục thi hành án dân sự?",
+      "options": [
+        "A. Tổng Cục trưởng Tổng cục thi hành án dân sự.",
+        "B. Chủ tịch Ủy ban nhân dân cấp tỉnh.",
+        "C. Thủ tướng Chính phủ.",
+        "D. Bộ trưởng Bộ Tư pháp."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 72, Khoản 3 nêu rõ: \"Bộ trưởng Bộ Tư pháp bổ nhiệm, bổ nhiệm lại, luân chuyển, miễn nhiệm, cho từ chức, giáng chức, cách chức Cục trưởng Cục thi hành án dân sự.\"",
+      "topic": "Thủ trưởng cơ quan thi hành án"
+    },
+    {
+      "id": 41,
+      "question": "Thẩm tra viên có nhiệm vụ giúp đỡ những ai thực hiện nhiệm vụ theo quy định tại Điều 66 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Thủ trưởng cơ quan quản lý thi hành án dân sự và cơ quan thi hành án dân sự.",
+        "B. Tòa án nhân dân và Viện kiểm sát nhân dân.",
+        "C. Chỉ giúp Thủ trưởng cơ quan thi hành án dân sự.",
+        "D. Chỉ giúp các Chấp hành viên trong quá trình thi hành án."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 66, Khoản 1 nêu rõ Thẩm tra viên có nhiệm vụ giúp Thủ trưởng cơ quan quản lý thi hành án dân sự, cơ quan thi hành án dân sự và các cơ quan tương đương trong quân đội.",
+      "topic": "Thẩm tra viên"
+    },
+    {
+      "id": 42,
+      "question": "Hành vi nào sau đây bị coi là vi phạm trách nhiệm của Thẩm tra viên theo Điều 68 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung)?",
+      "options": [
+        "A. Yêu cầu đối tượng thẩm tra cung cấp hồ sơ, tài liệu liên quan.",
+        "B. Thẩm tra, kiểm tra khi có quyết định phân công của người có thẩm quyền.",
+        "C. Thông đồng với đối tượng thẩm tra để làm sai lệch kết quả.",
+        "D. Đề xuất biện pháp giải quyết theo nhiệm vụ được phân công."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 68, Khoản 3, Điểm b nghiêm cấm hành vi thông đồng, đây là một vi phạm nghiêm trọng về đạo đức công vụ.",
+      "topic": "Thẩm tra viên"
+    },
+    {
+      "id": 43,
+      "question": "Trường hợp nào sau đây Thẩm tra viên không phải từ chối tham gia thẩm tra, kiểm tra?",
+      "options": [
+        "A. Liên quan đến quyền lợi của con nuôi của Thẩm tra viên.",
+        "B. Liên quan đến quyền lợi của anh, chị, em ruột của vợ hoặc chồng của Thẩm tra viên.",
+        "C. Liên quan đến quyền lợi của vợ hoặc chồng của Thẩm tra viên.",
+        "D. Liên quan đến quyền lợi của người là anh, chị em họ của Thẩm tra viên."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Khoản 4, Điều 68 liệt kê các mối quan hệ cụ thể phải từ chối, và không bao gồm anh, chị em họ.",
+      "topic": "Thẩm tra viên"
+    },
+    {
+      "id": 44,
+      "question": "Thẩm quyền quyết định biệt phái Chấp hành viên đang giữ chức vụ Phó Cục trưởng Cục thi hành án dân sự thuộc về chủ thể nào?",
+      "options": [
+        "A. Hội đồng nhân dân cấp tỉnh.",
+        "B. Bộ trưởng Bộ Tư pháp.",
+        "C. Tổng Cục trưởng Tổng cục thi hành án dân sự.",
+        "D. Cục trưởng Cục thi hành án dân sự nơi Chấp hành viên công tác."
+      ],
+      "correct": 2,
+      "rationale": "Giải thích: Điều 70, Khoản 1, Điểm b quy định rõ thẩm quyền này thuộc về Tổng Cục trưởng Tổng cục thi hành án dân sự.",
+      "topic": "Điều động, luân chuyển, biệt phái"
+    },
+    {
+      "id": 45,
+      "question": "Theo Điều 71 Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), Thư ký thi hành án có thể giúp Thẩm tra viên thực hiện nhiệm vụ gì?",
+      "options": [
+        "A. Ký kết luận thẩm tra.",
+        "B. Thực hiện nhiệm vụ thẩm tra.",
+        "C. Quyết định thay đổi Thẩm tra viên.",
+        "D. Trả lời kháng nghị của Viện kiểm sát."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 71, Khoản 1 nêu rõ Thư ký thi hành án có trách nhiệm \"giúp Thẩm tra viên, Thẩm tra viên chính, Thẩm tra viên cao cấp thực hiện nhiệm vụ thẩm tra theo quy định của pháp luật\".",
+      "topic": "Thư ký thi hành án"
+    },
+    {
+      "id": 46,
+      "question": "Việc bổ nhiệm, bổ nhiệm lại Phó Chi cục trưởng Chi cục thi hành án dân sự thực hiện theo văn bản nào?",
+      "options": [
+        "A. Theo quyết định của Chủ tịch Ủy ban nhân dân cấp huyện.",
+        "B. Theo đề nghị của Hội đồng nhân dân cùng cấp.",
+        "C. Theo quyết định trực tiếp của Bộ trưởng Bộ Tư pháp.",
+        "D. Theo phân cấp của Bộ trưởng Bộ Tư pháp."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 72, Khoản 3 quy định việc này \"thực hiện theo phân cấp của Bộ trưởng Bộ Tư pháp\", thường là giao cho Cục trưởng Cục THADS.",
+      "topic": "Thủ trưởng cơ quan thi hành án"
+    },
+    {
+      "id": 47,
+      "question": "Cơ quan nào quy định tiêu chuẩn, thủ tục bổ nhiệm Thủ trưởng, Phó Thủ trưởng cơ quan thi hành án cấp quân khu?",
+      "options": [
+        "A. Bộ trưởng Bộ Quốc phòng.",
+        "B. Tổng Cục trưởng Tổng cục thi hành án dân sự.",
+        "C. Bộ trưởng Bộ Tư pháp.",
+        "D. Tư lệnh quân khu."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 72, Khoản 5 quy định rõ: \"Bộ trưởng Bộ Quốc phòng quy định tiêu chuẩn, thủ tục bổ nhiệm, bổ nhiệm lại, luân chuyển, miễn nhiệm, thôi giữ chức, cách chức Thủ trưởng, Phó Thủ trưởng cơ quan thi hành án cấp quân khu.\"",
+      "topic": "Thủ trưởng cơ quan thi hành án"
+    },
+    {
+      "id": 48,
+      "question": "Ngoài các tiêu chuẩn chung về phẩm chất và năng lực, một trong những tiêu chuẩn bắt buộc đối với Cục trưởng, Phó Cục trưởng Cục thi hành án dân sự là gì?",
+      "options": [
+        "A. Phải là người địa phương nơi Cục thi hành án dân sự đặt trụ sở.",
+        "B. Có kinh nghiệm thực tiễn về thi hành án dân sự.",
+        "C. Phải từng là Thẩm phán hoặc Kiểm sát viên.",
+        "D. Phải có bằng tiến sĩ luật học."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 72, Khoản 2, Điểm c quy định đây là một trong những tiêu chuẩn cần có.",
+      "topic": "Thủ trưởng cơ quan thi hành án"
+    },
+    {
+      "id": 49,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), cơ quan nào có thẩm quyền cấp thẻ Chấp hành viên, Thẩm tra viên?",
+      "options": [
+        "A. Tổng cục Thi hành án dân sự.",
+        "B. Bộ Tư pháp.",
+        "C. Bộ Nội vụ.",
+        "D. Cục Thi hành án dân sự cấp tỉnh."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Điều 73, khoản 2 của Nghị định quy định rõ rằng thẻ Chấp hành viên và Thẩm tra viên là do Bộ Tư pháp cấp.",
+      "topic": "Thẻ Chấp hành viên, Thẩm tra viên"
+    },
+    {
+      "id": 50,
+      "question": "Trong trường hợp Chấp hành viên hoặc Thẩm tra viên làm mất thẻ, họ phải báo cáo ngay cho cơ quan nào?",
+      "options": [
+        "A. Tổng cục Thi hành án dân sự để được cấp lại.",
+        "B. Chỉ cần báo cáo cho Thủ trưởng cơ quan thi hành án nơi công tác.",
+        "C. Chỉ cần báo cáo cho cơ quan công an gần nhất.",
+        "D. Cơ quan công an gần nhất và cơ quan thi hành án nơi người đó công tác."
+      ],
+      "correct": 3,
+      "rationale": "Giải thích: Điều 73, khoản 1 quy định rõ, khi làm mất thẻ, phải báo cáo ngay cho cả cơ quan công an gần nhất và cơ quan thi hành án nơi người đó công tác.",
+      "topic": "Thẻ Chấp hành viên, Thẩm tra viên"
+    },
+    {
+      "id": 51,
+      "question": "Loại công cụ hỗ trợ nào sau đây không thuộc danh mục được trang bị, sử dụng trong thi hành án dân sự theo quy định?",
+      "options": [
+        "A. Các loại súng quân dụng và vũ khí thô sơ.",
+        "B. Các loại phương tiện xịt hơi cay, chất gây mê.",
+        "C. Các loại súng dùng để bắn đạn nhựa, đạn cao su, hơi cay.",
+        "D. Các loại dùi cui điện, dùi cui cao su, găng tay điện."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Điều 74 chỉ liệt kê các loại công cụ hỗ trợ cụ thể như súng bắn đạn cao su, hơi cay, không bao gồm súng quân dụng và vũ khí thô sơ.",
+      "topic": "Công cụ hỗ trợ"
+    },
+    {
+      "id": 52,
+      "question": "Hàng năm, chủ thể nào có trách nhiệm lập kế hoạch trang bị công cụ hỗ trợ cho cơ quan thi hành án dân sự thuộc quyền quản lý?",
+      "options": [
+        "A. Bộ trưởng Bộ Tư pháp.",
+        "B. Cục trưởng Cục thi hành án dân sự.",
+        "C. Thủ trưởng cơ quan thi hành án dân sự.",
+        "D. Tổng Cục trưởng Tổng cục thi hành án dân sự."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Theo khoản 1, Điều 75, Cục trưởng Cục thi hành án dân sự lập kế hoạch trang bị công cụ hỗ trợ cho các cơ quan thuộc quyền quản lý và trình lên cấp trên.",
+      "topic": "Công cụ hỗ trợ"
+    },
+    {
+      "id": 53,
+      "question": "Việc trang bị, mua, vận chuyển, sửa chữa, quản lý công cụ hỗ trợ thi hành án đối với Phòng thi hành án cấp quân khu thực hiện theo quy định của cơ quan nào?",
+      "options": [
+        "A. Tổng cục Thi hành án dân sự.",
+        "B. Bộ Quốc phòng.",
+        "C. Bộ Tư pháp.",
+        "D. Bộ Công an."
+      ],
+      "correct": 1,
+      "rationale": "Giải thích: Khoản 2, Điều 76 quy định rõ các hoạt động liên quan đến công cụ hỗ trợ của Phòng thi hành án cấp quân khu do Bộ Quốc phòng quy định.",
+      "topic": "Công cụ hỗ trợ"
+    },
+    {
+      "id": 54,
+      "question": "Theo Nghị định số 62/2015/NĐ-CP ngày 18/7/2015 của Chính phủ (đã sửa đổi, bổ sung), Thư ký thi hành án được xếp lương công chức loại nào trong bảng lương chuyên môn nghiệp vụ đối với cán bộ, công chức trong các cơ quan nhà nước?",
+      "options": [
+        "A. Loại A1.",
+        "B. Loại A3.",
+        "C. Loại A0.",
+        "D. Loại A2."
+      ],
+      "correct": 0,
+      "rationale": "Giải thích: Khoản 2, Điều 78 nêu rõ Thư ký thi hành án xếp lương công chức loại A1 bảng lương chuyên môn nghiệp vụ.",
+      "topic": "Chế độ chính sách"
+    }
+  ]
 }
 ]
